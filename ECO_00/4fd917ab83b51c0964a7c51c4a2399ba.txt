@@ -1,0 +1,1 @@
+Tous les éléments cités font partis du même package et sont liés.

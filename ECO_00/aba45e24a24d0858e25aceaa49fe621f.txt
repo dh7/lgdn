@@ -1,0 +1,1 @@
+les 4 choix sont tous imbriqués et ne sauraient être classés par priorités car ils sont interdépendants 

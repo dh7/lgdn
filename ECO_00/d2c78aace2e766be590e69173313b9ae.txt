@@ -1,0 +1,1 @@
+L'ensemble des points doit être traités en simultanés étant liés les uns aux autres.
