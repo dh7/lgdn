@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <title>deck.gl ScatterplotLayer Example</title>
+
+    <script src="https://unpkg.com/deck.gl@^6.0.0/deckgl.min.js"></script>
+    <script type="text/javascript" src="ECO/questions.js"></script>
+
+    <style type="text/css">
+        body {
+            width: 100vw;
+            height: 100vh;
+            margin: 0;
+            background: rgba(0, 0, 0, 1);
+         }
+        p {
+            font-size: large;
+            font-family: 'arial';
+            color: #fff;
+        }
+        .tip {
+            line-height: 1;
+            //font-weight: bold;
+            font-size: small;
+            font-family: 'arial';
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 2px;
+            position: absolute; z-index: 1;
+            pointer-events: none;
+        }
+    </style>
+
+  </head>
+
+  <body>
+      <p>Toutes les r&eacute;ponses du grand d&eacute;bat</p>
+      <div id="tooltip" class="tip"></div>
+      <canvas id="deck-canvas"></canvas>
+  </body>
+
+  <script type="text/javascript">
+
+    const {DeckGL, ScatterplotLayer} = deck;
+
+    function color(object) {
+        x = object.c / 500 * 255
+        //return [0, x, 255-x/2]
+        return [50, x, 255-x]
+        //return [50, 250, 255]
+    }
+    
+    const controller = new AbortController()
+    const signal = controller.signal
+    
+    function setTooltip(object, x, y) {
+      const el = document.getElementById('tooltip');
+      if (object) {
+        el.style.display = 'block';
+        el.style.left = x+10;
+        el.style.top = y-10;
+        fetch('ECO_00/'+object.h+'.txt', {
+                signal: signal,
+            }).then(function(response) {
+                return response.text()
+          })
+          .then(text => {
+            //el.innerHTML = object.formattedValue;
+            if (object.n>1) {text = object.n + ' personnes ont r&eacute;pondu: ' + text}
+            el.innerHTML = '<b>' + questions[0] +'</b><br>'+ text
+
+          })
+          .catch(err => {
+            // Do something for an error here
+            console.log(err)
+          })
+      } else {
+        //controller.abort()
+        el.style.display = 'none';
+      }
+    }
+
+    new DeckGL({
+      longitude: 0,
+      latitude: 0,
+      zoom: 3,
+      maxZoom: 5,
+      layers: [
+        new ScatterplotLayer({
+          id: 'scatter-plot',
+          data: 'ECO_00/lgd_ecologie_07.json',
+          opacity: 0.1,
+          pickable: true,
+          radiusScale: 500,
+          radiusMinPixels: 5,
+          //getRadius: d => Math.sqrt(d.n),
+          getPosition: d => [d.x*2, d.y*2, 0],
+          getColor: d => color(d),
+          onHover: d => setTooltip(d.object, d.x, d.y)
+        })
+      ]
+    });
+
+  </script>
+</html>
