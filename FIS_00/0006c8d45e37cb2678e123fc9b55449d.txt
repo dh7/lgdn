@@ -1,0 +1,1 @@
+Créer un site internet permettant de lister toutes les recettes et toutes les dépenses par grands postes; et mettant en évidence des postes sensibles comme les pertes liées à l'optimisation fiscale par exemple..

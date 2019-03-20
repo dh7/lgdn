@@ -1,0 +1,1 @@
+Créer un site consultable par tous, permettant en temps réels de voir comment l'argent est réparti (sous forme de pourcentage et de montant)

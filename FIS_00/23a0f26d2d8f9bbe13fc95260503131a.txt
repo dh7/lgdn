@@ -1,0 +1,1 @@
+Publier de manière synthétique le budget de l'état (avec un historique)

@@ -1,0 +1,1 @@
+Au moment de remplir la déclaration d'impôt avoir un graphique de répartition de son impôt en fonction des différentes répartition de L’État. par exemple pour un montant X d'impôt dire que y% va à l'éducation nationale, z% à la santé... Rappeler lors d'une communication de fin d'année le bilan des réalisations dans les différents secteurs qui ont été réalisé grâce aux impôts.

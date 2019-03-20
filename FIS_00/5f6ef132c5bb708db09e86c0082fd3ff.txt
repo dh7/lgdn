@@ -1,0 +1,1 @@
+Tableau récapitulant la somme dépensée par citoyen et par rubrique.

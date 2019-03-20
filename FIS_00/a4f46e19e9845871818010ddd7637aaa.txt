@@ -1,0 +1,1 @@
+Création d'un site internet permettant à chaque citoyen d'avoir accès à ces données. Les informations transmises devront être destinées à un public peu averti des règles de gestion comptable.

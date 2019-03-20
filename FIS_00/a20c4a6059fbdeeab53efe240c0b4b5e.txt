@@ -1,0 +1,1 @@
+Adapter les prélèvements sur les fermages en fonction des revenus de l'ayant droit

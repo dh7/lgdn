@@ -1,0 +1,1 @@
+Mettre en ligne publiquement un compte rendu du budget de la France en indiquant tout simplement  une colonne "recettes" et une colonne "dépenses" ou plutôt une colonne "credit" et une colonne "débit". Cela permettrait de mettre fin aux dépenses inutiles

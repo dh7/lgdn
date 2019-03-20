@@ -1,0 +1,1 @@
+chaque taxe doit déterminer exactement ce qu’elle finance. Ligne par ligne.

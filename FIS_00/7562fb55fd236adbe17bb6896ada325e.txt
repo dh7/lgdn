@@ -1,0 +1,1 @@
+Cree une messagerie individuelle entre le citoyen et l'etat en lien avec son numero de sécurité  sociale. Afin de rassembler toutes les informations, les demandes d'informations, les consultations nationals departementales ou locals,les service de l'etat. Informer sur les inisiatives ou rdv citoyens locaux

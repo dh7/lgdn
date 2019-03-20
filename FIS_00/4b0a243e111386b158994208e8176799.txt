@@ -1,0 +1,1 @@
+Faire une simulation sous forme de diagramme circulaire simplifié (pas que des sigles ) pour montrer toutes les impôts qui nous sont prélevés.

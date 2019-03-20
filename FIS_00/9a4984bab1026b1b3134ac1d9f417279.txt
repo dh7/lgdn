@@ -1,0 +1,1 @@
+envoyer un graphique a chaque foyer fiscal montrant le montant de la dette, le coût de celle ci, le déficit public, le coût du déficit commercial

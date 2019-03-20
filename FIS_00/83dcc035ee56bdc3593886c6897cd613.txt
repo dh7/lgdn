@@ -1,0 +1,1 @@
+Réaliser un tableau des sommes (montant et pourcentage) attribuées aux bénéficiaires, semestriel, à publier sur les médias.

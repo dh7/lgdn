@@ -1,0 +1,1 @@
+Afficher les dépenses non par groupe de dépenses mais détaillé ligne par ligne

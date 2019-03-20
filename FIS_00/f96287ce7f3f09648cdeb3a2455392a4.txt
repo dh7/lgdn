@@ -1,0 +1,1 @@
+Tracer les différents impôts, taxes, cotisations sociales  et déductions fiscales et sur le site impôts.gouv donner ces information en comparant l'évolution sur 5 ans  glissant et en évaluant l'efficacité avec des smileys (vert, jaune orange et rouge)

@@ -1,0 +1,1 @@
+un site de consultation simple : une dépense = un montant

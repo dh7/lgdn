@@ -1,0 +1,1 @@
+Fournir un détail personnalisé annuel des impots dépensés pour chaque citoyens (santé, aménagement par subvention au territoire, éducation, sécurité, ...) . La CPAM pourrait fournir le détail pour chaque personne concernant ses actes de santé, de même pour les collectivités sur les impots locaux par exemple

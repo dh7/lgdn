@@ -1,0 +1,1 @@
+Produire un rapport simplifié des dépenses et recettes de l’Etat.

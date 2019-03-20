@@ -1,0 +1,1 @@
+Recevoir un bilan annuel par foyer avec "Cette année, la France a payé pour vous..." et le détail, par exemple "pour votre santé, total des remboursements sécu", "total des allocations perçues", "pour la cantine de vos enfants, xx€", ce qui permettrait de voir toutes les dépenses auxquelles son échappe car payées par l'Etat (ou la Commune, le Département, etc) et non "gratuites"

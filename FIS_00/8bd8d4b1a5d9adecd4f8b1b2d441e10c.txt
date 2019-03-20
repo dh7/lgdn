@@ -1,0 +1,1 @@
+Informer sur la destination des impôts (exemple : x millions pour telle chose) en donnant un tableau exhaustif

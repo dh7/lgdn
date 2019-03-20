@@ -1,0 +1,1 @@
+Ne pas multiplier les exceptions de niveaux de taxation en fonction des types de revenus

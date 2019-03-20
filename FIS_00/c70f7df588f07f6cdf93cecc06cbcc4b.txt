@@ -1,0 +1,1 @@
+Créer un site internet qui montre en temps réel où va l'argent des impôts.  Mettre les pourcentages d'utilisation des impôts lors de dépenses publiques (projets, etc.)

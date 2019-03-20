@@ -1,0 +1,1 @@
+Envoyer une facture pour les actes médicaux à l’hôpital avec le vrai prix des soins, et la partie prise en charge par l'état. Cela permettrait à tous de voir tout ce que l'état paie pour nous.

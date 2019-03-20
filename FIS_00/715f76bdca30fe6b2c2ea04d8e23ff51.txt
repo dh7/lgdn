@@ -1,0 +1,1 @@
+Faire un profiling de tous les francais et que l'information arrive au francais, selon le profile

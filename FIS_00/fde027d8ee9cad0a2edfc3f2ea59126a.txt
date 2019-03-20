@@ -1,0 +1,1 @@
+Envoi périodique des relevés/factures à titre indicatif. Affichage public des budget des collectivités.

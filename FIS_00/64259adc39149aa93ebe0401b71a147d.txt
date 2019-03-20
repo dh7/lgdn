@@ -1,0 +1,1 @@
+Joindre à tous les avis d'imposition un tableau de bord simple qui présente sous forme de graphique la répartition de l'impôt.

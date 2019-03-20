@@ -1,0 +1,1 @@
+Un état des recettes et dépenses chiffré par poste (euros et %), simple et compréhensible pour chaque Français et adressé à chacun. (à ce jour quelques infos sur site impôts seulement si on fait la démarche de se renseigner sur le sujet...)

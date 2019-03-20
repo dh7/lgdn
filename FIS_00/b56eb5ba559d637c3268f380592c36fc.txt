@@ -1,0 +1,1 @@
+Faire un site dédié où chaque recette et dépense de chaque collectivité est inscrit et consultable directement : état, régions, départements, communes, associations recevant des subventions , établissements publics (hôpitaux, enseignement,...). Faire chaque année une émission sur un grand compte rendu des comptes de l'état avec motivations et explications.

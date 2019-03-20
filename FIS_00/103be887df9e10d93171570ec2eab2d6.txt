@@ -1,0 +1,1 @@
+fournir le montant par habitant,  avec les pays  comparables (allemagne, angleterre, suede...) des différentes catégories de dépense.

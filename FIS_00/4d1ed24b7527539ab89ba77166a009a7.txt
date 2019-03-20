@@ -1,0 +1,1 @@
+Affichage public des salaires, des dépenses, de la faude

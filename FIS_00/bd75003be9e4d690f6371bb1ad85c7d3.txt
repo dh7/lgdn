@@ -1,0 +1,1 @@
+Un site simple et claire qui, globalement, énumérait les dépenses faites avec les impôts.

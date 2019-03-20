@@ -1,0 +1,1 @@
+Envoyer par email la répartition des différents impôts, recettes et dépenses annuelles sous forme lisible avec des diagrammes ou autre représentation graphique rapidement interpretable et compréhensibles.

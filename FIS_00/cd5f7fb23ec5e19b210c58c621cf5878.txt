@@ -1,0 +1,1 @@
+Mettre à disposition toutes les données (big data) formalisées pour les gros postes de dépenses/recettes et avec comparatif de l'année précédente. Ces données ne doivent pas être noyées dans de multitudes sous-menus. On n'a pas les compétences de l'IFRAP pour fouiller dans les données et sites de références.

@@ -1,0 +1,1 @@
+Afficher ce qu'ils ont payé et le montant des subventions moyennes qu'ils ont touché (routes, écoles, etc.)

@@ -1,0 +1,1 @@
+Créer (s'il n'existe déjà?) un site où les citoyens pourraient voir de manière globale la répartition des dépenses dans le budget de l'état. Faire une campagne d'information sur l'existence de ce site dans les médias.

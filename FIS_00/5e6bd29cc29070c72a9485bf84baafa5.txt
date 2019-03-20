@@ -1,0 +1,1 @@
+afficher le cout des services ramené a un l'utilisateur

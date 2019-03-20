@@ -1,0 +1,1 @@
+Au moment de remplir la déclaration d'impôt, afficher un graphique montrant la répartition de l'impôt sur les différents secteurs publics (exemple: sur X€ d'impôt, y% va à la santé, z% à l'éducation...). Faire un bilan annuel des réalisations de l’État dans les différents secteurs publics pour montrer clairement où vont les impôts.

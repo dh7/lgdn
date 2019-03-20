@@ -1,0 +1,1 @@
+A chaque fois qu'une réalisation est faite, afficher que cela a été payé avec l'argent des impôts (immobilier, mobilier, service rendu, indemnités, salaires, prestations.....). Un courrier récapitulatif pourrait être envoyé à chaque personne ayant touché de l'argent public pour lui dire quel est l'origine de l'argent perçu.

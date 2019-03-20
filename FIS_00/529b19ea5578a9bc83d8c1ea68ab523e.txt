@@ -1,0 +1,1 @@
+Créer un site dédié uniquement aux contributions et dépenses (nosimpots.gouv.fr par exemple). Il y sera annoncé plus clairement les différentes contributions annuelles (TVA, impôt sur le revenu, taxes foncières etc ...) et la répartition des dépenses publiques en chiffres et pourcentages.

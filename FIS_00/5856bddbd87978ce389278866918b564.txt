@@ -1,0 +1,1 @@
+Affecter la totalité du montant d'une taxe fléchée à ce pour quoi  elle a été créée.

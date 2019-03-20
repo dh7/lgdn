@@ -1,0 +1,1 @@
+donner la décomposition en principaux postes de l'impôt sur le revenu. indiquer quel est l'impôt moyen payé par ceux qui paient l'impôt ; ainsi tous ceux qui ne paient pas du tout ou paient moins que la moyenne comprennent qu'ils bénéficient de l'action solidaire

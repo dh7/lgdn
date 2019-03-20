@@ -1,0 +1,1 @@
+Chaque bâtiment public devrait afficher sur un tableau électronique (pour mise à jour régulière) sur sa façade le coût du service rendu. Il faut que chaque citoyen redonne de la valeur à notre système basé sur la solidarité, ce n'est pas gratuit, c'est parce que chacun contribue à hauteur de ses possibilités que l'on peut avoir accès à ce service public.

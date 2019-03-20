@@ -1,0 +1,1 @@
+Facturer tous les services (exemple hospitalisation) et le remboursement de l'état (pas inscrire sécurité sociale mais participation de l'état)

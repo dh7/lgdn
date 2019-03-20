@@ -1,0 +1,1 @@
+simplifier le code des impots et n'affecter l'impots qu'à quelques grands postes éducation santé recherches défense culture

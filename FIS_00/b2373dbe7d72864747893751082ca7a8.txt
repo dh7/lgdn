@@ -1,0 +1,1 @@
+Présenter sur le site gouv.fr les dépenses publiques par ministère avec les détails des dépenses au delà de 5000€. Il faudrait faire de même localement avec les départements et régions.

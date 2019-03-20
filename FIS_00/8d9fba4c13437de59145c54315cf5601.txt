@@ -1,0 +1,1 @@
+connaitre les depenses (etat et collectivites locales ) par type de depenses ( fonctionnement , investissement , personnel , sous traitance ) et monter une base comparative accessible par type et taille de collectivites

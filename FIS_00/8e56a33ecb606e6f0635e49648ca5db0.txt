@@ -1,0 +1,1 @@
+Bulletin d’info par mail envoyer automatiquement.

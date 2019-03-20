@@ -1,0 +1,1 @@
+mettre en place un site public affichant en temps réel la dette réelle de la France ( y compris pourquoi elle augment ou diminue) et permettre à qui veut bien de faire un don de remboursement (possibilité de déduire des impots ce don )

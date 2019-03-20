@@ -1,0 +1,1 @@
+Construire un site qui recense toutes les aides et allocations existantes, quels que soient les contributeurs. Ensuite ce site propose un calculateur qui permet des simulations de revenus en fonction de ma situation, et qui propose de remplir tous les formulaires d'aide possibles et imaginables.  Ceci permettra de comparer efficacement la valeur travail à la valeur non travail.

@@ -1,0 +1,1 @@
+Publier sur un portail .gouv.fr une synthèse des dépenses publiques de l'état mais aussi les dépenses des régions, des départements. avec une autre vue représentant le budget alloué et en face les dépenses au trimestre.

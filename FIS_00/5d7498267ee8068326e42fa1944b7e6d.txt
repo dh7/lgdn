@@ -1,0 +1,1 @@
+Envoyer un fascicule qui synthétise tous les impôts et forme de fiscalité (revenu, TVA) pour les personnes et entreprise avec leur part dans les revenus de l'état. Mettre en regard l'évolution de chacun depuis 20 ans en tenant compte des parts fixe et part variables.

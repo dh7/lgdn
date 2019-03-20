@@ -1,0 +1,1 @@
+Faire apparaître sur un site facilement accessible, par type d’impôt et par catégorie de contribuable, les recettes générées chaque année. Parallèlement, présenter les dépenses de l’année à venir, en prenant soin de différencier l’origine des différents budgets (impôts, tva..)

@@ -1,0 +1,1 @@
+Les rendre plus lisibles tant sur la destination (et ce même si le principe d'unicité est une réalité) et surtout sur le résultat et l'efficacité.

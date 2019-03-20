@@ -1,0 +1,1 @@
+Un tableau de bord numérique affichant en "temps réel" le budget de l'état et des différentes collectivités: crédit/débit par catégorie

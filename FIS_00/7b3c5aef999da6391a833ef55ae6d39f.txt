@@ -1,0 +1,1 @@
+Leur donner le montant du budget, sa répartition, le niveau de la dette.

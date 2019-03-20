@@ -1,0 +1,1 @@
+Donner le prix des soins remboursés au patient.  Lord d'une hospitalisation ou d'un passage aux urgeny

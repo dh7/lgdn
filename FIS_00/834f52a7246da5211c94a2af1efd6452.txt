@@ -1,0 +1,1 @@
+Recevoir pour chaque taxe payée une facture indiquant à quoi servira la taxe payée.

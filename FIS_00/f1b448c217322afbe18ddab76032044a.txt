@@ -1,0 +1,1 @@
+Joindre, lors de l'envoi de la déclaration de revenu de l'année n, le rapport simplifié de l'utilisation des impôts de l'année n-1 (année précédente)avec la possibilité de vérifier par chaque citoyen(ne)si ces dépenses ont bien été effectuées.

@@ -1,0 +1,1 @@
+Un site internet qui indique les recettes et affectations des dépenses, un compte d'exploitation en fait de l'état.

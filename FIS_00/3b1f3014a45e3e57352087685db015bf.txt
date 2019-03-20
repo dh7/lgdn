@@ -1,0 +1,1 @@
+que chaque ministère diffuse en page d'accueil de leur site internet un organigramme complet et précis avec toutes les agences d'état qui lui sont rattachées  avec le nombre de Directeur généraux, de directeur et d'agent dans chaque service de chaque ministère (c'est peut etre complexe mais cela permet de mettre en évidence les doublons )

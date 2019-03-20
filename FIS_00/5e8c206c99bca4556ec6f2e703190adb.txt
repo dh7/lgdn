@@ -1,0 +1,1 @@
+Une application. Un avis d'imposition accompagné d'un document qui énumère toutes les dépenses publiques effectuées en pourcentage de son salaire.

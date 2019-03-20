@@ -1,0 +1,1 @@
+un graphique type camembert avec toutes les recettes de l'état et un second graphique avec toutes les dépenses répartie en pourcentage, à présenter au JT de 20H tous les 3 mois

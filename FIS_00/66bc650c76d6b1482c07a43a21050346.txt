@@ -1,0 +1,1 @@
+Mettre une taxe correspondant à plusieurs salaires sur les robots qui remplacent un employé. Le nombre croissant de ces machines fait augmenter le nombre de chômeurs en supprimant des emplois.

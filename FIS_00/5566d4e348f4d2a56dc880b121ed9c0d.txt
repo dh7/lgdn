@@ -1,0 +1,1 @@
+Afficher les dépenses sur tout produit, action ou service publique.

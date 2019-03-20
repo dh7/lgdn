@@ -1,0 +1,1 @@
+Un site et/ou application avec des visuels simples pour expliquer la répartition des dépenses de l'Etat (% et montant).

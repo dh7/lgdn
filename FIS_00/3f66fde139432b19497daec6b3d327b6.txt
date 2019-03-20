@@ -1,0 +1,1 @@
+envoyer a chaque foyer fiscal un graphique avec la répartition de l'utilisation des différents impôts et taxes

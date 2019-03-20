@@ -1,0 +1,1 @@
+avoir un état synthétique des recettes, des postes de dépenses, des cadeaux fiscaux octroyés et une évaluation des fraudes.

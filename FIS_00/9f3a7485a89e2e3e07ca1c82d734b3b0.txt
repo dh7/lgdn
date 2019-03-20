@@ -1,0 +1,1 @@
+Réaliser un bilan comptable annuel visible par tous sur Internet présentant les dépenses de l'état par catégorie (police, santé, éducation, ministères, associations etc..) et les recettes (impot sur le revenus, Taxes, CSG, prélèvements sociaux etc...)

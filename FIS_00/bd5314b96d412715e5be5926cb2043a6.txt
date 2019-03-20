@@ -1,0 +1,1 @@
+Faire un camembert par type d'impôt et de taxe par exemple qui montrerait en pourcentage où est utilisé l'impôt.

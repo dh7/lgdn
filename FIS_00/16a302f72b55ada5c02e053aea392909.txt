@@ -1,0 +1,1 @@
+Créer un site internet faisant état des recettes (prélèvements obligatoires par catégorie ) et des dépenses (budget alloué aux différents ministères ex l'éducation nationale, l'armée etc) avec le détail des actions concrètes engagées et de la part du budget consacrée à ces actions par ces ministères

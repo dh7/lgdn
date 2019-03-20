@@ -1,0 +1,1 @@
+Un site sur lequel le budget global de la France de l'année en cours et les prévisions de l'année N+1 sont affichés, puis la répartition de ce budget par ministère, pour chaque ministère afficher la répartition par poste principal et afficher les dépenses réelles

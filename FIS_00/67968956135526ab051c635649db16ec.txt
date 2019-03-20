@@ -1,0 +1,1 @@
+Envoyer un livret d'information par mail qui détaille le budget de l'état et les dépenses réalisés. Nous avons besoins de comprendre ce qui est fait, ce que cela représente et pourquoi ces dépenses. C'est valable pour les dépenses des collectivités également.

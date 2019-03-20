@@ -1,0 +1,1 @@
+tableau de bord périodique permettant de visualiser par poste de dépenses de l'état et de dépenses sociales, le budget, la réalité et les écarts. présenter de la même manière les postes de recettes et afficher le déficit/excédent en résultant pour mesurer la tenue des objectifs

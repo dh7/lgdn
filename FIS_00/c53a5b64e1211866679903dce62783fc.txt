@@ -1,0 +1,1 @@
+Mise en place d'un tableau de bord simple de suivi des dépenses de l'état (réels/budgets) accessible sur internet avec des communications régulières sur les chaines de tv et la presse écrite.

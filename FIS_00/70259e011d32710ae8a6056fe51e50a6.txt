@@ -1,0 +1,1 @@
+Simplifier, puis rendre public, accessible et obligatoire la description du budget de l’état (sur internet et dans les mairies)

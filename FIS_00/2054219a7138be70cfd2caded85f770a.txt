@@ -1,0 +1,1 @@
+Essayer de chiffrer les coûts des différents services publiques. Exemples: coût d'un écolier, d'un étudiant, d'une journée d'hôpital, d'un maire, d'un ministre, d'un prisonnier, d'un ancien président, un étranger,  .... Rendre l'info disponible dans les médias.

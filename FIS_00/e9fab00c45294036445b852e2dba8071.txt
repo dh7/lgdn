@@ -1,0 +1,1 @@
+Accès à un site pour vérifier les recettes , les dépenses et leur répartitions ( pouvoir y émettre des suggestions )

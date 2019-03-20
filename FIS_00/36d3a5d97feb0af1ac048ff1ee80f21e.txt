@@ -1,0 +1,1 @@
+Affichage (internet) des dépenses publiques. Etablir des "factures" pour les services publics avec le montant de la prise en charge de l'état ( ex . facture des actes hospitaliers et priseen charge SS) pour éviter l'impression de gratuité

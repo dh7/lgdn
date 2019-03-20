@@ -1,0 +1,1 @@
+Il faudrait une information honnête et transparente. Afficher un récapitulatif des dépenses de  chaque ministère et de leur affectation. Puis, pour chaque ministère afficher une information détaillée par poste et sous poste. Accessible sur internet dans un langage et un format "grand public" clairement compréhensible..

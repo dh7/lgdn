@@ -1,0 +1,1 @@
+Trouver un site qui indique par type de prélèvement (impôt sur le revenu, taxation des successions, impôt sur la fortune, taxes locales etc...) le nombre de personnes assujetties, et le montant des impôts collectés. Y faire figurer les données relatifs à la dette et leur progression.

@@ -1,0 +1,1 @@
+Facturer aux citoyens, ou afficher une facture avec le montant réel du service proposé, et le montant payé par le citoyen

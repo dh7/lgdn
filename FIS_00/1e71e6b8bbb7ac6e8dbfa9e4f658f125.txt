@@ -1,0 +1,1 @@
+1) Création d'un site Internet dédié (adresse en .gouv.fr) reprenant les dépenses et les recettes de l'état de façon simple, exhaustive et transparente, en utilisant plusieurs niveaux de lectures; 2) Création de simulateurs de budget et de "jeux sérieux"; 3) formation en collège et lycée sur les recettes et dépenses de l'état

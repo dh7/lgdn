@@ -1,0 +1,1 @@
+détailler le calcul de l'impôt sur le revenu en indiquant les éléments pris en compte pour le calcul du montant imposable, le montant de l'impôt de chaque tranche, les éléments pris en compte pour justifier le revenu fiscal de référence.

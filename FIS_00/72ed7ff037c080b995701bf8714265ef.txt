@@ -1,0 +1,1 @@
+Lors de sa déclaration de revenus en ligne, il serait intéressant au moment du calcul de l'impôt, d'avoir un graphique de répartition de son propre impôt en fonction des dépenses publiques.

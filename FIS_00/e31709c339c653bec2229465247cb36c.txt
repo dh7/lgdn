@@ -1,0 +1,1 @@
+Afficher sur l'avis d'impôt le répartition des dépenses avec un camembert par exemple

@@ -1,0 +1,1 @@
+Supprimer les tranches d'impôts sur les revenus et les remplacer par une formule mathématique, dont le taux augmenterait en fonction du revenus (fonction type exponentielle). Ainsi, quel que soit le montant, on saurait exactement et immédiatement le montant à payer.

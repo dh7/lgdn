@@ -1,0 +1,1 @@
+Créer une plateforme numérique détaillant précisément le montant (pourcentage) alloué pour chaque dépense.

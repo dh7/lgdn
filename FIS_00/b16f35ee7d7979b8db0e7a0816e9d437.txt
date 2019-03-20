@@ -1,0 +1,1 @@
+Lister et donner le montant total annuel  pour chaque foyer fiscal les aides sociales distribuées par l'Etat

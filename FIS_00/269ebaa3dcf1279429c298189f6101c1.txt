@@ -1,0 +1,1 @@
+Simplifier le système. Il y a trop de petites contributions ce qui a mene à une confusion générale.

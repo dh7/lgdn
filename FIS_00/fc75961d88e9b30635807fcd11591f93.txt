@@ -1,0 +1,1 @@
+Donner pour chaque taxe ou impots sa destination finale. Il faut associer les ressources au dépenses. Plus de budget global

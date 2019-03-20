@@ -1,0 +1,1 @@
+Un site Internet tout simplement ! Un joli camembert, dans lequel on puisse naviguer dans les différentes tranches. Santé > Hôpitaux > Services d'urgence : X euros pour Y% du budget total / Z% du budget Santé / W% du budget Hôpitaux.  Chacun pourra alors immédiatement identifier où va l'impôt et dans quelles proportions.

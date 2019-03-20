@@ -1,0 +1,1 @@
+faire un effort de vulgarisation sur les données présentées (séparation pour chaque ministère entre les dépenses de personnel et de fonctionnement).

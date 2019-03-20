@@ -1,0 +1,1 @@
+Créer une plateforme en ligne intuitive accessible à chaque citoyen et actualisée trimestriellement. Cette plateforme devrait indiquer les recettes fiscales générées pour chaque impôt avec en contrepartie son utilisation.

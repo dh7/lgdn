@@ -1,0 +1,1 @@
+Fournir sur la feuille d’imposition une sorte de « Bilan Comptable » avec une ventilation des dépenses par poste budgétaire.

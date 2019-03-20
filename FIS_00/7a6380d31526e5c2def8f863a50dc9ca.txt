@@ -1,0 +1,1 @@
+L'Open Data et la mise en place d'un tableau de bords en ligne permettant de suivre les flux (entrées sorties) économiques des dépenses publiques, en y intégrant des statistiques au fil des années.

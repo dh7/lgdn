@@ -1,0 +1,1 @@
+Faire un histogramme type camembert pour que les recettes et dépenses soient visualisées d'emblée !

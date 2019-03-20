@@ -1,0 +1,1 @@
+Un tableau de bord des recettes et des dépenses avec fléchage recette/dépense actualisé chaque mois ou chaque trimestre. explications en cas d'écart budgétaire

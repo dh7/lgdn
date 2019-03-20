@@ -1,0 +1,1 @@
+- Afficher sur la fiche d'impots sur le revenu, à quoi ont été destiné les impôts perçus au niveau national <br>- Afficher sur les taxes locales (habitations / foncieres), à quoi ont été destinés les impôts perçus au niveau local

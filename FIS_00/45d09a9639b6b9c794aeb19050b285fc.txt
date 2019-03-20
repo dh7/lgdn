@@ -1,0 +1,1 @@
+Fabriquer un tableau de bord  de l'utilisation de l'impôt (budget/dépense). Le rendre accessible à tout citoyen(ne) en temps réel puis laisser faire l'intelligence du citoyen(e)

@@ -1,0 +1,1 @@
+Diffusion sur chaque compte impots.gouv du montant tôtal des impôts payés, et des prestations reçus chaque année (sécu, pensions, aides sociales), ainsi qu'un récapitulatif succin des principaux postes de dépenses de l'état.  Enfin, inclusion de toutes les aides sociales et familiales dans les revenus imposables.

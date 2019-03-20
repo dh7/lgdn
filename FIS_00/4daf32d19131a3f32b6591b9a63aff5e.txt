@@ -1,0 +1,1 @@
+Un accès simple (par exemple sur impôt.gouv) et personnalisé au détail de l'utilisation de chaque impôt prélevé (impôts fonciers, sur le revenu...) Un portail gouvernemental avec le détail de chaque euro utilisé par l'état.

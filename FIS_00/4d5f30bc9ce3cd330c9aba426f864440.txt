@@ -1,0 +1,1 @@
+Faire apparaitre meusellement sur le bulletin de paie, ou équivalent,  le montant des aides sociales (si elles existent), les revenus de transfert (si effectifs)

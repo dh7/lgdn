@@ -1,0 +1,1 @@
+Faire afficher dans tout service public le montant de ses dépenses année N-1 (actions, fonctionnement)

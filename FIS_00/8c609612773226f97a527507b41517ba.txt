@@ -1,0 +1,1 @@
+Visualiser par un graphique la destination de notre impôt sur le salaire.

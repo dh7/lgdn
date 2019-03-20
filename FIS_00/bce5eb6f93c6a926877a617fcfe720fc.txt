@@ -1,0 +1,1 @@
+Afficher un budget simplifié et montrer l'avancement. Montrer pour le budget quelles sont les differentes sources de financements.

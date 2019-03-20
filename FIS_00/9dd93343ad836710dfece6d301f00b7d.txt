@@ -1,0 +1,1 @@
+Un site pédagogique synthétique qui renvoie sur les pages correspondantes sur des sites comme l'INSEE et qui présente des éléments factuels par thématique. Une FAQ et un espace pour poser des questions. En parler à l'école.

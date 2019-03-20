@@ -1,0 +1,1 @@
+Realiser des evaluations sur les depenses (au niveau local :commune et departement) et les rendres public en envoyant l analyse chez chaque citoyens

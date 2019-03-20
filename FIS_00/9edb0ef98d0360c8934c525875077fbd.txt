@@ -1,0 +1,1 @@
+Afficher le taux d'efficacité des impôts (rendement entre ce qui est prélevé et ce qui est réellement utile). Afficher le % de la population qui paie chaque impôt, ainsi que le taux moyen.

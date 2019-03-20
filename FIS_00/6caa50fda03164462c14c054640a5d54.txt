@@ -1,0 +1,1 @@
+Créer un site internet sur lequel serait affichés les engagements budgétaires du gouvernement. Chaque dépense y serait justifiée. Une mise à jour annuelle du site serait faite pour présenter le budget de chaque nouvelle année, mais les années antérieures resteraient visibles en mode archive.

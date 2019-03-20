@@ -1,0 +1,1 @@
+Mise en place d'un site dédié à la consultation sur les dépenses publiques et de fonctionnement de l'Etat, avec un volet "dépenses" concernant leur répartition par secteur d'activité et les objectifs à atteindre, et un second volet "réclamations" si le citoyen souhaite avoir des informations complémentaires sur des dépenses à engager.

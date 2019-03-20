@@ -1,0 +1,1 @@
+Eviter d'appeler TAXE ce qui est un impôt, sauf pour la TVA .  Exemple la Taxe carbone sur les carburants qui est un mix des deux. En finir avec la CSG déductible et non déductible, il faut choisir.  Grouper CSS, CRDS, CS sous une même dénomination et même base. Les affectations sont du rôle de l'Etat.

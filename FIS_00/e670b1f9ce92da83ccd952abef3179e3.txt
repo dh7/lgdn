@@ -1,0 +1,1 @@
+Donner l'information des rémunérations des fonctionnaires avec la plage de rémunération et la somme totale. Échanger sur la plage des rémunération et définir qu'un agent de l'état de pas gagner plus de 10 fois le SMIC.

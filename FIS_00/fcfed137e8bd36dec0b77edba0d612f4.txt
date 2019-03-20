@@ -1,0 +1,1 @@
+Créer une application smartphone qui serait mise à jour quotidiennement informant des dépenses réalisées pour chaque ministère, avec les intitulés des grosses dépenses, les courbes dépenses/recettes. Un peu comme un citoyen qui vérifie ses comptes tous les jours.

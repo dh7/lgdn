@@ -1,0 +1,1 @@
+- un journal de bord par département sur tous les projets de l'état et les sommes dépensé (somme prévu, somme imprévue) - un journal de bord par commune sur tous les projets de l'état et les sommes dépensé (somme prévu, somme imprévue)

@@ -1,0 +1,1 @@
+Avec la fiche de relevé des impôts, il devrait être présenté un tableau des dépenses effectuées avec cet impôt et ceci pour chaque type d'impôt.

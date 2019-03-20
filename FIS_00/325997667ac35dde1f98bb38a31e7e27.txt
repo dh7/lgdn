@@ -1,0 +1,1 @@
+multiplier les informations détaillées sur les dépenses :  * coût annuel d'un enfant scolarisé, en maternelle, au collège au lycée. * coût journalier d'un prisonnier... * comparaisons avec d'autres pays européens

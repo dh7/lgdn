@@ -1,0 +1,1 @@
+Afficher sur tous les services publics (routes, hôpitaux, etc ...) le fait qu'ils sont financés par les impôts (en donnant des détails)

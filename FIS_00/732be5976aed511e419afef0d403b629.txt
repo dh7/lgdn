@@ -1,0 +1,1 @@
+publier tous les ans le budget N-1 de l'état: recettes (montant et source: IR, CSG, TVA...) et dépenses par ministère ET par type d'allocation (RSA, APL, dotations aux collectivités...)

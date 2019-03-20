@@ -1,0 +1,1 @@
+Communiquer en % d'impots par rapport au revrnu moyen  plutot qu'en million d'euros car ces nombres trop grand ne font pas sens

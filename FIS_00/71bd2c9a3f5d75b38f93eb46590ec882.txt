@@ -1,0 +1,1 @@
+Créer une plateforme à partir de laquelle tous les citoyens pourraient voir de manière très claire les postes sur lesquels l'impôt récolté est alloué. (exemple : sur les X euros récoltés par l'état, Y vont à la sécurité sociale, Z vont aux transports, etc.)

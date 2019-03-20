@@ -1,0 +1,1 @@
+Un site internet pourrait expliquer le budget de l'état. Donner, "en direct" le montant de l'impôt collecté. La prévision de dépense par thème. Et pour chaque dépense engagée montrer l'évolution des compteurs. En fin d'exercice, il y aurait un bilan.

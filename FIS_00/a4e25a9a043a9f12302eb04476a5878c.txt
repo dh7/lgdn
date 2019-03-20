@@ -1,0 +1,1 @@
+Faire un bilan annuel des dépenses de l état par ministère. Créer un site afin de permettre aux français de s'informer par le biais d'internet.

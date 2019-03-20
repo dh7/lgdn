@@ -1,0 +1,1 @@
+* simplifier le mode de calcul et ne pas changer tous les ans les règles

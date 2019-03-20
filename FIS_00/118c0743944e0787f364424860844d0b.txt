@@ -1,0 +1,1 @@
+Informer l'usager sur le coût du service auquel il accède à chaque fois qu'il en fait usage si celui-ci est 'gratuit' (ex : je suis effarée de constater que l'hôpital public ne donne aucune information sur le prix de la consultation médicale ou le soin d'urgence, on entre on sort sans savoir combien ça coûte!)

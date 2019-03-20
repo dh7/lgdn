@@ -1,0 +1,1 @@
+Permettre à tous de visualiser la répartition par secteur (santé, éducation, défense, etc) puis par filière (mairie, région, association, etc).

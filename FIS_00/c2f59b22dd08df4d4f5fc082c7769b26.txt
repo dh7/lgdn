@@ -1,0 +1,1 @@
+Rendre public la liste des dépenses par les ministères (exemple : dans l'éducation, combien sont payées les personnes travaillant dans les ministères, les rectorats, les enseignants, quelles primes pour quel personnel?)

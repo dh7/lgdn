@@ -1,0 +1,1 @@
+Faire figurer sur la feuille de paye le salaire brut sous forme de salaire net et de salaire différé (sécurité social, assurance retraite et chômage)

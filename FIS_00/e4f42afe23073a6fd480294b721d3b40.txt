@@ -1,0 +1,1 @@
+Envoie courrier avec les sommes et les pourcentages des dépenses et prélèvements. Qui paye pour qui et pour quoi.

@@ -1,0 +1,1 @@
+Envoyer à chaque foyer fiscal un bilan annuel des coûts (éducation, santé, équipements, ...) et recettes (impôts, TVA, ...) personnalisé à partir des vrais dépenses/recettes et d’estimations en fonction de la nature du foyer et de la commune

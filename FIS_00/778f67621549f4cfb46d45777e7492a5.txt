@@ -1,0 +1,1 @@
+Fourniture d’une synthèse de l’affectation des dépenses liées à l’impôts. Dans le cas de l’ARE , le prélèvement de l’impôt devrait être déduit systématiquement du montant à verser. Aucune information ne figure concernant l’ impôt dont le contribuable est redevable lorsque celui-ci perçoit la somme.

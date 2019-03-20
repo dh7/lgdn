@@ -1,0 +1,1 @@
+que chaque niveau de l'organisation administrative fournisse un compte rendu des impots perçu et de leur utilisation exemple :  état -> collecte des impôts, répartition par poste de dépenses et par régions régions -> collecte + subventions état  et répartition par département département -> idem ...... ...... Commune -> idem

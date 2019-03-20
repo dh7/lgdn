@@ -1,0 +1,1 @@
+Presenter de manière plus détaillée les dépenses de l'état par grand postes et ministère et surtout leur evolution. Exiger des collectivités locales l'envoi (facile avec internet) du budget détaillé.

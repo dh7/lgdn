@@ -1,0 +1,1 @@
+Pouvoir accéder à une information synthétique des recettes et dépenses, sous la forme de dataviz, sur l'ensemble des sites publics.

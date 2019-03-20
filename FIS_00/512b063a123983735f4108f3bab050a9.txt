@@ -1,0 +1,1 @@
+Mise en ligne sur un site publique d'un état des dépenses permettant d'aller par clics successifs au détail.

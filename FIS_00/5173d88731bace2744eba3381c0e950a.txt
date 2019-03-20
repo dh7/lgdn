@@ -1,0 +1,1 @@
+Création d'un site sur lequel nous verrons toutes les dépenses de l'état en détaille. ainsi nous connaitrons le montant, la destination de l'argent et le pourquoi. Ce site sera publique et tous citoyens peuvent le consulter.

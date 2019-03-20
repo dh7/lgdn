@@ -1,0 +1,1 @@
+Simplifier - être capable de faire par nous même les calculs

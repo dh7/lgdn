@@ -1,0 +1,1 @@
+Faire un bilan individualisé en fonction des impôts payés(revenues,locaux, foncier, estimation de la TVA...),des cotisations payés(retraites,maladies.....) des aides touchés direct(allocations, ...) indirect(Frais de scolarité gratuit des enfants, Police, entretient des routes....).

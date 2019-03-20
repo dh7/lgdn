@@ -1,0 +1,1 @@
+Une simplification d’un système illisible compte tenu de sa complexité.

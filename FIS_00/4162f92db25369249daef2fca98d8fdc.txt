@@ -1,0 +1,1 @@
+- simplification de l'impôt du TVA, c'est à dire pas la peine de faire des formules trop compliqué pour savoir combien on doit payer d'impôt et surtout la TVA

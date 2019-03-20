@@ -1,0 +1,1 @@
+Avoir un accès aux dépenses des parlementaires. Les budgets doivent être décomposé comme fait actuellement (frais de fonctionnement...) et ajouter le nombre d'employé.

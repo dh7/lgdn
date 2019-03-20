@@ -1,0 +1,1 @@
+afficher (net, papier, journaux...) régulièrement (max trim) un tableau de recettes et de dépenses TRES DETAILLEES par niveau de décision (communes, interco, départ, région, Etat)

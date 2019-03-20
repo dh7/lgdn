@@ -1,0 +1,1 @@
+Transparence permettant de voir que les taxes spécifiquement dédiées à une action vont directement l'alimenter et non tomber dans le pot commun du budget.

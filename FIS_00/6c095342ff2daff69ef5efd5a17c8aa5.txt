@@ -1,0 +1,1 @@
+Envoi de push-mail d'information vers chaque citoyen. Publication des choix faits avec l'argumentation, conséquences et perspectives attendues.

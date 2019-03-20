@@ -1,0 +1,1 @@
+Émettre une information sur le coût pour la collectivité lorsqu'on bénéficie d'un service public. Par exemple, lors d'une inscription à l'école, indiquer en retour que le coût de xxx euros sera assuré par la collectivité.

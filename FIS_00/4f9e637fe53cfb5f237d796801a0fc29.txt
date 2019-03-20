@@ -1,0 +1,1 @@
+Sur chaque portail de ministère, commune, département, région, interco un onglet budget avec les dépenses et les recettes.

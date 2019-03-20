@@ -1,0 +1,1 @@
+Créer un site web gouvernemental ou l'on voit le budget de l'état, les recettes et les dépenses et la dette, le chomage etc.. ou un journal pour ceux qui n'ont pas internet.

@@ -1,0 +1,1 @@
+Diffuser le budget de la nation d’une manière un peu plus détaillée que les schémas habituels.  Informer sur les coûts des prestations dont bénéficie chaque citoyen (exemple le billet de train paraît cher à l’achat, mais le citoyen ne paye qu’une partie du coût, l’amortissement de l’investissement supporté par l’état).

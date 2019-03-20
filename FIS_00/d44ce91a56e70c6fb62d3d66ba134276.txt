@@ -1,0 +1,1 @@
+Utiliser le site data.gouv.fr  pour présenter une arborescence très profonde et détaillée de la ventilation des dépenses à partir des ressources globales de l'état.

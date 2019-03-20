@@ -1,0 +1,1 @@
+Sur le site services public.fr, montrer graphiquement les flux d'argent du prélèvement, voir l'acheminement des ces sommes jusqu'à leur destinations (en pourcentage ou en euros).

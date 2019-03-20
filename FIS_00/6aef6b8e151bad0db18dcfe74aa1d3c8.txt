@@ -1,0 +1,1 @@
+Avoir un portail en ligne permettant de consulter facilement ces informations d'année en année. Mettre en place un système open-data avec toutes les données brutes sur l'utilisation des impôts. Pouvoir voir facilement la liste des impôts/taxes existants, la somme récoltée par chaque impôt, qui sont les personnes touchées par ces impôts.

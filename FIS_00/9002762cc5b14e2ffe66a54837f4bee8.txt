@@ -1,0 +1,1 @@
+Un simple tableau emplois/ressources, comme dans n'importe quelle entreprise. D'un côté les entrées d'argent par type d'impôt, de l'autre les utilisations par postes

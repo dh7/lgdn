@@ -1,0 +1,1 @@
+Donner les salaires de tous les hauts fonctionnaires, pas nominativement, mais par fonction et indication du nombre de personnes concernées.

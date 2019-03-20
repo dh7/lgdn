@@ -1,0 +1,1 @@
+Création d'un site Internet ainsi que d'un journal mensuel pour les personnes n'ayant pas accès à Internet en décrivant la totalité des taxes qu'un citoyen paye au quotidien et expliquer pour chacune de ces taxes l'utilité de cette dernière.

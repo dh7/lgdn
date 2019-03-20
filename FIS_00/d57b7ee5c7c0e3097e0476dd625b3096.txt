@@ -1,0 +1,1 @@
+Un site internet avec la répartition des impôts du national au local. Chaque organismes publiques qui collectent des impôts, déclarent ce qu'il finance et où va l'argent sous forme de carte géographique.

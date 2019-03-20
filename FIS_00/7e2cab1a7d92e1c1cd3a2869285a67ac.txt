@@ -1,0 +1,1 @@
+Un bulletin très simple par mois sur les mails des téléphones portables avec des indicateurs simples (dépense, recette, investissement).

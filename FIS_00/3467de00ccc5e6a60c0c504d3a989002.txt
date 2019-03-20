@@ -1,0 +1,1 @@
+Un diagramme de flux cliquable et filtrable. Voir par exemple ce type de visualisation : https://f.hypotheses.org/wp-content/blogs.dir/1909/files/2015/01/CircularPlotFRInter2-800x576.png

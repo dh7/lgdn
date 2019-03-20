@@ -1,0 +1,1 @@
+Faire une classification claire en tableau par exemple, des impôts avec usage sur le même thème que celui-ci (taxe d'habitation qui servirait pour le logement, impôt sur le revenu pour les aides sociales...)

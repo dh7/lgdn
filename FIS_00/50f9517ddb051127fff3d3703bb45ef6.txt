@@ -1,0 +1,1 @@
+Publier les données chiffrées des différents impôts, les niches fiscales, leurs poids dans le budget de l'état, qui paye quoi, etc.. sous forme synthétique (graphique)

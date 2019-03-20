@@ -1,0 +1,1 @@
+La création d'un site internet dédié à l'utilisation de l’impôt. Savoir par exemple quelle région collecte plus d’impôt et laquelle collecte moins d’impôt et pourquoi. Savoir aussi comment est ensuite redistribué cet impôt une fois collecté

@@ -1,0 +1,1 @@
+Faire une plate-forme personnalisé pour chaque citoyen, afin qu'il sache  combien il a payé d"impôt chaque année et connaître toute la ventilation de l'impôt. Il serait bien que le citoyen puisse choisir l'orientation des impôts prélevés afin qu'il y consente pleinement.

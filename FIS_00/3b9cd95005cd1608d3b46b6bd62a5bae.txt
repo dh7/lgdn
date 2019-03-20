@@ -1,0 +1,1 @@
+Afficher une liste des % de dépenses par catégorie (ex:  santé, retraites, salaires de fonctionnaires d'État, armée, éducation...)

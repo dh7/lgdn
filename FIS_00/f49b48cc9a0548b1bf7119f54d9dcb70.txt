@@ -1,0 +1,1 @@
+Diffuser une liste par pourcentage des principales dépenses avec comparatif sur plusieurs années.

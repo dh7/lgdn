@@ -1,0 +1,1 @@
+Envoyer par mail (chaque contribuable fournit son mail sur le site impot.gouv) une synthese graphique des recette/depense des impots depuis 10ans (afin de voir l'évolution sur au moins 2 mandatures differentes), avec également le détails de ces depenses/recettes

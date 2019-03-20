@@ -1,0 +1,1 @@
+Fournir avec l’avis d’imposition le pourcentage des dépenses catégorielles soit sous forme de courbe ou de camembert. Puis pour chaque catégorie détailler les différents postes sous forme de courbe de parreto

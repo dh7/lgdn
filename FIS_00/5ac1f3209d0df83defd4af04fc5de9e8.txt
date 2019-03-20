@@ -1,0 +1,1 @@
+Donner la recette total des impôts et afficher avec transparence via le site gouv.fr ou autre la répartition de celle ci

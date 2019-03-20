@@ -1,0 +1,1 @@
+Envoyer par lettre l'état des finances publiques contenant les dépences ainsi que les prélèvements.

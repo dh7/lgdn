@@ -1,0 +1,1 @@
+un indicateur visible/audible du coup de fonctionnement de chaque service pour lequel l'administré a affaire.

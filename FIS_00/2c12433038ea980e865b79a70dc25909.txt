@@ -1,0 +1,1 @@
+une simple information dématérialisé sur le compte en ligne donnant le montant de la collecte et sa répartition. L'info serait directe et on ne serait pas obligé d'aller la chercher. L'état nous doit cette info.

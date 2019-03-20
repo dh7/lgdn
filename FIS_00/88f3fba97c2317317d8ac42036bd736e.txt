@@ -1,0 +1,1 @@
+Une application et un site dédié à la répartition des dépenses annuelle selon les secteurs.

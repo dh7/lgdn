@@ -1,0 +1,1 @@
+Afficher le budget annuel de chaque service public à l'entrée (école, santé, mairie, services sociaux, etc.). Donner une facture quand c'est possible (ex : hôpital). Informer les parents du coût estimé des études réglé par la communauté pour leurs enfants. Ce qui est gratuit ne vaut rien !

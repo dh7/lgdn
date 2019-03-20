@@ -1,0 +1,1 @@
+créer un tableau de bord annuel avec le coût de chaque service public par année en indiquant l'évolution par rapport à l'année précédente . Le tableau donne le coût total et le nombre de bénéficiaires et le coût ramené à chaque français (au sens utilisateur potentiel et non pas au sens de la nationalité)

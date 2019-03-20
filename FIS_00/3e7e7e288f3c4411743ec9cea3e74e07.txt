@@ -1,0 +1,1 @@
+Une application personnalisée sur base des critères fiscaux et sociaux de chaque citoyen.

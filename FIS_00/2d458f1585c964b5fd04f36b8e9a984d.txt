@@ -1,0 +1,1 @@
+Faire une sorte de présentation de l'exercice budgétaire simplifiée : en 1 camembert (avec % par grand type de dépenses), présenter en chaque début d'année les dépenses de l'année dernière (vs budget précédent) et les prévisions de dépenses de l'année à venir.

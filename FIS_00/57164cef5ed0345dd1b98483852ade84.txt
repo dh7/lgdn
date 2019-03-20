@@ -1,0 +1,1 @@
+Supprimer toutes les taxes(TVA,CSG …) et les transférer sur l'impôt sur le revenu.

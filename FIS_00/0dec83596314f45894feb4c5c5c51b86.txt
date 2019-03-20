@@ -1,0 +1,1 @@
+Laisser le citoyen choisir un domaine dans lequel il veut orienter son impot. Doit etre une part minime (1%), et entres quelques grandes categorie (defense, education, sante, ecologie, transport..)

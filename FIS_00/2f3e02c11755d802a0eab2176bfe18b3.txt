@@ -1,0 +1,1 @@
+Établir une relation "simple" entre impôts et dépenses et la communiquer à chaque fois qu'on parle dépenses/recettes

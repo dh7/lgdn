@@ -1,0 +1,1 @@
+Afficher sur la fiche d’imposition de chaque contribuable la part de son impôt servant à financer les services publics : x % pour la santé, X% pour l’éducation , X% pour le social

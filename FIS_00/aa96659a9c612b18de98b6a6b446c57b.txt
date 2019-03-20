@@ -1,0 +1,1 @@
+un site gouvernemental qui détail toutes les dépenses par catégories. Exemple, je veux connaître la rémunération de tel député plus ses dépenses liées à sa charge.

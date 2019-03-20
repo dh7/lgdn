@@ -1,0 +1,1 @@
+Donner les chiffres sur les dépenses de l’état et des collectivités locales, les recettes par type d’impôt ou taxe, les impôts payés par les français ( Revenus, Revenus après impôts, taxes et aides sociales). Ne pas seulement compter en moyenne, mais donner des exemples type en  référence.

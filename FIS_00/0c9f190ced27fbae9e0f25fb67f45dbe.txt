@@ -1,0 +1,1 @@
+Des graphiques ou tableaux simples montrant pour chaque impôt (IR, CSG, CRDS, TVA, etc) quel pourcentage finance quoi.

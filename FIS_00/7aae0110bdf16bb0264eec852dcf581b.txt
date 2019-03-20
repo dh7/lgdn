@@ -1,0 +1,1 @@
+Pouvoir consulter une synthèse du budget de l’état avec en fasse de chaque dépense l'impôt ou les impôts associés à la dépense.

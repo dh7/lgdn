@@ -1,0 +1,1 @@
+Mise en place d'un site présentant simplement, en un nombre limité de catégories et en utilisant des outils très visuels, la répartition des impots. Pour ceux qui souhaitent approfondir, des documents beaucoup plus précis doivent être disponibles.

@@ -1,0 +1,1 @@
+Transmettre un tableau avec les dépenses par poste.

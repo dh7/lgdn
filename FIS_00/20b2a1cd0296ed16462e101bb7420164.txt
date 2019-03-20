@@ -1,0 +1,1 @@
+Réformer le CGI devenu stratifié et incompréhensible. Rendre l'impôt plus simple. Envoyer systématiquement la facture de ce que ça coûte (hôpital, école, pompiers, etc. : si vous aviez dû payer, ça vous aurait coûté telle somme)

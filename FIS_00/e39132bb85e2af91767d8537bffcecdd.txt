@@ -1,0 +1,1 @@
+Une présentation synthétique et publique du budget de l'état. Indiquant par exemple pour chaque grande fonction le budget affecté puis un détail par poste de dépense (Immobilier, Salaires, Charges, etc.)

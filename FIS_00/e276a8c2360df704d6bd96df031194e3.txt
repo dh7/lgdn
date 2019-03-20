@@ -1,0 +1,1 @@
+Envoyer a chaque foyer fiscal une feuille A4 avec un camembert «  recettes » et un camembert « dépenses » . Idem pour les collectivités

@@ -1,0 +1,1 @@
+Envoyer un courrier tous les ans avec l'avis d'imposition et exposer combien  l'état dépense en moyenne pour cette famille de x membres.

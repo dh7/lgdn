@@ -1,0 +1,1 @@
+Détailler les dépenses de chaque catégorie de fonctionnaires. Donner le nombre de fonctionnaires chaque année administration par administration. Fournir un récapitulatif, sur une base 1000€, comme a fait l'INSEE, des postes de recettes et de dépense. Ainsi que leur évolution et leur comparaison par rapport à la moyenne de l'OCDE.

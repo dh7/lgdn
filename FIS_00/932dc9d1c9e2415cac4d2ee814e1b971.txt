@@ -1,0 +1,1 @@
+Fournir annuellement une statistique donnant la répartition de l'usage des impots et taxes par nature et par habitant. Ainsi on verrait combien coutent les frais de santé, d'éducation, de justice, ... par habitant.

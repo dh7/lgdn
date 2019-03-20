@@ -1,0 +1,1 @@
+A partir du budget de l'état et de ses dépenses, et des parts attribués à chaque dépense (par domaine : santé, éducation, armée, etc.), convertir sur la feuille d'impôt la somme attribuée à chaque domaine de mon impôt. Exemple, je paie 1 500 € d'impôts sur le revenu dont 400 € sont utilisés pour la santé, 200 € pour l'armée, etc.

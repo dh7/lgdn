@@ -1,0 +1,1 @@
+Tout d'abord afficher directement sur l'affichette des tarifs  dans les magasins la TVA des produits. Ainsi lors de l'achat nous saurons et lirons directement le prix de la TVA de tel ou tel produit. En effet a TVA n'apparait que sur leticket de caisse et donc après achat!!

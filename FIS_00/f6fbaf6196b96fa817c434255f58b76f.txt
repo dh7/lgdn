@@ -1,0 +1,1 @@
+-Lors des soins à l'hôpital, présenter une facture avec le détail :  a. coût du soin b.Prise en charge sécu c.Prise en charge mutuelle d = reste à charge.

@@ -1,0 +1,1 @@
+Envoyer (par mail) à chaque contribuable où va l'argent qu'il a donné l'année précédente au niveau de chaque strate (état, région, département, commune)

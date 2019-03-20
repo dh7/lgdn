@@ -1,0 +1,1 @@
+un tableau reprenant tous les impôts et taxes avec le montant perçu pour chaque rubrique et l'utilisation de ces taxes

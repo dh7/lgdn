@@ -1,0 +1,1 @@
+Envoyer des infos par mail régulièrement mais au niveau local pour que ce soit plus significatif.

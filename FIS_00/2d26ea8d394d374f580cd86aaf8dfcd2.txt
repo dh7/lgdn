@@ -1,0 +1,1 @@
+créé un site internet avec toutes les dépenses de l’état dans le détail (santé/sociale/défense/coût des élus/transport)

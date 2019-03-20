@@ -1,0 +1,1 @@
+La LOLF permet de connaitre le budget de l'état par missions. Il y aurait lieu de la vulgariser et de la commenter.

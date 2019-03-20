@@ -1,0 +1,1 @@
+Un site internet disponible et permanent donnant les recettes exactes de l'impôt pour l'année N-1 et les dépenses associées.

@@ -1,0 +1,1 @@
+le cout affiché (par individu) de chaque service public et l'envoi de facture simulée pour chaque intégration d'un parcours (scolarité maternelles, élementaires..., chomage, RSA, hospitalisation...)

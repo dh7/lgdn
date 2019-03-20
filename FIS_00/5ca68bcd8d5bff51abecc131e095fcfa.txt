@@ -1,0 +1,1 @@
+Donner tous les ans des informations (sous forme de tableaux synthétique) sur l'impôt collecté (montant et répartition) et sur ce qu'il a financé.

@@ -1,0 +1,1 @@
+Donner les pourcentage redistribués pour chaque domaine de manière plus explicite

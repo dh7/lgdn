@@ -1,0 +1,1 @@
+Créer une liste financée et facilement visible sur internet, par exemple sur le site des impôts, de tout ce qui sera financé par les impôts. Avec la possibilité pour chaque citoyen de cocher "d'accord" ou "pas d'accord" sur chaque financement. Si une majorité n'est pas d'accord, alors le projet est annulé.

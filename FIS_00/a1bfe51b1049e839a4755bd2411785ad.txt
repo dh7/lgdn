@@ -1,0 +1,1 @@
+Simplifier le nombre de strates : mairie, departlent’ Région, communauté, état et taxes associées et reporter sur l’utilisation de cet argent

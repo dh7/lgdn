@@ -1,0 +1,1 @@
+Expliciter lors de chaque déclaration IR la répartition dans l'affectation des sommes récoltées .

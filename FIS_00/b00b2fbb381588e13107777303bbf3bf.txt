@@ -1,0 +1,1 @@
+Un tableau de bord synthétique des montants prélevés nationalement, de la quote-part et du montant attribués par budget (avec détails des projets financés et de la masse salariale engagée),  du montant emprunté pour boucler le budget de l'état.

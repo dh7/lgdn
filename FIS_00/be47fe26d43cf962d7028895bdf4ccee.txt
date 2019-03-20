@@ -1,0 +1,1 @@
+- Rassembler un maximum d'impôt dans un grand impôt Progressif  - Afficher clairement le montant de l'impôt  - Afficher sur cette feuille d'impôt comment sera reparti cet impôt

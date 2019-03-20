@@ -1,0 +1,1 @@
+Pour chaque poste de dépense, il faut afficher clairement comment l'argent est réparti : frais de fonctionnement, argent véritablement alloué à la cible. Il ne suffit pas de dire où va notre impot mais il faut être capable de mesurer aussi son efficacité.

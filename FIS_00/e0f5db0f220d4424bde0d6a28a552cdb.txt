@@ -1,0 +1,1 @@
+que chaque niveau (état jusqu'à communes) donne le détail de ses recettes et le détail de ses dépenses ; que l'on puisse également obtenir la comparaison avec les autres états de l'UE

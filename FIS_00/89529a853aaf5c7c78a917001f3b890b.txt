@@ -1,0 +1,1 @@
+Communication sur le site impots gouv.fr des différentes sources de revenus de l'état, de qui les paye (en proportion), et enfin dans quels postes de dépenses ils sont affectés.

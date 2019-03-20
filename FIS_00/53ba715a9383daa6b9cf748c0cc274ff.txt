@@ -1,0 +1,1 @@
+Au moment des déclarations fiscales nous donner un graphe avec les dépenses par montant et par type

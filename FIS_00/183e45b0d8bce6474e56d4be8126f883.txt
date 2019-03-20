@@ -1,0 +1,1 @@
+Simplifier les règles d'application de la TVA  (La TVA sur le chocolat blanc est différente de la TVA sur le chocolat noir, de même pour le carrelage vertical ou horizontal, ...........) Suivant les cas un taux de TVA s'applique c'est une véritable hérésie.

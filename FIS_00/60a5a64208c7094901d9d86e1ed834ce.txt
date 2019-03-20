@@ -1,0 +1,1 @@
+Associer à l'avis d'imposition un document faisant figurer les montants de notre impôts consacrés à chaque type de dépense publique. Exemple : vous payez 1200€ d'impôts, 130 € sont consacrés à la santé, 50 à l'éducation etc

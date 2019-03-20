@@ -1,0 +1,1 @@
+Envoyer une notification par SMS pour aller consulter le site du gouvernement où figure l'information

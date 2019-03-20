@@ -1,0 +1,1 @@
+Un graph où chacun sache où il se trouve en terme en terme d'impôt par rapport au reste des foyers. De l'autre côté,  un graph sur les aides en tout genre qu'il perçoit par rapport au reste des foyers.

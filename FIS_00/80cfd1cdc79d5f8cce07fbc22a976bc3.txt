@@ -1,0 +1,1 @@
+Promouvoir un site internet, indiquant par le biais de schémas simples les types de dépenses par ministères (fond pour par exemple le ministère de l’éducation nationale: x millions d’euros pour le fonctionnement du ministère et ses services, tel que les établissements scolaires, les administrations, ..).

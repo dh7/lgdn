@@ -1,0 +1,1 @@
+Distribuer avec les différents avis d’imposition le détail de l’utilisation des sommes prélevées l’année précédente, pour chaque impôt.

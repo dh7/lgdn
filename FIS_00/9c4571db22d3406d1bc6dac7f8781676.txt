@@ -1,0 +1,1 @@
+Donner un tableau simple de la répartition de l'impôt dans le budget de l'État. Réduire le nombre d'impôts et les rassembler pour plus de simplicité.

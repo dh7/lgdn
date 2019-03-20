@@ -1,0 +1,1 @@
+simplifier le nombre de comité, commission, d'organismes d'état en en supprimant une partie.

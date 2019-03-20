@@ -1,0 +1,1 @@
+Compléter le site : aquoiserventmesimpots.gouv.fr en donnant un niveau de détail adapté pour chaque poste de dépense. Pour le moment, on passe de quelques lignes aux intitulés peu clairs par poste (ex : Solidarités = 4 missions) à des milliers de pages en pdf qui ne sont pas compréhensibles par le commun des mortels.

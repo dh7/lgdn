@@ -1,0 +1,1 @@
+envoyer par mail au moment de la déclaration d’impôts l'affectation des impôts par postes de dépenses

@@ -1,0 +1,1 @@
+Donner le détail de l'utilisation de chaque taxe et impôt collecté. Par exemple sur ma facture d'eau il est prélevé une taxe intitulée "Soutien d'étiage". Que fait l'organisme collecteur de cet argent ?

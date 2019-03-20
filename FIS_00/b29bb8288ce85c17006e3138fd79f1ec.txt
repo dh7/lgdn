@@ -1,0 +1,1 @@
+Afficher un "camembert" représentant la part de chaque financement (municipal, départemental, régional, national) dans le coût d'une réalisation d'infrastructure (ex: pont), de son utilisation (ex: ticket de métro) avec un code de couleur simple et fixe pour que chacun le comprenne du premier coup d'oeil.

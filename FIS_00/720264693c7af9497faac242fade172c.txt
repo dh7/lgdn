@@ -1,0 +1,1 @@
+publier un budget plus clair avec les détails de chaque dépenses de manière plus ludique ; par exemple un graphique avec les grands domaines de dépenses publiques, puis pour chaque domaine un détails par poste de dépense. avec la possibilité d'afficher cela en proportionnel par rapport à notre propre impôts payé.

@@ -1,0 +1,1 @@
+L'accès aux chiffres des différents budgets annuels de l'etat n'est ni simple, ni surtout clair (si on tape : budget de l'etat dans un navigateur, on devrait voir en tete le site (unique) le plus pertinent.

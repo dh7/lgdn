@@ -1,0 +1,1 @@
+Donner le total des sommes versées par commune Donner le cout de chaque service (retraite, école, poste, routes..) Donner les couts de fonctionnement pour chaque service Mettre le détail des dépenses en lignes

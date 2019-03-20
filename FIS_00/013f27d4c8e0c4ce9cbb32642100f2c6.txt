@@ -1,0 +1,1 @@
+Une information envoyée au moment de la déclaration avec un détail des dépenses par budget, et des recettes

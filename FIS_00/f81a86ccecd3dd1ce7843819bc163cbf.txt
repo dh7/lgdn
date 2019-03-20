@@ -1,0 +1,1 @@
+Faire une liste de tous les impôts et taxes, et pour chacun lister leurs utilisations avec les divers pourcentages. Rendre publique cette liste par une publicité visible.

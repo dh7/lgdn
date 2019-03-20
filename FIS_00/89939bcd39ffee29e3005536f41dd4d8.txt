@@ -1,0 +1,1 @@
+Transmettre, avec la feuille d'impots, la répartition des depenses (exemple : pour 1000 € d'impots, depenses correspondantes)

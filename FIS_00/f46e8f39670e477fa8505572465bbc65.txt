@@ -1,0 +1,1 @@
+créer un tableau des catégories de dépense et en pourcentage.

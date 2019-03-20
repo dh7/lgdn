@@ -1,0 +1,1 @@
+Un site récapitulatif (Dashboard / Tableau de bord). Une seule page. Simple/Basic

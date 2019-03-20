@@ -1,0 +1,1 @@
+Un site Internet facile d'accès qui nous indiquerait les dépenses par ministère, que nous pourrions ensuite déplier pour voir le détail, au lieu de devoir aller lire les textes présents sur le site de chaque ministère.

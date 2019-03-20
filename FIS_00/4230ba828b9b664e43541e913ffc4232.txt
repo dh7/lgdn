@@ -1,0 +1,1 @@
+Un site présentant les grandes catégories de dépenses publiques, avec des courbes d'évolutions et la possibililé d'accéder à des présentations détaillées + un rendez-vous annuel de commentaires du contrôle effectué (on l'espère) par l'assemblée nationale sur l'exécution du budget voté

@@ -1,0 +1,1 @@
+Avoir un tableau chaque année avec le montant des impôts récoltés et la répartition des dépenses.

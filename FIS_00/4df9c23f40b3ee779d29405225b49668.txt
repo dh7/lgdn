@@ -1,0 +1,1 @@
+création d'une banque où les citoyens pourraient voir en lecture les comptes bancaires de chaque entités publiques (67million de controleurs!!!!)

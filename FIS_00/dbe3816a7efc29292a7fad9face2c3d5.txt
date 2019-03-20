@@ -1,0 +1,1 @@
+rajouter sur l'avis d'imposition un tableau expliquant en fonction de ce que l'on doit payer, quel pourcentage va à quel service de l'Etat

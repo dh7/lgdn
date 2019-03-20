@@ -1,0 +1,1 @@
+Un site internet simple d’accès avec un bilan simplifié des comptes de l’État et le détail des dépenses de l’État. Le détail doit cependant être relativement précis. On ne peut se contenter d'une simple ligne "frais de fonctionnement" ou autre qui ne détail rien et laisse une zone d'ombre.

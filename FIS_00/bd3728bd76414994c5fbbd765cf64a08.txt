@@ -1,0 +1,1 @@
+Créer un site internet assez détaillé en incluant tous les postes de dépenses et de recettes de l'état. Ce site sera validé par des indépendants, par la cour des comptes et alimenté par chaque ministère.

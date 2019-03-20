@@ -1,0 +1,1 @@
+Afficher la répartition par poste des dépenses de l'état.

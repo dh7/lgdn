@@ -1,0 +1,1 @@
+Fournir un site qui recense toutes les dépenses publiques, avec une granularité variable (exemple : par mairie, par catégorie de dépense... ) et qui permette de voir combien a été alloué et combien a été dépensé et quand.

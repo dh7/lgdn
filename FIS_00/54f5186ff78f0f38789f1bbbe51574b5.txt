@@ -1,0 +1,1 @@
+uniformiser  le calcul de la taxe foncière et des ordures ménagères car trop de différence selon la commune ou la CDC dont on appartient .

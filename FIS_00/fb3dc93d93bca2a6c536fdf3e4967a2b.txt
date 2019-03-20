@@ -1,0 +1,1 @@
+Montrer en une seule page les entrées (TVA, IR, IFI, Prélèvements, taxes, y compris la dette, etc) et les sorties ( budgets régaliens, autres budgets, social, etc). Tableau en euros et en nombre de contributeurs et de bénéficiaires. Diffuser ce tableau en toutes occasions fiscales.

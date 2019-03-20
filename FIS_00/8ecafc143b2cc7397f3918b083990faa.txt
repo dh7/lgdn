@@ -1,0 +1,1 @@
+Envoyer chaque année par mail un résumé de la dépense de l'état dans chaque domaine, des actions en cours et des prévisions pour l'avenir.

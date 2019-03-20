@@ -1,0 +1,1 @@
+Mise en place d'un site web depuis lequel chaque poste de dépense, les montants alloués, etc. serait consultable, en tout temps, par tous.

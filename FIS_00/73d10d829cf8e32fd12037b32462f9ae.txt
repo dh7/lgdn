@@ -1,0 +1,1 @@
+plus de transparence : sur le site impôts.gouv.fr une section sur les recettes et dépenses et possibilité d'avoir le détail par région, département, commune.

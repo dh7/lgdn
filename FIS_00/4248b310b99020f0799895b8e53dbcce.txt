@@ -1,0 +1,1 @@
+classer les impôts par type (revenus, tva, CSG...) , donner la répartition par grandes classes (éducation, sécurité, armée, ...)

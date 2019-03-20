@@ -1,0 +1,1 @@
+- Création d'une page internet sur le site du gouvernement sur lequel sera visible en permanence la totalité du passif financier de l'ensemble du personnel politique ainsi que leur cv. - Création d'une autre page qui détaillerait en permanence les dépenses précises de l'état pour chaque poste de dépense. - Création d'une autre page détaillant tous les impôts perçus.

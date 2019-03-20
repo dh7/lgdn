@@ -1,0 +1,1 @@
+envoyer aux contribuables avec son avis d'imposition l 'affectation et le montant pour l impot collecté en N-1  envoyer aussi le prévisionnel pour N+1

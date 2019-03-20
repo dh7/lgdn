@@ -1,0 +1,1 @@
+Envoi de mass mail précisant les dépenses de l’état dans un langage clair

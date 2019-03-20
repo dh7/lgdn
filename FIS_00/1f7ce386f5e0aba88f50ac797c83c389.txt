@@ -1,0 +1,1 @@
+Comme pour les donations, choisir individuellement la répartition de notre impot dans les différents secteurs de l'administration en ayant un curseur montrant en temps réel les besoins de chaque secteur pour des choix d'investissements.

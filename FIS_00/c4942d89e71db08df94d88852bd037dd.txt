@@ -1,0 +1,1 @@
+rendre public le taux d'imposition effectif selon le niveau de revenu, par type de prélèvement et tous prélèvements confondus

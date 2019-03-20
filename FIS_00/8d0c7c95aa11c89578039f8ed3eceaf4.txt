@@ -1,0 +1,1 @@
+L’envoie de graphiques qui montre la répartitions des différentes sources de revenus et des dépenses à tous les niveaux (commune, département, région, état)

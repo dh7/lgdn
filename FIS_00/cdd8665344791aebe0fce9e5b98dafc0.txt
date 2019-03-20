@@ -1,0 +1,1 @@
+pour chaque prélèvement effectué  doit correspondre à une dépense. si le prélèvement est moindre, alors la dépense aussi

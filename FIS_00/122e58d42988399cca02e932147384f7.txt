@@ -1,0 +1,1 @@
+tableau simplifié mettant en évidence le % des dépenses par rapport à 100€. En mettant en face les recettes engendrées. La retraite coute X mais combien entre recettes et dépenses ?

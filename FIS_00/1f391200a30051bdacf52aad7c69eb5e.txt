@@ -1,0 +1,1 @@
+Donner les montants des recettes des diverses catégories d'impôts et les dépenses prévues/réalisées par grands chapitres.

@@ -1,0 +1,1 @@
+développer une application pour smartphone, qui montre en temps réel la collecte des impots et leur utilisation au niveau local, regional et national.

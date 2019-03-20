@@ -1,0 +1,1 @@
+Recenser toutes les aides sociales existantes de quelque provenance qu'elle soit et mettre en place un simulateur sur internet de calcul des aides selon la situation personnelle de la personne. Ajouter aussi l'accessibilité aux formulaires de demandes d'aide aux différents services. Indirectement, ce système permettrait de comparer la valeur travail à la valeur non travail.

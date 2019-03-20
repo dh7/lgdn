@@ -1,0 +1,1 @@
+une visualisation precise de la repartition des impots de chaque citoyen au moment de la declaration d'impot annuelle.  un camembert graphique representant la part (en euros) de l'impot que paie chaque citoyen pour chaque categorie our service.

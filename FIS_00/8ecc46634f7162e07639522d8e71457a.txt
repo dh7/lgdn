@@ -1,0 +1,1 @@
+Création d'un simulateur internet. Je rentre le montant de mon impôt. Le dispatche du montant par domaine d'usage apparaît alors.

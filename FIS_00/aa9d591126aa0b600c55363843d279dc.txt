@@ -1,0 +1,1 @@
+Un site internet simple où les dépenses sont affichées par départements et par catégories.

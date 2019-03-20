@@ -1,0 +1,1 @@
+Autoriser l’atrribution d’une recette provenant d’un poste précis à une dépense précise sur un poste donné. Ne plus globaliser les recettes et les dépenses.

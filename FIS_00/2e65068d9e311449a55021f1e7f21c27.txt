@@ -1,0 +1,1 @@
+1. Fournir un outil en ligne permettant de faire la correspondance entre impôts versés et dépense publique 2. Donner une "facture" pour chaque prestation sociale, affichant la part du bénéficiaire et la part solidaire 3. Publier le coût réel d'une journée à l'école, dans un hôpital ou pour l'accompagnement des personnes

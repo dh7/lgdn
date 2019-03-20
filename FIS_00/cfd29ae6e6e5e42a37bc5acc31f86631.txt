@@ -1,0 +1,1 @@
+Un site internet "citoyen" nous permettant de visualiser l'affectation de nos impôts. Un récapitulatif annuel adressé par courrier.

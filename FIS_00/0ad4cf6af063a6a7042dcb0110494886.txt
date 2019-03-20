@@ -1,0 +1,1 @@
+rappel chaque année le détail des ressources et des dépenses (ainsi que leur évolution depuis x années) de l'Etat dans le cadre de la déclaration des revenus de l'année.

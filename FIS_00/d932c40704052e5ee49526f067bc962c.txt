@@ -1,0 +1,1 @@
+Donner la décomposition des dépenses sous forme d’arborescence de façon à ce que nous puissions obtenir des informations très précises si nous le souhaitons.

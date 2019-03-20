@@ -1,0 +1,1 @@
+Une application permettant de connaitre la répartition des dépenses , la dette en temps réel voir même une infographie personnalisée avec le montant des impôts d'un contribuable et sa répartition suivant les domaines..

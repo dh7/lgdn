@@ -1,0 +1,1 @@
+Dans chaque service public, indiquer le coût de ce service (exemple : en préfecture, afficher au public le coût par an de ce qu'a coûté le fonctionnement de la préfecture)

@@ -1,0 +1,1 @@
+application des mêmes règles de calcul dans le privé et dans le public.

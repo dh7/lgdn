@@ -1,0 +1,1 @@
+- affichage de l'information au centre local des impôts et/ou en mairie.

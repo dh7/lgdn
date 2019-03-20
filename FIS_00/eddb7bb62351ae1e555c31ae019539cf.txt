@@ -1,0 +1,1 @@
+Exemple pour la pharmacie: comme le patient ne paie plus rien (ou presque), le coût réel de la prestation devrait figurer en gros caractères gras sur l'ordonnance et non plus en minuscule derrière (personne ne le voit).

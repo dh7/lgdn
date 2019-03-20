@@ -1,0 +1,1 @@
+"newsletter" personnalisée avec détails des dépenses par niveau (commune, département, région...)

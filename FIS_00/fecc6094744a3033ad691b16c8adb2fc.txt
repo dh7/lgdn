@@ -1,0 +1,1 @@
+Mettre en place un site .fr informant des dépenses réalisées ( forme à définir), par grand thème, avec  écart budget/dépense. Si gros écart négatif communiqué un plan d'actions.

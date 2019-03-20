@@ -1,0 +1,1 @@
+faire la meme chose que les mairies, afficher un camembert pour l'affectation de chaque budget et un camembert pour ce que coûte chaque poste de dépense.

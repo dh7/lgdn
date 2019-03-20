@@ -1,0 +1,1 @@
+Mettre en ligne un outil permettant de voir via un diagramme de type camembert la répartition de mon impôt avec une lecture en pourcent et une en euro (si mon impôt sur le revenu est de 1000 euros, voire combien d'euros sont pour la santé, combien sont pour l'armé ect...)

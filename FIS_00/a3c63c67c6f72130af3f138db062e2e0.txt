@@ -1,0 +1,1 @@
+Diffuser une synthèse annuelle sous forme de camembert présentant les grands postes de ressources et de dépenses  de l'état.

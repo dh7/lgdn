@@ -1,0 +1,1 @@
+Création d'un site consultatif permettant de savoir chaque année la répartition des dépenses en fonction des rentrées fiscales. Ex : TVA  Total perçu = x €. Redistribution---> n% aux hôpitaux, m% aux allocations familiales, p% aux routes..... même chose pour chaque type d'impôts

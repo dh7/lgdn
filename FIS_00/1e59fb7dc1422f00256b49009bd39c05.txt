@@ -1,0 +1,1 @@
+Par internet un histogramme prévisionnel et un histogramme réalisé par type de dépense.

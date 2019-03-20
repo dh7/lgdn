@@ -1,0 +1,1 @@
+Une application qui indique votre contribution et le montant d’impot Recolté total par domaine avec Ses depenses en face.

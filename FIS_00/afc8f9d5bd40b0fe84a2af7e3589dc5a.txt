@@ -1,0 +1,1 @@
+éviter les redondances et empilage de services qui gèrent la même chose, avoir des obligation de résultats comme dans le privé

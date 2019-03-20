@@ -1,0 +1,1 @@
+Graphique reprenant l'utilisation des impôts par secteur(éducation, défense... ) en % au moment de remplir la décalration d'impôts.

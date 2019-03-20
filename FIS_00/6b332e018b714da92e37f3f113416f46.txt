@@ -1,0 +1,1 @@
+Sur le site impots.gouv.fr, une page reprenant le tableau "Ce qui financent 1000 euros de dépenses publiques" publié dans le document du Grand Débat, avec une courbe évolutive sur plusieurs années.  Lister les actions engagées à partir des différents types d'impôts, et leur montant.

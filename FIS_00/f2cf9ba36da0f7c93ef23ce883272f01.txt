@@ -1,0 +1,1 @@
+donner le montant total des impôts perçus et la redistribution en pourcentage de chaque poste (fonction publique, enseignement, santé, défense, etc..)

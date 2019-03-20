@@ -1,0 +1,1 @@
+Redonner avant chaque vote les informations "normalisée" sur le budget géré par l'entité pour laquelle nous élisons.

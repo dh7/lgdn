@@ -1,0 +1,1 @@
+Faire correspondre chaque prélèvement à une dépense. "On vous prélève telle ligne, elle finance tel service"

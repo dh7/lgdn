@@ -1,0 +1,1 @@
+Augmenter le nombre de tranches d'imposition et réduire le pas entre chacune d'elles. Exemple 7 à 8 tranches en débutant avec un plancher de revenu autre que celui d'aujourd'hui et un maximum autre que celui d'aujourd'hui.

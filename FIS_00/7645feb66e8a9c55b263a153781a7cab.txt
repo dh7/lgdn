@@ -1,0 +1,1 @@
+Que chaque collectivité affiche simplement ce qu'elle a fait et combien cela coûte.

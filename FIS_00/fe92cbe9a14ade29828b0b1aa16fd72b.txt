@@ -1,0 +1,1 @@
+Lorsque nous déclarons et/ou réglons un impôt sur le site impôts.gouv, une fenêtre s'ouvre pour indiquer (en % par exemple) à quoi sert cet impôt que nous déclarons ou réglons

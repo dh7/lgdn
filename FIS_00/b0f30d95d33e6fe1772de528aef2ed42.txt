@@ -1,0 +1,1 @@
+Mettre sur les déclarations de revenus, l’utilisation des impôts par type de dépenses (en base 100).

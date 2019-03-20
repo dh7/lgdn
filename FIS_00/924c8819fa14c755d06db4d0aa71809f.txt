@@ -1,0 +1,1 @@
+A chaque niveau, indiquer par pourcentage où va l'impôt. Permettre d'accéder au budget réalisé de chaque collectivité.

@@ -1,0 +1,1 @@
+Simplifier les déclarations, et refuser le "tout internet".

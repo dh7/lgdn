@@ -1,0 +1,1 @@
+Mettre en ligne, l'affectation de chaque collecte d'impôt, taxes, PV, en faite chaque recette. Par exemple affecter toutes les recettes générées par les PV à l'amélioration de réseau routier.

@@ -1,0 +1,1 @@
+Affichage plus détaillé de la répartition des impots (avec des exemples précis) lors de la réception de la feuille d'imposition.

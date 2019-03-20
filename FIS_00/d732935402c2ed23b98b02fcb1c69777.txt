@@ -1,0 +1,1 @@
+Pour chaque impôt payé, avoir accès à l'utilisation qui en a été faite l'année précédente, et une projection sur l'utilisation pour l'année courante.

@@ -1,0 +1,1 @@
+Sur la feuille d'imposition, ajouter une grille de la répartition budgétaire de l'année en cours avec une colonne propositions liée à un logiciel qui permet de proposer " à budget constant" (qui existe déjà sans aucun doute). Associer une liste de règles pour éviter les variations caricaturales.

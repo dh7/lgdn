@@ -1,0 +1,1 @@
+Puisque tout le monde doit faire sa déclaration sur internet, afficher lors de la connexion une page qui détaille l'utilisation de tous les impôts et revenus de l'état par poste de dépenses.

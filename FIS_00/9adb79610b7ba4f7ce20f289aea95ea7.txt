@@ -1,0 +1,1 @@
+Donner le cout des services publiques quand ils sont utilisés (Santé, Eductaion, armée etc...) Donner le detail des depenses de l'etat avec l'avis d'imposition.

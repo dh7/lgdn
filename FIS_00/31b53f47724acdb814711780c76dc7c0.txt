@@ -1,0 +1,1 @@
+Publier un tableau de bord par ministère qui compare ce qui est fait par rapport à ce qui est prévu. La tendance sur le long terme et un niveau de détail qui parle : nombre de fonctionnaire de production (ex. prof) par rapport au fonctionnaire de support (ex. personnel administratif)

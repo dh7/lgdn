@@ -1,0 +1,1 @@
+Donner la répartition des impôts individuels par domaines et donner la possibilité d'ajuster cette répartition.

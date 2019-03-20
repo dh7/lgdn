@@ -1,0 +1,1 @@
+indexer la revalorisation des retraites sur l'indice des prix, avec modulation en fonction du montant des pensions. Revalorisation plus élevée pour les petites retraites(plafond a déterminer) moins élevée pour les grosses retraites.

@@ -1,0 +1,1 @@
+Pour chaque prestations fournis par l état et dont les citoyens sont directement utilisateurs (service public, hôpitaux ) il faut émettre des factures avec le coût arrière de la prestation même si on paye rien

@@ -1,0 +1,1 @@
+Un cahier de comptabilité avec entrées (les différents impôts) et les sorties (postes d'affectations de dépenses) : cela pourrait être par bloc à échelle macro puis plus finement dans les blocs : cf outils de com

@@ -1,0 +1,1 @@
+plus de transparence dans la répartition de l'utilisation des impots par la creation d'une page dans le site "impots gouv" permettant de visualiser les depenses nationales . Ceci en mode descriptif et forme graphique.

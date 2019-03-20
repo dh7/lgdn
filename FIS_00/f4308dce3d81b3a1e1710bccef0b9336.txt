@@ -1,0 +1,1 @@
+Y a rien de plus simple, un tableau excel avec recettes et en face dépenses.

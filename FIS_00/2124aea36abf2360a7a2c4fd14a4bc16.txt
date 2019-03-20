@@ -1,0 +1,1 @@
+au moment de la déclaration, montrer sur un camembert la redistribution pour chaque poste de l'état

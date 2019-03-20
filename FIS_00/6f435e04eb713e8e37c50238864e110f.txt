@@ -1,0 +1,1 @@
+Produire un budget simplifié, afin que chaque citoyen comprennent les dépenses engagées par l'état. Ce budget doit faire apparaître les différents ministères

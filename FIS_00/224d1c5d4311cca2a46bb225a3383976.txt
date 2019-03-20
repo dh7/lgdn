@@ -1,0 +1,1 @@
+une présentation simple du budget. liste des différents impôts perçus et, en face, les budgets de dépenses. publication des rémunérations des représentants de l'Etat et du nombre d'heures effectués (ex : salaire de 7000 euros/mois, pour 70 heures par semaine : 25 euros/heure)

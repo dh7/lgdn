@@ -1,0 +1,1 @@
+des affichages informant la population de qui paie quoi (et quel pourcentage) concernant les travaux, les services, les aides diverses (comment sont financées les aides...)

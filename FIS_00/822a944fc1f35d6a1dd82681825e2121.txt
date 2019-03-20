@@ -1,0 +1,1 @@
+Une plateforme en ligne avec une vue synthétique des dépenses et la possibilité d'accéder au détail de ces dépenses. Simplicité et transparence pour permettre à chacun de comprendre et d'apprécier le fonctionnement (ou dysfonctionnement) des budgets.

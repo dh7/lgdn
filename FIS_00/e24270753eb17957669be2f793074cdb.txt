@@ -1,0 +1,1 @@
+Mise en place d'un site sur gouv.fr faisant ressortir la ventilation de l'argent perçu par les impôts. Consultation de citoyens sur les projets de chantiers engendrant de grosses dépenses tant au niveau national que local.

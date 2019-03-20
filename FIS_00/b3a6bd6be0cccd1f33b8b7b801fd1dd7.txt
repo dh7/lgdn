@@ -1,0 +1,1 @@
+Rendre public dans chaque ville pour chaque investissement le coût de celui ci. Dans le cadre d'un investissement dépassant X millions,la possibilité pour les citoyens de s'y opposer. Si un nombre défini de citoyens s'y oppose, le projet est abandonné par exemple

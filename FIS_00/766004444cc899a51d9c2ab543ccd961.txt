@@ -1,0 +1,1 @@
+Informer par courrier avec un graphique simple permettant de connaitre la répartition de nos impôts dans les dépenses publiques, avec un exemple illustrant chaque grande catégorie de dépense

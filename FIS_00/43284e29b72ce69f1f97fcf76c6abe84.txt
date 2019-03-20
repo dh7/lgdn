@@ -1,0 +1,1 @@
+Diffuser plusieurs niveaux d'informations : global. Intermédiaire. Détaillé.

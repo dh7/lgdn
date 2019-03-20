@@ -1,0 +1,1 @@
+Un site web sur gouv.fr tout simplement relatant le montant d'impôt collecté, la répartition des budgets, jusqu'au niveau des entités et projets.

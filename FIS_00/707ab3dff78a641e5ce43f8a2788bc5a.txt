@@ -1,0 +1,1 @@
+Pouvoir accédé un rapport entre ce  qui est récolté par chaque échelon( état, région, département, communauté,ville)  et comment cet argent est dépensé.

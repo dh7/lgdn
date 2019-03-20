@@ -1,0 +1,1 @@
+Sectoriser les ressources de l'Etat et les dépenses correspondantes (suppression de la non affectation des ressources) et publier par branches bilan annuel

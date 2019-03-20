@@ -1,0 +1,1 @@
+Mettre en place sur une plateforme en ligne, l'ensemble des comptabilités des entités publiques (ministères, écoles, hôpitaux etc...) Permettre aux citoyens de saisir l'INSEE et la Cour des Comptes pour obtenir des données complémentaires.

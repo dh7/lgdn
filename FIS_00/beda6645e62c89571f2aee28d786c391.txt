@@ -1,0 +1,1 @@
+Mettre de simple graphique, type camembert, indiquant l’utilisation de l’impot de l’année  précédente sur l’avis d’imposition. Avec une évolution sur 3 ans.
