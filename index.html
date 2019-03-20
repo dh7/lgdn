@@ -10,7 +10,7 @@
             height: 100vh;
             margin: 0;
             background: rgba(0, 0, 0, 1);
-         }
+        }
         p {
             font-size: large;
             font-family: 'arial';
@@ -43,7 +43,7 @@
     url_str = window.location.href
     var url = new URL(url_str);
     var prefix = url.searchParams.get("prefix");
-    
+
     //Get the question list
     var questions = []
     fetch(prefix + '/' + 'questions.json')
@@ -54,12 +54,11 @@
     const {DeckGL, ScatterplotLayer} = deck;
 
     function color(object) {
-        x = object.c / 500 * 255
-        //return [0, x, 255-x/2]
+        x = object.c / 200 * 255
         return [50, x, 255-x]
-        //return [50, 250, 255]
+
     }
-    
+
     function setTooltip(object, x, y) {
       const el = document.getElementById('tooltip');
       if (object) {
