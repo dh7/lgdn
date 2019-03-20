@@ -39,24 +39,25 @@
   </body>
 
   <script type="text/javascript">
-    //Get the question set prefix
+    // Get the question set prefix
     url_str = window.location.href
     var url = new URL(url_str);
     var prefix = url.searchParams.get("prefix");
 
-    //Get the question list
+    // Get the question list
     var questions = []
     fetch(prefix + '/' + 'questions.json')
       .then(function(response) { return response.json(); })
       .then(function(data) {
         questions = data
       });
+    
+    // Create the deck object
     const {DeckGL, ScatterplotLayer} = deck;
 
     function color(object) {
         x = object.c / 200 * 255
         return [50, x, 255-x]
-
     }
 
     function setTooltip(object, x, y) {
@@ -92,7 +93,7 @@
           data: prefix + '/' + 'data.json',
           opacity: 0.1,
           pickable: true,
-          radiusScale: 500,
+          radiusScale: 1000,
           radiusMinPixels: 5,
           //getRadius: d => Math.sqrt(d.n),
           getPosition: d => [d.x*2, d.y*2, 0],
