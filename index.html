@@ -1,9 +1,8 @@
 <html>
   <head>
-    <title>Le Grand Debat National - Ecologie - question 1/title>
+    <title>deck.gl ScatterplotLayer Example</title>
 
     <script src="https://unpkg.com/deck.gl@^6.0.0/deckgl.min.js"></script>
-    <script type="text/javascript" src="ECO_00/questions.js"></script>
 
     <style type="text/css">
         body {
@@ -11,7 +10,7 @@
             height: 100vh;
             margin: 0;
             background: rgba(0, 0, 0, 1);
-         }
+        }
         p {
             font-size: large;
             font-family: 'arial';
@@ -40,42 +39,44 @@
   </body>
 
   <script type="text/javascript">
+    //Get the question set prefix
+    url_str = window.location.href
+    var url = new URL(url_str);
+    var prefix = url.searchParams.get("prefix");
 
+    //Get the question list
+    var questions = []
+    fetch(prefix + '/' + 'questions.json')
+      .then(function(response) { return response.json(); })
+      .then(function(data) {
+        questions = data
+      });
     const {DeckGL, ScatterplotLayer} = deck;
 
     function color(object) {
-        x = object.c / 500 * 255
-        //return [0, x, 255-x/2]
+        x = object.c / 200 * 255
         return [50, x, 255-x]
-        //return [50, 250, 255]
+
     }
-    
-    const controller = new AbortController()
-    const signal = controller.signal
-    
+
     function setTooltip(object, x, y) {
       const el = document.getElementById('tooltip');
       if (object) {
         el.style.display = 'block';
         el.style.left = x+10;
         el.style.top = y-10;
-        fetch('ECO_00/'+object.h+'.txt', {
-                signal: signal,
-            }).then(function(response) {
+        fetch(prefix + '/' + object.h+'.txt')
+          .then(function(response) {
                 return response.text()
           })
           .then(text => {
-            //el.innerHTML = object.formattedValue;
-            if (object.n>1) {text = object.n + ' personnes ont r&eacute;pondu: ' + text}
             el.innerHTML = '<b>' + questions[0] +'</b><br>'+ text
 
           })
           .catch(err => {
-            // Do something for an error here
             console.log(err)
           })
       } else {
-        //controller.abort()
         el.style.display = 'none';
       }
     }
@@ -88,7 +89,7 @@
       layers: [
         new ScatterplotLayer({
           id: 'scatter-plot',
-          data: 'ECO_00/data.json',
+          data: prefix + '/' + 'data.json',
           opacity: 0.1,
           pickable: true,
           radiusScale: 500,
