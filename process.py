@@ -84,7 +84,7 @@ for q in header[11:]:
     questions_vector.append(result_q)
     print('Q.:', q)  
 
-with open('{}/questions.js'.format(prefix),'w') as file:
+with open('{}/questions.json'.format(prefix),'w') as file:
     data = json.dump(questions, file)
 
 questions_array = np.stack(questions_vector, axis=0)
@@ -184,7 +184,7 @@ with open('./{}/data.json'.format(prefix),'w') as file:
     json.dump(new_list, file)
 
 
-with open('./{}/data.csv','w') as file:
+with open('./{}/data.csv'.format(prefix),'w') as file:
     file.write('md5,c,q_id,x,y\n')
     for i, md5 in enumerate(h_list):
         line = md5 + ','
