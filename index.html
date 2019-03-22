@@ -1,49 +1,45 @@
 <html>
   <head>
     <title>Le Grand d&eacute;bat National</title>
-
     <script src="https://unpkg.com/deck.gl@^6.0.0/deckgl.min.js"></script>
-
     <style type="text/css">
-        body {
-            width: 100vw;
-            height: 100vh;
-            margin: 0;
-            background: rgba(0, 0, 0, 1);
-        }
-        p {
-            font-size: large;
-            font-family: 'arial';
-            color: #fff;
-        }
-        .tip {
-            line-height: 1;
-            //font-weight: bold;
-            font-size: small;
-            font-family: 'arial';
-            padding: 12px;
-            background: rgba(0, 0, 0, 0.8);
-            color: #fff;
-            border-radius: 2px;
-            position: absolute; z-index: 1;
-            pointer-events: none;
-        }
+      body {
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        background: rgba(0, 0, 0, 1);
+      }
+      p {
+        font-size: large;
+        font-family: 'arial';
+        color: #fff;
+      }
+      .tip {
+        line-height: 1;
+        font-size: small;
+        font-family: 'arial';
+        padding: 12px;
+        background: rgba(0, 0, 0, 0.8);
+        color: #fff;
+        border-radius: 2px;
+        position: absolute; z-index: 1;
+        pointer-events: none;
+      }
     </style>
-
   </head>
 
   <body>
-      <p>Toutes les r&eacute;ponses du grand d&eacute;bat</p>
-      <div id="tooltip" class="tip"></div>
-      <canvas id="deck-canvas"></canvas>
+    <p><a><-</a></p>
+    <div id="tooltip" class="tip"></div>
+    <canvas id="deck-canvas"></canvas>
   </body>
 
   <script type="text/javascript">
     // Get the question set prefix
     url_str = window.location.href
     var url = new URL(url_str);
-    var prefix = url.searchParams.get("prefix");
-
+    var prefix = url.searchParams.get("prefix")
+    
     // Get the question list
     var questions = []
     fetch(prefix + '/' + 'questions.json')
@@ -71,8 +67,7 @@
                 return response.text()
           })
           .then(text => {
-            el.innerHTML = '<b>' + questions[0] +'</b><br>'+ text
-
+            el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
           })
           .catch(err => {
             console.log(err)
@@ -95,7 +90,6 @@
           pickable: true,
           radiusScale: 1000,
           radiusMinPixels: 5,
-          //getRadius: d => Math.sqrt(d.n),
           getPosition: d => [d.x*2, d.y*2, 0],
           getColor: d => color(d),
           onHover: d => setTooltip(d.object, d.x, d.y)
