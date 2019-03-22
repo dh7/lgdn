@@ -1,0 +1,1 @@
+Appliquer un bonus malus lors de la vente d'un logement, maison ou appartement, en fonction de la réalisation ou non des travaux d'isolation par entreprise RGE. Le bonus malus, qui devra au final être neutre pour l'État, prendrait la forme d'une TVA différenciée, ex: 3 ou 4 % pour les logements isolés RGE, 10 ou 12 % pour les logements sans isolation RGE

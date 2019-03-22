@@ -1,1 +1,0 @@
-c'est un problème global, on ne DOIT PAS isoler un seul paramètre

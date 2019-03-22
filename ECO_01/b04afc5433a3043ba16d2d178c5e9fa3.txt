@@ -1,0 +1,1 @@
+Limiter la production de CO2: 1-Industrie 2-Navigation diesel 3-Transports marchandises 4-Automobiles 5-Chauffage (fuel, gaz, charbon) 6-Transports aériens 8-Elevage animal 7-Homme:limiter les naissances

@@ -1,0 +1,1 @@
+Indiquer par un code couleur les produits bon/moyen/mauvais pour l’environement/ santé avec une note produit en prenant en compte l’ensemble de la chaîne production transport distribution.  Créer une fiscalité à géométrie variable les mauvais paye pour les bons

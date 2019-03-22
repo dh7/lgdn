@@ -1,0 +1,1 @@
+homogeneiser les limitations de vitesse pour arrêter de freiner et d'accélérer en permanence pour respecter les changemens de limitations. Limiter à 80 (ou 90) sur route, 50 en ville et 130 sur autoroute e c'est tout!

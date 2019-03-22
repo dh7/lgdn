@@ -1,0 +1,1 @@
+Par exemple un tarif dégressif du prix de l'eau ou de l'électricité en fonction du niveau de consommation

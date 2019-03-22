@@ -1,0 +1,1 @@
+Créer un service d'état afin d'évaluer un taux de pollution global pour chaque grandes entreprises et taxer (taxe carbone)  au même taux les dividendes des actionnaires. Ça devrait bouger !

@@ -1,0 +1,1 @@
+Création d'une vraie Taxe verte qui taxe les entreprises en fonction de leur impact environnemental. Les montants seraient plafonnés en fonction de la taille et du CA de l'entreprise. Création d'un département fiscal au ministère de l'écologie afin de contrôler la perception de ces revenus et de les éloigner de Bercy.

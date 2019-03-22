@@ -1,0 +1,1 @@
+Toute solution qui n'ajoute pas un coût supplémentaire, sinon ça ne marche pas

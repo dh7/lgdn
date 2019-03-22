@@ -1,0 +1,1 @@
+Régulation automatique de la vitesse par une liaison radiofréquence entre les panneaux de limitation de vitesse et les des véhicules.

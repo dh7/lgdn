@@ -1,0 +1,1 @@
+Exemple : rendre les cartouches d'imprimante d'un constructeur compatible avec toutes les imprimantes de sa gamme comme on pourrait le faire avec les chargeur d'imprimante. Arrêter les emballage inutile faire un marketing plus écolo!

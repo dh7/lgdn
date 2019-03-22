@@ -1,0 +1,1 @@
+Localiser la production sur une échelle locale afin de réduire les transports. limiter l'importation de produit qui ont de long trajet d'importation.

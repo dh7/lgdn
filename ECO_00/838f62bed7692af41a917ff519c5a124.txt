@@ -1,1 +1,0 @@
-On ne peut "cocher" qu'un bouton, or il n'y a pas d'ordre de priorité : l'écosystème est, par définition, un système donc des relations

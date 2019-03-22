@@ -1,0 +1,1 @@
+Disposer en temps réel d'un affichage des consommation du ménage (eau, électricité, chauffage) pour détecter toute dérive et améliorer progressivement la consommation.

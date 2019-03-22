@@ -1,0 +1,1 @@
+Adapter les types de culture à ces modifications. Exemple doit on encourager la culture du mais avec irrigation (prix + rémunérateur) à outrance alors que l'on souhaite la préservation de la ressource en eau. Il faudrait faire en sorte que les cultures soient adaptées à ces modifications de climat, mais il faut s'assurer que ces évolutions ne pénalisent pas les agriculteurs.

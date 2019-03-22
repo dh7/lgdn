@@ -1,0 +1,1 @@
+Apposer des détecteurs sur les poubelles extérieures  indiquant leur niveau de remplissage et diminuer ainsi les collecte d'OM avec les camions.

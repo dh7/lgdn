@@ -1,0 +1,1 @@
+Les bus de la RATP laissent tourner le moteur à l'arrêt dans les gares routières pour que le conducteur ne souffre pas du froid dans sa chemisette ; cherchez l'erreur

@@ -1,0 +1,1 @@
+Simplifier l'accès aux aides de l'état. Limiter le nombre d'aides concernées tout en augmentant leurs valeurs. Plafonner les aides en fonction des revenus

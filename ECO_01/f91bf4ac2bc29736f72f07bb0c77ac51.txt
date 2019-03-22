@@ -1,0 +1,1 @@
+Il serait intéressant de développer une application comme Yuka qui scanderait les produits et attribuerait une "note écologique" qui tiendrait compte de la gouvernance de l'entreprise productrice et de l'ensemble des impacts négatifs sur l'environnement.

@@ -1,1 +1,0 @@
-Il ne peut pas exister de priorité car il faut tenir compte des interactions.

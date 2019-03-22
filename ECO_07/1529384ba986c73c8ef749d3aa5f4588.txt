@@ -1,0 +1,1 @@
+supprimer les contraintes et autorisations administratives de tous ordres

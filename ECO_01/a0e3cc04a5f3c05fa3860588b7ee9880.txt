@@ -1,0 +1,1 @@
+impser lors de la construction d'un batiment la mise ne place d'un parc avec surface proportionnelle

@@ -1,0 +1,1 @@
+Forcer les baillers à améliorer l'efficacité énergétique de leurs logement par un biais de bonus / malus selon la classe d'efficacité énergétique. Le système devrait être neutre d'un point de vue budgétaire (bonus totaux = malus totaux) et non refacturable aux locataires

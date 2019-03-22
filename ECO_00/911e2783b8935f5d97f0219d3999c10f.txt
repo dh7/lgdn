@@ -1,1 +1,0 @@
-l'environnement pour le développement, et non un développement obtenu au détriment de l'environnement.

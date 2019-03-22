@@ -1,0 +1,1 @@
+Une tarification variable, volume du logement qui correspond tarification standard theorique, si on depasse cela devient plus cher.

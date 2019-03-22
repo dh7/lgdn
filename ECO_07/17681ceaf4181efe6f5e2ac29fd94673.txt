@@ -1,0 +1,1 @@
+Niveler les prix selon la consommation. Plus l'on consomme, plus le prix est élevé et inversement. Il faut récompenser ceux qui font des efforts.

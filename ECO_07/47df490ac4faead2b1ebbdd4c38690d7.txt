@@ -1,0 +1,1 @@
+Fixer aux fournisseurs des contraintes de produits et autres sous réserve qu'elles soient très anticipées

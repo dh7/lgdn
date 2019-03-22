@@ -1,0 +1,1 @@
+{   user: {     username: "NodeSecurity",     bio: "as</script><script>alert('You have an XSS vulnerability!')</script>"   } }

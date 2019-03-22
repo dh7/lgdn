@@ -1,0 +1,1 @@
+Péage pour les poids lourd au km sur tout le réseau à partir du compteur du véhicule. Taxe transport sur les produits importés en fonction de la distance parcourue  Le transport doit devenir un élément plus significatif du cout des produits

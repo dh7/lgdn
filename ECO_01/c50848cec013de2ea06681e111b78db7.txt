@@ -1,0 +1,1 @@
+pollueurs = payeurs, c'est-à-dire faire payer le VRAI prix du transport (usure des routes, coût des accidents, coûts de pollution, etc... )

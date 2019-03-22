@@ -1,0 +1,1 @@
+Supprimer les véhicules diesel en particulier les camions Intégrer  réellement le prix du transport (sur route ou maritime ou avion)  dans le prix de revient des marchandises

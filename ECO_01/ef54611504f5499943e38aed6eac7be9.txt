@@ -1,0 +1,1 @@
+Tous nos appareils connectés sauvent des milliards de données le plus souvent sans intérêt sur des serveurs très gourmands en énergie. Comme ce service est "gratuit" pour l'utilisateur, il ne se rend pas compte de cette consommation cachée (en grande partie financée par la publicité). Par ailleurs l'arrivée de la 5G nous promet encore plus de données archivées!

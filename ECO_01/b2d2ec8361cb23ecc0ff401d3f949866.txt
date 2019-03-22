@@ -1,0 +1,1 @@
+supprimer l'heure d'été et revenir à l'heure de notre fuseau de référence en France, celui de Greenwich,soit GMT 0 toute l'année en reculant d'une heure fin mars 2019 pour réduire les coûts et les gaspillages d'énergies, réduire la pollution, les pics d'ozone aux heures les plus chaudes, et cesser de contribuer au dérèglement climatique

@@ -1,0 +1,1 @@
+Produire de manière locale lorsque c'est possible pour limiter les transports. Accepter une régression de la consommation

@@ -1,0 +1,1 @@
+Calculer le bilan carbone de chaque produit acheté et rajouter l'équivalent en taxe sur le cout.

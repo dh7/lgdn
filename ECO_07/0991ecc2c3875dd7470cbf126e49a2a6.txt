@@ -1,0 +1,1 @@
+Le coût du kW devrait être proportionnel a la consommation : moins on consomme plus il est bas

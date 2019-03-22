@@ -1,0 +1,1 @@
+Mettre en place les règles de "Ville30" partout : vitesse par default 30 km/hr, exceptions éventuelles pour certains axes. Ceci réduit la pollution atmosphérique ET sonore, c'est moins dangereux pour les piétons (qui ont la priorité), les vélos et autres trottinettes, et même les conducteurs/trices.

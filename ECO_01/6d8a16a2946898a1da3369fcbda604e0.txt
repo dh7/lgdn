@@ -1,0 +1,1 @@
+limiter la puissance des voitures, par exemple une vignette à partir de 150 chevaux.

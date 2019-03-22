@@ -1,0 +1,1 @@
+Un afficheur de consommation en temps réel qui devrait être fourni avec le linky comme c'est le cas dans d'autres pays européens.

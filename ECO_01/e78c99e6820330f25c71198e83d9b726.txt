@@ -1,0 +1,1 @@
+Internaliser les externalités négatives pour que le signal prix soit clair et fournir l’infrastructure pour le changement. Inadmissible qu’il faille 7 à 10 ans pour développer un parc éolien ou 20 ans pour le nouveau métro de Paris

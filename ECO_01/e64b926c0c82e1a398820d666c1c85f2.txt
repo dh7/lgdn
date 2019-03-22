@@ -1,0 +1,1 @@
+Il faut que les états s'unissent pour trouver des solutions vraiment efficaces. Pour l'instant chaque état pense au bénéfice qu'il pourrait tirer des décisions qu'il prend, et souvent sans se soucier de l'efficacité réelle.

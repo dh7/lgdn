@@ -1,0 +1,1 @@
+Chaque mois relever et afficher  dans un endroit spécifique et visible rapidement par le plus grand nombre  ( affichage lumineux à  l' entrée de la  commune par exemple)  le  degré  de pollution de la commune.

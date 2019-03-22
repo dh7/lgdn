@@ -1,0 +1,1 @@
+mix gaz/bois. Éteindre la lumière dans les pièces non occupées. Conduite plus souple.

@@ -1,0 +1,1 @@
+limiter les importations venant de loin et produire uniquement de la qualité afin de moins consommer

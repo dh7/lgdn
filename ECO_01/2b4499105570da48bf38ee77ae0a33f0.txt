@@ -1,0 +1,1 @@
+Créer un site d'échanges de jobs pour permettre aux salariés de la région parisienne par exemple de limiter le nombre de kilomètres en voiture, alors qu'un même job peut se trouver plus proche de son domicile mais occupé par quelqu'un qui habite à l'opposé de l'IDF.

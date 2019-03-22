@@ -1,0 +1,1 @@
+Stopper les importations/exportations des marchandises produites et consommées localement.

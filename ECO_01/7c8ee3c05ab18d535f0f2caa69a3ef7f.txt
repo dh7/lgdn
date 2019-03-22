@@ -1,0 +1,1 @@
+Un taux de TVA variable incluant les kilomètres parcourus par le produit ou ses composants.

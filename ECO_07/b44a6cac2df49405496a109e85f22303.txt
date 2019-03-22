@@ -1,0 +1,1 @@
+La contrainte financière doit être évolutive.

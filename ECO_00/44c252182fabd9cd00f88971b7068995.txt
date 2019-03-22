@@ -1,1 +1,0 @@
-Tous ces problèmes sont liés aux mêmes causes, l'objectif n'est pas de prioriser ces problèmes mais de retravailler sur leur cause (surconsommation, croissance infinie...)

@@ -1,0 +1,1 @@
+éviter les rejets en les captant directement à leur sortie (exemple filtrage, compression et réservoir  des gaz d'échappement de voiture ou bateau)

@@ -1,0 +1,1 @@
+Moduler le taux de TVA en fonction de l'usage et de la qualité écologique des produits plutôt que de leur catégorie technique.

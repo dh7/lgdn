@@ -1,0 +1,1 @@
+trie sélectif, réduire le maximum ma consommation énergique

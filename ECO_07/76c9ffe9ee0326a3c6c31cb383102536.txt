@@ -1,0 +1,1 @@
+supprimer les commissions et comités qui ne servent à rien

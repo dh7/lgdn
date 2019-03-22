@@ -1,0 +1,1 @@
+Augmenter les contributions aux tris des déchets en diminuant le train de l'état.

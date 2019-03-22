@@ -1,1 +1,0 @@
-L'environnement est un tout : agir sur un des items ne peut avoir que des effets positifs sur les autres.

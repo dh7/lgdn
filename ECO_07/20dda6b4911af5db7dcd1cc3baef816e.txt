@@ -1,0 +1,1 @@
+cout de l'energie gaz/électricité proportionnel à la consommation

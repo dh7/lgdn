@@ -1,0 +1,1 @@
+Création d’une taxe basée sur le kilomètre parcouru par un produit depuis son origine ou sa modification. Un poids lourds qui n’a rien à livrer localement, n’a rien à faire sur les routes départementales, il doit utiliser l’autoroute ou le ferroutage.

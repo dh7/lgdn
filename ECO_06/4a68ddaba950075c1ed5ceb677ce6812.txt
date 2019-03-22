@@ -1,0 +1,1 @@
+Rendre encore plus simple l'accès aux container de tri sélectif.

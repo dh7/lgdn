@@ -1,0 +1,1 @@
+Un signal fort de l'état qui indiquerai à tout le monde qu'il est temps de changer.

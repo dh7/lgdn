@@ -1,0 +1,1 @@
+Mis en place d'une méthode de bonus/malus en fonction du comportement

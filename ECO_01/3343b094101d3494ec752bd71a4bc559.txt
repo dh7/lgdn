@@ -1,0 +1,1 @@
+Afficher pour chaque produit importé le TEP (taux équivalent en pétrole) et taxer proportionnellement au km parcourus. Ne pas importer de produits consommables que l'on peut cultiver en France.

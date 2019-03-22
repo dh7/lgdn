@@ -1,0 +1,1 @@
+Developper les transports en communs sur rails partout pour aller d’une ville à une autre en qques minutes et non pas que Paris, exemple : Orléans - Montargis : 1h30 en autocar au secours pour aller travailler... plutôt prendre la voiture ..dommage

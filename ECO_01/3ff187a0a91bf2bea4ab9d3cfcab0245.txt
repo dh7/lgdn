@@ -1,0 +1,1 @@
+Un code couleur en fonction du coût de fabrication (transport + processus de production) afin de favoriser la production locale. Ne surtout pas se passer de nucléaire (éolien et solaire sont très polluant et production discontinue).

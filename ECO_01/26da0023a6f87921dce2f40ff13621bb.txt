@@ -1,0 +1,1 @@
+amélioration des liaisons province --> province. Par exemple, liaison Lille --> Rouen : 1 seul train direct à 6 h oo du matin, sinon il faut passer par Paris avec un coût exorbitant. Autre solution, prendre sa voiture. Pas très écologique et coût important

@@ -1,1 +1,0 @@
-tous : il ne faut pas hiérarchiser les problèmes. Ils sont tous plus ou moins liés par des relations de causes à effets

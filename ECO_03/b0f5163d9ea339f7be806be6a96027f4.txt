@@ -1,0 +1,1 @@
+Changement de température (si inférieur ou égale à 0 plus de chauffage). Etc.

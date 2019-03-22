@@ -1,0 +1,1 @@
+Faire travailler les 100 entreprises ayant le meilleur CA sur le sujet (avec forte penalite en cas d echec)

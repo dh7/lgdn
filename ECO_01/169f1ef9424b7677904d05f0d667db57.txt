@@ -1,0 +1,1 @@
+Trop de véhicules thermiques: voitures/camions/bateaux cargo /avions: -voitures:avoir des parkings géants à la périphérie des grandes agglo. -camions:plus de ferroutage -bateaux:électrique,solaire, éolien, au moins de l'essence avec des filtres a particules au lieu du fioul lourd

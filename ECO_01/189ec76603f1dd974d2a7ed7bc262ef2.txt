@@ -1,0 +1,1 @@
+Diminuer le nombre maximum d'animaux par élevage : 50 vaches maxi, 200 poules maxi

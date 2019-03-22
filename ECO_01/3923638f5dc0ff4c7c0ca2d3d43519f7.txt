@@ -1,0 +1,1 @@
+Ajouter une nouvelle poubelle, container pour ramasser les déchets biologiques. L’intérêt est créer des composts ou de les utiliser dans des usines productrice méthane.

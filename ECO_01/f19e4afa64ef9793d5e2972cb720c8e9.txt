@@ -1,0 +1,1 @@
+Taxer le transport d'une marchandise au kilomètre parcouru selon les moyens employés. ex : le tshirt fait au vietnam acheté à Mende doit être moins cher que le TShirt fait à Strasbourg acheté à Mende.
