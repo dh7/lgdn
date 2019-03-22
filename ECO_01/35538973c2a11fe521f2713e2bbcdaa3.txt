@@ -1,1 +1,0 @@
-Taxer les produits selon la provenance. Limitant les taxes sur les achats en personne/de saison et taxant les achats recus par avion/maritime

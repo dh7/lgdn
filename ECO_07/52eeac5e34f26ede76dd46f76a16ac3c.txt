@@ -1,1 +1,0 @@
-Viser en premier ceux qui émettent le plus de pollution.

@@ -1,1 +1,0 @@
-Créer un site où chacun peut voir par région, par ville ce qui est prévu dans l'avenir, sous quel délai et le coût prévu. Demander aux citoyens ce qu'il leur semble important à réaliser en priorité dans une liste de travaux à faire.

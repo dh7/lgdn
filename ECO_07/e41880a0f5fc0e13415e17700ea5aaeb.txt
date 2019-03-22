@@ -1,1 +1,0 @@
-Que l'état crée une centrale de production de générateurs à énergie libre déployables localement.

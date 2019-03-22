@@ -1,1 +1,0 @@
-Simplifier les accès aux transport, vélo à la main, faire des ouvertures toujours sur un même côté qui soient de très grande largeur. Faire des transports qui fonctionnent 24h sur 24.

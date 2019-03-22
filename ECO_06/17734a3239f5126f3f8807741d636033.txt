@@ -1,1 +1,0 @@
-Prendre en compte les distances dans les affectations des postes de fonctionnaire.

@@ -1,1 +1,0 @@
-Créer un vrai tarif vert d'électricité avec une baisse du prix du kWh en échange d'un délestage automatique en cas de pointe (repenser les EHP et EJP).

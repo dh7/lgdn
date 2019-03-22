@@ -1,1 +1,0 @@
-Etre en capacité de mesurer de manière fine nos consommations appareil par appareil ce que le compteur Linky aurait dû permettre.

@@ -1,1 +1,0 @@
-Le développement d'une plateforme web de référence qui faciliteraient les échanges locaux (pour du covoiturage avec ses voisins, faire les courses, échanger ou vendre des objets).

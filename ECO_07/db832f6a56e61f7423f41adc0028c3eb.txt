@@ -1,1 +1,0 @@
-Developper les différents types de tri et fixee le prix de l enlèvement des poubelles en fonction du tri fait,

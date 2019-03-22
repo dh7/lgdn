@@ -1,1 +1,0 @@
-Afficher un tableau de bord trimestriel montrant les impôts collectés et les prestations servies.

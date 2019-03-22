@@ -1,1 +1,0 @@
-Imposer pour chaque secteur des bonus/malus en fonction de l'utilisation de ressources pour des besoins vitaux (bonus) ou du gaspillage (malus)

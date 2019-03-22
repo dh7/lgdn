@@ -1,1 +1,0 @@
-Envoi d'un email annuel à tous français contenant un détail de l'utilisation des recettes de l'IR.

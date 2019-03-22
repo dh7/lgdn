@@ -1,1 +1,0 @@
-La transition doit permettre l'amortissement des équipement actuels. L'état ne doit pas imposer le remplacement des équipements actuels tant qu'ils sont fonctionnels. Il faut attendre qu'ils atteignent leur fin de vie pour les remplacer à cette échéance par des équipements plus performants (voiture, chauffage, équipements électriques divers...).

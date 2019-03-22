@@ -1,1 +1,0 @@
-Créer un site accessible à tous, où l'on retrouverait les "camemberts" de répartition des dépenses, en partant d'une répartition globale puis pour chaque tranche de nouveaux camemberts de répartition et ceci jusqu'à un niveau local. Ceci permettrait de disposer d'une base de chiffes officiels et ainsi d'éviter les polémiques d'interprétation.

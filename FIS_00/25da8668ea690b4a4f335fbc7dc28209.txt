@@ -1,1 +1,0 @@
-Bilan annuel des dépenses et recettes envoyé à chaque citoyen par email.

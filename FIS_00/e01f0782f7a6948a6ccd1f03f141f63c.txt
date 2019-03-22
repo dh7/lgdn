@@ -1,1 +1,0 @@
-Lister toutes les taxes -  Pour une taxe donnée: quelle est son objectif, son rendement, où va l'argent, les pour/contre,

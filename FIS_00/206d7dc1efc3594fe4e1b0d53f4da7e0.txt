@@ -1,1 +1,0 @@
-Afficher le cout réel total de tous les services publics.

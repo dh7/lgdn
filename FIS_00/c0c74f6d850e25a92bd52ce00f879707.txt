@@ -1,1 +1,0 @@
-Bien séparer les couts de fonctionnements et de gestion, des couts directs du service offert. Quel est le coût de collecte de l'impôt? Quel est le coût de distribution des aides de solidarité au sein des organismes publics et para-publics

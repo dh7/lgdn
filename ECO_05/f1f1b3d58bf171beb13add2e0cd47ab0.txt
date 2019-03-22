@@ -1,1 +1,0 @@
-auto production ,limitation des déplacements et régulation de la consommation

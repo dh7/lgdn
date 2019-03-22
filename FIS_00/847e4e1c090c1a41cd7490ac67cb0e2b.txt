@@ -1,1 +1,0 @@
-Que toutes les dépenses soient recensées sur une base de données (qu'elles soient justifiées par des factures, comme dans chaque entreprise)

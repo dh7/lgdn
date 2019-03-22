@@ -1,1 +1,0 @@
-sanctionner/taxer : pollueur --> payeur

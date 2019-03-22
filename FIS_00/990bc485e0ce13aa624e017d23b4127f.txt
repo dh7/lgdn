@@ -1,1 +1,0 @@
-- Rendre public et accessible le budget de fonctionnement et d'investissement de chaque ministère et afficher le poids du budget de chaque ministère dans le budget total de l'Etat. Il est temps de connaitre le poids du ministère de la transition écologique ! - Rendre public les salaires des ministres, députés et sénateurs, au nom de la transparence

@@ -1,1 +1,0 @@
-Mettre en place un Bonus /Malus pour les emballages en plastique. Définir par exemple pour chaque produit autant de consommation courante et autre (lessive, fruit et légumes, livre, paquet de biscuit, vis, DVD...) le poids maxi d’emballage plastique "toléré" de sorte qu'un produit sans emballage plastique soit moins chère que exactement le même sans emballage plastique

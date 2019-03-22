@@ -1,1 +1,0 @@
-1/ lister les sources de pollution par ordre d'importance et par catégorie (emballages, produits plastique courants, pneus...) . 2/Dans chaque catégorie, regarder d'une part quel est la source la plus importante de pollution et celle où les gains sont les plus faciles. 3/ Agir pour chaque catégorie sur ces deux sources, en commençant par la catégorie la plus "polluante".

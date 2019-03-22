@@ -1,1 +1,0 @@
-L’idéal serait d’avoir un bilan personnalisé mettant concrètement en relation les impôts et taxes que j’ai payés avec les aides et les services publiques que j’ai utilisés. Un peu comme le simulateur de l’INSEE permet de créer son propre indice d’inflation. Mais tous ces curseurs à bouger sont rébarbatifs, peut être a remplacer par un algorithme à apprentissage.

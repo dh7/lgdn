@@ -1,1 +1,0 @@
-Conduite de la voiture en mode "éco". Utiliser les transports en commun lorsqu'ils existent. Impossible en zone rurale.

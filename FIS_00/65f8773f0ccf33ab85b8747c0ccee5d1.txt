@@ -1,1 +1,0 @@
-Un graphique simple, type camembert, qui montre dans quel secteur l’impot est dépensé. Sur la feuille d’impot! . Plus important simplifié! Trop de ligne sur un bulletin de salaire... la complexité de notre model est vecteur de stress et participe au mécontentement

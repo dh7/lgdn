@@ -1,1 +1,0 @@
-véhicule = indépendance mais vélo électrique ok sur petite distance Chauffage = contrat entretien obligatoire  Transport en commun = aléatoire

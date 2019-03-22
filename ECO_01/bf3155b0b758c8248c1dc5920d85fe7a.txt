@@ -1,1 +1,0 @@
-Cibler les constructeurs plutôt que les consommateurs.

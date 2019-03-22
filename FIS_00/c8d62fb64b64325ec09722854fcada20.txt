@@ -1,1 +1,0 @@
-Afficher clairement les dépenses par poste (infrastrucutre, personnel, investissement, frais de fonctionnement, ...) et permettre de les comparer d'une commune à l'autre, d'une région à l'autre.

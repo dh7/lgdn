@@ -1,1 +1,0 @@
-supprimer les charges fixes sur les consommations d'énergie, et ne payer que ce qu'on consomme Système de bonus pour ceux qui font l'effort d'économiser.

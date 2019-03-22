@@ -1,1 +1,0 @@
-Changer de véhicules pour des trajets longs en utilisant un véhicule avec moteur à hydrogène et points de recharge.

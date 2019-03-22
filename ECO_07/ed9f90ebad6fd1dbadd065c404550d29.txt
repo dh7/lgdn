@@ -1,1 +1,0 @@
-Payer pour le transport urbain uniquement en fonction de la distance parcourue à l'aide de cartes informatisées (comme au Japon),

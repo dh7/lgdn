@@ -1,1 +1,0 @@
-Supprimer les voitures ayant une forte consommation au L / 100 km ( 4 x 4 .... ) sauf pour ceux dont l'utilisation est justifiée (agriculteurs par exemple).

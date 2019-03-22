@@ -1,1 +1,0 @@
-Créer un impôt unique qui intégrerait l'ensemble des paramètres (habitation, nombre d'enfants à charge, revenus…) Cet impôt serait calculer à partir d'une formule et de coefficients qui permettraient au citoyen de recalculer lui-même son impôt.

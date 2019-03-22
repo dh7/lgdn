@@ -1,1 +1,0 @@
-Le site internet des impôts devrait afficher de manière simple (sous forme de camembert et de tableaux) l'utilisation des impôts, toutes taxes confondues.

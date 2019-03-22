@@ -1,1 +1,0 @@
-Chaque arbre coupé pour une route ou un immeuble. On mesure son diametre. Et on plante autant de nouveaux arbres pour que leurs diametres reunis fasse la meme valeir que celui fraichement coupé.

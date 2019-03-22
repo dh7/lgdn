@@ -1,1 +1,0 @@
-Simplement un tableau récapitulatif indicateur SIMPLE publié mensuellement et indiquant (en montant et en %) pour le mois passé, la ventilation de l'IRPP dans les différentes dépenses de l'état.

@@ -1,1 +1,0 @@
-Afficher plus clairement le nombre de personnes concernés par les différentes tranches d'imposition (qui paye quoi)

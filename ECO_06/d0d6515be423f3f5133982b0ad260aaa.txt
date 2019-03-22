@@ -1,1 +1,0 @@
-Supprimer le stationnement payant, un racket qui incite les automobilistes à polluer d'avantage.

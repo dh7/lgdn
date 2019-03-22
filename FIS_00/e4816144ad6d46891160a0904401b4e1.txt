@@ -1,1 +1,0 @@
-un graphe camembert pour les recettes (sources comme charges sociales, patronal, tva, tipp, impôt sur le revenu...) et un autre sur les dépenses (vieillesse, maladie, éducation, armée.) afin que chacun visualise + communication sur les réseaux sociaux. Pas assez d'information donnée en language non technocratique

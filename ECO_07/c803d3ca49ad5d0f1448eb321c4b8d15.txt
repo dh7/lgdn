@@ -1,1 +1,0 @@
-Demander au constructeur automobile de faire des véhicules non polluant moins cher a l'achat et à la consommation. Exp: Coût d'utilisation d'une voiture électrique(location batterie plus consomation) aussi cher qu'une voiture essence et moins d'autonomie.

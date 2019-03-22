@@ -1,1 +1,0 @@
-crée une grilles pour toucher des aides, en fonction de son salaire et de sa situation familiale. N'avoir qu'une seule grosse aide social et non plus cumuler différentes aides de toutes les diverses collectivités territoriales. Ou  mettre en place le salaire universel?

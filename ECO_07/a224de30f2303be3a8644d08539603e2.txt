@@ -1,1 +1,0 @@
-taxer un produit en fonction de la quantité de déchets qu'il génère. Créer une vignette automobile qui tient compte également de la consommation réelle des véhicules et non pas uniquement de leur âge. Les solutions ne coûtent pas cher ! On peut faire de l'écologie en faisait des économies .... Et c'est même la manière la plus logique de faire !

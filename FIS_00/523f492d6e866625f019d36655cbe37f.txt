@@ -1,1 +1,0 @@
-Création d'une fiche de synthèse par foyer fiscal détaillant la somme de ses contributions annuelle à la collectivité (taxes, impots locaux et nationaux) ainsi que la somme des montants perçus via la redistribution (santé, scolarité, retraites, deductions d'impots etc).

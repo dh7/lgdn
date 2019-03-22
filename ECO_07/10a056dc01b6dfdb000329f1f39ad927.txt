@@ -1,1 +1,0 @@
-Une application pouvant mesurer sa dépense d'énergie et sa pollution par mois, par an... Améliorer l'autopartage, donner un quota d'énergie à chacun avec un prix ¨normal¨ et augmenter le prix de l'énergie au delà du prix normal, aider les diagnostiques énergétiques et les personnes qui économise l'énergie et la pollution.

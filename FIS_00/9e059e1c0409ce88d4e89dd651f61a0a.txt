@@ -1,1 +1,0 @@
-Créer un site par commune, département, région et l'état, indiquant mensuellement, de façon lisible, les recettes et dépenses de chacune de ces collectivités publiques.

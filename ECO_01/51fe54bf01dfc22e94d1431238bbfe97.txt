@@ -1,1 +1,0 @@
-Il faut proposer une nouvelle offre de moyens de transports : trains, voitures, avions, bateaux. Ces moyens devront s'adapter aux strictes besoins nécessaires (modularité).

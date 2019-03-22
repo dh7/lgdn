@@ -1,1 +1,0 @@
-montant reçu par l’état,montant distribué,montant dépensé,charges courantes

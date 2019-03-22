@@ -1,1 +1,0 @@
-Tout simplement notifier le montant de la part de l’impôt  à chaque fois que le citoyen utilise un service public.

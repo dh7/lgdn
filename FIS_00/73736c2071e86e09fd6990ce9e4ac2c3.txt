@@ -1,1 +1,0 @@
-Mettre en ligne sur le site impots.gouv.fr tout ce qui se rattache au budget national : attribution des sommes par ligne de dépense (ex : éducation => telle somme, défense => telle somme, etc...)

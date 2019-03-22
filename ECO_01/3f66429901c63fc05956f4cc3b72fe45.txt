@@ -1,1 +1,0 @@
-Planifier une décroisssance controllée, sans baisse du niveau de vie (car les variables ne sont pas complètement corrélées).

@@ -1,1 +1,0 @@
-Affiche pour chaque initiative, chaque travaux "ceci a été financé par ..."

@@ -1,1 +1,0 @@
-Créer une taxe sur toutes les marchandises transportées en fonction du nombre de kilomètres à partir du lieu de production jusqu'au point de vente, que ces marchandises soient transportées par camion, bateau ou avion.

@@ -1,1 +1,0 @@
-accès simple en ligne des dépenses de l'état.

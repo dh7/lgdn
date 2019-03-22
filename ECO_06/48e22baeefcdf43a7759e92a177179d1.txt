@@ -1,1 +1,0 @@
-avoir des indicateurs de consommation, instantanée ou journalière pour visualiser ses comportements par rapport à une consommation théorique "acceptable"

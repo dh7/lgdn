@@ -1,1 +1,0 @@
-Identifier dans chaque entreprise et administration les agents pouvant effectuer leur mission en télétravail. Dès que les seuils de pollution sont atteints dans la zone de l'entreprise ou l'administration, ou en cas de vigilance orange ou rouge météo, les personnes concernées télétravaillent afin d'éviter des déplacements.

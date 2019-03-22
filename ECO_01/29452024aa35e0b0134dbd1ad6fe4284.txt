@@ -1,1 +1,0 @@
-Sur la route, nous croisons tous des véhicules qui polluent plus que d'autres. S'il existait une application sur mobile pour recenser les plaques d’immatriculation de ces véhicules, et à partir d'un certain nombre de notifications pour un même véhicule, un contrôle anti-pollution devrait pouvoir être réalisé, avec immobilisation du véhicule si le contrôle est hors normes.

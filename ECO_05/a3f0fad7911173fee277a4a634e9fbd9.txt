@@ -1,1 +1,0 @@
-- Tri des déchets (mais il faudrait que nous ayons la possibilité de le faire plus finement que de façon seulement binaire comme c'est encore trop souvent le cas),  - Délaisser la voiture en ville et utiliser les transports en commun.

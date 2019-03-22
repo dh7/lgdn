@@ -1,1 +1,0 @@
-Augmentation des seuls prix des articles de consommation issus de l'importation en fonction du coût réel de leur empreinte carbone.

@@ -1,1 +1,0 @@
-tous les soirs avant le 20h, afficher le chiffre en temps réel de la dette et montrer ce qui est donné chaque jour par l'Etat aux différents ministères. Afficher des courbes pour montrer là où des améliorations sont apportées.  comme pour la viande, la traçabilité de l'impôt : pour qui va l'argent que je donne, dans quelle caisse.

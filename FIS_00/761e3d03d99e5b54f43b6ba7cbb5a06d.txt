@@ -1,1 +1,0 @@
-Afficher sur les réalisations (travaux, écoles, hôpitaux, transports...) les montants investis grâce aux impôts.

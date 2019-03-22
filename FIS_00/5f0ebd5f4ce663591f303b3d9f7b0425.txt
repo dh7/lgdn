@@ -1,1 +1,0 @@
-Envoi à chaque foyer fiscal d'un email estimatif mensuel ou annuel des dépenses prises en charge par la collectivité, et d'un aperçu global de l'utilisation des impôts par poste avec indication de l'évolution de ces postes. Cela inclue la charge de la dette.

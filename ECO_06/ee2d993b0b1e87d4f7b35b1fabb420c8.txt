@@ -1,1 +1,0 @@
-Un outil me permettant de quantifier au jour le jour et pour chaque action mon impact de pollution par rapport à une référence (pour ne pas avoir l'impression que mes actions sont insignifiantes).

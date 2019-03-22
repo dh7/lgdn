@@ -1,1 +1,0 @@
-Des structures type pointinfo énergie pour diffuser des bonnes pratiques.

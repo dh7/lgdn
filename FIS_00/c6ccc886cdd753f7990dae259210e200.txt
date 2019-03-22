@@ -1,1 +1,0 @@
-Mettre en ligne un bilan simplifié des comptes de la france : dépenses / recettes postes par postes de manière aggrégée, avec un ou deux niveau de détail inférieurs. Par exemple j'aimerai savoir combien la taxe d'habitation rapporte, ou combien l'AME ou la CMU nous coûtent.

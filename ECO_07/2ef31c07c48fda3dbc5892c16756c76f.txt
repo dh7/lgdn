@@ -1,1 +1,0 @@
-simplifier le CEE : j'ai failli abandonner l'affaire devant la complexité du dossier suite au changement de chaudière

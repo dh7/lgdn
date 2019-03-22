@@ -1,1 +1,0 @@
-- un véhicule électrique à prix abordable (10000 euros max) et des bornes de rechargement en nombre suffisant - le "rationnement": nb de km max par an en véhicule "fossile" (voiture à combustion, avion, ...) alloué à chaque citoyen

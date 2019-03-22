@@ -1,1 +1,0 @@
-- Construction de parkings à l'entrée des grandes villes et péage pour circuler en centre ville. - Interdiction de construire à moins d'une certaine distance d'un site pollueur déjà installé (usine, culture, aérodrome, etc.) - Obligation de dépolluer les rejets pour les usines

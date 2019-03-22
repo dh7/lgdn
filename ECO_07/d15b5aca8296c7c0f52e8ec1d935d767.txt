@@ -1,1 +1,0 @@
-Donner des compteurs affichant la consommation énergétique en temps réel et cumulés dans les maisons pour inciter aux économies d'énergie.

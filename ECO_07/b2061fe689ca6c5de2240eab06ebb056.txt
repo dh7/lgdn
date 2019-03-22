@@ -1,1 +1,0 @@
-Généraliser le tri des déchets au domicile avec des ramassages hebdomadaires des différents type de déchets. Déchets ménagers, bio déchets, déchets papier, déchets plastique (Bouteilles).

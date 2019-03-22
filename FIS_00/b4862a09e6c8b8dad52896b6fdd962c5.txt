@@ -1,1 +1,0 @@
-Lister sur une page web toutes les taxes existantes (par ordre d'importance) : comment elles sont prélevées et à quel usage elles sont affectées.

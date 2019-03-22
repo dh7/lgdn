@@ -1,1 +1,0 @@
-Intégrer un histogramme de répartition par grandes catégories du montant de l'IR sur chaque avis d'imposition avec l'évolution par rapport à l'année N-1 et en envoyer une aux foyers non imposables pour information.

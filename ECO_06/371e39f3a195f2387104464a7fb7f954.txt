@@ -1,1 +1,0 @@
-Si mon espace particulier de fournisseur de gaz (Engie) me donnait ma consommation de gaz (chauffage) par jour, je pourrai avoir une idée précise et modifier mes comportements. Actuellement, je suis limité à la donnée par mois complet, qui ne permet pas d'évaluer des modifications de temperatures par exemple.

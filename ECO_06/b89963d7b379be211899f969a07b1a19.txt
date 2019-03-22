@@ -1,1 +1,0 @@
-Développement d´un système intégré de transport en commun relayé par un « car sharing » de véhicules électriques. Ce dernier pouvant par-exemple être segmenté (bas de gamme jusqu´à grand luxe) en terme de véhicules. Nouveau model économique pour les producteurs de véhicules: vendre la mobilité plutôt que le véhicule.

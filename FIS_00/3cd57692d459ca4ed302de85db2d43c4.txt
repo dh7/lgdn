@@ -1,1 +1,0 @@
-Faire une correspondance avec ce qu'ils ont payés concrètement. Style : si tu paies 1532 euros , dire que 156 sont partis pour la formation, 12 pour les routes.... (ex fictifs). Cela serait plus parlant

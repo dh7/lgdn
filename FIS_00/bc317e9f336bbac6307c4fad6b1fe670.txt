@@ -1,1 +1,0 @@
-Publier la liste complète de l'ensemble des taxes et impôts avec montant récolté chaque année (avec comparatif n-1) et leur allocation dans le budget de l'état. Publier dans le même temps-là liste complète des niches fiscales et les montants redistribués.

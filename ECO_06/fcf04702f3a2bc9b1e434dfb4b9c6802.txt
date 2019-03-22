@@ -1,1 +1,0 @@
-Synchroniser les feux tricolore pour éviter les arrêts et démarrage trop fréquents.

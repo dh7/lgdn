@@ -1,1 +1,0 @@
-Un transport de réseau en commun plus performant.

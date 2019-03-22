@@ -1,1 +1,0 @@
-Il faut synthétiser et vulgariser les données et que celles-ci soient accessibles sur les espaces particuliers (type impots.gouv) - Expliquer via un un pop-up informatique à quoi sert l'argent collecté sur telle ou telle taxe (ou impôts, ou amende)

@@ -1,1 +1,0 @@
-transports : meilleure fréquence des transports publics en ville  ( un intervalle de 20 minutes pour un bus à Paris en heures de pointe n'est pas tolérable)

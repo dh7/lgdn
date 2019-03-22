@@ -1,1 +1,0 @@
-proposer une application qui permette de faire un état des lieux de l'état de notre impact et qu'elle permette de proposer des conseils, des contacts (pour les aides), des organismes etc.

@@ -1,1 +1,0 @@
-Avoir accès au bilan annuel de l'état. Une arborescence simple de chiffres avec les dépenses par ministère, sous chaque ministère les détails des dépenses toujours en arborescence.

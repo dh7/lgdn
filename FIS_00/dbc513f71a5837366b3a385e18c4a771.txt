@@ -1,1 +1,0 @@
-Afficher clairement le cout des prestations et de la redistribution, en n'occultant pas de donner les bénéfices éventuels au niveau de la famille, de l'éducation, de la justice....enfin de tous les services publics.

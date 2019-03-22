@@ -1,1 +1,0 @@
-Un site internet dédié avec la répartition de nos différents impôts (IR TH TF TVA IS etc) en fonction de différents postes plus ou moins détaillés selon le niveau local/départemental/regional/national, associé à une possibilité de vote (referendum) pour certaines prises de décisions.

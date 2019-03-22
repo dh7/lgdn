@@ -1,1 +1,0 @@
-Il serait utile d'avoir un tableau récapitulatif qui donne la répartition des coûts à tous les étages du mille feuille administratif (état, régions, départements, communes) en indiquant pour chacun d'eux les différents types de dépenses: fonctionnement, investissement, social.

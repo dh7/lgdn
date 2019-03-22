@@ -1,1 +1,0 @@
-création d'un pool de voitures à la demande dans chaque communes

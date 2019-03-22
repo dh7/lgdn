@@ -1,1 +1,0 @@
-Tri du maximum de déchets possibles. Limitation de l'utilisation de la voiture.

@@ -1,1 +1,0 @@
-Envoyer une lettre d'information avec l'avis d'imposition stipulant la destination de l’impôt (en %).

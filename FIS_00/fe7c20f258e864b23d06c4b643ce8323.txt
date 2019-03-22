@@ -1,1 +1,0 @@
-Créer un site pésentant par domaine (enfance, santé, route, transports, sécurité, charges de personnel des divzerswses collectivités territoriales...) et par département la répartition des dépenses. Avec une réactualisation mensuelle ou trimestrielle.

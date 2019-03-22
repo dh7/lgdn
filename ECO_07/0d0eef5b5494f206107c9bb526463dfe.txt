@@ -1,1 +1,0 @@
-limitation de la vitesse des véhicules simplification du tri taxer les produits qui polluent en fonction de leur vitesse de dégradation (taxer l'obsolescence) : électroménager, vêtements, voitures, électronique grand public ... => afin que le prix reflète la (non) durabilité du produit avoir des benchmarks de la collectivité sur la qualité des produits selon leur marque

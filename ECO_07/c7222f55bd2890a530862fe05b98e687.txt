@@ -1,1 +1,0 @@
-Réajustement de la TVA selon la méthode de production et l'origine du produit (plus cher si ça vient de loin et mal fait)

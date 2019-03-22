@@ -1,1 +1,0 @@
-Les solutions doivent être pratiques et faciles à mettre en oeuvre (par exemple la disparition d'autolib est une très mauvaise nouvelle). Les transports à Paris ne sont pas adaptés pour une adoption par chacun (sale, bondé, peu fiable). On ne devrait pas avoir l'impression de faire un sacrifice quand on prend le métro.

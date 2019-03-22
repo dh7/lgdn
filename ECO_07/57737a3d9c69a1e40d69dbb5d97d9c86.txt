@@ -1,1 +1,0 @@
-Revoir les règles d'attribution des aides, elles sont trop généralistes et ne prend pas en compte la réalité du terrain, c'est à dire certain aléas technique de mise en œuvre. Lors que vous êtes dans ce cas le surcoût engendré devrait être pris en charge

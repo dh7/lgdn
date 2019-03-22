@@ -1,1 +1,0 @@
-Lister les recettes. Décomposer les dépenses poste par poste pour traquer les dépenses superflues et/ou inutiles.

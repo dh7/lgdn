@@ -1,1 +1,0 @@
-Un site internet qui affiche clairement le montant engrangé par chaque impôt et son nombre de contribuables ensuite la justification de chaque euros dépensés .

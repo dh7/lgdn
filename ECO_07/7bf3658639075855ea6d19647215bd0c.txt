@@ -1,1 +1,0 @@
-Diminuer les prix des tickets en fonction de la consommation en vendant par exemple les tickets par 50 ou 100.

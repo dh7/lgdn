@@ -1,1 +1,0 @@
-Envoyer tous les ans un récapitulatif de tous les impots que le foyer a payé, comparé aux impots payés par les autres en fonction des déciles et en moyenne. Afficher l'évolution, et l'utilisation.

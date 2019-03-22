@@ -1,1 +1,0 @@
-Simplifier les calculs pour comprendre ce qui nous ait pris et à qui cela est redistribué

@@ -1,1 +1,0 @@
-- Adapter les amendes aux portefeuilles du contrevenable. (exemple : la Suède qui choisit l'amende en fonction du taux d'imposition des citoyens) CA SEMBLE LOGIQUE !!!!

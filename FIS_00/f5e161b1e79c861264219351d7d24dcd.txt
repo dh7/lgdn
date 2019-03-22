@@ -1,1 +1,0 @@
-Intégrer une participation des banques en restituant les incidents bancaire qui est à ce jour de 8€ par carte.

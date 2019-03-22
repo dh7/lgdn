@@ -1,1 +1,0 @@
-Rappeler les pourcentages de l'impôt affectés à chaque domaine (éducation, santé, police etc... ).

@@ -1,1 +1,0 @@
-Donner des informations claires trimestriellement sur "Impôts.gouv.fr"  sous la forme d'un tableau de bord que l'on puisse conserver et comparer dans le temps.

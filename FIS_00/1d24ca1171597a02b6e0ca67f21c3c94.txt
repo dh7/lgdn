@@ -1,1 +1,0 @@
-Afficher systématiquement le prix réel et les contributions de l’etat Dans les facturations de services subventionnés par l’état ( actes médicaux, cantine, frais de scolarité, etc)

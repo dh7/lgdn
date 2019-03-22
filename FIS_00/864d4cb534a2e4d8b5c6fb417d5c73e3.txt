@@ -1,1 +1,0 @@
-panneau ex : ce trottoir a ete payé avec vos impots, afficher les couts ex : à l'entrée de l'ecole "la scolarité de votre enfant coute X euros à l'état et elle est payée par vos impots.

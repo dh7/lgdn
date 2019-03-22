@@ -1,1 +1,0 @@
-trie sélectif,plantation d'arbre des que possible

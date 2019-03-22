@@ -1,1 +1,0 @@
-Etant donné que tout le monde a un téléphone portable, et que l'on donne nos numéros de téléphone aux administrations, envoyer un texto simple et court expliquant à quoi sert chaque type d'impôt.

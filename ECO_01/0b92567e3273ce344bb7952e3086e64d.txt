@@ -1,1 +1,0 @@
-Le système des allocations familiales français est trop favorable aux familles nombreuses. Réviser à la baisse le montant des allocations familiales, notamment à partir du deuxième enfant. Si l'allocation pour le premier enfant est d'un montant A, l'allocation additionnelle pour le deuxième enfant pourrait être A/2, puis A/4 pour le 3ème, etc., A/2^n pour le n+1-ème enfant.

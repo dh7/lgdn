@@ -1,1 +1,0 @@
-Mettre a disposition avec une application un résume de toutes les taxes et impôts, leur mode de calcul et comment l'argent est reparti (commune, region, etat). Rendre les budget locaux accessible, pour que les contribuables se rendent compte de comment est utilise leurs impôts et taxes.

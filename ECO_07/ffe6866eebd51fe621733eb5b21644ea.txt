@@ -1,1 +1,0 @@
-Instaurer des seuils de consommation avec un barème par habitant et par m2 Pour une consommation en-dessous du seuil un tarif privilégié est appliqué, au-dessus du seuil le coût est très supérieur et un "questionnaire-enquête" d'aide à la déconsommation est adressé

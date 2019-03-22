@@ -1,1 +1,0 @@
-simplifier ( unifier CSG et IR, supprimer les niches, clarifier les charges sociales sur le travail) et affecter les impôts à un échelon territorial en charge de telle ou telle action

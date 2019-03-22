@@ -1,1 +1,0 @@
-Brider les véhicules neufs à la vitesse limite de chaque tronçon de route en fonction des coordonnées GPS. Pas de limite globale, mais tronçon par tronçon.

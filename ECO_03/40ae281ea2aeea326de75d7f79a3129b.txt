@@ -1,1 +1,0 @@
-Dans mon métier on calcul les installations en fonction d'une température extérieur. Il y a 10 ans pour la région parisienne cette valeur était 32°C maxi. Aujourd'hui la valeur de référence est 38 voir 40°C

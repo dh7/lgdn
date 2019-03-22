@@ -1,1 +1,0 @@
-Un bonus/malus avec un coût et produit = 0 pour l'état. Pollueur/payeur

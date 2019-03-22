@@ -1,1 +1,0 @@
-Attribuer un nombre de litre par personne et par moi et si on est en dessous réduction de x % sur la facture si au dessus majoration de x % idem pour électricité

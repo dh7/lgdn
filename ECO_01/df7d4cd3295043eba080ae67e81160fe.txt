@@ -1,1 +1,0 @@
-En plus du prix d'achat il faudrait afficher un coût environnemental. Un article peut être peu cher (parce que fabriqué à bas coût) mais son coût environnemental serait élevé (transport, matières premières utilisées,...)

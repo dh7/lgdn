@@ -1,1 +1,0 @@
-Donner les montants des dépenses des élus de l'état...salaires et budgets de fonctionnement.

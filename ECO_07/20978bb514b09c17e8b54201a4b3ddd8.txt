@@ -1,1 +1,0 @@
-Les comportements changent si les solutions de rechanges ne sont finalement pas plus contraignantes

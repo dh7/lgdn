@@ -1,1 +1,0 @@
-Un site internet présentant des infographies simplifiées sur des données actualisées mensuellement : poste de dépenses de l'état, recettes de l'état (prévu, réalisé, par type,...) bref des graphiques et des données accessibles à tous et actualisées. L'équivalent d'un budget familial :-)

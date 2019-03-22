@@ -1,1 +1,0 @@
-- en cours : tri sélectif des déchets/recyclage, covoiturage, circuits de production courts - si correctement développé au niveau national: utilisation de sources d'énergie et de modes de transport "propres"

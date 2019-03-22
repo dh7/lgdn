@@ -1,1 +1,0 @@
-+ d'information sur les cours du baril de pétrole et sur les taxes de l'état : graphe mettant les évolutions des 3 données prix de l'essence, cours, taxes  Transparence sur l'utilisation des taxes de l'état

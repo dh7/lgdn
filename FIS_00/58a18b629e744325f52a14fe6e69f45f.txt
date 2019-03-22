@@ -1,1 +1,0 @@
-A part l'IR, IS et la TVA, toutes autres taxes doivent être fléchées vers leurs utilisations afin d'avoir une meilleure lisibilité.

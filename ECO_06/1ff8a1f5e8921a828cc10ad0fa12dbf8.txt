@@ -1,1 +1,0 @@
-- une estimation de ma consommation d'énergie de chauffage par mon fournisseur d'énergie, par rapport à un objectif raisonnable de consommation pour une surface similaire de logement; - une augmentation du prix des carburants et du gaz, avec une information sur l'augmentation moyenne du budget annuel essence pour 1000 km parcourus et du budget annuel gaz;

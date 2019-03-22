@@ -1,1 +1,0 @@
-Un service de navette pour se rendre en ville aller/ retour 26km . Actuellement bus 7h /17h

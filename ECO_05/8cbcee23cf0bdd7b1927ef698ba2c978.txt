@@ -1,1 +1,0 @@
-Je test actuellement un service de location de vélo électrique pour faire mes courts trajets, au lieu de ma voiture. En fonction des résultats de ce test, la municipalité autorisera ou pas ce service à être commercialisé.

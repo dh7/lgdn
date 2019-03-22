@@ -1,1 +1,0 @@
-reciclage, trie selectif. mais ce n'est pas suffisant pour résoudre les vrais problèmes.

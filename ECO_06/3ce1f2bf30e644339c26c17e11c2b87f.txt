@@ -1,1 +1,0 @@
-Infrastructure de location de vehicules (tous modes, velo/voiture/ trotinette etc.. ) partagés electriques ou thermiques largement déployée

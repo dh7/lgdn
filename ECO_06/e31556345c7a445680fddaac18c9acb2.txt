@@ -1,1 +1,0 @@
-- Accès quotidien en ligne aux dépenses énergétiques (consommation électricité ou gaz) avec applications interactives qui permettent d'aider à se fixer des objectifs de consommation. Actuellement, avec la facture bi-annuelle d’EDF il est difficile de planifier et rectifier

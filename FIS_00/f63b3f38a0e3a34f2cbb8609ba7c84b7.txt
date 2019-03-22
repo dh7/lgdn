@@ -1,1 +1,0 @@
-Envoyer à chaque citoyen une synthèse claire décrivant: - quels sont les types d'impôts (directs, indirects, locaux, nationaux) - quel est le montant total et qui et combien de personnes paie les impôts - le montant de la dette - quelle sont la part des dépenses pour chaque poste (y compris la dette)

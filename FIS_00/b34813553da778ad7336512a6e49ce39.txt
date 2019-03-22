@@ -1,1 +1,0 @@
-Créer un site internet permettant sous forme de tableaux de consulter toutes les dépenses et recettes publiques en temps réel. Expliquer l'utilité de chaque dépense. Expliquer les modalités de financement de ces dépenses.

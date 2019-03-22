@@ -1,1 +1,0 @@
-	Modifier les taux de TVA, par exemple : o	0% : Produits de première nécessité (Sparadraps, dentifrice, pain) o	5% : Alimentation biologique produite en Union Européenne o	10% : Alimentation biologique produite hors Union Européenne o	15% : Alimentation non biologique o	20% :  o	30% : Produits de luxe (montres>100€, voiture>100 000€, Œuvres d’arts > 1 000€)

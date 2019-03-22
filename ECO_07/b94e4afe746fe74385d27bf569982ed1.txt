@@ -1,1 +1,0 @@
-Système de bonus-malus à réfléchir avec des experts en fonction des situations (nb de personnes dans le ménage, type de travail, éloignement domicile-travail, locataire ou propriétaire...) et des objectifs à atteindre. Mieux vaut beaucoup de gens qui font un petit effort que peu de gens qui en font énormément (et paraissent "fous" ou "inaccessibles" à la majorité)

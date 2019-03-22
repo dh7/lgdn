@@ -1,1 +1,0 @@
-Editer un récapitulatif des dépenses à envoyer aux citoyens par ministère et par types d'activités. Le nombre de contributeurs et de bénéficiaires pourr ait y être indiqué

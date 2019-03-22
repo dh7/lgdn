@@ -1,1 +1,0 @@
-Prix du gaz chauffage fixe jusqu’à un certain niveau de consommation puis qui augmene (prix/m2/diurne qui donne la base du forfait)

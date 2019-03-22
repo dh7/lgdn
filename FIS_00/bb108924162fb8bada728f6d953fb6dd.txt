@@ -1,1 +1,0 @@
-fournir avec chaque déclaration d’impôt sur le revenu, une feuille A4 avec deux "camemberts": - un graphique indiquant pour 1000€ perçu par l’état, X% provient de l’impôt direct des particuliers, Y% provient des impôts sur les entreprises, Z% des taxations indirectes (TVA, TIPP, etc..) -un second graphique indiquant la répartition des dépenses de l'état

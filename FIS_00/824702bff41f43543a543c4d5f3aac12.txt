@@ -1,1 +1,0 @@
-Création d'un site internet qui détail les dépenses en temps réel de l'état dans tous les domaines (comme un relever de compte mensuel)  puis un récapitulatif annuel de la dépense de nos impôts .

@@ -1,1 +1,0 @@
-Changer la taxe diésel en créant un coefficient multiplicateur en fonction de la quantité de carburant. Ex jusqu'à 30 l la taxe est de 1. De 30 l à 60l la taxe est de 1,5. Au delà la taxe est de4

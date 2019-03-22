@@ -1,1 +1,0 @@
-Augmentation du prix du carburant et de l'énergie au delà d'un certain quota dépendant de mon lieu de domicile par rapport à mon lieu de travail.

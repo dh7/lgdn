@@ -1,1 +1,0 @@
-Publication d'un bilan annuel avec répartition des dépenses sous forme de "camembert" : la visualisation des proportions est immédiate.

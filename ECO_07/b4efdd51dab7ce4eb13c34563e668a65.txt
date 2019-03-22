@@ -1,1 +1,0 @@
-une taxe sur la distance ajoutée lors de l'achat de produits : plus la distance est importante plus le taux est important.   Un taux 0 pour des produits ayant parcourus moins de 250km et un taux maximum de 20% pour les produits ayant parcourus plus de 1089km (c'est un exemple).

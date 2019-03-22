@@ -1,1 +1,0 @@
-Fluidifier le trafic routier dans les villes, pour diminuer la pollution de l'air. Pour ceci mettre un indicateur de fluidité dans chaque ville et conditionner le reversement de la taxe d'habitation à un seul minimum. Pour ceci il faut développer un système de gestion du trafic automobile à base d'IA et adapter les infrastructures au besoin actuel.

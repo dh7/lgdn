@@ -1,1 +1,0 @@
-Taxer en fonction de la distance d’approvisionnement:: plus la matière vient de loin, plus elle est taxée sauf si elle  n'existe pas  localement

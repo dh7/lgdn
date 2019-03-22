@@ -1,1 +1,0 @@
-envoyer chaque année avec l'avis d'imposition un graphique ''camembert'' qui indiquerait le % affecté à chacun des grands budgets.

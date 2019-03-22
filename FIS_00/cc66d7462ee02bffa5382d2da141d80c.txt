@@ -1,1 +1,0 @@
-. Pour tout versement au titre de la protection sociale, rappeler le taux que cette catégorie de dépenses représente par rapport au budget de l'Etat. . Afficher cette information en page d'accueil des espaces "Impôts.gouv.fr"

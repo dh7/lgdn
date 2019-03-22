@@ -1,1 +1,0 @@
-Marcher pour les trajets de moins de 5 kms Prendre le TER pour aller à la ville la plus proche

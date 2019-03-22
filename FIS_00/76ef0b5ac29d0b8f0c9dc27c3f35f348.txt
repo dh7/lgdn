@@ -1,1 +1,0 @@
-une lecture simple de la feuille d'impôt. A ce jour, celle-ci est truffée de termes peu compréhensibles, il y a également trop de codes illisibles qui ne font références à rien de concret.

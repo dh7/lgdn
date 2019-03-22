@@ -1,1 +1,0 @@
-Pour le bonus malus des voitures, le faire en fonction de la pollution de la voiture, mais aussi de son coûts d'achats, et des revenus du futur propriétaire ... même chose pour les aides.

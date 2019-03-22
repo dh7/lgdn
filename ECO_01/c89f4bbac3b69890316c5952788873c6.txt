@@ -1,1 +1,0 @@
-fixe rles taux de tva selon la distance effectuée par le produit, 30 pour cent de tav pour les produites hors Europe, 20 pour pour l'Europe, 10 pour le France, 5 pour le circuit court

@@ -1,1 +1,0 @@
-donner la possibilité de couper totalement l'énergie des appareils qui ne sont pas immédiatement en service.

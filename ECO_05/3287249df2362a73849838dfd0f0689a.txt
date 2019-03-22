@@ -1,1 +1,0 @@
-- Eviter des déplacements inutiles.  - Limiter le chauffage, l'éclairage, la consommation d'eau.

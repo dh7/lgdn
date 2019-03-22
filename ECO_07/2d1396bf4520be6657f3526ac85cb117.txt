@@ -1,1 +1,0 @@
-Faire des systèmes de bonus/malus en fonction de l'utilisation faite des ressources

@@ -1,1 +1,0 @@
-Incitation positive dans le tri des déchets en sur taxant ceux dont les déchets sont > moyenne et en réduisant l'impact financier pour ceux dont la production de déchets est <moyenne.

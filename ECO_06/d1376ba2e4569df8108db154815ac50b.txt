@@ -1,1 +1,0 @@
-Utilisation du VTC pour les petites distances.

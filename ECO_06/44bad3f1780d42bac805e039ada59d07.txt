@@ -1,1 +1,0 @@
-Avoir un indicateur d'émissions de gaz à effet de serre pour l'énergie consommée. Indiquer le temps de marche entre les différents quartiers d'une ville de plus de 10000 habitants.

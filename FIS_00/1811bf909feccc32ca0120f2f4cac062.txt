@@ -1,1 +1,0 @@
-Application avec notifications indiquant la raison de la dépense et son montant. Par thèmes, par section géographique.

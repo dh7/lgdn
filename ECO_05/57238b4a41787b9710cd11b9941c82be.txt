@@ -1,1 +1,0 @@
-- baisse de la consommation electrique (arrêt de la lumière des clim l'été lorsque appartement non occupé) - tri selectif

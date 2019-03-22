@@ -1,1 +1,0 @@
-Laisser moins d'appareil en veille si le temps de la remise en marche était moins long.

@@ -1,1 +1,0 @@
-Taxer les industriels selon un ratio poids de l'emballage par apport à la contenance du produit. Cela imposera aux industriels de limiter les emballages (exemple cosmétiques ou certains contenant ne contiennent que quelques ml de produits)

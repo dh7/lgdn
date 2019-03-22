@@ -1,1 +1,0 @@
-synchroniser les feux rouges sur les limitations de vitesse de façon à éviter les redémarrages des véhicules , et les accélérations.

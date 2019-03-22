@@ -1,1 +1,0 @@
-Augmenter la transparence avec un détail complet des dépenses/recettes par zone et par catégorie (+ budget ?).

@@ -1,1 +1,0 @@
-Mettre à disposition en ligne l'ensemble des lignes budgétaires consommées suivant une arborescence à plusieurs niveaux, avec pour chacune les lignes de crédits mobilisées pour les financer (par exemple pour s'assurer que les recettes des contraventions au code de la route vont bien au financement d'amélioration du réseau routier).

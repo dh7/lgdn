@@ -1,1 +1,0 @@
-Rendre toutes les données publiques (y compris les salaires des fonctionnaires, les coûts de travaux de voiries, etc.) à toutes les échelles disponibles sur un site de type données.gouv.fr

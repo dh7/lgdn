@@ -1,1 +1,0 @@
--Faire des "factures", par exemple recevoir par mail après une journée à l'hôpital un document qui récapitulerait le coût (soins, matériel, charges etc.) et à côté le montant zéro que le citoyen n'a pas à débourser grâce au système social.

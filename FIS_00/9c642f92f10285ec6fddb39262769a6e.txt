@@ -1,1 +1,0 @@
-Que tous les différentes composantes des recettes de l'Etat (impôt, taxe ...etc.) soient affichées sur les informations sur les feuilles d'imposition. Il faut aussi bien faire comprendre que les cotisations (sécurité sociale, retraite) ne sont pas des impôts.

@@ -1,1 +1,0 @@
-Limiter tout déplacement inutile

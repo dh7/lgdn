@@ -1,1 +1,0 @@
-Un site unique ou toutes les institutions(Ministères) seraient représentées. Pour chaque ministère, un camembert visuel des réparties d'argent alloué, leur provenance, et un camembert sur toutes dépenses et leurs répartitions. DU VISUEL avant toute ligne explicative

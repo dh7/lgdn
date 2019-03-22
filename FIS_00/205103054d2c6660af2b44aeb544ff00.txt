@@ -1,1 +1,0 @@
-Créer un site qui donnerait des informations précises sur le financement que l'état à réalisé dans tel ou tel commune pour chaque poste et ce que les habitants de la commune ont payés (globalement) comme impôts, (impôts sur le revenu, taxe d'habitation et taxe foncière. faire de même pour le département et la région.

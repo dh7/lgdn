@@ -1,1 +1,0 @@
-Montrer localement comment est affectée la dépense locale, issue des impôts locaux et donner la possibilité de l'augmenter au de la diminuer en fonction des services souhaités et de la capacité de dépenser efficacement.

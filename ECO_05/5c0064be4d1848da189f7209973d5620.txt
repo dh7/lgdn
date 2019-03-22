@@ -1,1 +1,0 @@
-le tri et la limitation des deplacements inutiles

@@ -1,1 +1,0 @@
-Realiser des Bilans annuels des sommes collectés en detaillant bien l'origine de l'impot. Avec en face les lignes de depenses qui y sont rattachés. Analyse des évolutions et plan d'action pour l'année à venir

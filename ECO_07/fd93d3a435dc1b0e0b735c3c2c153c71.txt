@@ -1,1 +1,0 @@
-Obligation du tri des déchets et modulation de la taxe des ordures ménagères en fonction du poids annuel des déchets ménagers par foyer. Le tri devra être stricte, des amendes pourrait être dressées si le tri n'est pas fait correctement. Les agents de ramassages ne sont pas la pour faire le tri à la place des gens.

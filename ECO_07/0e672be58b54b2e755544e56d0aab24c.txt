@@ -1,1 +1,0 @@
-Augmenter l'aide pour l'achat d'un véhicule électrique. Faire en sorte que le cout d'un véhicule électrique soit diminué sachant que l'état subventionne énormément la recherche dans ce domaine.

@@ -1,1 +1,0 @@
-Taxer tous les produits qui viennent de loin et qui ont une empreinte carbone conséquente La taxe doit être évaluée en fonction de la distance parcourue Exemple  Taxe 1 = 20% : provenance pays  asiatique Taxe 2 = 15% : provenance amérique Taxe 3 = xxx Rajouter sur l’étiquette à côtédu pays de provenance le taux de lataxe

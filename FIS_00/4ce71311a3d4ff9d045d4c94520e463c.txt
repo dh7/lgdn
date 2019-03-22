@@ -1,1 +1,0 @@
-Indiquez à la fin de la déclaration d'impôt de manière schématique la répartition du montant de l'IR qui sera payé. A l'inverse pour les non imposables, un message bloquant avant validation, "vous ne contribuez pas à l'IR néanmoins, l'effort collectif des contributeurs vous permettra de bénéficier des services suivants qui ne sont ni gratuits ni un dû + illustrations"

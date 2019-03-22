@@ -1,1 +1,0 @@
-Surtaxer les entreprises les plus polluantes et diffuser leurs noms auprès du public. Créer un index de pollution, l'évaluer pour chaque entreprise et le rendre public.

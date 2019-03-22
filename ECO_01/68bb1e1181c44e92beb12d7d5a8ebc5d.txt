@@ -1,1 +1,0 @@
-Développer un réseau de trains fréquents autour des petites villes de province afin de donner une alternative à la voiture. Exemple: développer des trains fréquents entre Oyonnax (Ain), Bellegarde et Lyon.

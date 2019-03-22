@@ -1,1 +1,0 @@
-Des capteurs qui permettrait de calculer les économies monétaires (changement du au portefeuille) et l'économie pour la planète.

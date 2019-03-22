@@ -1,1 +1,0 @@
-Taxer/Interdire les objets dont le cycle de vie ne prends pas en compte le recyclage à la source. (facilement compostable, recyclable, fait avec des matériaux recyclés….)

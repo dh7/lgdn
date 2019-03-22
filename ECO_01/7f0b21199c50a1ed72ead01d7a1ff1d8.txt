@@ -1,1 +1,0 @@
-interdire les trains fret lorsque la dégradation de la voie conduit à réduire la vitesse pour laisser la priorité aux TER

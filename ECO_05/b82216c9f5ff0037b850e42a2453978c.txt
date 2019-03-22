@@ -1,1 +1,0 @@
-Mis en place le tri, réduction des déplacements.

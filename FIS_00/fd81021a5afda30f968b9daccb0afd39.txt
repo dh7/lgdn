@@ -1,1 +1,0 @@
-Publier une série de diagrammes représentant le montant des impôts collectés (par classe sociale) et les dépenses de l'Etat par secteur.

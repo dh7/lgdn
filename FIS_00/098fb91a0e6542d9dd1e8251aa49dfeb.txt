@@ -1,1 +1,0 @@
-Envoi annuel d'un "camembert" indiquant pour l'impôt médian la répartition dans les différents ministères par exemple. Cela permet de se rendre compte des sommes versées pour chaque secteur : défense éducation environnement etc.

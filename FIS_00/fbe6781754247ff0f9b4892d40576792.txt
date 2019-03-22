@@ -1,1 +1,0 @@
-Donner une repartition simplifie de l'impots. Reactualiser regulierement entre le budget et le realise.

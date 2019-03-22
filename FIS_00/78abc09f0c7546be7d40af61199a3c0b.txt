@@ -1,1 +1,0 @@
-Diffuser de manière simple les comptes publiques. Par exemple afficher l'intégralité des revenus d'un élus sur une même page.

@@ -1,1 +1,0 @@
-Afficher clairement les budgets et variation de budget alloués par secteur (interêts dette, Education, sécurité, retraite, diverse allocations etc. )

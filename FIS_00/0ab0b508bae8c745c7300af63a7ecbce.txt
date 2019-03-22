@@ -1,1 +1,0 @@
-Pour chaque "activité" des citoyens : hôpital, école, aides sociales, routes, infrastructures..., afficher les sommes qui proviennent des impôts. Que chaque citoyen voit concrètement ce qu'il ne paye pas pour chacune de ses activités parce que ce sont les impôts qui le permettent

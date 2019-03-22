@@ -1,1 +1,0 @@
-Accessibilité en ligne depuis un portail avec une représentation chiffrée et graphique dynamique qui permette de faire du drill-down dans les data

@@ -1,1 +1,0 @@
-Supprimer les produits alimentaires qui ne sont pas de saison. Supprimer ceux qui sont importés s'ils existent déjà en France.

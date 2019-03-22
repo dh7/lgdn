@@ -1,1 +1,0 @@
-Mettre des ristournes proportionnelles aux économies réalisées. Il faut donc établir un barème moyen qui sert de référence et ensuite calculer une ristourne simple avec les économies réalisées par rapport à ce barème.

@@ -1,1 +1,0 @@
-Gréer un tableau de bord fiscal et budgétaire lisible, pour suivre l'affectation de l'impôt collecté.

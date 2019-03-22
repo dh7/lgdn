@@ -1,1 +1,0 @@
-Créer un contrat d’objectifs pour chaque impôt. Réduire le nombre d’impots et taxes permettrait de simplifier la pédagogie sur l’usage qui en est fait. Pour cela il faut regrouper des impôts et taxes. Par ailleurs il est incompréhensible de payer un impôts ou une taxe dont l’assiette de calcul est également un impôt ou une taxes.

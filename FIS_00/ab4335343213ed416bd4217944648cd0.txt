@@ -1,1 +1,0 @@
-Utiliser les comptes utilisateurs des citoyens sur impots.gouv pour envoyer des newsletters, transmettre les statistiques en essayant de les rendre abordables et interessantes.

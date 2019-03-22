@@ -1,1 +1,0 @@
-simplifier le mode de calcul de l'impot. Vouloir faire du cas par cas à beaucoup trop complexifié l'impot dans sa forme actuelle, je trouve que c'est inutile et générateur de frustration.

@@ -1,1 +1,0 @@
-Mise en place site web détaillant toutes les dépenses du budget de l'Etat par Ministère et ce intelligible à tous. (Conseil d'état et trop compliqué). De même pour les Députés / Sénateurs

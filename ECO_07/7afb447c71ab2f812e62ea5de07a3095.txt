@@ -1,1 +1,0 @@
-Faire que les transports en commun représentent toujours la solution la moins couteuse  pour se déplacer et développer un réseau des transports en commun: train, autobus ...;

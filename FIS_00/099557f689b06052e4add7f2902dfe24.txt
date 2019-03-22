@@ -1,1 +1,0 @@
-Simplification : supprimer les "subtilités" que sont les CSG, RDS, etc et ne faire qu'une ligne indexée sur le revenu. La répartition (ventilation) pouvant se faire post prélèvement

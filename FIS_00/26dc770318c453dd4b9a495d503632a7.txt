@@ -1,1 +1,0 @@
-Possibilité de voir sur les impôts payés par foyer (IR, Taxes foncières, taxe habitation) ce qui va où.

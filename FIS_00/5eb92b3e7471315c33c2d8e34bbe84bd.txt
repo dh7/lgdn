@@ -1,1 +1,0 @@
-Afficher sur la feuille d'impôt où va l'argent qu'on paye. Afficher sur le site de chaque ministère à quoi est utilisé son budget.

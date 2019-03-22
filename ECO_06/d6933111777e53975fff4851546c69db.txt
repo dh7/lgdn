@@ -1,1 +1,0 @@
-affichage sur écran GPS de la consommation (réelle) de la voiture, et de son évolution

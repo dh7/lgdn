@@ -1,1 +1,0 @@
-Simplifier la publication et la lecture des rapports de la cours des comptes.

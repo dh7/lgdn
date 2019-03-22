@@ -1,1 +1,0 @@
-Obliger les constructeurs à intégrer à tout système consommant de l’énergie de visualiser la consommation en temps réel. Une proposition de mobilité confortable (à l’abris des intempéries), écologique et économique pour les petits déplacements en milieu rural : un petit véhicule léger comme un touk touk ou un vélomobile

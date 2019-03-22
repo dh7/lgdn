@@ -1,1 +1,0 @@
-taxer les flux financiers inversement proportionnellement à la durée de détentention de l'action: action détenue 1/1000 de seconde, taxée à 99,999%. Détaxe au dessus d'une durée de 10 ans

@@ -1,1 +1,0 @@
-- Mettre en place une carte carbone, qui comptabiliserait les "points pollution" de chacun lors d'un achat (voyage, auto, électricité...). Ces points aurait un limite annuelle taxée au delà.

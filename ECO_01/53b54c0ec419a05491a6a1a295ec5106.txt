@@ -1,1 +1,0 @@
-Les graphes de couleur indiquant la consommation d’électricité sont trompeurs. Actuellement, aucun appareil ne doit se situer sur les bandes rouges E, F et G (c’est interdit). Un appareil qui se situe à la moitié du graphe semble donc se situer dans la moyenne alors qu’il est le dernier de la classe. Par contre on voit fleurir des A+, A++, A+++. A corriger d’urgence.

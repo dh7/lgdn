@@ -1,1 +1,0 @@
-Création d'un site ''internet'' national accessible à tous qui  donnerait les dépenses (ainsi que l'historique sur 3 ans) des 100 postes les plus importants. Ce même type de site serait à décliner sur les dépenses régionales.

@@ -1,1 +1,0 @@
-Fixer des conditions d’attribution des subventions claires et opérer le contrôle qu’en Fin de parcours et ne verser la subvention que si les conditions ont été respectées . Contrôle à posteriori.

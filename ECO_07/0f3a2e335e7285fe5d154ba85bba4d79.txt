@@ -1,1 +1,0 @@
-- payer la taxe des poubelles au poids (plus tu consommes, plus tu paies...). - trouver un réel écart de prix entre les produits sur-emballés et les produits en vrac (au profit du en vrac bien entendu). - revenir à une véritable politique de consignes pour les bouteilles et autres contenants (plus cher à l'achat, mais prix du contenant déduit lors de l'achat suivant).

@@ -1,1 +1,0 @@
-Un diagramme simple des dépenses par "thème" (défense, éducation, santé …). Budget total + pourcentage dépensé dans chaque "thème".

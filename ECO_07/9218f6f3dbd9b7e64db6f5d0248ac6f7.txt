@@ -1,1 +1,0 @@
-- prix d'un véhicule électrique comparable au prix d'un véhicule thermique (à performances égales) - couverture territoriale en bornes de raccordement pour ces véhicules  (pas de bornes en général dans les petites gares!)

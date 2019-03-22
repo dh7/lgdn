@@ -1,1 +1,0 @@
--	Fournir un rapport qui détaille les rentrées (par type d’impôt) et les affectations aux différents budgets. Il s’agit d’un rapport simple et compréhensible pour tout un chacun.

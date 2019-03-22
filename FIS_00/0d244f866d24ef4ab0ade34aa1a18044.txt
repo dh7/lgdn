@@ -1,1 +1,0 @@
-Fournir un tableau synthétique  indiquant par exemple comment  100 € d’impôt  sont utilisés en dépenses publiques et faire apparaitre le montant non financé par ces 100 €.

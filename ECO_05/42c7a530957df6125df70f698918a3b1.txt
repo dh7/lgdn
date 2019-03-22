@@ -1,1 +1,0 @@
-En effectuant le tri sélectif pour permettre le recyclage, éviter l'extraction des ressources inutiles

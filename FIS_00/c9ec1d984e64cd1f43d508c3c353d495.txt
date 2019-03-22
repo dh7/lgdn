@@ -1,1 +1,0 @@
--des indicateurs trimestriels, simples,du type de celui proposé par le ministère des finances sur la répartition de la dépense en France(base 1000 euros) - un bilan des résultats annuels sous forme de tableaux simples. Pour chaque action:montant dépensé;provenance(tel ou tel impôt);résultats obtenus)

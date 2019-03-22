@@ -1,1 +1,0 @@
-Un document public en ligne simple et ludique permettant de connaître toutes les dépenses faites avec l’argent des citoyens. Mettre en place un graphique mettant en évidence les dépenses de l’état les plus coûteuses.

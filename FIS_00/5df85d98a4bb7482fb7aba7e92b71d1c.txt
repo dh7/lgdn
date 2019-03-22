@@ -1,1 +1,0 @@
-Rendre plus lisibles les dépenses de l'état : exemple pour les dépenses de santé détailler ce qui relève des salaires en différenciant les actifs (médecins, infirmières, aide soignante) et les encadrants (gestionnaires, directeurs ...) Faire ainsi pour chaque administration.

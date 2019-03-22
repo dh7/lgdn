@@ -1,1 +1,0 @@
-Créer un système de taxis autonomes. Je l'appel sur une appli, il vient automatiquement et me dépose où je veux, il prend au passage autant d'autres passagers que possible. Et ça me coûte moins de 0,30 € le kilomètre.

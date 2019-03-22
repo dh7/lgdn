@@ -1,1 +1,0 @@
-Donner la valeur des services publics. Exemple: dire combien coûte une journée à l'hôpital, une année d'étude en université, au lycée, au collège, à l'école. Le coût d'une journée de l'opération Barkhane, …..

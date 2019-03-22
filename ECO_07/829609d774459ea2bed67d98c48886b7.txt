@@ -1,1 +1,0 @@
--système de bonus/malus sur le tri/recyclage des déchets, pour la limitation de l'utilisation de la voiture, de l'achat de billets d'avion... -une baisse du coût des voyages en train et du prix des locations de voiture

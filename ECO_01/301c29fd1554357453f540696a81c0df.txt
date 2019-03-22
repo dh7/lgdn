@@ -1,1 +1,0 @@
-Placer la sauvegarde de la planete, comme axe commun d'urgence, plutot que de ne traiter que ce qui reste possible quand la somme des autres contraintes a été considérée.

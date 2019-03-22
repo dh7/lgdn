@@ -1,1 +1,0 @@
-amenager des pistes cyclables securisees (separees des voies automobiles), creer des lieux securises et pratique pour stationner les velos en ville, a la gare. Creer des tranports mixtes ( avec les billets et les tarifs associes) combinant train, bus et velo/taxi jusqu'a la destination finale.

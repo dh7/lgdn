@@ -1,1 +1,0 @@
-Mettre à disposition du public une application permettant de calculer rapidement le coût d'un déplacement selon le mode de déplacement choisi

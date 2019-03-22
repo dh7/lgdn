@@ -1,1 +1,0 @@
-- Indiquer dans la feuille d’impôt de chaque citoyen la répartition exacte de leur impôt (Santé, Éducation, Défense, Sécurité, Transports, Ecologie, ...)

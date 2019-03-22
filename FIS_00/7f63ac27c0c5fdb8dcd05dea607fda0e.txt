@@ -1,1 +1,0 @@
-Affiche d’une lettre mensuelle en mairie pour les personnes qui n’ont pas internet et pour les autres la possibilité de consulter sur le site impôt.gouv les informations sur le sujet.

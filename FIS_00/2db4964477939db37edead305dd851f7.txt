@@ -1,1 +1,0 @@
-Produire un rapport annuel de L’État sur les recettes par types d'impôts (sur le revenu, sur la CSG/CRDS, sur les frais de succession, TVA, sur la fortune immobilière, etc) et sur les dépenses par poste (santé, éducation, justice, défense, dotation aux collectivités, remboursement de la dette, etc), qui serait diffusé sur le site impôts.gouv.fr.

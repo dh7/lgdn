@@ -1,1 +1,0 @@
-Créer un impôt unique sous la forme y=ax-b où a est un taux unique d'imposition combinant impôt sur le revenu et CSG et b est un revenu universel.

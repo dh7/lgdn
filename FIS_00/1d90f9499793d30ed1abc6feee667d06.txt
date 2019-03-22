@@ -1,1 +1,0 @@
-Fournir un récapitulatif annuel personnalisé de toutes les prestations perçues (en €)  par le contribuable :  - éducation nationale en fonction de ses enfants;  - coûts réels des soins reçus (hospitalisation, pharmacie, soins divers, ...);  - allocations diverses (familiales, logement, ...),  - coûts pour chaque citoyens des fonctions régaliennes : défense, justice, ... - etc.

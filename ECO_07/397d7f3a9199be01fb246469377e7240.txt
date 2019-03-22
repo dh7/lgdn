@@ -1,1 +1,0 @@
-reprise de l'ancien véhicule et division par deux du prix du véhicule neuf.

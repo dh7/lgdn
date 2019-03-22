@@ -1,1 +1,0 @@
-Afficher les coûts de revient de chacun des services donnés par la collectivité. Remettre une facture aux patients en sortie d'hôpital. Afficher les coûts de l'Education par élève dans chaque type d'école primaire, collège, lycée, grande-école, université.

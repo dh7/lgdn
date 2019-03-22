@@ -1,1 +1,0 @@
-Faire un camembert (pourcentage) pour donner la répartition de l'utilisation des impôts. Rendre le budget plus lisible, on a tant et on dépense tant.

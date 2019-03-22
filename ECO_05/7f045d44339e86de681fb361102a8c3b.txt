@@ -1,1 +1,0 @@
-utilise les transports communs quand ils sont présents

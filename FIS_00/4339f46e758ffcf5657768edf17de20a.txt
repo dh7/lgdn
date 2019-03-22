@@ -1,1 +1,0 @@
-Afficher clairement la répartition des dépenses de l'état par service

@@ -1,1 +1,0 @@
-moduler les taxe dont la TVA des tous les produits en fonction de leur impact environnemental par exemple une TVA à 0% pour les produit bio, locaux et de saison, une TVA à 10% pour les produit locaux conventionnels et de saison, 20 % pour les produit locaux conventionel hors saison et 30% pour les produits importés, conventionnel.

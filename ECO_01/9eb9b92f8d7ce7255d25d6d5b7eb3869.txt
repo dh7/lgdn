@@ -1,1 +1,0 @@
-Étudier et Mettre en œuvre un plan pour le transport des personnes entre les différents nœuds des communes du département avec possibilité de parkings gratuits pour y accéder. EX: j'habite à Comines et je travaille à Seclin

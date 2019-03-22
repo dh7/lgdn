@@ -1,1 +1,0 @@
-Type de véhicule utilisé, tri sélectif, recherche à réparer plutôt que remplacer, choix d'équipements fiables et choisis au juste besoin

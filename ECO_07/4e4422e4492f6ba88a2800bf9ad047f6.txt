@@ -1,1 +1,0 @@
-Augmenter en les taxant le prix des ressources polluantes en intégrant le coût de production, de transport, de recyclage. Avoir un prix réel de l'énergie.

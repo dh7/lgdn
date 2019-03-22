@@ -1,1 +1,0 @@
-Développer une solution type Navigo dans les régions ; une carte (pour un jour / une semaine / un mois) qui permet de se déplacer dans TOUTE une région (au sens administratif) quel que soit le mode de transport en commun (bus, train, tram, métro..). Avec remboursement de 50% du prix par l'employeur (si in s'en sert pour aller au travail).

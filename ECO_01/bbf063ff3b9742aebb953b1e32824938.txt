@@ -1,1 +1,0 @@
-Le système mis en place sert d'outil de management il s'éteindra tout seul.

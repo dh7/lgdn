@@ -1,1 +1,0 @@
-Puisque la collecte des impôts va être totalement faite par internet, il faut créer une page dans le dossier de chaque contribuable où il trouvera le budget détaillé de l'Etat : recettes - dépenses

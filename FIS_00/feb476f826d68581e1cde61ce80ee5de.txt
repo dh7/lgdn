@@ -1,1 +1,0 @@
-Envoyer avec la feuille des impôts un récapitulatif sous forme de schéma (genre "camembert") qui montre la part des impôts attribuée à tel ou tel domaine.

@@ -1,1 +1,0 @@
-Publication d'un graphique (simple et clair) du budget prévisionnel annuel des ressources et de dépenses, et d'un graphique comparatif avec le réel, en fin d’exercice. Un commentaire accompagnant ce dernier pour justifier les écarts significatifs en + ou en -

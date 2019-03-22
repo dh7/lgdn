@@ -1,1 +1,0 @@
-Supprimé les strate administratives redondantes (département/agglo/mairie)

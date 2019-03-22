@@ -1,1 +1,0 @@
-Instorer une prime par foyez degressif si le tri n est pas respecter en ayant une traçabilité par nom ou numéro d appartement ou maison.

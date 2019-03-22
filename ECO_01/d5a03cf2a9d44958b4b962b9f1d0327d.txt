@@ -1,1 +1,0 @@
-developper GPL ( cf solution Alstom pour train ) et camion , Solution au niveau de chaque habitation de production d'energie en fonction de la ressource disponible en appoint ( ex sud eau chaude produite par soleil, bord de rivière electricite par eau ...) sans dogmatisme mais pragmatisme; Réduction lié au stockage de données

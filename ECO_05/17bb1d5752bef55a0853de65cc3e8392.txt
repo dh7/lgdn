@@ -1,1 +1,0 @@
-Régulateur température pour chaque radiateur, toujours souscrit à l'offre tempo de edf

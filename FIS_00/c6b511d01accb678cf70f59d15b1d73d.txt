@@ -1,1 +1,0 @@
-- Plate forme web permettant de visualiser les recettes et dépenses de l'état. Détails des sommes versées aux multinationales et grandes entreprises dans le cadre des appels d'offre (armement, équipements, etc..). Visualisation simple du coût des élus et personnels affiliés.

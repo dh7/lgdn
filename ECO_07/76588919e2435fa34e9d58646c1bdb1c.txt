@@ -1,1 +1,0 @@
-Modifier la taxe des enlèvements des déchets en fonction de leur volume, créer des bonus-malus pour les volumes de déchets recyclés.

@@ -1,1 +1,0 @@
-Un site donnant mois par mois les recettes classer par catégories (tva, impôt sur le revenu, csg,...) et les dépenses au différents niveaux (local, régional, national) et par thème (défense, sécurité, transition écologique, aides sociales)

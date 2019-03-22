@@ -1,1 +1,0 @@
-Un affichage de la source du financement de chaque projet.

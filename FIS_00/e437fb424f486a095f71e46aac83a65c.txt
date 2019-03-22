@@ -1,1 +1,0 @@
-Créer et diffuser un tableau simple sur 1 seule page présentant la répartition du total des dépenses en k€ (et non en %) par ministère et par type de dépense.

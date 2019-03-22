@@ -1,1 +1,0 @@
-Mettre en place un site qui détaillerait les dépenses jusqu'au derniers détails avec un système de signalement/vote pour analyser/réduire celles qui paraissent injustifiées

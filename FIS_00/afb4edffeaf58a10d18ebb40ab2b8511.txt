@@ -1,1 +1,0 @@
-sur chaque site web d'une collectivité, et/ou chaque panneau d'affichage électronique, afficher 2 chiffres : le montant des recettes collectées et le montant des dépenses cumulées depuis le 1er janvier. C'est un début pour toute démarche DMAIC et pour encourager la hausse des recettes

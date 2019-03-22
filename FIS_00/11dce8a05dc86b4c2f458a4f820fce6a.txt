@@ -1,1 +1,0 @@
-Site d'information sur les niveaux de cotisation de chacun par rapport à une moyenne pour chaque impôt (direct ou non). Répartition de l'utilisation de l'impôt par catégorie. Rendre clairs les éléments de fonctionnement (divers frais) et quelles sommes sont allouées à telle catégorie (service public, transport, solidarité, etc).

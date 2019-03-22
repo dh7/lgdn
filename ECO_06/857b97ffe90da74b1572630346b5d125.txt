@@ -1,1 +1,0 @@
-Etant locataire j'utilise le chauffage en fonction de mon budget donc avec l'augmentation du pris du gaz je l'allume uniquement en cas de besoin.

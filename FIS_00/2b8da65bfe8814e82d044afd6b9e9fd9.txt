@@ -1,1 +1,0 @@
-- Affichage des prix reels et des prix "subventionnés"  lors de l'utilisation d'un service public (hopital, piscine , ecoles , transport, ... ) - Explication et communication de l'argent qui est redistribué ( allocations , RSA,...)

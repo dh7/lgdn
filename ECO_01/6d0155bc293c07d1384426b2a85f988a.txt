@@ -1,1 +1,0 @@
-Diminuer les transports inutiles en relocalisant les productions en particulier dans l'alimentation.

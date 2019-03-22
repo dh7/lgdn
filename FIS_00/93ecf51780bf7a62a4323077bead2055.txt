@@ -1,1 +1,0 @@
-Site web permettant de voir "en temps réel" comment les imports sont utilisés par rapport à ce qui a été budgété. Cela permettrait de facilement voir la clé de répartition mais aussi d'identifier les secteurs sur lesquels le budget n'est pas tenu. Cela permettrait à l'état de communiquer sur les éventuelles dérives ou économies réalisées, en totale transparence.

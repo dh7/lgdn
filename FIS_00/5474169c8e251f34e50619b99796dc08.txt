@@ -1,1 +1,0 @@
-Fournir le détail d'où est attribué l'argent (pour quel secteur, à quel type de frais pour chaque secteur).

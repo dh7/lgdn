@@ -1,1 +1,0 @@
-Un tableau de bord du suivi des dépenses mensuel avec un zoom mensuel sur une catégorie de coûts et de dépenses. Par exemple la répartition des dépenses de l'éducation un mois, le coût des retraites un autre mois.

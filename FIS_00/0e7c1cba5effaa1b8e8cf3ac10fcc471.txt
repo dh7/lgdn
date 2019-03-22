@@ -1,1 +1,0 @@
-Envoyer avec l’avis d’imposition ou non imposition la répartition des impôts sous forme de camembert en % et pour 1000 euros.

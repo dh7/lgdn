@@ -1,1 +1,0 @@
-Un outil numérique consultable annuellement (au moins) qui présente les recettes et,dépenses détaillées à chaque niveau du mille-feuilles administratif. Les recettes et dépenses de l'état et pour chaque ministère sont déjà consultables

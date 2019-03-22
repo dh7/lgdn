@@ -1,1 +1,0 @@
-Chaqe année, au moyen de graphiques( cercles,colonnes...) fournir la répartition des impôts, taxes.....collectés ainsi que leur utilisation dans les grands secteurs de l'économie en distinguant l'investissement et le fonctionnement avec indication des montants globaux et des pourcentages.

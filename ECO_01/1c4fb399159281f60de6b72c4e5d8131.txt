@@ -1,1 +1,0 @@
-Exiger que tout processus (création du processus, poursuite, fin) prenne en compte en premier point son impact environnemental. Les aspects financiers n'intervenant qu'après. Eviter, réduire, compenser ! Trop souvent les processus sautent directement au compenser alors que l'Eviter n'a pas été analysé !

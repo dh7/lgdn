@@ -1,1 +1,0 @@
-- Dans chaque avis d’imposition, indiquer les montants moyens payés par quartiles de la population pour être transparents chaque année (pour ceux qui payent et ceux ne payent pas)

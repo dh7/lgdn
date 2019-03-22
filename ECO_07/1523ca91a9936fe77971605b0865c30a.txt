@@ -1,1 +1,0 @@
-Developper une application sur smartphone qui détecte ce qui est considéré comme « un petit trajet en voiture » et de façon pédagogique m’expliquer que j’aurais pu y aller à pied ou en transport en commun (en s’assurant bien sur qu’il y en ait dans les environs): lancez une initiative citoyenne open source et j’y participe!

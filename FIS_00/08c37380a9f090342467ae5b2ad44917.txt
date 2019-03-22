@@ -1,1 +1,0 @@
-Rendre publics les coûts des différents services, en pourcentage de l’impôt payé mais aussi en valeur.

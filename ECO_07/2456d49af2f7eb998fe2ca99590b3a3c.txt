@@ -1,1 +1,0 @@
-- Aide aux classes moyennes basses pour changer de mode de chauffage : en effet, un salaire trop élevé pour bénéficier d'une aide et pas assez élevé pour financer un nouveau mode de chauffage !.

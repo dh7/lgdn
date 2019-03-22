@@ -1,1 +1,0 @@
-Regrouper la gestion des ressources et des déchets (machines à laver le linge, poubelles, chauffage...) au niveau des immeubles, des ensembles d'immeubles ou de semi-quartiers. Ces assemblées permettraient d'agir collectivement et concrètement au niveau ultra-local en matière de tri, de gaspillage des ressources.

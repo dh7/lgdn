@@ -1,1 +1,0 @@
-La solution n'est pas d'agir localement ou directement sur les comportements. L'état peut agit de façon indirecte : les taxes sur l'essence par exemple sont bonnes tant qu'elles évoluent lentement et sont prévisibles.

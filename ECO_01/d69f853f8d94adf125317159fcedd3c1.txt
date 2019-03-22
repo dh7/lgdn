@@ -1,1 +1,0 @@
-Supprimer l'éclairage des autoroutes et des villes complètement ou à partir d'une certaine heure. Mise en place d'un éclairage intelligent.

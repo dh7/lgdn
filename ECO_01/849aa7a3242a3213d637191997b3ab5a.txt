@@ -1,1 +1,0 @@
-Élabore un algorithme pour éliminer l’homme du choix , laisser une IA choisir le bien du plus grand nombre au lieu des intérêts particuliers

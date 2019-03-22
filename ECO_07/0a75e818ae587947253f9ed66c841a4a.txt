@@ -1,1 +1,0 @@
-Un bonus ou malus sur le coût de l'eau  en cas de consommation supérieure à un seuil (m³/personne)

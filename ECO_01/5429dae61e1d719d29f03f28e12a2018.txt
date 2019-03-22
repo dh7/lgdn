@@ -1,1 +1,0 @@
-Pollueur = payeur. On intègre le coût du transport et le bilan cabone.

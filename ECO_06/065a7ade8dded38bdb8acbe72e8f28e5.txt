@@ -1,1 +1,0 @@
-Thermostat d'ambiance avec horodateur. Voir ci-dessus.

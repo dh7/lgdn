@@ -1,1 +1,0 @@
-Produits étiquetés A, B, C : baisse de la TVA       Produits D, E, F, G : hausse  Compensation exacte des hausses et des baisses =: somme nulle pour l'état (donc pour l'ensemble des citoyens)

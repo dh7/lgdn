@@ -1,1 +1,0 @@
-Limiter automatiquement la vitesse par la pose d'un LAVIA sur tous les véhicules neufs.  Gain de sécurité, de dépense d'énergie, de dépense de contrôle avec moins de policiers et gendarmes affectés à ces tâches.

@@ -1,1 +1,0 @@
-Avoir des services (publiques, privés) au niveau local.

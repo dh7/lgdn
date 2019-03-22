@@ -1,1 +1,0 @@
-Un site centralisé pour tous les impôts existants, avec un compte particulier pour chaque citoyen imposable.

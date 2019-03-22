@@ -1,1 +1,0 @@
-Un rapport annuel montrant pour chaque domaine ou est distribuer l'argent. Et dans chaque domaine avoir le détail de chaque poste de dépense (ligne par ligne). Comme un livre de compte. Ces données seront publiques et accessible en openData a tout les citoyens.

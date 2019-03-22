@@ -1,1 +1,0 @@
-Information personnalisée faisant apparaître la part de contribution personnelle et l'utilisation des différents impôts (information centralisant toutes les formes d'impôts et taxes) à partir d'un simulateur réunissant les données.

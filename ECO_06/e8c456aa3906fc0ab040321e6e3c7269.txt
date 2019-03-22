@@ -1,1 +1,0 @@
-Amélioration du service de transport en commun. Habitant en périphérie d’une ville , le tram dessert uniquement la grande ville mais absolument pas toutes les communes périphériques.

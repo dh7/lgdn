@@ -1,1 +1,0 @@
-installation de délecsteur qui permet de gérer la priorité de la consommation électrique . Ainsi, j'ai un abonnement de 6kw au lieu de 9kw sur un appaartement de 60m2, et 12kw au lieu de 15kw sur la maison.

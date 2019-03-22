@@ -1,1 +1,0 @@
-Simplifier les notions de réduction et crédit d'impôt. Atténuer les effets de seuil. Par exemple, en ne dépassant pas un certain RFR pour les personnes âgées on peut bénéficier de nombreuses exonérations (taxes foncière et habitation, CSG ...)

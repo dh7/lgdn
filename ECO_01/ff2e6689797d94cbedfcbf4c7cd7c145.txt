@@ -1,1 +1,0 @@
-Diminuer le nombre de camions sur les routes et imposer aux camions qui traversent la France de mettre leur cargaison sur des trains.

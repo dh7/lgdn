@@ -1,1 +1,0 @@
-Afficher le bilan carbone de tous les produits (de l'automobile à la pomme)

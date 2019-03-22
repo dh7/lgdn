@@ -1,1 +1,0 @@
-Publier un site sur lequel les citoyens puissent voir en toute transparence les flux d'impôts perçus avec leur provenance (IRPP / TVA par tranches / IFI / etc) et le détail des utilisations qui en sont faites. La comptabilité des entreprises (sociétés) est bien en accès publique, alors pourquoi n'en serait-il pas de même pour l'état ?

@@ -1,1 +1,0 @@
-Mettre en oeuvre l'affichage dans les magasins du coût écologique des produits mis en vente (transports compris).

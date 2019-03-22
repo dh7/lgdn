@@ -1,1 +1,0 @@
-Avoir une liste d'actions la plus exhaustive possible allant de l'action la plus simple à mettre en oeuvre (couvercle sur casserole, plein de carburant lorsque la T° baisse..) à la plus compliquée (sur-isolation, alternative chauffage...)

@@ -1,1 +1,0 @@
-Publier toute les données (collecte et affectation) sur un site

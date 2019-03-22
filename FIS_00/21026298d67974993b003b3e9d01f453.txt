@@ -1,1 +1,0 @@
-Alimenter un site internet de l’état indiquant l'ensemble des impôts perçus(en chiffre) et indiquer leur utilisation dans les différentes dépenses publiques.

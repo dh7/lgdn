@@ -1,1 +1,0 @@
-Gérer un pays, comme un projet. Fournir un flan des finance publiques avec toutes les principales sources de revenu et sources de dépenses et faire en sorte que dès que l'on veur prendre une mesure induisant un coût, il faudra pouvoir dire sur quelle sources de revenu on prendra, ou quelle dépense sera réduite.

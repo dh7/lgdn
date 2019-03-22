@@ -1,1 +1,0 @@
-Développer les" pass" transport, qui jusqu'à présent ne sont accessibles qu'aux usagers quotidiens, en les étendant aux usagers occasionnels qui pourraient par exemple avoir accès à des formules de fidélisation telles que des cartes de transport prépayées ou à validité réglementée selon la fréquence et/ou la durée d'utilisation.

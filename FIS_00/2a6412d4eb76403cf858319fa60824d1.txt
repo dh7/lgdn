@@ -1,1 +1,0 @@
-Informer du coût de chaque service public.  Exemples :  Votre enfant fréquente l'école => coût annuel = XX € de l’État + YY € de la commune.  Hospitalisation : Prix de journée par spécialité payé par la Sécurité sociale   + Prix payé par la mutuelle  + Ticket modérateur payé par le patient

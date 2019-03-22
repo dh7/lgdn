@@ -1,1 +1,0 @@
-Analyser le problème en s'affranchissant des lobby, de manière à pouvoir agir sans contrainte

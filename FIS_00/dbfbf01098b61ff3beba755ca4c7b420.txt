@@ -1,1 +1,0 @@
-un tableau détailler donnant les sommes reversé à chaque secteur (combien coûte le rsa par éxemple)

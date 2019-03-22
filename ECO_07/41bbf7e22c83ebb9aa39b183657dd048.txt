@@ -1,1 +1,0 @@
-Supprimer la création des bouchons structurels aux péages des autoroutes générées par les barrières de péage. Économie potentiel de temps et de CO2.

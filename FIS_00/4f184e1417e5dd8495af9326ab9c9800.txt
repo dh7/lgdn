@@ -1,1 +1,0 @@
-envoyer un état des entrées/sorties indiquant comment sont utilisées les sommes (dette, fonctionnement de l'Etat, etc)

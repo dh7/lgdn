@@ -1,1 +1,0 @@
-L'indice d'évolution des prix tel qu'il est calculé ne reflète pas l'évolution du pouvoir d'achat; ainsi par exemple les dépenses de logement sont comptées pour seulement 6% des dépenses d'un foyer; il faudrait calculer un indice pour une personne au smic, un pour le salaire médian, ...etc.

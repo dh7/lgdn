@@ -1,1 +1,0 @@
-Création de bonus pour les voitures qui ont moins roulé que l'année précédente (En déclarant chaque année le kilométrage de sa voiture). Idem sur les factures d 'électricité et gaz. Création d'un bonus pour ceux dont la consommation a diminué.

@@ -1,1 +1,0 @@
-Bilan simplifié des dépenses/recettes de l'état en fin d'année. Précision sur la façon dont sont redéployés nos impôts > pourcentage par type de dépenses (santé, éducation, sécurité, aides sociales, frais de fonctionnement de l'état....)

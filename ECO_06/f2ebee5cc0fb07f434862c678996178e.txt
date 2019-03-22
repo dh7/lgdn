@@ -1,1 +1,0 @@
-Un thermostat d'utilisation simple comme sur les convecteurs électrique: jour, nuit, absence.  Un développement conséquent des transports en commun locaux à un tarif attractif d'un euro par trajet.

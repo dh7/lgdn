@@ -1,1 +1,0 @@
-faire lire les formulaires à un panel de citoyen et voir comment par des simulations ils les remplissent. Enlever ce qui est inutile.

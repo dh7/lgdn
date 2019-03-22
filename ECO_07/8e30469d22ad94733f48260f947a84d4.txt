@@ -1,1 +1,0 @@
-Faire un "réseau social" de trajet quotidien où les personnes font le même trajet tous les jours et peuvent déposer d'autres personnes à un point sur leur route.

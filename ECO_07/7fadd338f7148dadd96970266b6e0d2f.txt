@@ -1,1 +1,0 @@
-Analyser le coût de l'électricité par m² d'habitation et s'il est inférieur à une moyenne à déterminer, alors diminuer le taux de taxe sur la facture. Cela inciterait pas mal de monde à faire attention !

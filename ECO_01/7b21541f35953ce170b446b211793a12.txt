@@ -1,1 +1,0 @@
-D'abord créer et publier des signaux d'alerte plus visibles. Privilégier production/consommation locale, encourager le recyclage

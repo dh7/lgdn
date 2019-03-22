@@ -1,1 +1,0 @@
-limitation des déplacements tri sélectif strict limitation du gâchis par une diminution de la consommation

@@ -1,1 +1,0 @@
-Moduler la vitesse limite sur les routes, selon le type de route, l'accidentologie du tronçon... Ces vitesses très différentes, étant accessibles par les bases des GPS. et marquage au sol, pour éviter le coût des panneaux.

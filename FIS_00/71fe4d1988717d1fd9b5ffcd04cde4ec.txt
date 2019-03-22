@@ -1,1 +1,0 @@
-simplifier le calcul de l'impôt ce qui serait plus clair pour la population  et éviter de faire trop de cas particuliers

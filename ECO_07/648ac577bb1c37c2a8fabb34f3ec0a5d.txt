@@ -1,1 +1,0 @@
-Instaurer un bonus malus en fonction de la consommation moyenne de gaz, d’électricité, d’eau, de carburant, et ainsi ceux qui sont en dessous sont récompensés et ceux au dessus sont pénalisés

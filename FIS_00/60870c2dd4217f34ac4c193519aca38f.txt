@@ -1,1 +1,0 @@
-Proposer une fonctionnalité sur le site impots.gouv qui permettent de consulter impôt par impôt l'utilisation qui va être faite de sa propre contribution. Mais cela de façon très précise. Cela servira également à nos élus pour vraiment se poser la question si tous les posts de dépenses sont justifiés.

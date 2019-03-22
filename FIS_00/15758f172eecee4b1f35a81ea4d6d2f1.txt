@@ -1,1 +1,0 @@
-Bilan comptable global pour chaque ministère + montant de la dette arrêté à la fin de l'exercice + montant intérêts remboursés durant l'exercice. Mise en ligne des résultats dans impots.gouv

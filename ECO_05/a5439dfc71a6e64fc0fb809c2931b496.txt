@@ -1,1 +1,0 @@
-const URL = require('url-parse')  URL(' javascript: alert(1)').protocol // Returns http:

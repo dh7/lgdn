@@ -1,1 +1,0 @@
-afficher le coût individuel de chaque aide ou prestation (médecin,acte médical en hospîtal,déplacement de pompiers,valeur d'une ordonnance médicale etc..)

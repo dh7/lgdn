@@ -1,1 +1,0 @@
-Généraliser le déplacement des camions par voie ferrée. Crée des zones de déchargements hors des villes pour les camions; Cela permet de réduire le coût d'entretien des routes. Les routes deviennent plus fluides et il n'est pas nécessaire d'interdire les voitures en ville; sinon que fait on de nos parkings???

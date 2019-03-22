@@ -1,1 +1,0 @@
-Avoir un taux d'imposition des revenus locatifs ( loyer appartement et loyer résidence) selon la classe énergie du bien en location. Plus la classe énergie du bien en location est haute plus le taux d'imposition sera faible. La classe énergie doit être évaluée selon des critères fiables et l'objectif est d'inciter la rénovation des biens en location ( Isolation thermique)

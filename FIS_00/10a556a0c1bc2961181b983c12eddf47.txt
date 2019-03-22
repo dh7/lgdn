@@ -1,1 +1,0 @@
-Arrêter de créer des dizaines d'impôts différents (revenus, TVA, ...). Créer un taux d'imposition fixe, par tranches de revenus du foyer et par tranches de bénéfice des entreprises. Affecter un pourcentage de ces recettes globales de l'Etat à chaque ministère Etre transparent sur l'utilisation de ces recettes

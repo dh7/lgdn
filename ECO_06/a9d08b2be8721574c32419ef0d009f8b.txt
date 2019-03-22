@@ -1,1 +1,0 @@
-Les compteur Electriques doivent afficher les watts à la consommation instantanée comme les compteurs d'eau affichent les litres

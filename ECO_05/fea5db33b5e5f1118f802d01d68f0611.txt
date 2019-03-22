@@ -1,1 +1,0 @@
-meilleure gestion des appareils en veille et des lumières inutiles

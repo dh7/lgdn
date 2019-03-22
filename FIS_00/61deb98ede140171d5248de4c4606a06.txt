@@ -1,1 +1,0 @@
-Permettre de consulter sous forme de focus le détails des dépenses publiques.

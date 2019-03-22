@@ -1,1 +1,0 @@
-Création d'un organisme d'état permettant à tout locataire d'établir un bilan énergétique de l'appartement loué. Suite à ce bilan, cet organisme devra inciter le propriétaire à la mise aux normes de l'appartement. Sans cela, le propriétaire sera redevable d'un malus de son imposition sur ses revenus mobiliers.

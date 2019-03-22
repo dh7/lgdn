@@ -1,1 +1,0 @@
-taxer les produits en fonction de leur provenance, en fonction de la distance avec une forme de proportionnalité à leur coût d'acheminement en termes de bilan carbone par exemple

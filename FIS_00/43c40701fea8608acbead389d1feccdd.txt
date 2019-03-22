@@ -1,1 +1,0 @@
-Info simple sur le montant de chaque type d'impôt dans le recettes de l'état. Info simple sur la répartition du budget de l'état.

@@ -1,1 +1,0 @@
-Inclure une part variable dans la TVA en fonction de la pollution émise (Transport compris) pour la fabrication des produits de consommation

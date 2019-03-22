@@ -1,1 +1,0 @@
-Un message envoyé à chaque citoyen payant l'impôt avec le montant de l'impôt versé et le montant des aides reçues (allocations, remboursement frais de santé, financements de l'éducation des enfants du foyer fiscal, etc).

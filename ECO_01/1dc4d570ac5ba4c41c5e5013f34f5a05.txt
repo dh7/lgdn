@@ -1,1 +1,0 @@
-Faire des plateformes multimodale pour le ramassage et la distribution des marchandises par camion avec un ferroutage entre les différentes plateformes.  Ceci pour éviter les trop longs trajets de camions.

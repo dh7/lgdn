@@ -1,1 +1,0 @@
-1 - simplifier le calcul 2 - diminuer le nombre d'impôt pour en créer un unique intégrant l'impôt sur les revenus et les cotisations sociales 2 - demander à la cour des comptes de publier un rapport annuel sur l'utilisation des impôts

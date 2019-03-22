@@ -1,1 +1,0 @@
-recenser tous les types d'impôts et de taxes perçues quel que soit le collecteur et indiquer leur utilisation.

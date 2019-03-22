@@ -1,1 +1,0 @@
-obliger les constructeurs auto à ne produire qu'un % de véhicule diesel, les distributeurs (carrefour-leclerc) à délivrer les produits à l'unité et sans emballage inutile

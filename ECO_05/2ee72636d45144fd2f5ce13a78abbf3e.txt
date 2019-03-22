@@ -1,1 +1,0 @@
-- A- Gestion de mes consommations d'énergies (eau, chauffage, transport...), recyclage. - B- Améliorer les collectes de déchets afin d'éviter à chacun de se déplacer vers les déchetteries pour souvent pas grand chose.

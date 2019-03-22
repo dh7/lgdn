@@ -1,1 +1,0 @@
-Ajouter sur la déclaration de l’impôt sur le revenu comment l’impôt de l’année précédente a été utilisé. Afficher les recettes/dépenses de l’Etat dans les mairies

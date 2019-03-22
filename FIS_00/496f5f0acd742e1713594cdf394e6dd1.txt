@@ -1,1 +1,0 @@
-Tâche très ardue dans la mesure où le nombre de taxes et de cotisations obligatoires est énorme. Il faudrait pouvoir montrer l'affectation de chacune de ces taxes. Avec les outils informatiques cela pourrait être fait via un site internet dédié mais il serait soit simplificateur soit foisonnant d'informations. Cela aurait le mérite de la transparence.

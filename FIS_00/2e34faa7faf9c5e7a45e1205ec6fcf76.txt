@@ -1,1 +1,0 @@
-Chaque année au moment de la déclaration d'impôt, afficher en première page le prix de revient de chaque service public (national ou local) par français, sans oublier le remboursement des intérêts de la dette.  Exemple : Education nationale 770 euros par français Et présenter aussi le total pour l'ensemble des services publics par français.

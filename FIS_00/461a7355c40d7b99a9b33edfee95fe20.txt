@@ -1,1 +1,0 @@
-Donner une facture à chaque patient à la sortie de l’hôpital par exemple, même si celle-ci est à 0 pour que le patient prenne conscience que ce n'est pas gratuit : le chirurgien est payé, l'anesthésiste aussi, les infirmières etc... les gens se rendraient compte de la chance que nous avons

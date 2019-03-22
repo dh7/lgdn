@@ -1,1 +1,0 @@
-Mise en place d'un système de mise à disposition de voitures. Développer un réseau de bus systématique même en campagne.

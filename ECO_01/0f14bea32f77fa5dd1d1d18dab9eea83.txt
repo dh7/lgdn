@@ -1,1 +1,0 @@
-développer en ville une service de bus de nuit avec 5 ligne de bus et pour la campagne sur demande.  Pour l’hydrogène développer un peux plus d'usine   et des Station de  hydrogène en ville et campagne.

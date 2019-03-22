@@ -1,1 +1,0 @@
-Un tableau en ligne de toutes les missions contenues dans la LOLF, avec une mise à jour quotidienne (informatique et automatique sans besoin d'un opérateur) de l'état d'avancement et de consommation des deniers publics.

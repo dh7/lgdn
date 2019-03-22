@@ -1,1 +1,0 @@
-Taxer les produits de consommation en fonction du mode de transport (du plus au moins polluant),  et de la provenance (du plus au moins éloigné).

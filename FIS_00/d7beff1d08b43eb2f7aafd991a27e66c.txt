@@ -1,1 +1,0 @@
-Un site internet présentant pour chaque impôt, le montant collecté, les actions réalisées avec ce montant et le nombre d'administré bénéficiaire de ces actions. avec une carte par région. Tous les mois dans les journaux une information sur des travaux, des actions réalisés avec nos impôts

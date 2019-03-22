@@ -1,1 +1,0 @@
-déclarer sur un site gouvernemental toutes les dépenses avec leur montant. Déclarer dans quelle "caisse" est pris l'argent pour chaque dépense.

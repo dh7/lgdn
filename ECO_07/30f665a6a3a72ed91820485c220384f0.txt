@@ -1,1 +1,0 @@
-- bonus aux bons comportements (et non malus aux mauvais) -- crédit d impôt ou contribution au carburant pour les co-voiturage -- crédit/promotions aupres d'entreprise dont l'activité est favorable à l'environnement (consommation locale, culture maîtrisee) => soutenir le développement de ces activités en soutenant la mise en place d'habitudes positives pour tous

@@ -1,1 +1,0 @@
-A l'instar de ce qui se fait au Canada, diffusion en Open Data de toutes les dépenses de l'état supérieures à 1000 euros. Les dépenses du parlement et du sénat le sont à partir de 500 euros.

@@ -1,1 +1,0 @@
-Bilan annuel des dépenses, indiquer le montant des intérêts versés pour la Dette , l'évolution de celle-ci , pourcentage détenus par les différents créanciers.

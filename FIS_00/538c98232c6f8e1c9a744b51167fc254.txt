@@ -1,1 +1,0 @@
-simplication des bulletins de salaires et adopter un  systeme à carte ou sont collectés toutes les informations (impots, csg, ...)personnalisees

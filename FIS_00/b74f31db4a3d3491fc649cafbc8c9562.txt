@@ -1,1 +1,0 @@
-rendre plus lisible le budget de l'état quand il a été voté. Voir les affectations des impots et taxes  sur les différentes lignes budgétaires

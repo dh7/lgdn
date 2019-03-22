@@ -1,1 +1,0 @@
-Une véritable offre de transport multi-modale, avec synchronisation des heures de bus avec les heures de train. (pour pouvoir faire bus puis train et non voiture puis train).

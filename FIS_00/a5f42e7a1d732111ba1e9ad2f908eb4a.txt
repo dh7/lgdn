@@ -1,1 +1,0 @@
-Creer un site Internet sur lequel serait indiqué les dépenses réalisées avec les impôts.

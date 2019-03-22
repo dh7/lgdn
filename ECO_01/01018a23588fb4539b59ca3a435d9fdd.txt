@@ -1,1 +1,0 @@
-Généralisé les véhicules électriques pour toutes les administrations exemple(EDF, GDF, enedis,la poste)

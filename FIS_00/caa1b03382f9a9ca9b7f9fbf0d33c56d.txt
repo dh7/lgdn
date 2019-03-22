@@ -1,1 +1,0 @@
-Exemple concret sur le bulletin de paie et aléatoirement en fonction de la taxe de ce qu'elle finance concrètement (remise à niveau route, réfection salle de classe, etc...)

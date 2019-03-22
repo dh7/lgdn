@@ -1,1 +1,0 @@
-Un thermostat programmant les variations de températures pendant la journée (moins chauffer aux heures de travail et remise à température à une heure choisie).

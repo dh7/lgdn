@@ -1,1 +1,0 @@
-Un régulateur de consommation sur ma voiture : il empêcherait automatiquement une consommation dépassant  par exemple 7 L / 100 km.

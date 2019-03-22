@@ -1,1 +1,0 @@
-Obtenir d'ENEDIS que le compteur LINKY soit réellement  communiquant avec le consommateur

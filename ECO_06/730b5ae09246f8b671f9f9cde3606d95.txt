@@ -1,1 +1,0 @@
-Diffusion régulière de données locales sur l'environnement (pollution de l'air), bulletins météo montrant obligatoirement les écarts avec les températures de saison.

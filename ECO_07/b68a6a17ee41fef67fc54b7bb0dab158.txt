@@ -1,1 +1,0 @@
-suivant la taille d'un foyer, créer un forfait de KWH à un tarif privilégié et taxer les foyers qui consommeraient plus.

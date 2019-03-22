@@ -1,1 +1,0 @@
-Un gestionnaire de température facile à programmer à installer par une entreprise agrée par un Point Info Habitat qui validerait un ou deux devis.

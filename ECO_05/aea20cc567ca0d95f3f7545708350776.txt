@@ -1,1 +1,0 @@
-recyclage de tous, tris des déchets , pas de voiture pour les distance de moins d'un km,  non utilisation de produit d'entretien  chimique

@@ -1,1 +1,0 @@
-Supprimer les produits les plus polluants de la vente (même si ce sont les moins chers).

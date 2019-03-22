@@ -1,1 +1,0 @@
-. Limiter la distance entre les lieux de production des matières premières et de consommation. . Imposer que les normes des pays dans lesquels sont vendus des produits soient suivies en plus des normes en vigeur dans les pays de production. . Imposer une distance maximale que les camions chargés peuvent parcourir sur le réseau routier.

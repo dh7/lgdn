@@ -1,1 +1,0 @@
-Taxe sur tous les achats (particuliers ou professionnels) à partir d’une certaine distance de transport du produit acheté en fonction de la distance et de l’impact carbone du transport utilisé. Taxe les produits en fonction de l’emballage (type et quantité)

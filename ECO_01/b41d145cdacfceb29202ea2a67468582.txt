@@ -1,1 +1,0 @@
-Restreindre les limitations de vitesses à CINQ niveaux 50, 70, 90, 110 et 130. Bannir les 20, 25, 30, 45 qui sont intenables. Remplacer les limitations très basses par une "priorité piétons".

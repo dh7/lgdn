@@ -1,1 +1,0 @@
-simplification des règles. le remplissage d'une déclaration donne la migraine. ce n'est pas normal

@@ -1,1 +1,0 @@
-fixer des seuils critiques beaucoup plus bas et les appliquer plus fermement

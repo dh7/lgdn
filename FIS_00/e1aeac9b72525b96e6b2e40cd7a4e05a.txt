@@ -1,1 +1,0 @@
-Le service des impôts envoie des emails aux contribuables avec la répartition des dépenses au niveau national et local (région,département, commune du contribuable)

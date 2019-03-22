@@ -1,1 +1,0 @@
-Adapter mes comportements sur le mode économique, dans la mesure du possible

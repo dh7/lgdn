@@ -1,1 +1,0 @@
-Nous avons construit une maison intégrant:    - une conception ou les pièces à vivre sont orientées au sud    - des matériaux de construction (brique) et d'isolation performant    - installer une chaudière à condensation intégrant un module solaire pour la production d'eau chaude    - installer un thermostat de régulation sur deux zones, + un thermostat de régulation par chambre

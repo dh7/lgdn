@@ -1,1 +1,0 @@
-Que tout déplacement en train d’un point A  à un point B aller-retour soit inférieur ou égal au coût total du transport par voiture (carburant + péage) Arrêter de faire des "nouvelles gares" SNCF au milieu de nulle part avec des dessertes dérisoires

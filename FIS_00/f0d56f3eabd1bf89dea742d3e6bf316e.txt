@@ -1,1 +1,0 @@
-simplifier l'ensemble du système afin de le rendre transparent et intelligible

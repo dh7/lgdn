@@ -1,1 +1,0 @@
-Publier les tranches d'impôts avec le nombre de contribuables pour chaque tranche. Exemple : 10000 contribuables paient en moyenne 20000 € d'impôts pour la tranche n°x. Ainsi chacun peut relativiser sa contribution au budget de la nation.

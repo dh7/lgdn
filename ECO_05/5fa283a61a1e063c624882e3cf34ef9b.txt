@@ -1,1 +1,0 @@
-Arrêter de prendre la voiture si frequence des ter augmente durant les horaires de travail 7-9h et 17-19h

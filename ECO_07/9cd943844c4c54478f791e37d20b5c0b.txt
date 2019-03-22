@@ -1,1 +1,0 @@
-Augmenter par exemple le prix des billets d'avion afin d'avoir des prix plus conformes a la réalité. La tentation est trop forte de partir a l'autre bout de l'Europe pour quelques euros.

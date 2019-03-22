@@ -1,1 +1,0 @@
-Refaire les élections avec la prise en compte du vote blanc révocatoire.

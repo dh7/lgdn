@@ -1,1 +1,0 @@
-Créer un site internet ou l'on voit en temps réel les prélèvements et dépenses de l'état et des collectivités. Avec possibilité de filtrer par ministère, département, régions etc, un truc bien quoi! Un peu comme le carnet de compte des Français.

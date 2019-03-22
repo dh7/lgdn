@@ -1,1 +1,0 @@
-recycler . limiter mes déplacement dans la mesure du possible mais ces mesure me paraissent dérisoires

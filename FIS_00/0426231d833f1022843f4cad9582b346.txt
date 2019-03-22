@@ -1,1 +1,0 @@
-Permettre aux citoyens d'accéder, via le portail impots.gouv.fr, à la répartition exacte de l'utilisation de ses impôts, y compris en incluant la proportion sur le salaire des élus et l'utilisation par région (ex: un habitant de Lyon doit savoir comment ses impôts sont répartis entre chaque région de France)

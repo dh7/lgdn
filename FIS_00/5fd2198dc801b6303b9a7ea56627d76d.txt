@@ -1,1 +1,0 @@
-Afficher publiquement les budgets pour chaque projet de l’Etat avec un décompte en ligne au fur et à mesure des dépenses, avec possibilité de consulter le détail de chaque dépense (nature, montant, acheteur, prestataire, etc.) Recevoir un avis à n+1 sur la façon dont mes impôts ont été répartis et dépensés par l’Etat.

@@ -1,1 +1,0 @@
-Action sur les tarifs des transports en commun (bus, train) sur toutes les lignes afin d'inciter les citoyens à les utiliser. Exemple : un aller-retour Tarbes Toulouse par personne et pour une distance de 150 km coûte un peu plus de 50 euros (soit pour 2, 100 euros) alors que le voyage en voiture est quasiment 3 fois moins cher !!

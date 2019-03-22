@@ -1,1 +1,0 @@
-Créer un document simple qui reprennent les différents postes de dépenses. Un document plus complet permettrait de consulter le détail de certains postes (Se référer au privé) A partir de ce document prévisionnel, créer un document "Réalisations" pour pouvoir analyser les écarts

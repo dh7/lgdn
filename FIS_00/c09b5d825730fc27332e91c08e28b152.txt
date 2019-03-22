@@ -1,1 +1,0 @@
-Plus une personne est proche d'un centre de production, moins le prix de vente est élevé, par contre plus un consommateur est loin plus le prix sera élevé.

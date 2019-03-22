@@ -1,1 +1,0 @@
-Lister les sommes attribuées à chaque administration par année.

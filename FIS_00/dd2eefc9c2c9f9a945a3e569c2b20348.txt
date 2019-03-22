@@ -1,1 +1,0 @@
-retour après paiement de l'utilisation de l'impot payé réparti par catégorie d'utilisation du budget global au niveau de l'état.

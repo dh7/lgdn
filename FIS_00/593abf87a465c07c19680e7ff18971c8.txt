@@ -1,1 +1,0 @@
-que la feuille de salaire ne soit plus divisée en deux colonnes mais indique en haut le total payé par l'employeur et en bas le net payé au salarié

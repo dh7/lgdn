@@ -1,1 +1,0 @@
-Simplifier l'accès à l'information et surtout le type de langage utilisé. Cela doit-être compréhensible pour tout le monde.

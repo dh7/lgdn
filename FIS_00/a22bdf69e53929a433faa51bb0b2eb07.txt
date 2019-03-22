@@ -1,1 +1,0 @@
-lui indiquer ce que coute chaque service auquel il accède.

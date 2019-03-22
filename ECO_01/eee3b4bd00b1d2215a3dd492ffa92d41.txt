@@ -1,1 +1,0 @@
-pollueurs = payeurs : poids lourds, industriels, agriculteurs

@@ -1,1 +1,0 @@
-Pour ce qui me concerne, j’applique déjà ces consignes depuis de nombreuses années (régulation de chauffage « PID », utilisation d’un break au lieu d’un SUV).

@@ -1,1 +1,0 @@
-Un compteur carbone qui indique de façon transparente et obligatoire pour tous, à la fin de chaque mois, nos émissions de carbone de l'ensemble de nos consommations et comportements.

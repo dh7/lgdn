@@ -1,1 +1,0 @@
-1 page web avec un graphique de recettes et de dépenses que l'on peut "zoomer" pour voir jusqu'en détail l'intégralité des postes budgétaires

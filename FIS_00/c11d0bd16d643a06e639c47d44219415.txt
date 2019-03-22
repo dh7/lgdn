@@ -1,1 +1,0 @@
-Mieux connaître la somme cumulée et la destination de tous les prélèvements fiscaux dans un format agrégé (TVA, CSG, Impôt sur le revenu, diverses taxes...)

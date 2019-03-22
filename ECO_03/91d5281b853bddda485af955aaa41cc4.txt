@@ -1,1 +1,0 @@
-Augmentation des températures et de la pollution.

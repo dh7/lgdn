@@ -1,1 +1,0 @@
-revoir la limitation de vitesse trop basse qui fait fonctionner les moteurs à bas régime alors qu'un moteur qui roule sur le couple consomme bien moins , pour cela ,faire appel à des gens compétents type motoristes et adapter cette limitation au type de route suivant sa dangerosité

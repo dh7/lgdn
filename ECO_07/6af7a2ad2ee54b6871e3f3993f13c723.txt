@@ -1,1 +1,0 @@
-prime prenant en charge la moitié du montant pour une meilleure isolation

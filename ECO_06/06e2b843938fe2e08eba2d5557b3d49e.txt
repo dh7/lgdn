@@ -1,1 +1,0 @@
-Il faut maintenir une disponibilité des transports dans les villages en direction des villes, et inversement. Si le transport est disponible et moins cher qu'une voiture, il peut convaincre de laisser de côté la voiture.

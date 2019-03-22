@@ -1,1 +1,0 @@
-Un site internet pour chaque citoyen lui permettant de gérer ses relations à l’administration et de recevoir des informations, notamment sur les budgets de l’Etat et des collectivités territoriales.

@@ -1,1 +1,0 @@
-Pour le chauffage ou l’eau, avoir des prix qui augmentent de manière exponentielle au delà d’un seuil correspondant à la moyenne des foyers similaires et des prix qui diminuent de manière exponentielle à l’inverse en dessous du même seuil

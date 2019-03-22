@@ -1,1 +1,0 @@
-envoyer par mail ou courrier la répartition des dépenses de leurs impots (avec des mots comprehensibles et pas des sigles)

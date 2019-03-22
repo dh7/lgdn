@@ -1,1 +1,0 @@
-Transport intelligents partagés. Système optimisé prenant en compte les trajets de chacun avec récupération et dépose au plus proche grâce a un algorithme d'optimisation centralisé. Idéalement autonome. Permettra de réduire le nombre de véhicules produits et circulant.

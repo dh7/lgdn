@@ -1,1 +1,0 @@
-A l'heure du numérique, instaurer sur le site des Impôts une application qui affiche au jour le jour les ressources et les dépenses détaillées, accessible à tous les contribuables.  Fournir un graphique annuel détaillé des ressources fiscales (impôts, TVA, autres taxes….) et de leurs affectations.

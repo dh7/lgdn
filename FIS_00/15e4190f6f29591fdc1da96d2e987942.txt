@@ -1,1 +1,0 @@
-Création d'un site présentant en temps réelles dépenses publiques et les recettes fiscales. Création d'un simulateur permettant à chaque citoyen de visualiser sa contribution fiscale complète et les aides reçues.

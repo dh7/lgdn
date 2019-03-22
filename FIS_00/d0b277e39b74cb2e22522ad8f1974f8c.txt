@@ -1,1 +1,0 @@
-site internet ouvert à tous, simple, permettant de visualiser les dépenses d'état, régionales, départementales, intercommunales, communales.

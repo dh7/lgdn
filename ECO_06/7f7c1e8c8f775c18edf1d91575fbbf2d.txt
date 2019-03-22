@@ -1,1 +1,0 @@
-- Augmenter le prix de l'avion.  - Poser des étiquettes pour noter les aliments que nous achetons en fonction des émissions de C02 : A, B, C ou D pour les plus pollueurs.

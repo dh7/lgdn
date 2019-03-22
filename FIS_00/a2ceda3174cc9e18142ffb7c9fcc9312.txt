@@ -1,1 +1,0 @@
-Valeur de son impôt = x pour éducation + y pour industrie + z pour armée etc.

@@ -1,1 +1,0 @@
-Creer un site avec un bilan mensuel  sur les entrées et les dépenses de l'état accessible à tous

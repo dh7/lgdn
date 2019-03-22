@@ -1,1 +1,0 @@
-Gestion du chauffage en fonction de l'occupation du logement, choix de voitures peu consommatrices de combustible voire électriques

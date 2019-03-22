@@ -1,1 +1,0 @@
-Gestion de la consommation d'énergie déjà fait: pompe à chaleur, chauffe eau thermodynamique, éclairage par ampoule LED. Améliorer le tri sélectif

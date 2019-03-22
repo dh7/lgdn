@@ -1,1 +1,0 @@
-Publier un état des impots (recettes et dépenses) accessible lorsqu'on établit sa déclaration sur impots.gouv, sans avoir à chercher

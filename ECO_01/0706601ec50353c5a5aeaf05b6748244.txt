@@ -1,1 +1,0 @@
-Ralentir cette fuite en avant qui nous fait remplacer les objets dès que la nouveauté les rends démodés.

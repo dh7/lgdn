@@ -1,1 +1,0 @@
-Lister les impôts et taxes existants, donner leur montant et leurs destinations

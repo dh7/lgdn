@@ -1,1 +1,0 @@
-Mettre les camions sur des trains, augmenter le trafic passager et diminuer le coût des billets de train, bref developper ce bel outil qu'est le réseau férré. Je n'ai jamais compris pourquoi on ne mettait pas l'accent sur le train alors que l'outil existe (auparavant il y avait une gare dans chaque commune presque!)

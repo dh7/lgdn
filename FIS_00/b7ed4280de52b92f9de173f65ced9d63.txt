@@ -1,1 +1,0 @@
-Recevoir annuellement un état des dépenses et des recettes de l'état. Informé le citoyen de son cout réel suivant la situation de chacun.

@@ -1,1 +1,0 @@
-Une simple feuille donnant les grandes lignes de dépenses mais également de recettes (TVA, Impot revenu, impot entreprises....) + les grandes données nécessaires (déficit de l'état, dette de la nation....). Ce bilan devrait inclure l'évolution d'une année sur l'autre au moins

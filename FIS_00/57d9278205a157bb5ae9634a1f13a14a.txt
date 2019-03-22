@@ -1,1 +1,0 @@
-puisque tout est en numérique  et que l'on doit toujours déclarer ,pour chaque impôt avant de déclarer ,on devrait avoir un menu pour indiquer pour chaque impot la répartition qui a était faite

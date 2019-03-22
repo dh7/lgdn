@@ -1,1 +1,0 @@
-Simplifier la lectures des budgets utilisés pour que ce soit compréhensible par le plus grand nombre.

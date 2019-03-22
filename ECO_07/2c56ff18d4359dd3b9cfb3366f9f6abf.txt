@@ -1,1 +1,0 @@
-mettre en place une programmation du niveau de chauffage en fonction de la présence ou de l'activité.

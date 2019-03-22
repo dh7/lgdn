@@ -1,1 +1,0 @@
-recyclage des déchets, compost, lumière éteinte si personne, chauffage seulement dans la pièce de vie, surveillance de l'eau.

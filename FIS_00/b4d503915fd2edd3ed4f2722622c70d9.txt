@@ -1,1 +1,0 @@
-Mettre en ligne un site dédié où par exemple il serait indiqué, sous forme de tableau ou autre, la relation entre la recette fiscale et son affectation côté dépense. Dans le cas où cela n'est pas possible, en indiquer la raison

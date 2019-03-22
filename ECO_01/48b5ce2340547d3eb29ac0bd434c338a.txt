@@ -1,1 +1,0 @@
-Collecte et élimination de déchets plastique par pyrolyse, ce qui permet de transformer les plastiques (bouteilles, film, etc.) en carburant. Plusieurs pays se sont lancés dans cette voie très prometteuse et qui permet de résoudre le problème de la gestion des déchets plastiques. Le process n'est pas très compliqué , ni onéreux et ça... marche !

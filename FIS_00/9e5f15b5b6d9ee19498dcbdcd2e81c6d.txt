@@ -1,1 +1,0 @@
-Diffuser des notes d'informations (validées par des instances indépendantes) avec lecture obligataire et questionnaires pour savoir si lues; sinon blocage d'accès à internet pendant quelques heures :-).

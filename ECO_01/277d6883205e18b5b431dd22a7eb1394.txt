@@ -1,1 +1,0 @@
-Mettre en place un programme de changement de fonctionnement de la consommation et de la production. Et ce en produisant et consommant local.

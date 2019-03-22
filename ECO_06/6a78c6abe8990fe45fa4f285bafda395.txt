@@ -1,1 +1,0 @@
-Des services de bus permettant de voyager avec une valise normale et non "cabine". Amélioration du réseau SNCF.

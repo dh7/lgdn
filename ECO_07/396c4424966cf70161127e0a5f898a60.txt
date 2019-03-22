@@ -1,1 +1,0 @@
-j'ai fait l'acquisition d'un vae et quand j'ai voulu demander l'aide de l'état, j'ai découvert qu'elle était conditionnée à l'existence d'une prime au niveau local, prime qui n'existe que dans les grandes villes où il existe des transports en communs efficaces, alors que chez moi, ni transports en commun, ni prime. c'est injuste.

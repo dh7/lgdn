@@ -1,1 +1,0 @@
-clarifier l utilisation des fonds preleves et regrouper les prelevements (pourquoi RDS et CRDS)

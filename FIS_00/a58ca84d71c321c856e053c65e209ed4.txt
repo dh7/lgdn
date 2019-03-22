@@ -1,1 +1,0 @@
-Presenter un compte de resultat chaque fin d’année envoyé par mail à chaque citoyens.

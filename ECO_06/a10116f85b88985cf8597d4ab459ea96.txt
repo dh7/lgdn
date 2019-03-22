@@ -1,1 +1,0 @@
-Réduire la part abonnement des factures d'eau, gaz et électricité et augmenter la part proportionnelle à la consommation. Définir un seuil de consommation ( gaz, élec, fuel...) au délà duquel le prix est plus élevé, en contrepartie, en dessous de ce seuil, le prix est plus réduit.

@@ -1,1 +1,0 @@
-- Transparence dans les fléchages budgétaire. On pourrait imaginer un rapport synthétique simplifié des dépenses publiques accessible sur internet. Il reprendrait les grandes catégories de dépenses et permettrait de "zoomer" sur chacune d'elle en donnant les accès vers les documents de référence.

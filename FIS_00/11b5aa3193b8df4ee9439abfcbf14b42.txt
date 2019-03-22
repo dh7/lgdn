@@ -1,1 +1,0 @@
-Créer un espace dédié sur le site des impôts pour informer de l'utilisation des impôts. Bilan annuel des dépenses avec rendu dans les journaux.

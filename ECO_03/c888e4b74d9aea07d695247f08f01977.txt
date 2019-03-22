@@ -1,1 +1,0 @@
-augmentation : - de la pollution de l'air  - des périodes de canicules, -  des tempêtes,  - des variations brutales de température (on peut avoir souvent une vingtaine de degrés d'écart en 24 h)

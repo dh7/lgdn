@@ -1,1 +1,0 @@
-Mise en place d'une plateforme exclusivement réservée aux parcours en vélo (maps ou autres ne permettent pas une connaissance en temps réel des parcours praticables en vélo).

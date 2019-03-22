@@ -1,1 +1,0 @@
-Mise en place de transports entre voisins, pour aller à la boulangerie, courrier, ou remettre en place les services de proximité.

@@ -1,1 +1,0 @@
-Changer le système de facturation de l'énergie en intégrant l'abonnement au prix du kW. Dans le système actuel, plus on consomme, moins l'énergie est chère (le prix du kWh diminue).

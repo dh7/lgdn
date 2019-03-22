@@ -1,1 +1,0 @@
-moduler les taxes en fonction de la distance entre le lieu de production et de consommation. Favoriser le consommé local

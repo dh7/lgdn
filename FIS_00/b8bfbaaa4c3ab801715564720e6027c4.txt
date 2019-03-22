@@ -1,1 +1,0 @@
-creer une instance de type cour des comptes citoyenne pour analyser et diffuser la repartition des differents impots (revenus , taxes , transmission , l..) et leur affectation aux  depenses  publiques ,  sociales  et l'efficacite des depenses engagées

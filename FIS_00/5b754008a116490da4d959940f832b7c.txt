@@ -1,1 +1,0 @@
-Une représentation trop simpliste serait erronée et une représentation trop détaillée serait illisible et donc non lue/comprise par la grande majorité. Un système de représentation dynamique (informatique) à plusieurs niveaux permettrait d'avoir une vision macro et d'aller dans les détails (drill down).

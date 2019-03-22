@@ -1,1 +1,0 @@
-afficher le montant de la dette par français partout.

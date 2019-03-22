@@ -1,1 +1,0 @@
-Il ne faut pas de contrainte mais simplement prouver qu’une solution est positive et non pas obligatoire sans explication simple et argumentée

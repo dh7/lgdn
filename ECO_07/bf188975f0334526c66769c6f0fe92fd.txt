@@ -1,1 +1,0 @@
-Taxer les produits en fonction de la distance qu'ils ont parcourus. Par exemple, est-il normal que de la nourriture provenant de l'autre côté de la planète soit moins chère que celle produite localement? Concernant les véhicules, aujourd'hui malheureusement, les prix des véhicules "propres" sont trop élevés. S'ils étaient moins chers, je penserais à changer mon véhicule.

@@ -1,1 +1,0 @@
-Recyclage, trie des ordures, conservation des appareils en évitant le remplacement à la première occasion, surveillance de la consommation des ressources naturelles

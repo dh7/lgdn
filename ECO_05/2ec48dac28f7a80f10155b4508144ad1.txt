@@ -1,1 +1,0 @@
-limitation des déplacements en vehicule à moteur, limitation de la consommation de chauffage (18 degres) et d'électricité, tri sélectif, tentative d'optimisation de la consommation d'aliments,

@@ -1,1 +1,0 @@
-éviter d' englober les recettes dans un 'pot" global par rapport à la ressource affichée par l' Etat

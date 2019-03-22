@@ -1,1 +1,0 @@
--evaluer le cout des services et remettre une facture factice  aux utilisateurs (école , hôpital, routes..)

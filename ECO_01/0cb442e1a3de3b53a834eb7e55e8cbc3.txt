@@ -1,1 +1,0 @@
-Taxer le coût du transport de marchandises selon l'impact écologique du moyen de transport utilisé et la distance parcourue. Ceci permet de privilégier la production locale.

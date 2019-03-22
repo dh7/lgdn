@@ -1,1 +1,0 @@
-rendre public toutes les dépenses de l’état (sauf ce qui est lie au service secret)

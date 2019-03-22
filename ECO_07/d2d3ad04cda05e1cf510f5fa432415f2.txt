@@ -1,1 +1,0 @@
-- Que les tarifs de transports communs (train, avion, bus) prennent en compte l'impact environnemental (les tarifs avions lowcost très polluants pour des distances faisables en train) - Une incitation à utiliser le train quand je dois voyager et non une incitation à voyager pas cher quitte à polluer

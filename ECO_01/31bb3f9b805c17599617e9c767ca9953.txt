@@ -1,1 +1,0 @@
-Attribuer la prime en fonction des revenus, favoriser les plus bas et éviter les 4x4.

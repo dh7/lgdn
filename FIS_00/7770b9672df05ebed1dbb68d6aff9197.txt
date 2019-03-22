@@ -1,1 +1,0 @@
-Informer annuellement tous les citoyens du pourcentage d'IR payé par categorie de revenus (par exemple <10000€, entre 10000€ et 20000€, etc)

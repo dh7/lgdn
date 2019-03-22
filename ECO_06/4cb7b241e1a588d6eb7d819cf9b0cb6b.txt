@@ -1,1 +1,0 @@
-imposer un système de limitation de vitesse par portion de route par GPS par exemple. Limiter les cylindrés des véhicules et leurs performances d'acceleration inutile à partir du moment où l'on respecte les limitation de vitesse

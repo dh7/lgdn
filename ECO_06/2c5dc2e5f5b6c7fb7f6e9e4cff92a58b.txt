@@ -1,1 +1,0 @@
-La voiture dans un "train" sur le tracé des autoroutes avec "montée ou  descente" programmable au niveau des échangeur autoroutier. Il n'y aurai qu'à compléter l'infrastructure autoroutière existantes (logistique + prise en charge)

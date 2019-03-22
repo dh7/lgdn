@@ -1,1 +1,0 @@
-Lister toutes les dépenses faites. Donner accès aux relevés banquaires de l'état

@@ -1,1 +1,0 @@
-Sur chaque avis d'imposition, indiquer les montants alloués à chaque dépense publique sous forme de graphique, y compris pour les impôts locaux. Ex : Vous payez 1000€ d'impôt sur le revenu, soit X€ dédiés à l'éducation, Y€ dédiés à la défense, Z€ dédiés au remboursement de la dette publique, etc.

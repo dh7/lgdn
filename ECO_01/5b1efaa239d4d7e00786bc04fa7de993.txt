@@ -1,1 +1,0 @@
-Limiter la consommation des nouvelles voitures en limitant leur poids et en imposant une coefficient d’aérodynamisme minimum.

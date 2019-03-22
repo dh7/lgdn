@@ -1,1 +1,0 @@
-mettre a disposition les donnees des depenses de l etat et des aides sociales, des impots disponibles par API pour permettre un traitement gratuit par les citoyens, entreprises, etc

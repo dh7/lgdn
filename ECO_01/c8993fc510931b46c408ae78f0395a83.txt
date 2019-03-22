@@ -1,1 +1,0 @@
-Imposer un système de consigne pour au moins tout les conteneurs de liquide. <br/> Le prix de la consigne est fixé et modifié par l’état. <br/> Il doit être volontairement élevé, par exemple 1 euro par bouteille, un implant électronique doit garantir la sécurité du système. <br/> Un petit coup de pouce doit être envisagé pour palier à l’augmentation des « premières courses ».

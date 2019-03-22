@@ -1,1 +1,0 @@
-Limiter la vitesse de tous les véhicules. Autoroutes : maximum 100km/h, routes maximum 70km/h, zones urbaines 30km/h

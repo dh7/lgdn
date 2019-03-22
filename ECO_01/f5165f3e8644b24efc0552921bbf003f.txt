@@ -1,1 +1,0 @@
-Appliquer une tva si le produit acheté provient de la région,  ou au contraire une tva plus forte si le produit est manufacturé dans un pays lointain

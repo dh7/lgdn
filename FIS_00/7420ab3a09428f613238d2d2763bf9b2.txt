@@ -1,1 +1,0 @@
-Recevoir un livret donnant le détail des dépenses par compte budgétaire.

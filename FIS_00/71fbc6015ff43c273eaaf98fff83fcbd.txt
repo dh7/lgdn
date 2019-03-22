@@ -1,1 +1,0 @@
-Faire un état des recettes et dépenses réelles  par poste comme chacun fait son budget. Le faire à la taille du pays et par personne

@@ -1,1 +1,0 @@
-changement de mon mode de déplacement maison-travail. Passage d'un mode trajet en voiture en mode e trajet voiture-train-vélo ou train-vélo (suivant météo et condition de luminosité).

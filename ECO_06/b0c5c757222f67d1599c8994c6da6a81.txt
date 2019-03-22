@@ -1,1 +1,0 @@
-Le signal prix. Notamment supprimer le tarif agent dans les IEG, et le remplacer par un prime cash.

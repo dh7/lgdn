@@ -1,1 +1,0 @@
-Affichage des coûts réels de prestations (hospitalier, toutes les prises en charge ....ect) de façon que les on puisse connaître le montant des prises en charge.

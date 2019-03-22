@@ -1,1 +1,0 @@
-Création d'un site internet présentant en détail les finances (recettes et dépenses) de l'état.

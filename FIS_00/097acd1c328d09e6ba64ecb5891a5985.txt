@@ -1,1 +1,0 @@
-Un tableau avec les sommes de chaque type de rentrée et de sortie, avec les totaux

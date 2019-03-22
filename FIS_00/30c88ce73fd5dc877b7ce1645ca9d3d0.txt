@@ -1,1 +1,0 @@
-Faire un site simple montrant les recettes (leurs origines) et les dépenses : prestations diverses, retraites, budget de fonctionnement de l'état..... Une page web avec quelques camemberts très pédagogiques

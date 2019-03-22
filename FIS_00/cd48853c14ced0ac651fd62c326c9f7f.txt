@@ -1,1 +1,0 @@
-envoyer un message aux gens ayant bénéficié de soins à l’hôpital pour leur donner le coût réel de leur hospitalisation. faire des dossiers carte vital avec les traitement et que les simples renouvellement puissent être faits sans aller voir le médecin

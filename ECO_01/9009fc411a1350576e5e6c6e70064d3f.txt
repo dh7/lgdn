@@ -1,1 +1,0 @@
-Développer le ferroutage camion/train : en attribuant ou en construisant des lignes de chemin de fer spécifique comme pour les lignes TGV, avec des gares spécifiques. Faire de Lyon la gare centrale pour le ferroutage.

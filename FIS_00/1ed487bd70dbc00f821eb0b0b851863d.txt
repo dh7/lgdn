@@ -1,1 +1,0 @@
-Faire un retour à chaque contribuable sur l'utilisation des impôts qu'ils ont payés. Le faire sous forme de BSI : en tête le montant des impôts payé par le contribuable puis la répartition en € poste par poste : désendettement, santé, armée etc. Enfin, sur une base 1000 de TVA, quel a été la répartition.

@@ -1,1 +1,0 @@
-CSG RETRAITES ne devrait pas être calculé pour ceux qui ont encore un emprunt habitations principales (suite à problémes de la vie, les retraités ont un pret à payer ...)chomage suite à licenciement non inscrit dans base retraite

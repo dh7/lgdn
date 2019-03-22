@@ -1,1 +1,0 @@
-afficher le prix des services "gratuits" hôpital ; éducation.

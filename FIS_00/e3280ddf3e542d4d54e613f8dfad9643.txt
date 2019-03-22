@@ -1,1 +1,0 @@
-Créer une plateforme avec les chiffres exacts des montants exacts recueillis par l'Etat, avec les details des dépenses publiques et classés par pôles (aide sociales, habitat, renovation, transports, retraites....). Les chiffres devront êtres mis a jours chaque mois.

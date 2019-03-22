@@ -1,1 +1,0 @@
-Mise en place d'un bonus-malus incitatif sur les émissions polluantes (particuliers, collectivités, industriels et services). Définir une unité de pollution en affectant un coefficient spécifique à chaque polluant. Ne pas autoriser les crédits polluants.

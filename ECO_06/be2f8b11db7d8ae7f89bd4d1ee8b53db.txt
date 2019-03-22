@@ -1,1 +1,0 @@
-Payer les factures d’énergie par tranches de facturation (plus on consomme , plus c’est cher)

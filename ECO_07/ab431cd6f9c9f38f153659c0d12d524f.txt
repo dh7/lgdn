@@ -1,1 +1,0 @@
-Créer un étiquetage type "Nutriscore" du bilan carbone de chaque bien de consommation que l'on pourrait nommer "Score Carbone". Le consommateur pourrait, en connaissance de cause, arbitrer ses achats en fonction de leur impact sur le climat et le déréglement climatique.

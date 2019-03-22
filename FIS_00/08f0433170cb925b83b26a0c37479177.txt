@@ -1,1 +1,0 @@
-afficher un suivi des recettes et des  dépenses   régulier avec une granularité suffisamment précise et compréhensible.  afficher le suivi des  projets financés - mesurer leur efficience

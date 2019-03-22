@@ -1,1 +1,0 @@
-- adapter la facture des ordures ménagères en fonction de mes propres déchets (passage 1 fois tous les 15 jours des éboueurs serait pour moi suffisant)

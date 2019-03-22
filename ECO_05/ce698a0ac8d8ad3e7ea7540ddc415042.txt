@@ -1,1 +1,0 @@
-1° Aujourd'hui co-voiturage sur blablacar, mais il faudrait le développer au niveau des communes. Par exemple, une personne pourrait afficher son trajet à l'office du tourisme de sa commune et 3 autres pourraient venir s'inscrire pour effectuer le même trajet. Et prévoir des aires de pick-up/dépose dédiées pour les co-voitureurs dans les communes.

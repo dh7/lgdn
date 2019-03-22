@@ -1,1 +1,0 @@
-Il faut fixer une limite au poids des voitures Ne pas leur permettre d'aller à plus de 130km/h Généraliser le radar anti-collision Généraliser le dispositif de contrôle d'alcoolémie avant le démarrage du véhicule Passer à un système automatique de limitation de vitesse des véhicules soit par une balise dans la route ou soit via le couplage avec un système GPS.

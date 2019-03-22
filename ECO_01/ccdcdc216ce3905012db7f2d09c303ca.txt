@@ -1,1 +1,0 @@
-évolution proportionnelle entre  tarif de vente et tarif de rachat : Si le tarif de vente par l'opérateur évolue en + ou - de x % alors le tarif de rachat de l'énergie par l'opérateur au particulier ou groupement producteur dans  la même proportion.

@@ -1,1 +1,0 @@
-Afficher sur les avis d'imposition les répartitions en % des secteurs de redistribution de l'impôt (dépenses sociales, services publics etc...)

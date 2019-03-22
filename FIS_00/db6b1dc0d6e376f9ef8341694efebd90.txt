@@ -1,1 +1,0 @@
-- Indiquer à chaque français le montant total des aides qu'il reçoit chaque année (Ils oublient....) - Indiquer le montant total des impôts (taxes habitations, foncières, IFI, revenus,…) qu’il paie (hors TVA).  - Indiquer le montant des charges sociales payées par an

@@ -1,1 +1,0 @@
-Afin de simplifier ne peut on pas faire en sorte que le salaire imposable soit le même que le salaire net (sinon, on paye 2 fois et payer un impôt sur un salaire que l'on ne perçoit pas est forcément mal perçu !!)

@@ -1,1 +1,0 @@
-Créer un logiciel simple sur le site impôt.gouv qui présente un bilan chaque année des recettes et des depenses de l’etat Poste par poste

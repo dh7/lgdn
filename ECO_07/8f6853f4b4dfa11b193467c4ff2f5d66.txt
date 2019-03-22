@@ -1,1 +1,0 @@
-Suivi en temps réel de la consommation électrique et gaz avec prix plus cher au delà de certains seuils (et donc un coût inférieur à actuellement pour les petits consommateurs, toujours dans une logique de valoriser les bonnes attitudes).

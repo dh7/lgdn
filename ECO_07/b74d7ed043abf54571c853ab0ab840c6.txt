@@ -1,1 +1,0 @@
-Possibilité de baisser le prix des billets de train en fonction du nombre de personnes voyageant ensemble.  Aligner le prix des OuiBUS et des  billets de trains pour que le train soit privilégié  au bus plus polluant.

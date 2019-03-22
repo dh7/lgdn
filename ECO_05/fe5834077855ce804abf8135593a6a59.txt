@@ -1,1 +1,0 @@
-Trie des déchets, limitation des déplacements non nécessaire en voiture. Favoriser le train.

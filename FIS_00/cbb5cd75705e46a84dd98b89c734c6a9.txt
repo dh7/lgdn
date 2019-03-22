@@ -1,1 +1,0 @@
-Créer un site qui détails les dépenses chaque mois, avec des guides explicatifs et des chatbots afin de poser nos questions en cas d’incompréhension.

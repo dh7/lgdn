@@ -1,1 +1,0 @@
-Me fournir la possibilité de générer et analyser rapidement et efficacement des données sur ma consommation, au sein d'une application capable d'émettre des suggestions visant à rationaliser celle-ci.

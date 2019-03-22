@@ -1,1 +1,0 @@
-Fournir l'accès au détail du budget de la France une fois voté, en donnant la répartition budgétaire par catégories et sous-catégories. Par exemple à disposition sur le site elysee.fr

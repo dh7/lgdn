@@ -1,1 +1,0 @@
-Un exemple tout simple! Tous les jours on nous incite au trie sélectif, c'est une bonne résolution  encore faut-il avoir les containers à dispositions.

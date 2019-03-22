@@ -1,1 +1,0 @@
-cout dégressif sur les transports en commun en fonction du nombre de trajets effectués, jusqu'à une éventuelle gratuité en bonus;

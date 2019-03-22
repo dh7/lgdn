@@ -1,1 +1,0 @@
-Les rendre publiques avec d'abord un premier niveau macro et possibilité de descendre en finesse sur plusieurs niveaux. Et mieux expliciter quel impôt est utilisé pour quelle dépense. (D'ailleurs, le fait de scinder plutôt que penser global est surement un erreur cela dit en passant)

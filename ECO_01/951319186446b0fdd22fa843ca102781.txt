@@ -1,1 +1,0 @@
-Taxer les produits selon leur distance parcourue (plus la zone de provenance est loin plus la taxe augmente) et les produits contenus (plus ils sont polluants plus la taxe augmente)

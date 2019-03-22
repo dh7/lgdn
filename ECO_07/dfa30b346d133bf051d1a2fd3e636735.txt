@@ -1,1 +1,0 @@
-Indexer la contribution aux ordures ménagères en fonction de la quantité (à la pesée ou à la lévée). Non appliqué à Strasbourg.

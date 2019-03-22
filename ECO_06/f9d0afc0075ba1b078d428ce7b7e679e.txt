@@ -1,1 +1,0 @@
-Un service de bus cadencé avec un arrêt à moins d'un ou deux km de chez moi. Des bus et des trains qui transportent les vélos sans aléas (comme en Suisse). Trains plus nombreux à s'arrêter à Groisy (74).

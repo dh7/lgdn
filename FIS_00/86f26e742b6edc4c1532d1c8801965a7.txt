@@ -1,1 +1,0 @@
-Donner les évolutions des dépenses par poste budgétaire.

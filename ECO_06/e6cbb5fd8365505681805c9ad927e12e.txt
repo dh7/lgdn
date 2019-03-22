@@ -1,1 +1,0 @@
-Création d'un système de régulation automatique des vitesses sur route et en ville par GPS embarqué.

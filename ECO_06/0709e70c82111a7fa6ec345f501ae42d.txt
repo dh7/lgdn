@@ -1,1 +1,0 @@
-un coup réduit du changement de VMC traditionnel pour passer à une VMC double flux. L'isolation est une chose, la gestion de la chaleur produite au foyer en est une autre.

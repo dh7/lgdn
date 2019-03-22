@@ -1,1 +1,0 @@
-Taxer les produits en fonction de la distance parcourue depuis leur lieu de production et taxer les produits en fonction de leur quantité d'emballage

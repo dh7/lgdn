@@ -1,1 +1,0 @@
-Supprimer les emballages dont la destruction et la récupération sont polluantes

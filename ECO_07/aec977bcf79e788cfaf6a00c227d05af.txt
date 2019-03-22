@@ -1,1 +1,0 @@
-Taxer les produits selon leur emballage, leur distance parcouru et la pollution engendré par leur fabrication.

@@ -1,1 +1,0 @@
-Il est possible de réduire l'exposition aux rayonnement électromagnétiques des téléphones en augmentant le nombre de femtocell. Le téléphone se connecte à la femtocell, très proche. Il émet donc à très faible puissance. L'utilisateur est protégé.

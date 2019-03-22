@@ -1,1 +1,0 @@
-Créer une application pour évaluer le coût de chaque acte, scolarité, médecine... et avoir une idée plus précise de l'emploi de l'argent récolté par l'Etat

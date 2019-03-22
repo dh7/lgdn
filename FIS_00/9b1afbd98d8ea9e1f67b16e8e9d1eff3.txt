@@ -1,1 +1,0 @@
-Rapport annuel sur l'utilisation des recettes des impôts. Tableau simple à lire avec recettes par type d'impôts (TVA, CSG, ISF, Impôt sur le revenu...) et affiliation de ces dépenses par domaines (éducation, retraite, sécu, remboursement des intérêts de la dette, dotation au CICE...)

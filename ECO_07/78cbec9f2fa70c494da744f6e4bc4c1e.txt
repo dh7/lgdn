@@ -1,1 +1,0 @@
-Forcer les constructeurs de tous genre véhicule, électroménager, meubles etc. à rendre leurs produits réparables. (Exemple simple un smartphone pour lequel on ne peut pas changer la batterie)

@@ -1,1 +1,0 @@
-Aide pour les panneaux solaires renforcée. Prix de l'électricité fixé en fonction du coût de production et non pas en fonction du prix de marché. La production d'électricité étant nationale le prix de vente de l'électricité ne doit pas dépendre de la spéculation internationale.

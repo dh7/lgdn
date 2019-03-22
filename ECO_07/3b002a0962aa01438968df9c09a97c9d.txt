@@ -1,1 +1,0 @@
-Prime bi-annuelle (juin et decembre) en fonction d'une baisse de la consommation d'eau (électricité, etc.) ou l'augmentation de l'utilisation d'eau (électricité, etc.) en heures creuses.

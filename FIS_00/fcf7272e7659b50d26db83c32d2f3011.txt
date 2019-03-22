@@ -1,1 +1,0 @@
-Une plateforme numérique qui permet de lire le coût de chaque prestation versus le type d’impôt collecté.

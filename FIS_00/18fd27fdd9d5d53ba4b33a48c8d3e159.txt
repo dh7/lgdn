@@ -1,1 +1,0 @@
-Prendre une base 100 et montre quels euros sont affectés à chaque besoin. Tout le reste (cad les chiffres en million de tel ou tel budget) ne parlent absolument pas et ne reste pas dans les consciences.

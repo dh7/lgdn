@@ -1,1 +1,0 @@
-Il existe des hubs logistiques, il doit exister des Hubs billetterie; un achat de billet pouvant cumuler différents moyens de transport. Donc simplification des abonnements qui tiennent compte des différents moyens de transport.

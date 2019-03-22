@@ -1,1 +1,0 @@
-Contrôle des déplacements en voiture et maintient des températures du logement à 19 degrés.

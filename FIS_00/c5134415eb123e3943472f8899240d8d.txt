@@ -1,1 +1,0 @@
-Il faudrait avant tout reconstruire tout le système, de sorte à le rendre plus simple et plus lisible. La question de la transparence de l'utilisation vient après.

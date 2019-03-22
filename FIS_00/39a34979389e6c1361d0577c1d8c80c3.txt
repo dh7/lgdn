@@ -1,1 +1,0 @@
-Envoyer une fois par an un graphique accompagné d’un courrier sur le budget! Par exemple, sur le site internet lors des déclarations fiscales ou par courrier postal si pas de déclaration par internet.

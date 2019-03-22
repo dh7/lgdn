@@ -1,1 +1,0 @@
-Installer plus de pistes cyclables. Calculer la taxe d'ordure ménagère au prorata de la quantité de déchets produits.

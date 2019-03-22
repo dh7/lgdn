@@ -1,1 +1,0 @@
-deja par le tri des déchets systématique, en utilisant la fonction stop moteur à chaque arrêt ( supprimer la possibilité de ne pas utiliser cette fonction ) ,

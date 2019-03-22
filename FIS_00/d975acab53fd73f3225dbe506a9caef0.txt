@@ -1,1 +1,0 @@
-Détailler en pourcentage les sommes allouées à chaque secteur de dépense publique sous forme de "camembert" par exemple, sur le site impot.gouv.fr, avec une mise à jour annuelle et un historique sur le quinquennat.

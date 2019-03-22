@@ -1,1 +1,0 @@
-Supprimer les véhicules diesel en centre ville hors weeks-ends sauf les utilitaires. Remplacer progressivement les bus par des bus électriques au lieu de ne plus mettre en marche la climatisation l'été, ce qui incite à ne pas les prendre.

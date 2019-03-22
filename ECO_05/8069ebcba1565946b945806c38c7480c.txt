@@ -1,1 +1,0 @@
-Recyclage strict de mes déchets, limitation de mes déchets, limitation du nombres d'appareils en veille.

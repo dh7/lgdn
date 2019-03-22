@@ -1,1 +1,0 @@
-Un site interactif qui permet d'avoir une vision schématique des budgets et dépenses publiques en globalité et en détail.

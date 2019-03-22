@@ -1,1 +1,0 @@
-Prise en charge de l'état du différentiel de coût d'une chaudière gaz économe avec une ancienne en cas de renouvellement, avoir un bus plus fréquent (7-8 minutes plutôt que 15-20) pour aller à la gare avec

@@ -1,1 +1,0 @@
-Gestion optimisée du chauffage de mon pavillon en ne chauffant que les pièces occupées.

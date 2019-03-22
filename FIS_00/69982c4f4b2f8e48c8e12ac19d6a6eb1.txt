@@ -1,1 +1,0 @@
-un impôt = une Epci = compétences définies. Suppression de la compétence générale pour l'Etat, Région, Epci, Communes. Suppression des départements.

@@ -1,1 +1,0 @@
-Développer un système de location de vélo et de transports en commun dans un maximum de villes pour les différents déplacements (principalement le trajet au travail). Campagnes d'information et de communication pour sensibiliser les gens (principalement les seniors) au danger climatique.

@@ -1,1 +1,0 @@
-Editer un tableau de bord trimestriel des dépenses de l'Etat par domaine.

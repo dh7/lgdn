@@ -1,1 +1,0 @@
-Généraliser le vrac pour tout type d'ingrédients=> suppression des emballages.  Créer des applis de transports alliant covoiturage et transport public (c'est trop morcelé, soit l'un soit l'autre, soit sncf, soit ratp, soit bus privées...)

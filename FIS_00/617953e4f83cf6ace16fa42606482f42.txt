@@ -1,1 +1,0 @@
-Affichage du montant des taxes payées pour un produit et la destination de ces taxes. Exemple : à la pompe, afficher le montant de chaque taxe (en centimes par litre) et l'utilisation qui est en est faite.

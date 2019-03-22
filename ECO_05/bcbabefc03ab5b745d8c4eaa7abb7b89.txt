@@ -1,1 +1,0 @@
-gestion des déchets, gestion de la consommation électrique et de l'eau.

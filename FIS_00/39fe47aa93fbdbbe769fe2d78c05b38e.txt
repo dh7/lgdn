@@ -1,1 +1,0 @@
-Afficher ou envoyer les couts des prestations chaque fois que c'est possible (école, hôpital, … )

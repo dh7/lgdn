@@ -1,1 +1,0 @@
-Plus de TRANSPARENCE:  - Afficher qui paie quoi. (par age, métier, revenu, régions...) - Afficher les autres sources de revenu de l'état  - Afficher régulièrement la répartition des dépenses tel que le tableau ci dessus de la répartition des 1000€  - Afficher les parts fonctionnement/projets/investissements,  - Afficher les projets majeurs dans chaque domaine

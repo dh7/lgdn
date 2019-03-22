@@ -1,1 +1,0 @@
-Faire apparaître le coût de toutes les choses qui sont faites par l’état même si c’est gratuit.

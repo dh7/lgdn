@@ -1,1 +1,0 @@
-envoyer de l'information par mail ET courrier

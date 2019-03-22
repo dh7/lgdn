@@ -1,1 +1,0 @@
-Tableau croisé par thèmes (éducation, santé,...) et par types de dépenses (personnel, fonctionnement, investisement...)

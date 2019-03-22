@@ -1,1 +1,0 @@
-envoyer un bilan synthétique annuel par mail ou bien l'afficher dans les mairies

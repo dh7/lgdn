@@ -1,1 +1,0 @@
-Cotisation volontaire.C'est une taxe avec montant volontaire à payer.

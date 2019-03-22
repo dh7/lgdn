@@ -1,1 +1,0 @@
-Edition d'un rapport sur le montant des recettes par source (TVA, CSG, IR, Impots société etc) et des dépenses par secteur d'activité, (social et ensuite par Ministère avec les charges de personnel associées, région, département, commune)

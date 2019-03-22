@@ -1,1 +1,0 @@
-Développer des outils numériques permettant de tester simplement les appareils de chauffage, afin de juger de leur état. Organiser la mobilité des gens par des solutions locales innovantes

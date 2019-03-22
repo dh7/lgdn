@@ -1,1 +1,0 @@
-rendre plus lisible l'affectation des produits de l'impot pour en comprendre l'affectation

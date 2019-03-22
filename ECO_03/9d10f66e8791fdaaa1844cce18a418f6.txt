@@ -1,1 +1,0 @@
-Les changements sont déjà visibles, mais le plus grave c'est l'exponentialité des changements

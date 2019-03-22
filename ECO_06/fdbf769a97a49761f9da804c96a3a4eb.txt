@@ -1,1 +1,0 @@
-Réduire le tarif des autoroutes en fonction du nombre de passagers dans le véhicule . Par exemple avec des capteurs tactiles côté passager

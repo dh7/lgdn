@@ -1,1 +1,0 @@
-Créer un site internet indiquant chaque année le montant des budgets  et leur utilisation. Indiquer les projets d'avenir ou en cours pour améliorer la compétitivité des services de l'état.

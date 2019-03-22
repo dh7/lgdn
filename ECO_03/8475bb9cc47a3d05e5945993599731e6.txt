@@ -1,1 +1,0 @@
-Limitation des exercices physiques (y compris déplacement en velo) en cas de pic de pollution.

@@ -1,1 +1,0 @@
-un diagramme simple (camembert) donnant la répartition des dépenses avec un lien permettant d'accéder au détail de chaque poste

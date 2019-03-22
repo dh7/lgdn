@@ -1,1 +1,0 @@
-Avoir un site simple permettant de savoir qui paye chaque impôt, la proportion de la population payant cet impôt et ce que finance chaque impôt

@@ -1,1 +1,0 @@
-Les impôts et taxes devraient être clairement isolés dans un prix comme cela nous serions au premier coup d’œil, le cout réel et la taxe ajoutée dessus. Ceci dés l'affichage des prix (essence, biens de consommation)

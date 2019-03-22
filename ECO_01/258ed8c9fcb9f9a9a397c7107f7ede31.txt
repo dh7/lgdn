@@ -1,1 +1,0 @@
-Imposer un maillage de  bornes et stations de stations de recharges en fonction de la densité de population. Plafonner les tarifs. Faire financer ces stations par les pétroliers (taxes dégressives par rapport à la disponibilité). La disponibilité á un tarif abordable facilitera la transition.

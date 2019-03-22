@@ -1,1 +1,0 @@
-- Adapter une fiscalité avantageuse aux stocks des entreprises pour diminuer les engorgements des routes par les camions.  - Privilégier les commerces des centres villes  par rapport aux centres commerciaux et ainsi diminuer les engorgements des routes.

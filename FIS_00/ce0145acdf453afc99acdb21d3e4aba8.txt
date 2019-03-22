@@ -1,1 +1,0 @@
-créer un outil qui permet de voir en temps réel l'ensemble des dépenses de l'état, notamment toutes les dépense de fonctionnement des corps d'état, toutes les subventions, les mouvements envers les partenaires extérieurs au pays, le suivi des budgets alloués à des politiques spécifiques

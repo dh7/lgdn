@@ -1,1 +1,0 @@
-- Taxes bonus / malus en fonction de la durabilité des produits achetés - Taxe carbone en fonction du CO2 émis par la production de chaque bien - TVA réduite sur les produits biologiques et produits à moins de 200km

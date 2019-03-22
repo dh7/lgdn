@@ -1,1 +1,0 @@
-Donner le budget de l'état avec la déclaration d'impôts annuelle.

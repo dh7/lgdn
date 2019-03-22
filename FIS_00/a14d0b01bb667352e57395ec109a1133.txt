@@ -1,1 +1,0 @@
-Fournir le détail du calcul de l'impôt avec une légende pour chaque montant et une explication du choix de notre tranche ou du type d' imposition ou dexoneration (isf,revenu, pinel,...)

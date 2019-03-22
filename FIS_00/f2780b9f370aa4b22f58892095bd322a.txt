@@ -1,1 +1,0 @@
-Indiquer le coût par citoyen pour chaque  ministère en précisant le % des citoyens qui sont soumis ou pas, à l'impôt sur le revenu.

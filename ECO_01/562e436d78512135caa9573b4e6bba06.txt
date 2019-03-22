@@ -1,1 +1,0 @@
-Mettre en place une logique pollueur/payeur et ecolo/bonus.  Inclure un cout ecologique dans tous les produits.

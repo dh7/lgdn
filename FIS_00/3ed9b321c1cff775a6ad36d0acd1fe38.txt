@@ -1,1 +1,0 @@
-Diagramme circulaire avec la part des impôts utilisée dans chaque domaine envoyé chaque année aux citoyens (mail ?). Notifier pour chaque prestation sociale ou remboursement médical quel montant est alloué grâce à quel type d'impôt.

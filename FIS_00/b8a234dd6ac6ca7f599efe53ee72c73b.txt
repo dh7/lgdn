@@ -1,1 +1,0 @@
-Remettre des factures aux usagers leur permettant de savoir ce que coutent les services qu'ils ne payent pas. Par exemple, coût pour l'année de votre enfant au collège = 9000 € reste à payer = zéro. Même chose pour l'hôpital ou toute prestation gratuite.

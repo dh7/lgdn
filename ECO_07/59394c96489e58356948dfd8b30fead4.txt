@@ -1,1 +1,0 @@
-Indexer les taxes sur la polution en fonction des villes , selon le principe pollueurs payeurs.

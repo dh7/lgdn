@@ -1,1 +1,0 @@
-Faire en sorte de privilégier les produits locaux aux détriments des produits "éloignés" en modulant la TVA en fonction de la distance entre la production du produit et le lieu de vente (3% si produit dans le département, 5% dans la région, 20% dans le reste de la france, 25% à l'étranger)

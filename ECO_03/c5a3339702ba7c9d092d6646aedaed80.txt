@@ -1,1 +1,0 @@
-Constats divers sur un ensemble de paramètres. A partir du moment ou René Dumont nous avait alerté avec son verre d'eau... on pouvait déjà comprendre que le sujet était là et polymorphe.

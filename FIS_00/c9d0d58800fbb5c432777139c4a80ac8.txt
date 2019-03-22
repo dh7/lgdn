@@ -1,1 +1,0 @@
-Mettre en ligne une base de données contenant le détail des dépenses et recettes de l'état actualisée mensuellement

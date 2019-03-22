@@ -1,1 +1,0 @@
-Un limiteur de vitesse automatique de vitesse obligatoire sur les voitures. C'est plus simple à réaliser pour les constructeurs qu'un système de créneau automatique.

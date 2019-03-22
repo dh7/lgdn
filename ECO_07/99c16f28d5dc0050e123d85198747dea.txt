@@ -1,1 +1,0 @@
-Un prix de l'énergie modulée en fonction de la consommation (exemple la consommation électrique dans les logements : Un prix du kWh pour les consommations de base puis un prix évolutif, vers la hausse, pour les kwh "non essentiels"

@@ -1,1 +1,0 @@
-- Simplifier l’impôt et les taxes  pour les rendre + lisibles et communiquer pour chacun ce à quoi il est destiné en précisant les ratios destinés aux grands postes de dépenses . - Rendre compte chaque année du dépensé par rapport au budget. - Rendre compte sur la réponse  apportés aux recommandations de la cour des comptes ou autres commissions liés à cette thématique.

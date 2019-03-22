@@ -1,1 +1,0 @@
-Recherche d'une solution de remplacement d'un véhicule diesel. Tri des déchets

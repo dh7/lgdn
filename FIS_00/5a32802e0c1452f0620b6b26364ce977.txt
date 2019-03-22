@@ -1,1 +1,0 @@
-Présentation annuelle simplifiée des dépenses publiques sous forme de graphique (type camembert) permettant une visualisation des dépenses par secteur : éducation, défense, aménagement du territoire, santé, dépenses sociales, dettes.... Idem pour les sources de revenus de l'état ( impots, taxes ...)

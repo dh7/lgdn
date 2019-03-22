@@ -1,1 +1,0 @@
-Un système de bonus-malus (consommation eau, électricité, gaz...) basé sur la zone géographique, la surface habitable et le nombre de personnes du foyer.

@@ -1,1 +1,0 @@
-Limiter mes transports directs (voiture , avion ...) ou indirects  ( achats de produits en fonction de leur éloignement ... )

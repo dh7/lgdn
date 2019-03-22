@@ -1,1 +1,0 @@
-- choisir une voiture électrique à condition que  l'investissement et son coût d'utilisation soient inférieur ou équivalent à une voiture avec un moteur essence. - une réelle ouverture de la concurrence concernant les fournisseurs d'électricité

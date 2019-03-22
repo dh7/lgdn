@@ -1,1 +1,0 @@
-Modifier nos comportements pour les déplacements en général.

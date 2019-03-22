@@ -1,1 +1,0 @@
-Limiter les déplacements lorsque c'est possible, éviter la surconsommation, réparer, recycler plutôt que de changer.

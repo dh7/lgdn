@@ -1,1 +1,0 @@
-Une application en temps réel des dépenses publiques (aux centimes près)

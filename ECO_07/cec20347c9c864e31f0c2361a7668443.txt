@@ -1,1 +1,0 @@
-taxer les produits en fonction de leur quantité d'emballage, du cout de leur transport jusqu'aux rayons des grandes surfaces

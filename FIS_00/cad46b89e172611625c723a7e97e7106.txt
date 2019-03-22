@@ -1,1 +1,0 @@
-Créer un site internet affichant les finances de l'état ( prélèvements, dépenses, etc) avec une évolution mensuelle.

@@ -1,1 +1,0 @@
-Covoiturage, + alerte sur un voyant de surconsommation qui serait dans la maison pour nous avertir qu'à x personnes dans une maison, nous ne devons pas consommer plus de x kg de déchets, plus de x L  d'eau, plus de x KW de chauffage.

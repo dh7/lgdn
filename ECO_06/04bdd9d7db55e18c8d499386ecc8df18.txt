@@ -1,1 +1,0 @@
-Taxer les ménages ayant un coefficient trop élevé de consommation d'électricité (fixer des critères selon le nombre de personne, les caractéristiques de la bâtisse..)

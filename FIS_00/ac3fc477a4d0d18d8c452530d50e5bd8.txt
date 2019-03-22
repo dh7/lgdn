@@ -1,1 +1,0 @@
-- Pour chaque entreprise diffuser le montant des crédits d'impôts accordés.

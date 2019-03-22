@@ -1,1 +1,0 @@
-Sur le site impot gouv creer une page s'actualisantt expliquant l'utilisation des impots et envoie par courrier lors de la declaration d'un resume de l'utilisation des impôts

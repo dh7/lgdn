@@ -1,1 +1,0 @@
-Création d'une vignette calculée en fonction, du poids total autorisé, du nombre d’essieux et des émissions du véhicule. en proposant un tarif annuel, mensuel, hebdomadaire et journalier.

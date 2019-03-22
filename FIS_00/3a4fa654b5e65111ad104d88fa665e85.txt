@@ -1,1 +1,0 @@
-Impôt à la SOURCE : Préciser pour chaque prélèvement par une ligne le mode de calcul et la nature de l’impôt Ex: IMPÔT SUR RETRAITE 2000* 7% =140€ versé 1860 €                    : CSG SUR RETRAITE (mode de calcul)... Il est très important que chacun des prélèvements soit individualisé plutôt qu’une opération globale qui manque de transparence  : 1 ligne par prélèvement

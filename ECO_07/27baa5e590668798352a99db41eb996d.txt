@@ -1,1 +1,0 @@
-Taxe sur énergie calculée en logarithmique . Si augmentation consommation et à contrario baisse des taxes si consommation en baisse

@@ -1,1 +1,0 @@
-Taxer les produits par exemple de classe F de sorte qu'il arrive au même prix que la classe A.

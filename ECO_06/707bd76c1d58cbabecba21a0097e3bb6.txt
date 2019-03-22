@@ -1,1 +1,0 @@
-Compteur personnel du chauffage à la place d'un chauffage collectif d'immeuble.

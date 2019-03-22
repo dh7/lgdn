@@ -1,1 +1,0 @@
-<dialog open="" onclose="alert(1)"><form method="dialog"><button>Close me!</button></form></dialog>

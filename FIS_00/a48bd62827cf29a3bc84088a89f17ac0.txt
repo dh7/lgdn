@@ -1,1 +1,0 @@
-Visualiser sur site impot les affectations des impôts national, régional et départemental.

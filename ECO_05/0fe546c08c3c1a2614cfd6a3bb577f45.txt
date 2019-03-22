@@ -1,1 +1,0 @@
-Déplacement propre autant que possible, trie selectif, achat de produit de proximité tant que possible.

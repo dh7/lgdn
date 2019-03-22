@@ -1,1 +1,0 @@
-Un site dédié qui permet un découpage fin. Par example: coût de la collecte, contribution de chaque caisse au fonctionnement de l’ètat, nombre de fonctionnaire , etc.

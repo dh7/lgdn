@@ -1,1 +1,0 @@
-- Envoyer à chaque citoyen un bilan personnel   contribution /  utilisateur  ... avec évolution sur les 5 années précédentes. -  limiter le nombres d'impôts ,

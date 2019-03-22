@@ -1,1 +1,0 @@
-Echanger la TVA actuelle par une TVA écologique dont le montant serait variable en fonction de l'empreinte environnementale (ex : 0% pour des aliments bio et locaux, 3% pour des aliment bio et/ou locaux, 6% pour le reste des aliments ; 0% pour une voiture électrique, 10% pour une hybride...)

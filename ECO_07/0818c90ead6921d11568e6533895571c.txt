@@ -1,1 +1,0 @@
-faire payer l’énergie en fonction des consommations.  exemple : électricité à faible cout pour faire tourner son four. A très fort cout pour chauffer sa piscine.

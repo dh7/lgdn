@@ -1,1 +1,0 @@
-Je réalise un tri sélectif extrêmement poussé avec séparation des matériaux différents. Supprimer les poubelles collectives où l'on retrouve tout et n'importe quoi.

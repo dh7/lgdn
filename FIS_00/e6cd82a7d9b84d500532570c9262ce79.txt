@@ -1,1 +1,0 @@
-Mettre en ligne un site montrant la répartition des dépenses publiques d'une manière précise avec une mise à jour tous les mois. Ce site doit aussi montrer quelles sont les recettes (y compris déficits et emprunts) de l'état et de toutes les collectivités publiques.

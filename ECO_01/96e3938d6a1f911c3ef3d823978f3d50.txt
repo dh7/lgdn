@@ -1,1 +1,0 @@
-Dès qu'on parle de véhicule ou de déplacement une hiérarchie doit s'imposer. On doit s'occuper d'abord : - du plus économique - du plus vulnérable - du plus accessible - du moins consommateur d'espace ... Cela revient à penser routes, rues et espaces d'abord en fonction des humains, ensuite des machines, qu'ils soient en mouvement ou à l'arrêt.

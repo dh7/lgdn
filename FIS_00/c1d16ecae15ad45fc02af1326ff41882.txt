@@ -1,1 +1,0 @@
-Diffuser l'information sur le budget (recettes et dépenses de fonctionnement et d'investissement de l'Etat et leurs évolutions) au moment de l'envoi de la déclaration de revenus.

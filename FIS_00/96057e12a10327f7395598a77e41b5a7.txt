@@ -1,1 +1,0 @@
-Afficher sur l'avis d'impôt sa contribution propre : ex je paye 3500€ d'IR, je vois que 1000€ vont à l'Education, etc..

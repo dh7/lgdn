@@ -1,1 +1,0 @@
-Donner la possibilité de consulter (Internet) et d'obtenir la répartition  des recettes / dépenses de l'état et des collectivités locales.

@@ -1,1 +1,0 @@
-- Envoyer à chaque citoyen le détail personalisé de l'utilisation de son impôt. - A chaque utilisation d'un service public, établir pour l'usager une facture détaillée du coût que cela représente pour la société. - Éduquer les enfants dès l'école primaire sur le fonctionnement de l'état providence.

@@ -1,1 +1,0 @@
-un site web sur lequel il serait possible de voir les depenses et les recettes de l'etat et du social, en partant des grandes lignes jusqu'a la plus petite depense ou recette.

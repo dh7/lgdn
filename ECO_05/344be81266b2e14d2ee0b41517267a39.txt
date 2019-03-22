@@ -1,1 +1,0 @@
-quand on voit comment le trie sélectif est géré cela fait un peu peur!. Il faudrait s'occuper des gros pollueurs avant de demander aux petits.

@@ -1,1 +1,0 @@
-Un système en ligne qui pourrait  montrer la répartition (camembert par ex) et accéder par un lien sur les différentes parts pour voir un sous-répertoire toujours sous la forme de camembert et ainsi de suite. On pourrait de cette manière accéder facilement aux détails.

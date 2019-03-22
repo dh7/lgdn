@@ -1,1 +1,0 @@
-Augmenter la fréquence des trains (pas leur nombre de wagons !). Créer un réseau de transports en communs (bus) et en augmenter la fréquence (1 passage par 20mn est un minimum, comme les métros). Diviser par deux les tarifs SNCF quelle que soit la fréquence d'utilisation.

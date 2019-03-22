@@ -1,1 +1,0 @@
-Taxe de l'énergie en fonction de la consommation. Ex électricité : plus on consomme plus on paye cher le kwh avec une base peu cher pour tous

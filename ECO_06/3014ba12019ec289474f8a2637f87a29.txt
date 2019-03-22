@@ -1,1 +1,0 @@
-developper les transports en commun de type train, tram qui ne sont pas perturbés par la circulation. proposer des billets intermodale à des prix raisonnables (train + loc vélo / train + bus + voiture elec en libre service)

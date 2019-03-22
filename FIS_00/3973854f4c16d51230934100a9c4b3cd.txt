@@ -1,1 +1,0 @@
-Toute entité(Etat, Administration,Organisme,Etablissement, Collectivité territoriale.....)devrait disposer d'un site d'information accessible au public et reprenant ses ressources et dépenses.Système calqué sur ce qui existe par exemple dans certains pays scandinaves

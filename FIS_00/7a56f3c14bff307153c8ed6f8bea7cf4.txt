@@ -1,1 +1,0 @@
-1. pour les lois : exposé des motifs sérieux et développé intégré au texte voté, et non pas seulement une collection d'articles incompréhensibles car modifiant les codes existants 2. pour le grand public : multiplier les formats de présentation et d’agrégation de la donnée brute, que ce soit statique (type plaquette) ou dynamique (type tableau croisé)

@@ -1,1 +1,0 @@
-Publier les blocs budgétaires et leur évolution sur un graphique simple et l'envoyer par email via le service des impôts. Je paie des impôts, j'aimerai avoir un droit de regard sur l'utilisation de cet argent.

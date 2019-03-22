@@ -1,1 +1,0 @@
-Lors de l'envoi de la feuille d'impôts, une synthèse sur les recettes (csg,TVA, impôts) et leurs utilisations par domaine (dépenses sociales, fonctionnement, subventions aux collectivités).

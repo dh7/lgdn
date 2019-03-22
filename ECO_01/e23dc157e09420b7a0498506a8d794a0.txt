@@ -1,1 +1,0 @@
-Toutes les solutions connues et que l'on arrive pas à mettre en œuvre .

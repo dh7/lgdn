@@ -1,1 +1,0 @@
-Création d'un site sur lequel on pourrait consulter le détail des dépenses publiques, contrôle des dépenses des élus et des services publics par une instance indépendante.

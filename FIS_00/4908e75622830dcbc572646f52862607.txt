@@ -1,1 +1,0 @@
-Editer des bilans en ligne (sur l'exemple des bilans financiers simplifiés que font les associations caritatives), indiquant sur le montant total de l'impôt combien est parti par ministère et sur quels postes.

@@ -1,1 +1,0 @@
-Mettre en place un "tchat" en ligne pour avoir des réponses personnalisées à notre situation. Les n° de téléphones n'aboutissent pas souvent, il y a beaucoup d'attente et le menu ne nous conduit pas toujours à notre demande. Nous perdons du temps et n'avons pas toujours la possibilité de nous déplacer au centre des impôts.

@@ -1,1 +1,0 @@
-publication d un graphique simple des dépenses de l état avec comparaison d une année sur l autre.

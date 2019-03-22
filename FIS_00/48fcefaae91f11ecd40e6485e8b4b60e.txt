@@ -1,1 +1,0 @@
-Avoir un site internet public permettant de faire une synthèse des différentes recettes et des différentes dépenses que l'état fait. On pourrait ensuite avoir un certain niveau de détail mais il faut que ce soit lisible et relativement simple.

@@ -1,1 +1,0 @@
-Proposer des compteurs qui affichent en temps réel la consommation dans les logements (eau, gaz, électricité) et les entreprises / les collectivités (pour que les personnes soient vigilantes partout, pas seulement chez elles quand elles payent).

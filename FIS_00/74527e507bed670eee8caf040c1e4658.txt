@@ -1,1 +1,0 @@
-Faire simple :  un site internet qui rend compte de toutes les dépenses de l'état.  Transparence de toutes les dépenses

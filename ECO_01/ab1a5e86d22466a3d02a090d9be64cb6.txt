@@ -1,1 +1,0 @@
-- Bouter les véhicules pollueurs hors des grandes villes.  - Réduire la durée de l'éclairage public  en ville (1h en été, 30' en hiver) - Diviser par 2 la consommation d'électricité sur autoroutes

@@ -1,1 +1,0 @@
-construction d'un filtre 100 % filtrant par les constructeurs

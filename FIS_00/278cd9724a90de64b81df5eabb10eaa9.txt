@@ -1,1 +1,0 @@
-Créer une application ,un site qui montrerait les dépenses publiques faites et envisagés au jour le jour. pour les personnes qui n'ont pas accès au numérique ,des affichages et infos  dans les mairies et les gazettes des mairies.

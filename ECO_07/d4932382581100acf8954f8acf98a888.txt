@@ -1,1 +1,0 @@
-Developper le ramassage des tris sélectifs. Véhicule au bio éthanol si il y avait plus de pompe en service.

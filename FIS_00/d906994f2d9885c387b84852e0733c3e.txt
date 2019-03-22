@@ -1,1 +1,0 @@
-Donner le chiffre des impots et montrer la redistribution de celle ci par secteur.

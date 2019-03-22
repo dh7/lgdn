@@ -1,1 +1,0 @@
-1/ Ajouter de mini et nombreux transports en commun. 2/ Que chaque voiture affiche sa destination et passe par des lieux de covoiturages pour transporter d'autres personnes.

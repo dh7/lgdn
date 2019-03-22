@@ -1,1 +1,0 @@
-Recevoir ou pouvoir consulter une synthèse du budget de l'état, et connaitre quels types d'impôts est affectés à quels budgets. Par exemple : Les impôts prélevés aux noms de l'assurance maladie vont bien vers le budget de l'assurance maladie. Les contraventions des radars vont bien vers le budget de la sécurité routière ... En gros quels argents sert pour quels dépenses

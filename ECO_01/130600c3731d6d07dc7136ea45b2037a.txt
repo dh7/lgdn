@@ -1,1 +1,0 @@
-Mettre sur rails tous les camions qui traversent notre pays, voire plusieurs régions.

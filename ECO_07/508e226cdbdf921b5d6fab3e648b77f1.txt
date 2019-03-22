@@ -1,1 +1,0 @@
-La mise en œuvre d’un compte carbone avec une valeur carbone donnée pour chaque chose à l’instar du prix de chaque chose. Par ex: donner à côté du prix d’un voyage en Grèce sa valeur carbone.  Donner à côté du prix d’une voiture sa valeur carbone et son taux d’emission Carbone

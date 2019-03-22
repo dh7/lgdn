@@ -1,1 +1,0 @@
-Informer de façon la plus synthétique possible chaque citoyen, annuellement, des recettes de l'impôt par grand "chapitre" (impôt sur le revenu, CSG, tva, ...), et des dépenses que ces recettes financent (également par grand chapitre)

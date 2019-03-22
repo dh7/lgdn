@@ -1,1 +1,0 @@
-Mise en place d'une véritable "régulation de trafic" avec un contrôle intégré dans chaque véhicule (idem trains, avions, bateaux ou poids lourds)

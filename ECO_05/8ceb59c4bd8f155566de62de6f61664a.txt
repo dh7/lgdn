@@ -1,1 +1,0 @@
-Rechercher des solutions pour un transport sur rail automatique ( voyageur et fret combiné) en réutilisant des solutions existantes, (automobile , industries, ferroviaire  ex Allemagne, Chine, ...) et en réutilisant les lignes fermées, en cours de fermeture et/ ou sous exploitées."  voir document "RO²matic utiliser le rail autrement"

@@ -1,1 +1,0 @@
-Aider les cytoyens pour se déplacer à vélo (classique ou électrique) en développant les insfrastures tels que voies circulantes ou lieu de parking (responsabilité de l'intercommunalité) et les incitations analogues au remboursement de la carte de transport (responsabilité de l'employeur)

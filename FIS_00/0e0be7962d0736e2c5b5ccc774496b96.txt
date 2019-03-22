@@ -1,1 +1,0 @@
-Afficher sur chaque projet, administration, établissement public son coût détaillé (investissement, personnel, achats courants)

@@ -1,1 +1,0 @@
-Donner à chaque impôt ou taxe une destination précise, avec les détails montants et pourcentages.

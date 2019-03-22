@@ -1,1 +1,0 @@
-Mise en oeuvre d'un site gouvernemental pour calculer le véritable coût écologique d'un produit prenant en compte toutes les phases de la vie du produit, de la création au recyclage en passant par l'utilisation.

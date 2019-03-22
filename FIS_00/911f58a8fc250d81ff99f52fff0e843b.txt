@@ -1,1 +1,0 @@
-Au lieu d'afficher "Le département ou la Région ou l'Etat finance tels ou tels projets", il serait plus juste d'indiquer que ce sont les Contribuables qui financent.

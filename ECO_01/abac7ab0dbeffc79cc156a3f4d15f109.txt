@@ -1,1 +1,0 @@
-Transport de marchandises sur rails et canaux. Abandon du GCO de Strasbourg

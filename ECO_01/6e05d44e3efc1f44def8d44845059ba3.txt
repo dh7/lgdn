@@ -1,1 +1,0 @@
-limitons la taille des tickets de caisse et permettons de ne pas les éditer lorsqu’on ne le souhaite pas ‘sur le modèle des distributeurs de billets

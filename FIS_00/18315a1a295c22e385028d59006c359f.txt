@@ -1,1 +1,0 @@
-Diffuser un barême simple permettant de visualiser l'évolution du pourcentage d'impôt par rapport aux revenus

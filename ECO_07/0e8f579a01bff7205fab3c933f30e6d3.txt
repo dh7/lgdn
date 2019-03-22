@@ -1,1 +1,0 @@
-Augmenter le prix des viandes qui ont un bilan carbone élevé et qui n'ont pas de label bio.

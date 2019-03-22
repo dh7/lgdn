@@ -1,1 +1,0 @@
-Un tableau de bord de l'utilisation des impôts directs et indirects. Permettre la visualisation des entrées des impôts et la ventilations des sommes au sein des différents budgets de l'état mensuellement !

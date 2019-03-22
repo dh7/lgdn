@@ -1,1 +1,0 @@
-Donner plus de détails sur les dépenses de l'état. Exemple : Budget de l'Education Nationale réparti suivant : - Salaires des professeurs - Charges de Bâtiments - Salaires annexes (Inspecteurs, Services Administratifs, ...) - Autres ?

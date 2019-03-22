@@ -1,1 +1,0 @@
-Les tarifs qui prennent en compte les efforts faits par l'utilisateur. Par exemple un tarif de base avec un prix accessible et une augmentation signifitative après avoir passé un certain seuil de consommation (sujet complexe car plein de facteurs devraient être prise en compte pour garantir la justice et éviter l'éxclusion d'accès à des services basiques).

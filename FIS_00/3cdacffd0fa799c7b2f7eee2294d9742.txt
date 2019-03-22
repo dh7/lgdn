@@ -1,1 +1,0 @@
-Fournir tous les ans un graphique simple montrant les postes de dépenses en pourcentage. Cela peut être visible sur le site des impôts.

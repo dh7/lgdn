@@ -1,1 +1,0 @@
-Information lors de la demande de paiement.

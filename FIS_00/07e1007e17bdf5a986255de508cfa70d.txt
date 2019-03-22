@@ -1,1 +1,0 @@
-Donner la liste des dépenses de l’etat et le montant

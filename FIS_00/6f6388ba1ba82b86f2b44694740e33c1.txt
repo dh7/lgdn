@@ -1,1 +1,0 @@
-Lister les dépenses de façon plus détaillées et mettre les résultats en ligne afin que chacun puisse y avoir accès.

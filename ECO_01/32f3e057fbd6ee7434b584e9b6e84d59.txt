@@ -1,1 +1,0 @@
-Imposer au éditeur de GPS sur smartphone et aux autres à  partager si nous le souhaitons nos informations d’itinéraire pour des plateformes comme blablacar.  On pourrait par exemple demander à l'utilisateur de GPS "voulez-vous covoiturer ?" si le conducteur dit oui, son itinéraire est directement disponible sur les plateformes de covoiturage.

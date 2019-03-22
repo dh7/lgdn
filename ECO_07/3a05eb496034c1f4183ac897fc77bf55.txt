@@ -1,1 +1,0 @@
-Affichage obligatoire du coût écologique estimé des produits en prenant en compte un barème (obsolescence prévue, transport, etc).

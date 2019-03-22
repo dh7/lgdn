@@ -1,1 +1,0 @@
-Supprimer les véhicules lents derrière lesquels on est bloqués à petite vitesse donc consommation très elevée. Ces véhicules polluent et il n'est pas normal d'avoir des dangers publics sur la route.

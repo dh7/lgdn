@@ -1,1 +1,0 @@
-Donner une vue d'ensemble des recettes de l'état et des dépenses.

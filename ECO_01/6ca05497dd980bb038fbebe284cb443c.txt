@@ -1,1 +1,0 @@
-Créer une taxe sur le transport de marchandises par exemple 0.05€ par kg et 0.05€ par dm3 par tranche de 500km entre la point de production et le point de consommation. Favorise les circuits courts, limite les emballages et les déchets.

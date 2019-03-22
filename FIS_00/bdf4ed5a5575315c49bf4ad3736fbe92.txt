@@ -1,1 +1,0 @@
-visualiser sous forme graphique la répartition des divers impôts et taxes avec remise a jour annuelle ( sur le site des impôts par exemple )

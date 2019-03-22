@@ -1,1 +1,0 @@
-Mettre en place un système de bonus malus en fonction du comportement (comme pour les voitures) Mais comment l'appliquer ? sur quels critères ? Bien difficile à définir semble t il.

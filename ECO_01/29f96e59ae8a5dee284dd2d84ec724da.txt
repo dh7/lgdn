@@ -1,1 +1,0 @@
-Un système de carte et de porte monnaie qui fonctionne sur tous les transports locaux et nationaux. Ce système doit permettre de faciliter l'usage du transport public. D'autre part, il doit permettre de faire des économies via des systèmes d'abonnement ou de points de fidélité.

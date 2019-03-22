@@ -1,1 +1,0 @@
-ajuster la tva en fonction de la distance entre le lieu de fabrication et le lieu de consommation pour tous les produits

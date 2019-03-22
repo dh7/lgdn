@@ -1,1 +1,0 @@
-Revoir la liste des espèces que l'on peut chasser (retirer de la liste les animaux, dont le nombre diminue) Préserver les biotopes qui permettent  la reproduction des espèces sensibles Aider les agriculteurs et des chasseurs à être acteurs dans la protection de notre faune

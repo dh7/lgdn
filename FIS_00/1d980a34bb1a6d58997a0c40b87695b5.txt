@@ -1,1 +1,0 @@
-Un affichage claire de la répartition des dépenses.

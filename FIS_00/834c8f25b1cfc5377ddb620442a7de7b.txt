@@ -1,1 +1,0 @@
-Permettre de savoir exactement combien d'argent a été employé sur chaque projet de manière annuelle.

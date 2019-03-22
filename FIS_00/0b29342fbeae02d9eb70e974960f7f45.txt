@@ -1,1 +1,0 @@
-Indiquer par des tableaux l'attribution à chaque ministère de leur budget respectif et les lignes de dépense. L'information doit être disponible sur le site de chaque personne déclarant et payant en ligne.

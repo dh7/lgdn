@@ -1,1 +1,0 @@
-- Prévoir des primes pour les personnes allant travailler en vélo (plus la distance est importante plus la prime est élevée) - Réellement intégrer des pistes cyclables dans les villes (à Paris celles-ci ne sont pas respectées et beaucoup trop dangereuses)

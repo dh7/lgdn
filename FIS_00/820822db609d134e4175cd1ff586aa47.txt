@@ -1,1 +1,0 @@
-Un site informatique avec la liste des dépenses par poste.

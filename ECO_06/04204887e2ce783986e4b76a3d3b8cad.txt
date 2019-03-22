@@ -1,1 +1,0 @@
-A part reconstruire, si je trouve un constructeur qui peut optimiser les moyens actuels sans surcoût. je ne vois pas !

@@ -1,1 +1,0 @@
-Traiter les pollueurs par importance de leur pollution, en commençant par ceux qui paient un droit de polluer, puis, étape par étape, descendre vers ceux qui polluent le moins : les autres industries, les transports, .... Autre piste : interdire les voiturettes sans permis qui roulent au diesel

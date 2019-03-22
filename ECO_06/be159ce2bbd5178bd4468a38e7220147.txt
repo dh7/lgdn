@@ -1,1 +1,0 @@
-un tarif de électricité progressant par pallier. un 1er volume kw/h bas pour une consommation de base (en tenant compte du foyer, et de la situation géographique). puis une augmentation progressive des tarifs  des kw/h suivant.

@@ -1,1 +1,0 @@
-- Avoir un rapport annuel sur l'utilisation des impôts - Pour chaque service financé totalement ou partiellement par des fonds public (hôpital, études...), estimer le coût pour le bénéficiaire sans aide publique (exemple, facture de X euros pour un IRM à l’hôpital). L'idée est de visualiser concrètement et au quotidien les bénéfices des impôts.

@@ -1,1 +1,0 @@
--choix des domaines dans lesquels on donne le plus d'argent  -calcul de ce que le foyer a couté à l'etat

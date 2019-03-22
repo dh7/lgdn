@@ -1,1 +1,0 @@
-Instaurer une vignette annuelle pour les véhicules non utilitaires de puissance supérieure à 100 kW et exponentielle ave la puissance. Le rapport de cette vignette "verte" serait entièrement consacrée par l'état à la transition écologique

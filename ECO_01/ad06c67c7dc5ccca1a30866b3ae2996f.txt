@@ -1,1 +1,0 @@
-Synchroniser les feux tricolores dans toutes les villes (comme c'est assez bien fait à Paris) sur chaque axe de circulation en tenant compte d'une vitesse de 45 km/h afin de fluidifier la circulation, éviter les accélérations rapides pour avoir le feu suivant au vert et moins polluer.

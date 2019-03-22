@@ -1,1 +1,0 @@
-Simplifier drastiquement la déclaration des revenus, le calcul de l’impôt et les réductions fiscales. La déclaration devrait tenir sur une feuille recto-verso maximum

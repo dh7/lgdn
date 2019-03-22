@@ -1,1 +1,0 @@
-Mise en place d'un système basé sur la blockchain pour pouvoir suivre l'impôts versé de chacun et son utilisation. Choix par QCM de l'utilisation de l'impôt versé par chacun.

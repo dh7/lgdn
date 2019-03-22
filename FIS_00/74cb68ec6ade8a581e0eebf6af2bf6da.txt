@@ -1,1 +1,0 @@
-Un site dédié aux dépenses publiques avec un diagramme représentant chaque secteur des dépenses et le montant.

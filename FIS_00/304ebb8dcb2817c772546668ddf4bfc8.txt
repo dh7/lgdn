@@ -1,1 +1,0 @@
-simplifier les dossiers que l'on remplis et qu'ils soient plus clairs. J'ai beaucoup d'exemples

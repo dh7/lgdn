@@ -1,1 +1,0 @@
--  Récapitulatif annuel pour chaque impôt avec montant récolté et son utilisation. -  Récapitulatif envoyé à chaque contribuable du montant des aides sociales perçues dans l'année.

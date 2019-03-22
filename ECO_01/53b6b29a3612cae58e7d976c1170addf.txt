@@ -1,1 +1,0 @@
-Taxer les marchandises transportées en fonction du kilométrage parcouru mais bloquer les prix afin que le consommateur ne soit pas pénalisé

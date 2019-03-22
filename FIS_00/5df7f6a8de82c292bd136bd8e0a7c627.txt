@@ -1,1 +1,0 @@
-Mise en place et communication d’indicateurs qui reflèteraient la bonne gestion d’une commune, d’une région et de l’etat. Ces indicateurs devront être économiques mais aussi culturels et sociétales. Par ex pour une commune l’endettement par habitant, le nombre de place en crèche, le pourcentage de licencié dans une activité sportive, etc..

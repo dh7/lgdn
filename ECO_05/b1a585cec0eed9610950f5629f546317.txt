@@ -1,1 +1,0 @@
-Meilleure gestion du recyclage si lecture ou indication plus claire de la gestion des emballages. Passage à la voiture si 500 km d’autonomie et possibilité de recharge rapide de la batterie ou système de changement de batterie.

@@ -1,1 +1,0 @@
-Rendre visible sur la bulletin de salaire, par exemple, toutes les aides reçues.

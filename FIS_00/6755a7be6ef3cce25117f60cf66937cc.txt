@@ -1,1 +1,0 @@
-Remettre une fiche personnalisée claire lors de la réception de l'avis d'imposition avec indications claire de la destination de chaque somme.

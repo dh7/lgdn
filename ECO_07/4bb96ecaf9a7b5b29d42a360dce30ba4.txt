@@ -1,1 +1,0 @@
-le remplacement des librairies par des bibliothèques publiques plus nombreuses et avec plus de choix. Ça me permettrait d'emprunter les livres que je veux lire au lieu de devoir les acheter (et donc diminuer la production de livres).

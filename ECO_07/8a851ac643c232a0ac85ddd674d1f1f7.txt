@@ -1,1 +1,0 @@
-taxer les températures de chauffage > 20°

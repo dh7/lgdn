@@ -1,1 +1,0 @@
-créer un site simplifié où on pourra consulter le budget français. Savoir à quoi on servit les sommes encaissées (tva, csg, …)

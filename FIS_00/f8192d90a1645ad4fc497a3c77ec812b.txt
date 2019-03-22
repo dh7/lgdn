@@ -1,1 +1,0 @@
-création d'un site qui permettrait de savoir ce qui est fait et le coût dans chaque ville et village de France.

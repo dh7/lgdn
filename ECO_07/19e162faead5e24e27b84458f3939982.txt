@@ -1,1 +1,0 @@
-Transport en commun intelligent: une application permettant d'indiquer le trajet.

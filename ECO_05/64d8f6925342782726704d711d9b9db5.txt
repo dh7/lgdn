@@ -1,1 +1,0 @@
-- Tri sélectif pour un recyclage maximal - Utilisation du vélo pour les déplacements urbains chaque fois que cela est possible - Limitation de l'utilisation de la voiture chaque fois que cela est possible

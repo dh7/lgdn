@@ -1,1 +1,0 @@
-Bonus/malus en fonction de la conso d'énergie (eau / électricité/gaz)par rapport à la surface du logement.

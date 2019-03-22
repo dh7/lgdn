@@ -1,1 +1,0 @@
-Création d'un site internet très ergonomique montrant en temps quasi-réel les recettes et dépenses de l'état. L'utilisation des budgets,... Idée de prôner la transparence et la simplicité
