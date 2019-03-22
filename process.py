@@ -166,7 +166,7 @@ import umap
 
 time_start = time.time()
 umap_ = umap.UMAP(
-        n_neighbors=200,
+        n_neighbors=100,
         min_dist=0.5,
         verbose=True)
 embedding = umap_.fit_transform(normalized)
