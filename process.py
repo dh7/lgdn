@@ -77,8 +77,8 @@ import numpy as np
 
 questions = []
 questions_vector = []
-for q in header[11:]:
-    q = q[20:]
+for q in header[11:]:  # Remove utilitarian field
+    q = q[20:]  # Remove 20 first char that are used for ID
     questions.append(q)
     result_q = encode(q)
     questions_vector.append(result_q)
@@ -90,12 +90,18 @@ with open('{}/questions.json'.format(prefix),'w') as file:
 questions_array = np.stack(questions_vector, axis=0)
 np.save('./data/{}/question_array.npy'.format(prefix), questions_array)
 
+# Parse the file
 import numpy as np
 answers_list = []
 answers_dict = {}
 
-for i, reply in enumerate(answers[:]):
-    #for q_id, a in enumerate(reply):
+if args.limit =-1:
+    answers_limited = answers[:]
+else:
+    answers_limited = answers[:args.limit]
+
+for i, reply in enumerate(answers_limited):
+    # for q_id, a in enumerate(reply):
     a =  reply[q_id]
     if a and len(a)>0:
         a_clean = a.replace(' ','')
@@ -113,6 +119,7 @@ for i, reply in enumerate(answers[:]):
     if i%100 == 0:
         print(i, 'cache', len(cache_dict))        
 
+# Write the results
 import numpy as np
 a_vector = []
 a_list = []
