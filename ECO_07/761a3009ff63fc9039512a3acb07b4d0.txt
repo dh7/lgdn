@@ -1,0 +1,1 @@
+Si on réduit les couts des  solutions prioritaires ,on peut alors les imposer par une contrainte accrue (et pas l'inverse!)

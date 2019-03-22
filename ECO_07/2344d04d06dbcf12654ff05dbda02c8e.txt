@@ -1,0 +1,1 @@
+avoir une TVA variable en fonction de la distance entre fournisseur et client, cela renchérira les produits lointains et réduira le cout des produits locaux

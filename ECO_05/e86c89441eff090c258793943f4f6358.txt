@@ -1,0 +1,1 @@
+Utiliser si possible les lignes régulières de train, tram et bus, quand il y en a.

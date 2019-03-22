@@ -1,0 +1,1 @@
+Suppression des ondes (wifi consommateur en énergie et émetteur d'onde dont les effets ne sont pas encore connus)
