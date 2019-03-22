@@ -1,0 +1,1 @@
+il serait simple d'utiliser la vignette critair pour gérer la densité des véhicules. ainsi dans les zone de faible densité (zone rurales par exemple) pas de contrôle. dans les zones de forte densités (par exemple les centres urbains) une limitation aux véhicules les plus vertueux avec des limite de zone la ou il y a des parking et des noeuds de transport en commun.

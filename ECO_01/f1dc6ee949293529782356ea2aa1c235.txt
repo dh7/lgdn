@@ -1,0 +1,1 @@
+Développer le moteur à Hydrogène pour tous les véhicules (mêmes les bateaux et les avions si possible). Développer un réseau de transport en commun écologique même pour les communes rurales

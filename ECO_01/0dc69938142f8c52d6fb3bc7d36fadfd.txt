@@ -1,0 +1,1 @@
+Limiter la population en fonction de sa consommation. Aujourd'hui on a besoin de 2 planètes pour subvenir à nos besoins. Il faut soit diviser par 2 l effectif humain  , soit sa consommation

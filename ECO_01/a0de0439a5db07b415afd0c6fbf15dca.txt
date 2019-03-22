@@ -1,0 +1,1 @@
+Une indication graphique sur chaque produit représentant une note de la nécessité de l'emballage et de l'empreinte carbone émanant des operations d'emballage et le surcout du produit dut a son emballage

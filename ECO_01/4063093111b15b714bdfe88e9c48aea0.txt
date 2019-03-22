@@ -1,0 +1,1 @@
+créer un coefficient de TVA fonction de la distance entre le lieu de vente et le lieu de production: exemple (-DE 500KM/UNION EUROPÉENNE /HORS UNION EUROPEENNE

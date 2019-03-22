@@ -1,0 +1,1 @@
+Ficher les commandes au niveau national selon  emplacement et destination pour éviter que deux véhicules transportant les mêmes choses se croisent . Remplacer les vols intérieurs par le train. Favoriser le rail contre la route, la route contre l'air. Circuits courts, guichets et entreprises de proximité.
