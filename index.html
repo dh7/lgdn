@@ -38,9 +38,7 @@
     // Get the question set prefix
     url_str = window.location.href
     var url = new URL(url_str);
-    var q_id = url.searchParams.get("q_id");
-    var prefix = url.searchParams.get("prefix")+q_id;
-    q_id = Integer.parseInt(myString)
+    var prefix = url.searchParams.get("prefix")
     
     // Get the question list
     var questions = []
@@ -69,7 +67,7 @@
                 return response.text()
           })
           .then(text => {
-            el.innerHTML = '<b>' + questions[q_id] +'</b><br>'+ text
+            el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
           })
           .catch(err => {
             console.log(err)
