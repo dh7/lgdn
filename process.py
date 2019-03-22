@@ -56,7 +56,10 @@ def encode(sentence):
         cache_dict[sentence] = result
         return result
 
+# open the CSV file
+import sys
 import csv
+csv.field_size_limit(sys.maxsize) 
 header = []
 answers = []
 
@@ -95,7 +98,7 @@ import numpy as np
 answers_list = []
 answers_dict = {}
 
-if args.limit =-1:
+if args.limit == -1:
     answers_limited = answers[:]
 else:
     answers_limited = answers[:args.limit]
