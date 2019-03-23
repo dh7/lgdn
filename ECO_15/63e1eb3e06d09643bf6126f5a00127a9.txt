@@ -1,0 +1,1 @@
+Mettre en place une taxe sur la valeur importée pour les entreprises - qui pourrait prendre en compte deux paramètres : - distance du circuit d'importation : (par ex : France 0% / UE 1% / Hors UE 5%) - moyen de transport principal (maritime x0.5 / ferroviaire x0.5 / routier x1 / aérien x2)

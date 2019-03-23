@@ -1,0 +1,1 @@
+doter les carrefours de feux intelligents, capables de rester au verts s'il n'y a pas de trafic nécessitant que la voie principale passe au rouge pour laisser passer le trafic d'une voie moins fréquentée. Ca fluidifierait !

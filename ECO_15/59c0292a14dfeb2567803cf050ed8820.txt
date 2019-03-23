@@ -1,0 +1,1 @@
+Oui, revenir au plus près de l'heure solaire, c'est-à-dire dans l'idéal GMT + 00, et au pire GMT + 1.

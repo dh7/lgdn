@@ -1,0 +1,1 @@
+Faire attention au cycle de vie des solutions mises en place et particulièrement aux problèmes de recyclage en fin de vie.

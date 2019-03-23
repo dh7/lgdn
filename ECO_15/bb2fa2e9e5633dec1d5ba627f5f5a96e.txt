@@ -1,0 +1,1 @@
+Modèle décroissant. Pas de croissance infinie dans un monde fini.

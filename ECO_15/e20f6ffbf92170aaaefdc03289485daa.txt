@@ -1,0 +1,1 @@
+Imposer la traversée en ferroviaire à tout véhicule qui ne fait que traverser la France. Développer le ferro-routage L'état doit reprendre les autoroutes à son compte dès que possible et revoir le prix des péages.

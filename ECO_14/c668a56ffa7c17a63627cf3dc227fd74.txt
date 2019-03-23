@@ -1,0 +1,1 @@
+Taxer les produits en fonction de leur empreintes carbones. Plus le produit vient de loin, plus ils est taxé. Cette taxe au km développerait les chaines courtes et favoriserait la production courte.

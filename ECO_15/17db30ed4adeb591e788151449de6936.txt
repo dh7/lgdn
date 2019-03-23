@@ -1,0 +1,1 @@
+Refonte du BONUS/MALUS automobile sur l'ensemble des polluant et non exclusivement sur le CO2. Base de calcul de la TIPE basé sur la pollution réelle (ex: gazole devrait être supérieur à E10) Programmer  le démantèlement du secteur nucléaire couteux et dangereux dont on ne maitrise rien en matière de recyclage des déchets. Suppression progressives des produits phytosantaires.

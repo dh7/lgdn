@@ -1,0 +1,1 @@
+rendre dégressif le prix des voyages en train en fonction du nombre de voyageurs (si base de prix = 100 pour un voyageur - base dégressive pour chaque voyageur ajouté) / ne pas fermer les lignes de chemin de fer régionales / taxer les voyages en avion / maintenir les trains de nuit sur les axes existants

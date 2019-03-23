@@ -1,0 +1,1 @@
+Limiter la taille des convois des chefs d'état en visite. Non importation de biens qui ne respectent pas les directives environnementales

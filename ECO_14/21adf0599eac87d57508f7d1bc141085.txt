@@ -1,0 +1,1 @@
+Montrer l'exemple en démontrant qu'elle a trouvé des solutions et que celles-ci marchent.

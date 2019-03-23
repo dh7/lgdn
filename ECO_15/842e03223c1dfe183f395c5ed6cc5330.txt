@@ -1,0 +1,1 @@
+Encourager les initiatives d'Entreprises pour accentuer les pics de consommations d'énergies avec les pics de production d'ENR (retard de consommation automatique en cas d'absence de production d'ENR par exemple)

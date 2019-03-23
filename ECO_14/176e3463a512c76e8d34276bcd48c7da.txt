@@ -1,0 +1,1 @@
+Mettre en place une tva degressive sur les produits en fonction des distances kilométriques entre le lieu de fabrication et le lieu de vente à l’utilisateur final. Incitation à l’économie de proximité

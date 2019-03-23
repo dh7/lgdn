@@ -1,0 +1,1 @@
+Faire une transition intelligente qui ne frappe pas les plus faibles ou derniers maillons de la chaine (par exemple chasser les voitures dans les grandes villes mais ne pas penaliser en zones rurales ou moins desservies car indispensable)

@@ -1,0 +1,1 @@
+Réformer les circuits "courts" (c'est à dire 1 intermédiaire) pour en faire des circuits locaux (c'est à dire de courte distance)

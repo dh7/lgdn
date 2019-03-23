@@ -1,0 +1,1 @@
+Les datas center consomment beaucoup d'énergie; il n'est pas utile d'avoir nos données disponibles partout et tout le temps, les disques durs individuels suffisent simplement.

@@ -1,0 +1,1 @@
+Obliger les constructeurs automobiles à produire des véhicules facilement réparables. Exemple : il est totalement inadmissible et incohérent d'obliger les conducteurs à avoir une boîte d'ampoules de rechange dans leur voiture quand il faut obligatoirement passer par un garage pour changer l'ampoule d'un phare car c'est inaccessible ! Coût: plus de 100 € pour changer une ampoule.

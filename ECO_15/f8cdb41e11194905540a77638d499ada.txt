@@ -1,0 +1,1 @@
+Taxer les produits proportionnellement à leur lieu de production (Ex. : plus c'est loin, plus c'est cher).

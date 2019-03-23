@@ -1,0 +1,1 @@
+Valider l'application d'une TVA à taux réduit pour les produits issue d'une filière d'économie circulaire et/ou solidaire.

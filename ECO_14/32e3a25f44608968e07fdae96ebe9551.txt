@@ -1,0 +1,1 @@
+Taxer les produits en fonction du pays d'origine (plus il est loin, plus il est taxé). Veiller à ce que les normes sanitaires soient respectées-> augmenter les moyens de la PAF et de la DGCCRF

@@ -1,0 +1,1 @@
+Je veux parler du compteur communicant Linky. Officiellement il doit aider au développement des énergies alternatives, mais il pose un certain nombre de problèmes et d'autres solutions techniques existent pour  gérer intermittence des renouvelables. Chacun doit être libre d'accepter Linky ou non. Il ne doit être imposé à personne.

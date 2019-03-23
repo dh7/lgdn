@@ -1,0 +1,1 @@
+Comme mentionné auparavant, mettre en œuvre le principe du pollueur-payeur. Avoir une politique globale et non des actions indépendantes incompréhensibles.

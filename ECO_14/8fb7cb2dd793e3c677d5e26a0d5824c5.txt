@@ -1,0 +1,1 @@
+une cohésion doit être mis en place entre les états afin d'avoir les mêmes orientations pour protéger l'environnement.

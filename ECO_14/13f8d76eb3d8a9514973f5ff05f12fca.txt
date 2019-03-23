@@ -1,0 +1,1 @@
+Mise en place d'une taxe pour les transports internationaux. Le cout du transport devient un paramètre qui augmente les délocalisations et le traffic  et donc l'émission de CO2

@@ -1,0 +1,1 @@
+Mettre en place un bonus malus lors de la vente d'un logement (maison ou appartement) suivant le degré de passoire thermique.

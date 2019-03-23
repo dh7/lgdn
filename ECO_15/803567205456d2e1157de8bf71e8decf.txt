@@ -1,0 +1,1 @@
+Elaboration de centrales autonomes multi sources (Eolien, hydraulique, solaire) en fonction des sites opportuns, pour fournir un combustible stockable (ex: piles à combustibles). Dans un premier temps, utiliser ces combustibles sur des véhicules lourds pour roder les performances et améliorer le rendement avant d'équiper des véhicules légers.

@@ -1,0 +1,1 @@
+Donner une notation aux produits que nous achetons en magasin suivant leur impact énergétique (ex les fraises en plein hiver vendues à Paris)

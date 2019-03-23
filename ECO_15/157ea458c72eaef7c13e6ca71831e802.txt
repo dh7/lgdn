@@ -1,0 +1,1 @@
+Supprimer les péages et les remplacer par les portiques, car le fait de s'arrêter et redémarrer augmente la consommation et la pollution

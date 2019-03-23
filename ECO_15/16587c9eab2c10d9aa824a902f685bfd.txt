@@ -1,0 +1,1 @@
+Réserver 4-5 points de TVA qui seraient modulables en fonction du nombre de kilomètres entre le lieu de fabrication et le lieu de vente ou chez soi en cas de livraison à domicile. -5 points si le produit a voyagé moins de 100 km -3 points si le produit a voyagé moins de 500 km -1 point s'il a fait moins de 100 km TVA normale sinon

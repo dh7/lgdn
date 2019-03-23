@@ -1,0 +1,1 @@
+Simple la mise en place de taxes en fonction des modes de production et de transport(type ecotaxe) pourrait sauter si le pays respecte les mêmes standards

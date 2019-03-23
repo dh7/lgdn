@@ -1,0 +1,1 @@
+creer une taxe sur les produits proportionnelle au transport (km dépensés pour confectionner, transporter le produit)

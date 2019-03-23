@@ -1,0 +1,1 @@
+augmenter le nombre de sites de méthanisation des dechets et n'installer des éoliennes que si le facteur de charge est superieur à 50%

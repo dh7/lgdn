@@ -1,0 +1,1 @@
+Bloquer toutes importations qui ne respecteraient pas l environnement.

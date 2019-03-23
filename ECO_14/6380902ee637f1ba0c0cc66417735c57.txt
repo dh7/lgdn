@@ -1,0 +1,1 @@
+En créant un bonus/malus sur les importations des états qui respectent ou pas l'environnement ou adapter la taxe d'un produit en fonction du nombre de kilomètres parcourus.

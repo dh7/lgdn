@@ -1,0 +1,1 @@
+dans chaque salle de classe intégrer un interrupteur pour éteindre tous les appareils de la salle. Détecteur de mouvement pour les lumières.

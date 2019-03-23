@@ -1,0 +1,1 @@
+Créer une décote sur la taxe foncière en fonction du ratio : surface végétale / surface habitable.

@@ -1,0 +1,1 @@
+Jouer sur les taxes des produits importés : baisse si l'état et l'entreprise de provenance joue le jeux / Hausse dans le cas contraire.

@@ -1,0 +1,1 @@
+Souvent des technologies complémentaires sont mises en avant comme étant la "panacée" hors on ne se pose pas les bonnes  questions, d'abord le rendement puis on verra. Hélas les héritages sont lourds à gérer pour les générations futures. Ne pourrait-on pas inverser la tendance?

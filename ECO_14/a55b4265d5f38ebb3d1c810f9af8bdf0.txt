@@ -1,0 +1,1 @@
+Lancer un grand programme de stockage des énergies intermittentes (solaire et éolien) via les STEP (stockage hydraulique par transfert d'énergie potentielle). Par exemple, en plus des 4,2 GW existants, il existe en France un potentiel de 10 GW non exploité dans les Alpes et les Pyrénées.

@@ -1,0 +1,1 @@
+Adapter ses taxes à l'importation en fonction des choix stratégiques des pays avec qui elle commerce (mais peut-être complexe à mettre en oeuvre

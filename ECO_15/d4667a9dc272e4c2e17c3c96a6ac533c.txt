@@ -1,0 +1,1 @@
+1.Recenser toutes les solutions alternatives. 2.Pour chaque solution, identifier un nombre de points. 3.Chaque action mis en œuvre par le citoyen (fournir une preuve) serait convertie en Euros. 4. La somme serait déductible des impôts. 5. Etudier la possibilité de taxer les ordures ménagères selon le poids réel.

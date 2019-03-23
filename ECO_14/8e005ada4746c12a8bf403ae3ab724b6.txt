@@ -1,0 +1,1 @@
+Appliquer des barrières douanières en fonction des km parcourus, du carburant utilisé, des produits importés (premières nécessité ou pas ).

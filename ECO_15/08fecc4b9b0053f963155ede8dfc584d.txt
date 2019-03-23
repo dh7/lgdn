@@ -1,0 +1,1 @@
+Concernant le transport, il est souvent nécessaire d'associer plusieurs modes dont il faudrait assurer l'intermodularité. En particulier entre le train et train (TGV/TER-RER) et le train et l'avion. Le retard du premier ne doit pas entrainer la perte du second, ce type de risque n'encourage pas l'utilisation des transports en commun sur les longues distances.

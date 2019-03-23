@@ -1,0 +1,1 @@
+Encourager la fermeture des centrales a charbon le plus rapidement possible (et pas en 2038)

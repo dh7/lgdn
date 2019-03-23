@@ -1,0 +1,1 @@
+Donner l'exemple et taxer les pays ne respectant pas les critères de la France (pollueur = payeur).

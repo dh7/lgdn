@@ -1,0 +1,1 @@
+Limiter la vitesse à 30 en ville, 70 sur route, 120 sur autoroute.

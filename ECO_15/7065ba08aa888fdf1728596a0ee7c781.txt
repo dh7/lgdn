@@ -1,0 +1,1 @@
+plusieurs associations œuvrent déjà pour cette transition, il serait efficace de les relier entre elles et de les relier à l'état, pour augmenter l'impact de leurs actions, créer une entité commune où chacun pourrait profiter des actions des autres   cette cohésion augmenterai l'efficacité de chacun

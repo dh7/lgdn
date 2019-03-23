@@ -1,0 +1,1 @@
+Créer une taxe adaptative en fonction de la production d un bien suivant plusieurs critères : longévité, utilisation des matériaux, fin de vie et recyclage etc... Celle-ci serait par exemple de  :  +5% pour un produit intermédiaire  -5% pour un produit respecteux +15% pour un produit non respectueux

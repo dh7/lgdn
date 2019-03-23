@@ -1,0 +1,1 @@
+Offrir une offre de transport en commun correspondant aux horaires de bureau et s'assurer des correspondances entre les différents transports en communs (train, bus, station de vélo), sans tenir compte des limites administratives (avoir une vision d'ensemble pour proposer une offre efficace).

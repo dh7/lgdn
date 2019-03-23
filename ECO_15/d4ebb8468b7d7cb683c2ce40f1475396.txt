@@ -1,0 +1,1 @@
+Migrer le transport du fret vers le rail. Revoir la fréquence, qualité de service et tarifs des trains. Développer les liaisons autocar en province quand il n'y a pas de possibilité de rail équitable.

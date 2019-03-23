@@ -1,0 +1,1 @@
+Des solutions qui marchent au niveau local sont toujours copiées à côté.

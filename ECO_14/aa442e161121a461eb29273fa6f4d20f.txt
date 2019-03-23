@@ -1,0 +1,1 @@
+Conditionner le niveau de taxe des produits importés à la quantité de CO2 émise par habitant du pays exportateur.

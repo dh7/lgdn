@@ -1,0 +1,1 @@
+Afficher un vrai marqueur des priorités tel qu'un isf vert

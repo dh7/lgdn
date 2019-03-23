@@ -1,0 +1,1 @@
+o	Le prix au m² d’un logement à la vente ne devrait pas dépasser une valeur liée au classement énergie.  A, B : prix libre. C < 2500 €/m², D < 1500 m², E < 1000 €/m², F < 800 €/m², G < 500 €/m².

@@ -1,0 +1,1 @@
+Taxer les produits importés avec une taxe dont le montant dépend de la quantité de CO2 émise par habitant du pays exportateur.

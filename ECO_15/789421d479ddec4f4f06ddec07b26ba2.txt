@@ -1,0 +1,1 @@
+Créer une taxe dissuasive pour empêcher de convertir du terrain agricole en zone industrielle tant que le taux de friche industriel sur la commune est au-dessus d'un seuil (à convenir assez bas). Cela permet de tenir compte du coût écologique de cette transformation. Cela aura aussi pour effet de répartir les implantations industrielles.

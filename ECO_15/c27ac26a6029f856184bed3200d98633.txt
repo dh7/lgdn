@@ -1,0 +1,1 @@
+Indexer les taxes des entreprises en fonction de la provenance des produits. Ainsi on encouragerait le développement de produits locaux et taxerait les produits venant de trop loin. Pourquoi pas se basé sur l'emprunte carbone d'un produit.

@@ -1,0 +1,1 @@
+Interdire l'importation de produit n'ayant pas été produit avec un minimum d'energie alternative : ex accepter un produit produit avec une energie verte à plus de 50 %

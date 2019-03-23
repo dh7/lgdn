@@ -1,0 +1,1 @@
+Développer une solution de manière rationnelle en ayant bien évaluer les besoins sans forcément "copier" les voisins. Mettre en place cette solution, montrer que cela marche et la vendre :-) Innover en fonction du terrain (transports autonomes ajustable, cabines de téléphérique, aérotrain ...)

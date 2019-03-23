@@ -1,0 +1,1 @@
+Amelioration des conditions de recyclage dans les campagnes avec plus de point de recyclages (ex presence de plus de container jaunes et autres) reduire les importations de produits alors que nous les produisons deja en France

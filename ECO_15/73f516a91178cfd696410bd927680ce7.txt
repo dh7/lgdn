@@ -1,0 +1,1 @@
+Sur une facture annuelle, imaginez que l'électricité coute 10 centimes d'euros le kilowatt les 1000 premiers kilowattheures puis 1 € les kilowatts suivants. Une politique tarifaire exponentielle inciterait les utilisateurs aux économies

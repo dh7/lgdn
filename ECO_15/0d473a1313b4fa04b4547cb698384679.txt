@@ -1,0 +1,1 @@
+Supprimer les éclairages des routes en les remplacant pour des lignes blanches bien tracées (si on voit bien la route, on n'a pas besoin d'éclairage) => économies d'energie et de nuisances lumineuses

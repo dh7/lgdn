@@ -1,0 +1,1 @@
+Instaurer une tarification exponentielle, avec un quota par personne

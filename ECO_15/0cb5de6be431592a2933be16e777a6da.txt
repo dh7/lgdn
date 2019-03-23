@@ -1,0 +1,1 @@
+Imposer aux constructeurs automobiles la limitation de la vitesse de leurs véhicules.  (Vitesse max : 140 km/h par exemple)

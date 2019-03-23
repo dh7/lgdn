@@ -1,0 +1,1 @@
+Surtout changer les comportements (tout ce qui n’est pas consommé n’est pas à produire)

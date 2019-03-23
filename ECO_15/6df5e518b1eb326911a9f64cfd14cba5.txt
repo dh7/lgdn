@@ -1,0 +1,1 @@
+Affichage ( en gros ) sur tout produit commercialisé son coût carbone et en modulé la TVA en fonction selon un barème. Peut-être différemment pour les produits de première nécessité.

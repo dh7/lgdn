@@ -1,0 +1,1 @@
+Mettre en œuvre des choix sur une période, constater si leur bilan est positif, faire part des conclusions.

@@ -1,0 +1,1 @@
+Montrer les best practices et comment elles se traduisent (quel résultat) + en comparaison avec une situation où rien n'est fait. Peut-être montrer ce qui pourrait être économisé à un niveau donné (europe par ex) si chaque pays changeait ne serait ce que quelques habitudes

@@ -1,0 +1,1 @@
+Taxer lourdement les produits importés selon leur bilan carbone global (production + transport)

@@ -1,0 +1,1 @@
+développement du moteur à hydrogène pour tous les types de déplacement (avion, voiture, camion, car, train) production d'électricité par géothermie et thorium

@@ -1,0 +1,1 @@
+Adapter les frais fixes des abonnements à la consommation des clients. Fixer des seuils de consommation forfaitaires exemptés de taxes (local, agence, départements, régions…), taxer plus fortement les dépassements intempestifs.

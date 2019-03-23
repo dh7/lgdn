@@ -1,0 +1,1 @@
+créer une application d'un barème malus-bonus pour chaque citoyen avec un nombre de points ou de couleurs pour s'auto-responsabiliser. A la campagne on a des potagers (vert) mais on utilise la voiture (rouge). Les meilleurs citoyens gagnent un prix. Une carotte, quoi !

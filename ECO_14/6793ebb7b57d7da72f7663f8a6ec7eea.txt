@@ -1,0 +1,1 @@
+montrer l'exemple en suppriment tous les véhicules ministériel avec chauffeur pour les déplacement quotidiens dans Paris

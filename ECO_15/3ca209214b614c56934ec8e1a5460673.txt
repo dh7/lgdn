@@ -1,0 +1,1 @@
+Développement de la voiture à hydrogène, qui combine l’autonomie et la rapidité de ravitaillement du thermique, l’écologie de l’électrique, sans les inconvénients de l’électrique (location de batterie, autonomie faible, long temps de charge, mise en place d’infrastructures coûteuse, fabrication des batteries polluante…)

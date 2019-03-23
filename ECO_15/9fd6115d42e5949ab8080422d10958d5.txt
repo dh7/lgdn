@@ -1,0 +1,1 @@
+Dans votre questionnaire vous demandez le code postal, mais  seul le code postal français semble accepté. J'ai donc mis mon département d'origine, 69, alors que mon véritable code postal est 1050 en Belgique !

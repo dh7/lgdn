@@ -1,0 +1,1 @@
+interdire les importations qui sont produites sans respecter l'environnement

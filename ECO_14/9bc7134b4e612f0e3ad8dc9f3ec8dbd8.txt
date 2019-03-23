@@ -1,0 +1,1 @@
+Créer une taxe progressive selon le taux de pollution de chaque pays en fonction de leurs taux d'émissions de gaz à effet de serre.

@@ -1,0 +1,1 @@
+supprimer les relations avec les états ne respectant pas les contraintes environnementales (Notamment les USA...)

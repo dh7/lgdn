@@ -1,0 +1,1 @@
+Imposer une diminution des imports et privilégier une consommation locale.

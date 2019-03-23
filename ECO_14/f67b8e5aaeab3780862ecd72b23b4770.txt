@@ -1,0 +1,1 @@
+Limiter les importations-exportations de gadgets inutiles polluant au moment de leur fabrication et de leur transport.

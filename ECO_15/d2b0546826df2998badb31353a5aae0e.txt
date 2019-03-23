@@ -1,0 +1,1 @@
+Moduler la TVA sur les véhicules selon la performance énergétique. TVA alourdi pour les grosses cylindrées,  allégée pour les véhicules hybrides et électriques

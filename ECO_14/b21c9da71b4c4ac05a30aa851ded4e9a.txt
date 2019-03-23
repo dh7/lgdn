@@ -1,0 +1,1 @@
+Taxe sur les super conteneurs encaissées par le port de destination. Calcul à partir de la distance parcourue (départ - arrivée)  x consommation des machines x taux. Ces recettes entreraient dans le budget européen car des marchandises arrivées à Rotterdam sont en partie pour la France ou la Belgique ou autre part.

@@ -1,0 +1,1 @@
+Nommer un ambassadeur par région émettant un rapport et permettant au ministre de rapporter ses messages via un événément + créer une plateforme numérique permettant de voir les réalisations / les choix et de les géolocaliser

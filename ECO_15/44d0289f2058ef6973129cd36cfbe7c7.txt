@@ -1,0 +1,1 @@
+Limiter le nombre de produits pour limiter la sur-consommation (exemple 80 sortes de yaourt sur un linéaire)

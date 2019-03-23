@@ -1,0 +1,1 @@
+cesser les transactions qui génèrent kms , produire un max énergies renouvelables

@@ -1,0 +1,1 @@
+Je pense que l'indicateur en pourcentage d'energie propre par rapport à la consomation globale n'est pas bien choisi. Il favorise la création de source d'énergie propre aux détriments d'économie d'énergie qui parfois sont bien plus rentables (exemple isolation > chauffage électrique alimenté par panneaux photovoltaiques)

@@ -1,0 +1,1 @@
+Imposer une vignette sur les véhicules à l’entrée du pays croissante en fonction du niveau de pollution des modes de transport entrant en France.

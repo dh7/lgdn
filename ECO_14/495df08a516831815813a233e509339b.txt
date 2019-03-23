@@ -1,0 +1,1 @@
+Affichage du poids carbone des biens de consommation, et fixer une limite maximale en fonction des biens pour réduire les transports des marchandises avant l'obtention du produit fini.

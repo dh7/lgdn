@@ -1,0 +1,1 @@
+Pour les importation : - une 1ère note par pays sur son niveau d’écologie (malus charbon, gasoil, ... bonus énergie durable) - une 2ème note pour la distance et la moyenne de pollution de l’acheminement (malus Porte-container, avion, ... bonus voie ferrée) = taxe écologique variable d’import

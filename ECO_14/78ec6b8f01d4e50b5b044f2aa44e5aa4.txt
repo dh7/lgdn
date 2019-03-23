@@ -1,0 +1,1 @@
+minimiser les transferts de productions entre état au strict minimum

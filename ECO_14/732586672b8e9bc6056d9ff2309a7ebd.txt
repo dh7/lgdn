@@ -1,0 +1,1 @@
+Prouver que les solutions qu'elle met en en oeuvre fonctionnent. Ça prend du temps mais c'est la seule solution.

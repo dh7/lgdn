@@ -1,0 +1,1 @@
+Qui va un jour se pencher sur le tri sélectif? Nous devons pouvoir trier TOUS les plastiques, qu'ils soient épais, fins ou autres.

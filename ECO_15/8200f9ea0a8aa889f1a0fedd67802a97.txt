@@ -1,0 +1,1 @@
+harmoniser l'heure GMT +1 pour les pays le plus à l'ouest, comme la France (donc pas d'heure "d'été") ; le jour jusqu'à 22h en été induit une nuit jusqu'à ...10h en hiver. En ce moment, tout pour la société des loisirs et le tourisme qui pollue encore plus tard !

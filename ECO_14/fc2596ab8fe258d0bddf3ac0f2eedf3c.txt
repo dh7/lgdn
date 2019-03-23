@@ -1,0 +1,1 @@
+Créer un schéma de cohérence entre les états pour une vraie convergence sans créer de concurrence déloyale sur le fait qu'un état fasse des efforts au détriment d'un budget.
