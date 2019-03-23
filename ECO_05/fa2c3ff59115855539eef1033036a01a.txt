@@ -1,0 +1,1 @@
+Limiter le chauffage au strict minimum et seulement en cas de besoin (un pull est vite amorti), trier, composter, ramasser les déchets des autres dans les espaces naturels

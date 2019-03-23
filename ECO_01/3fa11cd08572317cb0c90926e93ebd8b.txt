@@ -1,0 +1,1 @@
+Créer des récupérateurs de cannettes sous forme de machine, qui donnerai de l'argent, ou des bons de réduction, à ceux qui recyclé. (on peut le faire avec d'autres déchets comme les piles,... ). Cela motivera des gens à recycler.

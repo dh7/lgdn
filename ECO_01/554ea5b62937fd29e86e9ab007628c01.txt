@@ -1,0 +1,1 @@
+Calculer, pour chaque foyer fiscal, le montant de la taxe d'enlèvement des ordures ménagères en fonction du volume déposé, cela est pratiqué par certaines municipalités et donne de bons résultats pour réduire le volume des déchets et améliorer le tri. C'est la TEOM incitative.

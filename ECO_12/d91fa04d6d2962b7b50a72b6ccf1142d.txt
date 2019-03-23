@@ -1,0 +1,1 @@
+limiter les déplacements au maximum quand on le peut

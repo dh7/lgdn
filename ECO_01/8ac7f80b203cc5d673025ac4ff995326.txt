@@ -1,0 +1,1 @@
+Ajouter une taxe sur la circulation pour les voitures dans la ville, comme Milan, Londres. Limiter l'accés et la circulation au centre ville aux non résidents. Sur taxer la vente et possession de voitures non éléctriques/hybrides.

@@ -1,0 +1,1 @@
+Tarification des ressources par tranche. Par exemple eau et électricité, tarif par tranche selon surface du logement. Inciter la population à limiter la consommation.

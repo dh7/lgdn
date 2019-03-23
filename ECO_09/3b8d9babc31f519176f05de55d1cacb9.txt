@@ -1,0 +1,1 @@
+Inciter les constructeurs à choisir ces options lors de la construction

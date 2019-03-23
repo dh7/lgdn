@@ -1,0 +1,1 @@
+Attribuer des aides en fonction des revenus.

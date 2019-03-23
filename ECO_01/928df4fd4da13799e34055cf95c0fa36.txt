@@ -1,0 +1,1 @@
+Mettre en place une taxe sur les produits importés basée sur le niveau de CO2par habitant du pays d'origine (exemple Allemagne 9T CO2 / hab/ an), au dessus de 7T le produit est taxé, en dessous non

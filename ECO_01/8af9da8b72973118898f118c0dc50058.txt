@@ -1,0 +1,1 @@
+Limiter les transports liés aux délocalisations. Fabriquer des objets durables.

@@ -1,0 +1,1 @@
+la marche à pieds pour les distances inférieures ou égales à 1 km

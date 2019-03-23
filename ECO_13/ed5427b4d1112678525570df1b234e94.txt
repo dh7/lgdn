@@ -1,0 +1,1 @@
+ville, agglo, région, état

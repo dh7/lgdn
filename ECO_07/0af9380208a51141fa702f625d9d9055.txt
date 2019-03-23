@@ -1,0 +1,1 @@
+pollueur payeur => coût du produit pollueur plus cher que le produit écologique (produit a faire baisser au max)

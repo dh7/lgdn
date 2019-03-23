@@ -1,0 +1,1 @@
+<p>Limiter la vitesse à 30km/h en agglomération, 50km/h hors agglomération, 70km/h sur autoroute.</p>  <p>La limitation de vitesse proposée réduit la consommation d'énergie de 10% en moyenne</p>  <p>De plus, pour les propriétaires de véhicules hybrides, 30km/h est le seuil habituel en deçà duquel la motorisation thermique peut se désactiver.</p>

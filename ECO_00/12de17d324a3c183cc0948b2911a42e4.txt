@@ -1,0 +1,1 @@
+Sortir tous les animaux de la liste des "nuisibles"

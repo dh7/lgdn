@@ -1,0 +1,1 @@
+Augmenter la fréquence des trains.  Créer un système de navette jusqu'à la gare, pour éviter de prendre la voiture pour qq km

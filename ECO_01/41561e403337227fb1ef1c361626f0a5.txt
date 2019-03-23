@@ -1,0 +1,1 @@
+Même si nous sommes au sommet de la chaîne, trouver des solutions qui nous réintègrent à cette chaîne.

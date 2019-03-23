@@ -1,0 +1,1 @@
+Evaluer les différentes pollutions, aider les pollueurs à évoluer mais sous contrôle de l'état pour vérification de l'efficacité,  prendre modèle sur "c'est qui le patron". Localement, ceux sont les habitants qui constatent les problèmes, il faut les inclure dans les contrôles et vérifications.

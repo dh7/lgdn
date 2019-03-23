@@ -1,0 +1,1 @@
+Developper une solution de conversion des véhicules thermiques en véhicules électriques.  Renforcer les contrôles routiers lors des limitations de vitesses pour pics de pollutions. Automatiser la mise à jour ponctuelle des radars lors de ces restrictions car trop peu d’autobilistes les respectent. Réduire la’ vitesse à 30 ou 40 km dans les centres ville.

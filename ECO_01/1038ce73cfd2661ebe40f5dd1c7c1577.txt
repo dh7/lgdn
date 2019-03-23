@@ -1,0 +1,1 @@
+Imposer le ferroutage pour tous les transports routiers qui ne font que traverser la France (origine et destination situées hors de France). Développer le transport rapide sur voies ferrées de containers standards utilisables en remorques routières pour les extrémités de parcours.

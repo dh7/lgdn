@@ -1,0 +1,1 @@
+Contrôler les produits avant mise sur le marché, via une entité d'Etat. Si le produit est nocif pour l'environnement/la personne (exemple: cancérigène probable) , c'est l'entreprise faisant la demande qui devra payer une amende et son produit sera refusé. Dans le cas contraire, le produit sera mis sur le marché.

@@ -1,0 +1,1 @@
+Un outil de simulation pour estimer le rapport coût/bénéfice. Zéro TVA lorsqu'on s'équipe en matériel moins énergivore.

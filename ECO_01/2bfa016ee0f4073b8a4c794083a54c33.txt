@@ -1,0 +1,1 @@
+moduler la TVA en fonction du mode de transport des marchandises, supprimer les effets d'aubaine liés à la non harmonisation fiscale de l'Europe

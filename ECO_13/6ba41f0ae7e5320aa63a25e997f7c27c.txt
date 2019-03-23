@@ -1,0 +1,1 @@
+Toutes les strates de l'états selon le types de déplacement et surtout arrêter de se renvoyer la balle.

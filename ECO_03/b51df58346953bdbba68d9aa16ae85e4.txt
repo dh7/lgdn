@@ -1,0 +1,1 @@
+canicule,ouragan,cyclone,tsunami

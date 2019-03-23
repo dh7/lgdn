@@ -1,0 +1,1 @@
+isolation et régulation plus fine en fonction de l'humidité et de la température extérieure.

@@ -1,0 +1,1 @@
+Automobile: limiter la masse des vehicules ( <1 t) limiter la puissance à 100 CV au dela de ces seuils, taxer annullement les proprietaires de vehicules qui font un choix plus polluant developper la filiere des piles à combustibles seule solution non polluante

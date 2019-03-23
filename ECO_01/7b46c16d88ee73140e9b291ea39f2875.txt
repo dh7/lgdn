@@ -1,0 +1,1 @@
+trouver un systeme de berge avec une feuille en matiere eponge pour absorber l'eau entre deux berge et un systeme de chaleur pour evaporer l'eauet pourquoi pas recuperer cette eau dans une sorte de goutiere pour la secheresse

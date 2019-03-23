@@ -1,0 +1,1 @@
+Forcer l extinction des panneaux luminaires après une certaine heure ( minuit ?) afin de lutter contre la consommation electrique excessive, et afin que les insectes nocturnes ne viennent pas griller sur ces elements.

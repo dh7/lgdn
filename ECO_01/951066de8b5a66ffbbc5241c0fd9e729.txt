@@ -1,0 +1,1 @@
+(Re-)Mettre en place la vignette pour les véhicules en fonction de leur émissions de GES. Chaque année, il serait nécessaire de s'acquitter de cette vignette dont le prix ne serait plus indexé sur la puissance fiscale, mais sur les émissions de GES.

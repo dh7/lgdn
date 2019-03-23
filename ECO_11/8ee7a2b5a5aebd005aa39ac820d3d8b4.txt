@@ -1,0 +1,1 @@
+Temps trajet + coût + flexibilité horaire doit permettre de répondre aux mêmes besoins que la voiture. Sinon, on prendra la voiture.

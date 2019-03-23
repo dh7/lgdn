@@ -1,0 +1,1 @@
+Un exemple : développer la possibilité de mettre son vélo dans les trains TER (actuellement manque de place) proposer un wagon entier vélo /cycliste. Cela favoriserait le multi modal lorsque l on habite en dehors des villes

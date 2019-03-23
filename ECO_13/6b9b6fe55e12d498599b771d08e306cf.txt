@@ -1,0 +1,1 @@
+Chaque niveau public : la ville, le departement, la région, l état.

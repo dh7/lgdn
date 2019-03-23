@@ -1,0 +1,1 @@
+supprimer les esences non locales dans les propriétés privées de petites tailles

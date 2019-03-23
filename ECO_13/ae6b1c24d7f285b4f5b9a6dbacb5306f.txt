@@ -1,0 +1,1 @@
+Commune,région,entreprise

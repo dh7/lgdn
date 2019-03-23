@@ -1,0 +1,1 @@
+Mettre en place un système de Bonus malus sur tous les éléments de consommation (et donc sur lesquels nous avons une action) et qui ont une incidence sur l'environnement. Ce bonus malus se traduit nécessairement dans une vision financière.

@@ -1,0 +1,1 @@
+unifier les modes de tri des poubelles (couleurs identiques sur l'hexagone, les logos ..)et le dom tom/

@@ -1,0 +1,1 @@
+Limiter la circulation des voitures en ville grâce aux vignettes qui détermine une "note" pour la voiture (si voiture trop polluante, elle ne peut circuler en ville). Ne peut pas se faire sans un encouragement financier plus important pour le changement de véhicule

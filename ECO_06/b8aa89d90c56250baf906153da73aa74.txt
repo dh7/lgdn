@@ -1,0 +1,1 @@
+meilleure contrôle du thermostat (eviter de chauffer sa maison quand on est absent )

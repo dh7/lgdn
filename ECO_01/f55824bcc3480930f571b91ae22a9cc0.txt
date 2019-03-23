@@ -1,0 +1,1 @@
+Limiter au maximum l'utilisation des véhicules quand cela est possible et que l'on habite une commune dans laquelle les transports en commun sont nombreux (par exemple pour aller sur Paris depuis certaines banlieues)

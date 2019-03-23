@@ -1,0 +1,1 @@
+faire que la conversion soit à cout nul (voire avantageux, meme) pour le citoyen

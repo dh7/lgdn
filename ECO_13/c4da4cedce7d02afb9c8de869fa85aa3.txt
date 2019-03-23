@@ -1,0 +1,1 @@
+Déploiement au niveau local de solutions adaptées aux spécificités du terrain  mais avec une harmonisation générale afin que ce soit simple pour les usagers

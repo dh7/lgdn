@@ -1,0 +1,1 @@
+Supprimer les cités qui ne respectent que leurs règles.

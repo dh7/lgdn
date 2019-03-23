@@ -1,0 +1,1 @@
+L'idée de déplacer uniquement les atomes mais pas les bits est de Nicolas NEGROPONTE qui dirigeait le Media Lab au MIT. Cela implique que nous devons nous demander à chaque fois, s'il est absolument nécessaire de se déplacer ou de déplacer de la marchandise. Si la réponse est oui, une seconde question doit alors être posée, pouvons-nous réduire la distance de ce transport.

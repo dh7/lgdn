@@ -1,0 +1,1 @@
+Des structures (privées ou publiques) qui permettraient par exemple l'achat de périodes d'utilisation d'un véhicule.

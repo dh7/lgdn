@@ -1,0 +1,1 @@
+Densifier les villes et village et limiter au maximum la perte de terre terrain forets.  Pour cela restreinte la delivrance de permis de construire sur site vierge de construction.  Favoriser la permaculture, limiter les pesticide et engrais

@@ -1,0 +1,1 @@
+mettre un compteur au camion et ne plus calculer la taxe ordure menagere sur une surface habitable mais sur le nombre de personne dans le foyer.plus equitable

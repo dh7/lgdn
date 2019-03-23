@@ -1,0 +1,1 @@
+Avoir une stratégie qui prenne en compte tous les paramètres et qui ne change pas dès que la mode a changé... Exemple : véhicules essence / diesel / électrique --> le diesel est mis au ban alors que dans certaines conditions il reste plus écologique que l'electrique qui a un effet carbone défavorable fort à sa production

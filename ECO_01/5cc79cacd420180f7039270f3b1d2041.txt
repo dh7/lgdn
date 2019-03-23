@@ -1,0 +1,1 @@
+arrêt des envois de mails non souhaités et non demandés. Comme pour la pub dans les boîtes aux lettres « stop pub ». Ceci permettrait d'éviter des stockages de mails inutiles sur des serveurs qui consomment énormément d'électricité et qu'il faut refroidir par de la climatisation.

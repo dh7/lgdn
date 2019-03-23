@@ -1,0 +1,1 @@
+les actions individuelles non-coordonnées n'ont pas l'effet d'échelles suffisant pour avoir d'effet significatif.

@@ -1,0 +1,1 @@
+la commune pour les distances courtes entre villes limitrophes , la région pour les distances inter départementales

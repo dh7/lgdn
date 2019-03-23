@@ -1,0 +1,1 @@
+Mettre en place comme expliqué précédemment un servi de de minibus pour la ville.

@@ -1,0 +1,1 @@
+taxer les produits en fonction de leur impacct sur l'environnement(ex: plastiques, ou poids/quantite d'emballage vis a vis du produit vendu, …)

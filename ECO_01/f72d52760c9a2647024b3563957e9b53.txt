@@ -1,0 +1,1 @@
+Je propose de faciliter le covoiturage par la création d'un site public de covoiturage : covoiturage.gouv.fr afin d'éviter la dispersion des offres sur les divers sites existants (surtout dans les zones avec très peu d'offres)

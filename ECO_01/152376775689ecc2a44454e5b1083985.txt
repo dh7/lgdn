@@ -1,0 +1,1 @@
+gerer les quotats d'irigation agricole non pas par volume/exploitation mais par type de culture declaree anuellement. Interdire certaines cultures si l'adequation milieu n est pas compatible (ex: mais en milieu sec)

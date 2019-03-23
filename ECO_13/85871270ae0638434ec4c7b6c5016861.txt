@@ -1,0 +1,1 @@
+commune, département, région (quand on est à cheval sur plusieurs régions (exemple paca/rhone alpes/ occitanie à l'intersection des 3 régions c'est galère.

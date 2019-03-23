@@ -1,0 +1,1 @@
+Etat,région,département,peut importe c'est le résultat qui compte.

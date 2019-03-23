@@ -1,0 +1,1 @@
+Chaleur,écart de température d'un jour a l'autre.saisons moins marquees

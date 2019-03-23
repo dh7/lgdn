@@ -1,0 +1,1 @@
+généraliser le principe du bonus/malus pour créer des cercles vertueux de comportement.

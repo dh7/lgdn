@@ -1,0 +1,1 @@
+Augmenter les horaires de passage de bus et avoir certains horaires avec moins d'arrêt, donc trajet plus rapide.

@@ -1,0 +1,1 @@
+augmenter le nombre de train entre les petites villes avec plus d'arrets mais  avec moins de wagons qui a l'heure actuelle  roulent a vide vu que les horaires ne sont pas adaptés

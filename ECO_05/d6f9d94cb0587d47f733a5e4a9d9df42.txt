@@ -1,0 +1,1 @@
+trie des déchets, éviter les déplacements inutiles, nous ne surchauffons pas la maison

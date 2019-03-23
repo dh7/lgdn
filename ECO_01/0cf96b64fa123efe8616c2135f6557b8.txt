@@ -1,0 +1,1 @@
+Changement de modèle de production. Produire localement à la commande pour éviter de produire de l'inutile. Produire uniquement de produit recyclage et écologiquement adapté. Si l'on ne laisse pas le choix au consommateur de choisir entre produit pas cher mauvais pour environnement, et un produit plus coûteux mais valable écologiquement alors, il prendra le bon produit.

@@ -1,0 +1,1 @@
+adapter la taxe sur les ordures ménagères en fonction du poids des ordures que l'on jette

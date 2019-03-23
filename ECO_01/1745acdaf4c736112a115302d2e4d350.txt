@@ -1,0 +1,1 @@
+Mettre en place un systeme de bonus malus a somme nulle qui concernerait les entreprises et leurs activites liees (transport...), les particuliers (habitat, transport, consommation...) integrant des parametres sociaux (exemple: minoration ou majoration selon le niveau d'imposition) afin de responsabiliser tous les acteurs.

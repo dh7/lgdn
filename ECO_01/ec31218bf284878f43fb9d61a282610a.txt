@@ -1,0 +1,1 @@
+Fixer une date limite à l'ensemble des constructeurs de voitures, qui construisent des voitures non-électriques. par exemple, à partir de 2025, obliger chaque constructeur à ne créer des voitures électriques; ensuite il faut équiper chaque ville de bornes électriques pour recharger les voitures. de plus, chaque transport en commun devrait fonctionner à l'électrique.

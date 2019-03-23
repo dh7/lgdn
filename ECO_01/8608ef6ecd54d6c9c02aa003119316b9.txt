@@ -1,0 +1,1 @@
+Taxer dans un premier temps les produits alimentaires selon leur lieu de production. Plus le produit a parcouru de kilomètres, plus il doit être taxé. Le transport de marchandises est aujourd'hui une aberration écologique. Il est délirant de trouver, par exemple, des fruits qui ont parcouru des milliers de kilomètres moins chers que des fruits français.

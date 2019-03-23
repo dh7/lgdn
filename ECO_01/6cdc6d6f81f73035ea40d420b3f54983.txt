@@ -1,0 +1,1 @@
+Taxer les produits en fonction des kilomètres qu'ils nécessitent pour leur acheminement. Ex : une voiture importée d'Asie doit être plus taxée qu'une voiture importée de Roumanie car le nombre de kilomètres pour son acheminement est plus élevé. Ca peut être intégré dans la TVA. La nouvelle TVA pour des produits locaux serait plus faible que l'actuelle.

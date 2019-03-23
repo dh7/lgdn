@@ -1,0 +1,1 @@
+Taxer plus les propriétaires de piscines enterrées en fonction de la capacité de celles-ci.

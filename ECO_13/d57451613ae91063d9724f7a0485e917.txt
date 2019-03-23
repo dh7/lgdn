@@ -1,0 +1,1 @@
+ville, commune, département, région, état, Europe

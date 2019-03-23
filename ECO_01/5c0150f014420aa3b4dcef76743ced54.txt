@@ -1,0 +1,1 @@
+Supprimer les barrières de péage et les remplacer par une vignette achetee pour une période prédéfinie tel que cela existe en Autriche par exemple . Ceci éviterait les bouchons des voitures en attente au péage avec le moteur allumé,  supprimerait la révélation et l accélération, tout ça généralement près des villes et de leurs habitants.

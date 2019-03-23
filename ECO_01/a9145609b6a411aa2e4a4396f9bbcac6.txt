@@ -1,0 +1,1 @@
+Limiter l'extraction de ressources.

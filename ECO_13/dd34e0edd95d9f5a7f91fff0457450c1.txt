@@ -1,0 +1,1 @@
+les constructeurs automobile qui devraient rechercher à construire des véhicules plus simples et moins chers

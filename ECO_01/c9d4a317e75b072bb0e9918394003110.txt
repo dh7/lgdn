@@ -1,0 +1,1 @@
+Anticiper les attitudes avec chiffrage de leur coût, suite à une confrontation des données via les services météo de chaque nation. Données historiques en regard avec les évènements présents, et projeter par priorité les prévisions.

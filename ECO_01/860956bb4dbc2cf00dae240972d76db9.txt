@@ -1,0 +1,1 @@
+Créer des structures sérieuses de récupération, de tri, de recyclage, de destruction "propre" comme cela existe déjà dans les pays nordiques et aux USA

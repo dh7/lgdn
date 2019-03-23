@@ -1,0 +1,1 @@
+Taxer les produits (TVA) en fonction de la distance au pays d'origine, et ainsi prendre en compte le C02 émis dans les transports. TVA nulle pour les produits 100% français, TVA maximale pour les produits transportés depuis l'Asie ou l'océanie

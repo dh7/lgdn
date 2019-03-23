@@ -1,0 +1,1 @@
+ratio : coût de remplacement de l'installation, consommation, pouvoir calorifère, pollution, entretien.

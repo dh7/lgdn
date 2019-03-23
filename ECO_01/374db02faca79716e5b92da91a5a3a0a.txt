@@ -1,0 +1,1 @@
+Instaurer une taxe au poids et km. Par exemple 0.0001€ par kg et par km.  - 1kg de fraises espagnoles vendues en France : 1kg x 1500 km x 0.0001 = +15cts de taxe - 1 voiture fabriquée en Corée et vendue en France : 1800 kg x 12000 km x 0.0001 € = 2160€ de taxe

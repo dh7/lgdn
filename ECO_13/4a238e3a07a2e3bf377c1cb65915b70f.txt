@@ -1,0 +1,1 @@
+Toutes les couches de l'administration (l'état, la région, le département, la ville)

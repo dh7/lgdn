@@ -1,0 +1,1 @@
+Interroger un site internet en renseignant tous les paramètres.

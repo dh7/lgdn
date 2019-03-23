@@ -1,0 +1,1 @@
+limiter les changements de mode de transports (actuellement pieds + Bus + train)

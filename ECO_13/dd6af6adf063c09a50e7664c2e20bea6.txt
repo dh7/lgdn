@@ -1,0 +1,1 @@
+Ville, entreprise, région, département, Etat

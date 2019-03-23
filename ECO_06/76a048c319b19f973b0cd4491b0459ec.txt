@@ -1,0 +1,1 @@
+Un thermostat connectee ( jen possede un, tres pratique pour se créer des plannings de chauffe) et lapplication edf qui nous dit chaque jour combien nous consommons d'électricité

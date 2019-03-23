@@ -1,0 +1,1 @@
+Afin de limiter le suremballage, définir pour un même type de produit, un emballage dit "Sobre" et lui appliquer un bonus. Ce bonus serait financé par un malus sur les produits suremballé.

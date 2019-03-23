@@ -1,0 +1,1 @@
+Disposer d'un accès simple à un suivi de ma consommation d'électricité, en temps réel et de manière suivie.

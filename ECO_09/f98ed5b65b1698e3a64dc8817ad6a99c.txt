@@ -1,0 +1,1 @@
+Allouer des primes permettant une transition peu pénalisantes dans la durée (amortissement)

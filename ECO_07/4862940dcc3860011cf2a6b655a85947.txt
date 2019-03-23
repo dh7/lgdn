@@ -1,0 +1,1 @@
+fixer le prix de l'électricité et le gaz selon les consommations. moins on consomme plus le prix unitaire baisse.

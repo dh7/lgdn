@@ -1,0 +1,1 @@
+démontrer que la solution proposée est bonne dans son intégralité (de sa constructionà son recyclage)

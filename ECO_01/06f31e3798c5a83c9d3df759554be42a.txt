@@ -1,0 +1,1 @@
+Taxer les camions qui sont sur les routes et qui ne sont pas partis avec un chargement complet.

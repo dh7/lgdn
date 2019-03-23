@@ -1,0 +1,1 @@
+non utilisation véhicule si possibilité de prendre transport en commun (insuffisamment développé en milieu rural)

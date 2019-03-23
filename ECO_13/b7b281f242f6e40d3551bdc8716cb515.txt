@@ -1,0 +1,1 @@
+l'état pour les trains interrégionaux, la régions pour les trains du quotidien, l'agglomération pour les trajets maison-travail.

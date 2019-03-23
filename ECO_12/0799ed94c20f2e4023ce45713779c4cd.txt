@@ -1,0 +1,1 @@
+Toutes ces solutions, a moduler en fonction du contexte local

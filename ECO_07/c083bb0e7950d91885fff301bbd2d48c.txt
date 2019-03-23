@@ -1,0 +1,1 @@
+Disposer d'informations sur la durée de vie des équipements.
