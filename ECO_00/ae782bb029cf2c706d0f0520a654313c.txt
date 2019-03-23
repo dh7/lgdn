@@ -1,1 +1,0 @@
-Le nombre croissant de constructions dans les villes. Plus il y a d'habitants au km2, plus il y a de pollution.
