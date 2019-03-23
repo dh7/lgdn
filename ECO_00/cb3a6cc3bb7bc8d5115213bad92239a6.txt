@@ -1,1 +1,0 @@
-http://195.154.211.143/presta184/index.php?id_product=31&id_product_attribute=0&rewrite=budget-de-letat&controller=product&id_lang=2

@@ -1,1 +1,0 @@
-comment peut-on nous demander de hiérachiser ces 4 éléments alors qu'ils sont tous interdépendants ? Cela n'a pas de sens. 

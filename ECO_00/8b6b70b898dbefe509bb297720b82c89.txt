@@ -1,1 +1,0 @@
-L'environnement est un domaine global où chaque action sur un domaine influence les autres! On ne peut donc les séparer!

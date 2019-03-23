@@ -1,1 +1,0 @@
-tout, chaque élément est interdépendant des autres et ne peut être traiter isolément. 

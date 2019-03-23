@@ -1,1 +1,0 @@
-C'est global, il n'y a pas qu'une priorité mais plusieurs
