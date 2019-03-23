@@ -1,0 +1,1 @@
+Consolider les dépenses des différents échelons administratifs lorsque plusieurs échelons contribuent à la même mission. Exemple: éducation nationale = dépenses de l'Etat + régions (lycées) + collèges (départements) + communes (écoles)

@@ -1,0 +1,1 @@
+afficher (net, journaux..) régulièrement (trim) un tableau des recettes et dépenses pour chaque décideurs (communes, interco, département, région, Etat)

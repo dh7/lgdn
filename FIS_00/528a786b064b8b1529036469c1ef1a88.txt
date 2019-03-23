@@ -1,0 +1,1 @@
+Envoyer aux citoyens un récapitulatif des aides qu'ils ont reçu (éducation, santé, ...).

@@ -1,0 +1,1 @@
+Créer un bouquet d'aides à partir d'une base commune de ressources afin d'éviter les redondances. Cela semble déjà en cours dans certaines CAF.

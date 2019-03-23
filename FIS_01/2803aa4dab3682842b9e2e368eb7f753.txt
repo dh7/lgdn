@@ -1,0 +1,1 @@
+Simplifier les règles afin qu'elles soient plus compréhensibles. Revenir sur les fonctions régaliennes de l'état.

@@ -1,0 +1,1 @@
+Il faut réorganiser les services d'état, il a été créé trop de structure sans pour autant en supprimer.

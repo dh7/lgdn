@@ -1,0 +1,1 @@
+Revoir la répartition du nombre de parts en fonction du nombre d'enfants : 1 enfant = 1/2 part quel que soit le nombre.

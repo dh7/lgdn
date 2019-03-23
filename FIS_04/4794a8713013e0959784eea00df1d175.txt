@@ -1,0 +1,1 @@
+Proportionner les montants des allocations aux revenus des bénéficiaires.

@@ -1,0 +1,1 @@
+Supprimer les pieces de 1 et 2 cebtimes qui ont un coût et n apporte que des contraintes pour les paiements. Interdire l affichage de 3 chiffres apres la virgules dans les stations essence.

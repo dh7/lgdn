@@ -1,0 +1,1 @@
+Il faut que l'information (recettes et dépenses) soit disponible en un point central unique quelque soit le service public concerné: Etat, collectivité territoriale concernée, opérateur, ... L'information doit être présentée de manière simple avec des possibilités d'approfondir vers plus de détails.

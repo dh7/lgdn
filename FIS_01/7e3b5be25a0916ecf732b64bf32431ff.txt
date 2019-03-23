@@ -1,0 +1,1 @@
+Eviter les exonérations, les avantages, les exceptions, tout ce qui complique le calcul de l'impot. Avoit un impot avec une formule continue ax^b et par un systeme linéaire par tranche.

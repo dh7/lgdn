@@ -1,0 +1,1 @@
+Adapter la somme des impôts (TVA, sur le revenu...), en proportion sur le revenu global des foyers fiscaux.

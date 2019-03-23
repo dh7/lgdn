@@ -1,0 +1,1 @@
+Au moment de la déclaration de l'IR, donner une estimation des sommes qui seront affectées à chaque domaine.

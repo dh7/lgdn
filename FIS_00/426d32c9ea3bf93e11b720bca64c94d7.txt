@@ -1,0 +1,1 @@
+fournir un état des recettes et dépenses de l'état pour l'année en cours sur le portail impôts.gouv.fr.

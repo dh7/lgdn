@@ -1,0 +1,1 @@
+Proposer un onglet spécifique sur le site impots.gouv : "A quoi sert votre impôt" avec un état complet et en temps réel des recettes fiscales et des dépenses. Obliger les collectivités à en faire de même à partir d'un certain seuil d'habitants (20 000 par exemple).

@@ -1,0 +1,1 @@
+afficher le deficit publique general et par entreprise publique avec le chiffre par année et en cumul annee anterieur.

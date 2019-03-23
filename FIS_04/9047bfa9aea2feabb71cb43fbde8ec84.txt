@@ -1,0 +1,1 @@
+Supprimer les primes de l'état telles que l'aide à l'emploi qui ne valorisent pas le travail

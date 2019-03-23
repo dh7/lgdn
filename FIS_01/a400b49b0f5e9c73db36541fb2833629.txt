@@ -1,0 +1,1 @@
+Pourquoi toutes les aides ne sont pas comptabilisées ? Pourquoi des paliers et quelque chose de non linéaire (pour éviter effets de seuils) ?

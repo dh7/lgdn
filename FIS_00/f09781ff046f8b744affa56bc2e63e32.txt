@@ -1,0 +1,1 @@
+Afficher pour chaque ministère un compteur de dépenses  en dissociant les dépenses liées au fonctionnement du ministère (salaire, organisations ....) de celles qui servent aux français

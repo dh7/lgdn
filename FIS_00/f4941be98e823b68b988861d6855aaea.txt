@@ -1,0 +1,1 @@
+Fournir au citoyen une information annuelle, par grandes masses, sur l'utilisation de l'impôt, en montrant l'évolution d'année en année, ainsi que l'écart entre le "budgété" et le "réalisé".  En vert : on est dans les clous. En rouge : on est hors des clous. Pour ce faire, concevoir un site internet, facilement accessible et lisible.-

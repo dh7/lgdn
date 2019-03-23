@@ -1,0 +1,1 @@
+Au vote du budget annuel, afficher sur web ou envoyer un courrier qui note le montant collecté en spécifiant les montants investis pour tel domaine et pourquoi..

@@ -1,0 +1,1 @@
+Regrouper les versements pour éviter les doublons y compris avec les associations (pris en charge électricité ) ou les mairies

@@ -1,0 +1,1 @@
+Aide à la natalité dégressive.Maximale au premier enfant et diminution jusqu'au 3 éme.  Arrêt des aides à partir du 4 éme enfant

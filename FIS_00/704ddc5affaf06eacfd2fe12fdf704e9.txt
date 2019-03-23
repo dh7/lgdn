@@ -1,0 +1,1 @@
+Un site internet sur lequel on pourrait voir un listing, ville par ville, nominatif et par ordre décroissant, le montant cumulé des allocations en tous genres (CAF, Assedic, RSA...) reçus dans l'année précédente par les citoyens, comme on le fait pour les Agriculteurs (PAC)

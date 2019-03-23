@@ -1,0 +1,1 @@
+Sortir les taxes associées à une consommation (exemple: électricité, gaz, eau, etc...)

@@ -1,0 +1,1 @@
+Elaborer un document CLAIR sur les recettes de l'Etat et ses dépenses avec la possibilité d'obtenir tous les détails que l'on souhaite sur chaque poste de recettes et de dépenses.

@@ -1,0 +1,1 @@
+Appliquer le model suivant: Salaire Brut - Secu - Chomage - Sante - Impots = Net Net

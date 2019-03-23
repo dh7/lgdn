@@ -1,0 +1,1 @@
+donner la liste des impots et taxes par type ( impot sur le revenu , tva,  cotisation retraite , cotisations sociales , SS ...) et le liste des depenses par type (retraite , aides sociales , education , securite ....)

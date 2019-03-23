@@ -1,0 +1,1 @@
+créer un site permettant de visualiser les domaines reliant la nature d'un impot et son affectation en dépense. Quels sont les responsables de la gestion (local,régional,national)

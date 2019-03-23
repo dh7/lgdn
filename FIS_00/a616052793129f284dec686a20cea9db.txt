@@ -1,0 +1,1 @@
+1/ Afficher le montant supporté par l’etat ou la collectivité sur le ticket/facture lors de rdv medicaux, poste, transport, education...  2/ chômage : au bout de 6 mois, reduire chaque mois le montant de l’alocation chomage de manière dégressive.

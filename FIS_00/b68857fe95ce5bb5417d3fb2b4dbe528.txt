@@ -1,0 +1,1 @@
+Déjà lister les types d'impôt existants : direct, indirect, société, particulier, ...  Quel est leur poids respectif dans les caisses de l'état Les cotisations sociales font-elles partie des impôts Qu'il y ait une communication annuelle des affectations des divers impôts, taxes, cotisations (par exemple jointe à la demande déclaration de revenus des particuliers)

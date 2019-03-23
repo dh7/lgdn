@@ -1,0 +1,1 @@
+limiter dans le temps la déductibilité du report déficitaire, mettre en place une taxation spécifique sur les managements fees

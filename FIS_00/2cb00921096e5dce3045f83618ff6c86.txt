@@ -1,0 +1,1 @@
+Envoyer à tous les citoyens une feuille simple avec un tableau indiquant le pourcentage de chacune des grandes catégories de dépenses.

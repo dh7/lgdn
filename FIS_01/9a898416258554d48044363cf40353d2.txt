@@ -1,0 +1,1 @@
+Proportionner aux revenus du plus faible au plus élevé, et croissant linéairement (pas de seuil mais une formule)

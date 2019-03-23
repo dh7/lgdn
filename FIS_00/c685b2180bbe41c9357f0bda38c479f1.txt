@@ -1,0 +1,1 @@
+Simplifier la lecture du Cgi. Proposer lors du remplissage de la déclaration d’Ir toutes les aides dont on peut bénéficier en fonctions des éléments déclarés

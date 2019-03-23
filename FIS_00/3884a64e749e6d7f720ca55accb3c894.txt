@@ -1,0 +1,1 @@
+Pour chaque dépense (pharmacie/hôpital/école...) le citoyen doit avoir une vue sur le cout de sa propre dépense et l'économie qu'il fait par rapport à ses impôts payés

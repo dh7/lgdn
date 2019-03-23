@@ -1,0 +1,1 @@
+Imposer le plus grand nombre en fonction de ses ressources et de façon progressive.

@@ -1,0 +1,1 @@
+Le RSA doit obligatoirement être conditionné à l'exécution d'un travail d'intérêt public.

@@ -1,0 +1,1 @@
+Éditer un bulletin consultable par tous sur un site simple et dédié, sorte de bilan comptable simplifié avec le montant des recettes par catégories d'impôts et les dépenses dans les grandes lignes, le tout avec possibilité d'onglets montrant les détails des lignes budgétaires

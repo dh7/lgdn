@@ -1,0 +1,1 @@
+Un chiffrage pour chaque prestation reçue ou payée, en plus d'une représentation globale.

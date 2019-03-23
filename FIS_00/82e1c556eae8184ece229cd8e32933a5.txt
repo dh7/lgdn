@@ -1,0 +1,1 @@
+Un petit journal tout simple qui chaque année donnerait les chiffres sur les dépenses de chaque administrations et collectivités ainsi que les rentrées.

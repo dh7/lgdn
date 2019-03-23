@@ -1,0 +1,1 @@
+Afficher le salaire brut patronal sur les fiches de paie pour montrer le taux de prelevements sociaux effectués avant le brut salarial.

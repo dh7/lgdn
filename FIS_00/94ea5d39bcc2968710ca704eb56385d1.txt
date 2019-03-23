@@ -1,0 +1,1 @@
+Une visualisation simple, précis et facile d'accès récapitulant l'ensemble des entrées et sortie d'argents de l'état.

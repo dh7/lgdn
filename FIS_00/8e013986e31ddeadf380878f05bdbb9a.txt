@@ -1,0 +1,1 @@
+visibilité simple sur le site des impôts sous forme de tableau et de graphique de l'affectation des impôts. Que chacun puisse se situer parmi tous  les foyers fiscaux en terme de revenu et de taux d'imposition

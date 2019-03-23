@@ -1,0 +1,1 @@
+Supprimer les tranches et appliquer un pourcentage, supprimer les redondances (commune, agglo, région etc.)

@@ -1,0 +1,1 @@
+Celles dont le bilan (charges/produits) est en déséquilibre.

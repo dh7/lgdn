@@ -1,0 +1,1 @@
+Donner pour chaque taxe le montant et la destination de ces taxes.

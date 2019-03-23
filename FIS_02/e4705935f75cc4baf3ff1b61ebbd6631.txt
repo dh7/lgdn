@@ -1,0 +1,1 @@
+les charges patronales et employés.  Exemple en base 100 (salaire brut employé), coût pour l'employeur + ou - 148, et l'employé reçoit + ou - en net 78.... Charges hautes, salaires net bas. Attaquez -vous à ce vrai problème.

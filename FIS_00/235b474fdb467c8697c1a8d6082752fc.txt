@@ -1,0 +1,1 @@
+Simplement en consultant sur le site Impôt.gouv un tableau ou un camembert montrant le % des affectations.

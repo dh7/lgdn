@@ -1,0 +1,1 @@
+Rendre publiques sous forme de tableau comme pour les AG de toutes les associations et avec le visa du contrôleur choisi dans le privé.

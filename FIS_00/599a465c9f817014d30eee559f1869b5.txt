@@ -1,0 +1,1 @@
+Fournir un tableau avec les budgets alloués aux ministères et le nombre des personnels.

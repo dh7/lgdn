@@ -1,0 +1,1 @@
+Communiquer le pourcentage des impôts consacrés aux hôpitaux, écoles, infrastructures de façon simple (statistiques camembert) Affichage sur l'édifice de la réalisation grâce aux impôts (type plaque commémorative).

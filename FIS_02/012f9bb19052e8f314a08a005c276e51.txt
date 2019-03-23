@@ -1,0 +1,1 @@
+La TVA en réalisant une TVA avec des taux différent suivant le type de produit

@@ -1,0 +1,1 @@
+La création d'un site internet qui recense le pourcentage de la répartition de l'impôt et les thèmes concernés selon notre région, Département et Ville de résidence.

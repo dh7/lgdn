@@ -1,0 +1,1 @@
+Recevoir graphique simple de répartition par affectation des impôts.

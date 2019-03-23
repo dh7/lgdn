@@ -1,0 +1,1 @@
+Créer sur le site de l'administration fiscale une application permettant de connaître le montant des taxes et impôts sur tel et tel achat (un plein d'essence par exemple), et ce que ça permet de payer (tant d'heures de travail d'un policier/infirmier/enseignant)

@@ -1,0 +1,1 @@
+En année N+1, récupérer l'ISF des contribuables qui n'ont pas investi dans l"économie Française en année N

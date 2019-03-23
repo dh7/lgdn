@@ -1,0 +1,1 @@
+Avec chaque feuille annuelle d'imposition, donner un tableau indiquant en (pourcentage) le secteur d'attribution du montant de l'impôt acquitté ?

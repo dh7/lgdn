@@ -1,0 +1,1 @@
+Ne pas privilégier uniquement les classes inférieures avec un effet de seuil à lisser

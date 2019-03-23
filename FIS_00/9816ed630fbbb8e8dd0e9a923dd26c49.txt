@@ -1,0 +1,1 @@
+Il faudrait créer un fichier permettant à chaque citoyen de pouvoir savoir exactement les recettes de l'état a travers toutes les taxes et les dépenses

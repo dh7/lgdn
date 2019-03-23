@@ -1,0 +1,1 @@
+Créer un site qui compilerait chaque année les montants collectés pour chaque impôt, pour chaque taxe, pour chaque prélèvement et compiler les montants redistribués (retraites, assurance maladie, chômage, service de la dette...)

@@ -1,0 +1,1 @@
+Supprimer la TVA sur les taxes d'acheminement et autres contributions figurant sur la facture d'énergie (taxer les taxes, il fallait oser).

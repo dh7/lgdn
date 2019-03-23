@@ -1,0 +1,1 @@
+Conditionner les alloc chômage à une recherche active de travail.

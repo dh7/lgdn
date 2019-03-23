@@ -1,0 +1,1 @@
+Un tableau de bord mensuel sur le suivi de la dépense publique. Un suivi par projet des dépenses allouées.

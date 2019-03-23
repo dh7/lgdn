@@ -1,0 +1,1 @@
+Un tableau synthétique pour attribuer un domaine de dépenses à chaque contribution fiscale.

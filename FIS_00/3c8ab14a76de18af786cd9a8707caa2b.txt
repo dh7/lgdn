@@ -1,0 +1,1 @@
+les scinder en 2, une partie à l'état pour les fonctions régaliennes, une partie aux communes pour le local.

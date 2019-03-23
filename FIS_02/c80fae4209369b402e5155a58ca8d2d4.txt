@@ -1,0 +1,1 @@
+Supprimer (et non abaisser) toutes les taxes sauf la TVA.

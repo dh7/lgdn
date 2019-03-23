@@ -1,0 +1,1 @@
+Mettre en place un simulateur d'aides pour permettre au citoyen de savoir a quoi il a droit. Ce simulateur doit être couplé au services des impots, Unedic et de la CAF afin de récupérer en automatiques les informations de revenu et de situation familiale.

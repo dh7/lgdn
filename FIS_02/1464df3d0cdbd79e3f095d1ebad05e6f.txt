@@ -1,0 +1,1 @@
+toutes taxes (mêmes PVs) fixes (ne tenant pas compte des revenus)

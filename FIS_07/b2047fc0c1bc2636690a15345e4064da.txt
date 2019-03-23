@@ -1,0 +1,1 @@
+Un dashboard consultable en ligne avec les recettes et les dépenses pour voir le budget, jusque dans le détail.

@@ -1,0 +1,1 @@
+Supprimer les exonérations spécifiques aux fonctionnaires.

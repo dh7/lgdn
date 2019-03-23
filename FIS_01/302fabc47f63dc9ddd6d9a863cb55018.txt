@@ -1,0 +1,1 @@
+supprimer les departements, afin de reduire le mille feuille administratif, passer directement de la commune a la région

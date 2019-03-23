@@ -1,0 +1,1 @@
+allocations familiales, avec montant dégressif avec le nombre d'enfants

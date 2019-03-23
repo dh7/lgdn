@@ -1,0 +1,1 @@
+fournir un tableau synthétique des dépenses Etat et Collectivités, par destination.

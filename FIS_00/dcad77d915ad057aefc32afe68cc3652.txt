@@ -1,0 +1,1 @@
+Montrer par l'exemple l'affectation des prélèvements.  Par exemple, chaque citoyen pourrait recevoir un mail indiquant le pourcentage de répartition de son impôt mensuel à alloués à tel et tel service public.

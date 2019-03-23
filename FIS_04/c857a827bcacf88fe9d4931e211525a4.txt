@@ -1,0 +1,1 @@
+Suppression des allocations si l'enfant fait des bêtises graves menaces ou autres

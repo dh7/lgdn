@@ -1,0 +1,1 @@
+suppression taxe habitation pour les gens qui sont sur RSA, Chômage, ceux qui touchent  -1500 EUR net par mois

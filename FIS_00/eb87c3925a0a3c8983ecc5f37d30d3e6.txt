@@ -1,0 +1,1 @@
+Tableau de bord en temps réel du recouvrement des impôts directs et indirects et de leur utilisation sur https://www.economie.gouv.fr Affichage transparent du budget de l'état et des collectivités sur le même site ci-dessus.

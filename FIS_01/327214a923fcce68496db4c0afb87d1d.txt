@@ -1,0 +1,1 @@
+simplifier le système pour le rendre plus lisible

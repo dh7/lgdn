@@ -1,0 +1,1 @@
+Transmettre une facture avec la partie prise en charge par l'état (en fonction du service public utilisé) et la partie restant à charge au citoyen.  C'est également valable pour les prestations sociales où l'état devrait envoyer une fois dans l'année le montant total perçu par chaque citoyen.  Mettre en place un simulateur d'utilisation de ses impôts par l'état.

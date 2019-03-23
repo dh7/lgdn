@@ -1,0 +1,1 @@
+la tva devrait etre calculé entre le lieu de fabrication et son lieu de distribution

@@ -1,0 +1,1 @@
+Revoir le RSA et un meilleur contrôle des attributions.

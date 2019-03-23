@@ -1,0 +1,1 @@
+Exemple : à l’hôpital est ce que les équipements coûteux sont utilisés 24h sur 24 ?

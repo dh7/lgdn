@@ -1,0 +1,1 @@
+A la fin de la déclaration des revenus, lors du calcul de la somme à payer, on pourrait voir apparaître un camembert montrant la répartition de l'utilisation de l'impôt par grands domaines, et on pourrait cliquer sur chaque part pour entrer un peu plus dans les détails. Dans les écoles, on pourrait afficher combien ça coûte et d'où vient l'argent. Idem dans les hôpitaux.

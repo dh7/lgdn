@@ -1,0 +1,1 @@
+Créer une CSG progressive qui permettrait de trouver des ressources supplémentaires auprès des français les plus aisés

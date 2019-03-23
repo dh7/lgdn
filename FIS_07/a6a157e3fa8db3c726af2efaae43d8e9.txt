@@ -1,0 +1,1 @@
+Prendre en compte le revenu après déduction de l’impot sur le revenu pour les autres impôts (taxe habitation, taxe foncière, ...)

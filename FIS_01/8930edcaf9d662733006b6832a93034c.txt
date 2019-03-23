@@ -1,0 +1,1 @@
+Supprimer les aides aux entreprises, type CICE ou PACS si elles ne créent pas d'emplois

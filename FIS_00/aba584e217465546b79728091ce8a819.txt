@@ -1,0 +1,1 @@
+Au moment de compléter la déclaration fiscale afficher en forme graphique et chiffrée comment le montant de l’impôt du contribuable sera utilisé avec exemples très concrets (pas simplement état, région … ).

@@ -1,0 +1,1 @@
+Afficher la répartition entre les différentes catégories impôts (nationale, locale, sociale) Pour les impôts d'Etat afficher en montant et en pourcentage la répartition entre les différents postes (dette, rémunérations, redistribution,......)

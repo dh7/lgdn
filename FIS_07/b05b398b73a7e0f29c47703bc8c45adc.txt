@@ -1,0 +1,1 @@
+Suppression des departements ou des regions administrative (un des deux)

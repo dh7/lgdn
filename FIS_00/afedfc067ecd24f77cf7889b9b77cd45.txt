@@ -1,0 +1,1 @@
+Montrer en pourcentage les dépenses des principaux centres de coûts par rapport aux recettes globales. Les recettes doivent rester globales. Un impôt ne doit pas être créer pour tel ou tel sujet mais la distribution des dépenses doit équilibrer les recettes globales

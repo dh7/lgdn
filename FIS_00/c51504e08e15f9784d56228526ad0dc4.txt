@@ -1,0 +1,1 @@
+envoyer par courier électronique un tableau dans lequel apparaissent des intitulés en regard des montants par exemple (hôpitaux,  X milliards d'euros), (éducation, Y milliards d'euros) etc.

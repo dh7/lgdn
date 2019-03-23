@@ -1,0 +1,1 @@
+Supprimer les tiers payants. Toute prestation a un coup et doit être payé. En parallèle la personne est remboursée immédiatement.

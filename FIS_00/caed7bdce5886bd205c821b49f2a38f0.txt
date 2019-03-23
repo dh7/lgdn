@@ -1,0 +1,1 @@
+combiner toutes les taxes et cottisations sociales en quelque prelevements. Includes les contributions sur la masse salariale.

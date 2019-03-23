@@ -1,0 +1,1 @@
+Conditionner les allocations chômage par exemple à une absence de refus de propositions de travail

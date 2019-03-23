@@ -1,0 +1,1 @@
+Donner un accès à la liste des dépenses et des affectations des budgets.

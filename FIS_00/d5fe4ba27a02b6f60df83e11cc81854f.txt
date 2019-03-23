@@ -1,0 +1,1 @@
+Un site internet dédié présentant un résumé par catégories de l'ensemble des dépenses publiques, mis à jour si ce n'est en direct au moins de façon trimestrielle. Possibilité d'accéder à un résumé financier par projet de construction moins de six mois après sa livraison.

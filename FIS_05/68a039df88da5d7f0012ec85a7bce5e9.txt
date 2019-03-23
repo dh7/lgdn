@@ -1,0 +1,1 @@
+conserver notre système mais trouver des optimisations: exemple vente de médicaments à l'unité.

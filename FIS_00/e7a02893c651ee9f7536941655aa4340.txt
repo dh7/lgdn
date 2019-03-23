@@ -1,0 +1,1 @@
+Un tableau de bord permettant d’identifier les ressources et les dépenses de l’etat

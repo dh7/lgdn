@@ -1,0 +1,1 @@
+un site internet avec le détail mensuel des dépenses de l'état, des collectivités locales et des communes ainsi que des dépenses a venir.

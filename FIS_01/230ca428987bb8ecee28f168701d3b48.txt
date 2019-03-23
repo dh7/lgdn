@@ -1,0 +1,1 @@
+Supprimer les niches fiscales. Il y a des impôts qui tiennent compte des revenus, et d'autres, indirects qui ne tiennent pas compte des revenus. Exemple : la TVA, la CSG.

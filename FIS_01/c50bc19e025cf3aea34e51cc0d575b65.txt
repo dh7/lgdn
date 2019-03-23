@@ -1,0 +1,1 @@
+Arrêter avec les tranches qui forment des seuils. Aujourd'hui les impôts sont calculés informatiquement, alors appliquons une formule (exponentiel ?) plutôt que des tranches

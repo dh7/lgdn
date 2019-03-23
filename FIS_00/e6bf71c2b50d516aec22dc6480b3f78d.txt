@@ -1,0 +1,1 @@
+une présentation recettes dépenses sur une page  maxi, mais les chiffres devraient être ramenés à l'échelle d'un Français car peu de gens sentent les ordres de grandeur des chiffres au delà du million

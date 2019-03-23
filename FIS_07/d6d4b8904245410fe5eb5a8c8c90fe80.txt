@@ -1,0 +1,1 @@
+supprimer les allocations aux parents dont les enfants sont placés en famille d'accueil ou foyer

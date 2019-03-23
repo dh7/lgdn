@@ -1,0 +1,1 @@
+Une application smartphone et un site internet mis à jour mensuellement et présentant l’utilisation des recettes fiscales pour les différentes missions de l’Etat (Economie, Enseignement scolaire, Justice, …) en détaillant pour chacune la part de fonctionnement et la part d’investissement (grands projets financés au sein de chaque mission).

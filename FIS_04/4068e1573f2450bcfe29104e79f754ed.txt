@@ -1,0 +1,1 @@
+Simplifier pour ne pas empiler (ce qui permet de gagner plus dans certains cas sans travailler)

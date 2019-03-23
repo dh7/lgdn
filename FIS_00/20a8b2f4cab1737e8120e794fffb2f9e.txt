@@ -1,0 +1,1 @@
+Informer l'usager du coût total de la prestation qu'il reçoit de l'état : par exemple donner le coût complet d'un billet de train lors de son achat ou le coût complet d'un séjour à l'hôpital

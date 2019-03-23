@@ -1,0 +1,1 @@
+rendre les modes de calculs plus simples. Actuellement on peut utiliser le simulateur mais comprendre le calcul n'est pas aisé.

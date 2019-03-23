@@ -1,0 +1,1 @@
+Puisque tout le monde doit faire sa déclaration de l'IR sur internet, afficher un "camembert" en M€ des dépenses par grands thèmes qui peuvent être déclinés plus finement en cliquant dessus.

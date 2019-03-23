@@ -1,0 +1,1 @@
+Supprimer les tranches et ne créer qu'un seul taux de prélèvement, pour TOUS quelque soit le revenu.

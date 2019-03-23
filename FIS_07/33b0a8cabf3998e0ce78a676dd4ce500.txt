@@ -1,0 +1,1 @@
+Supprimer les taxes "insolites" qui rapportent peu ou rien (ex.  taxe de pavage) et qui mobilisent des fonctionnaires qui pourraient travailler sur d'autres sujets.

@@ -1,0 +1,1 @@
+Au moment de la déclaration, apporter des infos sur budget de l'état par poste, niveau du déficit

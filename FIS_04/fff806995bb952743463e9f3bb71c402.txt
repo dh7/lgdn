@@ -1,0 +1,1 @@
+Toutes les allocations doivent être limitées dans le temps à l'exception des invalidités, qui doivent être mieux et plus régulièrement contrôlées.

@@ -1,0 +1,1 @@
+La classe moyenne ne doit pas toujours être la variable d'ajustement

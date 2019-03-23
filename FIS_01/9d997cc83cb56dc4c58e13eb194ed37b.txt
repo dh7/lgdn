@@ -1,0 +1,1 @@
+Supprimer les tranches d'imposition mais sans supprimer la progressivité de l’impôt, donc passer d'un système avec des effets de seuil à une courbe d'imposition progressive continue.

@@ -1,0 +1,1 @@
+Supprimer les prélèvements sociaux qui sont devenus exponentiels .

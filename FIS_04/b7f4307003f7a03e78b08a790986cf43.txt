@@ -1,0 +1,1 @@
+Simplifier les conditions d'attribution des aides pour un système plus facile à gérer et plus facile d'accès

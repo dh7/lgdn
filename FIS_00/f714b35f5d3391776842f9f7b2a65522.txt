@@ -1,0 +1,1 @@
+Au moment de la déclaration, donner un récapitulatif des recettes et dépenses de l'état, avec des schémas clairs.

@@ -1,0 +1,1 @@
+Un budget détaillé par ministère avec un comparatif annuel.

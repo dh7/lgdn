@@ -1,0 +1,1 @@
+Chiffrage du coût de chaque service public et le communiquer à chaque utilisateur ( école, hôpital ..)

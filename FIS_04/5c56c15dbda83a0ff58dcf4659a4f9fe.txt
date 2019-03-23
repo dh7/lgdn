@@ -1,0 +1,1 @@
+Simplifier les différentes allocations et regrouper les plus redondantes avec toujours un étalement très précis des allocations au 0,1 % près.

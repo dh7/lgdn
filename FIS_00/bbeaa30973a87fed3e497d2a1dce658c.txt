@@ -1,0 +1,1 @@
+Lors de la déclaration de revenus, il serait possible de mettre en graphe les grands secteurs de dépense de l'état, sans mélanger impôts et cotisations.

@@ -1,0 +1,1 @@
+Adapter la fiscalité aux services disponibles du domicile du citoyen. cad donner un coefficient au montant de l'impot par commune.

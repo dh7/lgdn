@@ -1,0 +1,1 @@
+Suppression des départements  et des communes. Économie d'échelles dans les CDC

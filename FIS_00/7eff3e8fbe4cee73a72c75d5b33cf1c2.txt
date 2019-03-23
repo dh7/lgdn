@@ -1,0 +1,1 @@
+Donner le pourcentage des dépenses consacrées à chaque secteur.

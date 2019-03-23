@@ -1,0 +1,1 @@
+Envoyer a chaque foyer le budget de l état de la région de la commune avec commentaires des choix et des résultats attendus.

@@ -1,0 +1,1 @@
+Creation d' un profil citoyen sur le portail impots.gouv qui résume l' intégralite des impôts et bénéfices sociaux pour un foyer fiscal + descriptif des couts associes au fonctionnement de l' état.

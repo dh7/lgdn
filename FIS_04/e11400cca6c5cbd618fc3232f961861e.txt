@@ -1,0 +1,1 @@
+Le RSA afin d'éviter les abus.

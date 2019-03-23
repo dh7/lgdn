@@ -1,0 +1,1 @@
+Appliquer un taux C.S.G. variable, selon les revenus.

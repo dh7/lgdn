@@ -1,0 +1,1 @@
+Un bon accès aux informations de la cour des comptes, par une interface permettant un accès simple (tableaux, graphes) aux bilans annuels de l'action de l'état ou des collectivités locales.

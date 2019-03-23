@@ -1,0 +1,1 @@
+Envoi d'un bilan 1 fois par an avec le total des impôts collectés ( en détaillant par type d'impôt) et l'ensemble des dépenses qui ont ainsi pu être financées ( par catégorie de dépenses). Prévoir quelque chose de visuel > Exemple graphique

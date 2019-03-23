@@ -1,0 +1,1 @@
+Le RMI doit permettre de survivre autrement que dans la rue

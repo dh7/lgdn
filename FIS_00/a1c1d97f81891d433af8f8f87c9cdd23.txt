@@ -1,0 +1,1 @@
+Proposer un tableau simple mettant les  rentrées d'argent et leur origine face aux dépenses correspondantes.

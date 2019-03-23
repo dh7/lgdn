@@ -1,0 +1,1 @@
+- Récapitulatif visuel sur la feuille d'impôt de ce que ma contribution permet de financer (X euros pour les écoles, Y pour les hôpitaux...)    - Site web avec visualisation claire, simple et interactive du budget et des différentes actions financées . L'idéal serait un simulateur facile à manipuler en modifiant tel ou tel paramètre.

@@ -1,0 +1,1 @@
+Donner les statistique de chaque radar automatique - nombre de flashs par tranche de 10 km/h au dessus de la limite, donner le montant rapportés par les amendes, et à quoi servent les fonds.

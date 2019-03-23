@@ -1,0 +1,1 @@
+Calculer un seuil de vie et au delà le taxer par tranches. Prioriser et favoriser les investissements  sur la recherche et les alternatives

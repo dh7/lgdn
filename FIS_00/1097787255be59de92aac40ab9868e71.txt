@@ -1,0 +1,1 @@
+assurer un lien direct, visible et compréhensible entre chaque recette et son utilisation, ce qui revient à dire qu'il est souhaitable d'avoir des recettes spécifiques à chaque utilisation ; il faut éviter la fongibilité des recettes, au moins en termes analytiques.

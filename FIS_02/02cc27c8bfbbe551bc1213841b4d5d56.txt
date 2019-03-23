@@ -1,0 +1,1 @@
+la CSG qui n'arrete pas d'augmenter et qui cumulée à l'IR pese tres lourd.

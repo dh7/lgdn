@@ -1,0 +1,1 @@
+Afficher les parts de depenses aux niveaux regionales et municipales.

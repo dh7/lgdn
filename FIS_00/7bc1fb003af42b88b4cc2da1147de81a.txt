@@ -1,0 +1,1 @@
+faire du push d'information avec bilan semestriel/annuel de l'utilisation des impôts pour toutes les personnes faisant sa déclaration par internet (connaissance de l'@mail) Pour chaque avis de déclaration, fournir le bilan de l'utilisation des impots de l'année précédente.

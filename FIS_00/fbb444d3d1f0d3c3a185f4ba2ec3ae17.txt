@@ -1,0 +1,1 @@
+Exprimer sous forme de tableaux synthétiques le % attribué aux différents  budgets pour chaque impôt

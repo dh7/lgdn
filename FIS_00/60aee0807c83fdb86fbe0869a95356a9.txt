@@ -1,0 +1,1 @@
+Envoi d'un tableau récapitulatif avec l'avis d'imposition annuel (du type: pour 1.000€ de recettes fiscales les dépenses sont de ....)

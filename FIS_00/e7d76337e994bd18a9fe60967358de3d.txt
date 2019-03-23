@@ -1,0 +1,1 @@
+Afficher à quoi servent les impôts sur la fiche de paie ou l'avis d'imposition.

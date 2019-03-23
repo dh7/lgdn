@@ -1,0 +1,1 @@
+- diminuer les depenses de fonctionnement en enlevant les couches regions,

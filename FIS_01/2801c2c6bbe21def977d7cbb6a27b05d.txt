@@ -1,0 +1,1 @@
+adapter les tranches  proportionnellement aux revenus sans plafond fixe dans les tranches

@@ -1,0 +1,1 @@
+supprimer les seuils de déclenchement des aides et les remplacer par un calcul progressif en fonction des ressources

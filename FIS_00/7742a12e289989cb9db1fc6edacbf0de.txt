@@ -1,0 +1,1 @@
+Afficher le coût de toute mesure sans rien omettre y compris le nombre d'agents impliqués

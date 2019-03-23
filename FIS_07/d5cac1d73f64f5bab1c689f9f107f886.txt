@@ -1,0 +1,1 @@
+Indexer les pensions de retraite (retraite de base et retraite complémentaire) sur l'inflation.

@@ -1,0 +1,1 @@
+Supprimer 1 à 2 échelons administratifs (commune, interco, département, région, état) afin de réduire les coûts

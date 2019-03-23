@@ -1,0 +1,1 @@
+Modification de la tva: 5% si fait en france, 20% pour l'Europe et 30% pour le monde. Comptabiliser les aides sociales dans les impôts sur le revenu.

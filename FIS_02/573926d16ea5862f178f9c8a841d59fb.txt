@@ -1,0 +1,1 @@
+IRPP des classes dites "moyennes" qui sont les plus sollicitées en matière de prélèvements.

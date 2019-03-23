@@ -1,0 +1,1 @@
+Rapporter le budget de chaque administration au nombre de fonctionnaires qui y travaillent. Par exemple, l'éducation nationale, 52Mds€ de budget pour 1.2M de personnes = 43.000€ par personne.

@@ -1,0 +1,1 @@
+Il faudrait sûrement rendre l'IR plus progressif avec plus de tranches.

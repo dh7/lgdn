@@ -1,0 +1,1 @@
+Afficher les montants dédiés à chaque ministère avec les répartitions

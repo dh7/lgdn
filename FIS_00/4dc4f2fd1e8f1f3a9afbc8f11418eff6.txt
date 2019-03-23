@@ -1,0 +1,1 @@
+Afficher clairement les pourcentages attribués à chaque poste dépense.

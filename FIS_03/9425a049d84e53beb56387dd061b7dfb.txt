@@ -1,0 +1,1 @@
+creer une taxe à taux fixe sur les mouvements de compte bancaire.

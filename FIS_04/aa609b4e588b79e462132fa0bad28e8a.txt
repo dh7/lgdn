@@ -1,0 +1,1 @@
+toutes, mais dans le cadre de l'hypothèse allocation unique

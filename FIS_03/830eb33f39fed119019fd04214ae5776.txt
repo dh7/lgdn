@@ -1,0 +1,1 @@
+faire des états globaux des aides et assurer les minimums

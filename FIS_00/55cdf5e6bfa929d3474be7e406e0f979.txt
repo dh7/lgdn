@@ -1,0 +1,1 @@
+Affichage publique du montant des impôts utilisés pour la réalisation d'une route, une école, une crèche, un hôpital. Communiquer sur chaque avis d'imposition, quels montants d’impôts sont utilisés sur sa commune et à quoi.

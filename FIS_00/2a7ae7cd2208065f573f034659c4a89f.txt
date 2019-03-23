@@ -1,0 +1,1 @@
+des graphiques sur le site des impôts, lors de la déclaration de revenus. pour ceux qui ne payent pas d'impôt, pas besoin d'info, cela ne les regarde pas.

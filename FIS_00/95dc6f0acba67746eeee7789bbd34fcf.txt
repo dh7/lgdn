@@ -1,0 +1,1 @@
+Afficher de façon synthétique l'utilisation des impôts sur la page d'accueil Service public.fr

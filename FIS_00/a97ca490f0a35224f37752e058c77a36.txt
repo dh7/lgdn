@@ -1,0 +1,1 @@
+Un état détaillé reprenant les recettes par poste et en face de chacune l'emploi effectif qui en a été fait.

@@ -1,0 +1,1 @@
+Publier la répartition des dépenses de l'état (par ministère) et par grand poste de dépenses, mis en regard avec les recettes. Cette information peut être mise en ligne sur un site gouvernemental. Exemple:  Recettes de l'état: x Md€ Education nationales et universités : y Md€ Défense: z Md€ Même chose pour les collectivités locales.

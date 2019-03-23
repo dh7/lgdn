@@ -1,0 +1,1 @@
+Mette en place un calcul simple de l'impôt sur le revenu. Moins de la moitié des français comprenne le calcul par tranche.

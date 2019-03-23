@@ -1,0 +1,1 @@
+Transformer toutes les aides (RSA, logements, prime de Noel, prime de rentrée) en une allocation unique

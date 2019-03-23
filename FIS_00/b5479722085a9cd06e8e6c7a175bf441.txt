@@ -1,0 +1,1 @@
+Fournir une information sur le budget de la nation lors de la déclaration de revenu.

@@ -1,0 +1,1 @@
+Donner régulièrement des chiffres correspondants aux dépenses de l'état par rapport aux impots percus.

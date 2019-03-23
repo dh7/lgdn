@@ -1,0 +1,1 @@
+un site avec le détail des entrées et dépenses de l'état accessible à tous

@@ -1,0 +1,1 @@
+Un accès simple à l'utilisation de nos impôts. Exemple : Mise en ligne sur le site impot.gouv.fr de l'utilisation de mes impôts (répartition de mes impôts sur les différentes dépenses).  Si je ne paie pas d'impôt, un graphique me permettant de prendre conscience de ce que je dois aux contribuables.

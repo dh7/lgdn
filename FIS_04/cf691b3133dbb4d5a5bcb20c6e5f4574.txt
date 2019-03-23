@@ -1,0 +1,1 @@
+Le RSA, il y a des modifications à faire pour un meilleur partage des allocations

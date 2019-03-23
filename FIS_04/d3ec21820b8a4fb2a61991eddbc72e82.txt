@@ -1,0 +1,1 @@
+Une seule aide globale qui remplace toutes les autres.

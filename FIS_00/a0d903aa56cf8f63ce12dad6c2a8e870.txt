@@ -1,0 +1,1 @@
+Tableau détaillé des dépenses et des recettes inscrites au budget (n) et effectivement réalisées (n+1)

@@ -1,0 +1,1 @@
+Une gestion transparente des impôts collectés au travers de l'open data afin de permettre de suivre dans le détail les utilisations qui sont faites de ce budget.

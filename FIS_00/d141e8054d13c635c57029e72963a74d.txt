@@ -1,0 +1,1 @@
+Dire quand un lobby est à l'origine d 'une mesure.

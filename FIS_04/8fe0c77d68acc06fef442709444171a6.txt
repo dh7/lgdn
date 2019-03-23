@@ -1,0 +1,1 @@
+Faire des barèmes dégressif et non des plafonds.

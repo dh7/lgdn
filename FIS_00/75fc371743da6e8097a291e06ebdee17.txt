@@ -1,0 +1,1 @@
+Un site pour détailler le montant récolté pour chaque impôt et taxe  et l'utilisation détaillée de chaque euro récolté.

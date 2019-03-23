@@ -1,0 +1,1 @@
+Supprimer la TVA sur les produits de premiere necessité en excluant de la liste les produits dont il ne faut pas encourager la consommation (soda, jus de fruits, alcool y compris biere, plats prepares...)

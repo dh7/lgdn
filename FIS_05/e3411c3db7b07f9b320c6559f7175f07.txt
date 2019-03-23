@@ -1,0 +1,1 @@
+Dentaire: revoir de fond en comble la liste des remboursements et la moderniser. Par exemple, introduire les "facettes" à la place de la "dent sur pivot" (quand le dentiste le juge possible).

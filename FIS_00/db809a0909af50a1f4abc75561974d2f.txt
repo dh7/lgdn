@@ -1,0 +1,1 @@
+Un tableau annuel par type de dépenses, budgétées et réalisées.

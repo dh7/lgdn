@@ -1,0 +1,1 @@
+Une application numérique, dont l'une (parmi bien d'autres) des fonctionnalités serait de pouvoir accéder en temps réel à ces informations.

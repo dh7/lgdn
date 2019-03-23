@@ -1,0 +1,1 @@
+simplifier réellement le bulletin de salaire (le calcul, pas seulement la présentation)

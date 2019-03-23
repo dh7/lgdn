@@ -1,0 +1,1 @@
+Editer un bulletin annuel personnalisé pour chaque foyer fiscal :  - bilan des contributions du foyer (mpots) - Bila  des aides reçues (allocations, éducation, …)

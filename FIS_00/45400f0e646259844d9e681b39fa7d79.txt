@@ -1,0 +1,1 @@
+envoyer à chaque citoyen une information chiffrée sur le montant des impôts, le mode de collecte et les utilisations (%) qui en sont faites

@@ -1,0 +1,1 @@
+Une application sur smartphone, avec des graphiques clairs sur la répartition des dépenses, et le comparatif d'année en année des recettes et des dépenses publiques. Pour mieux informer, il faut s'adapter à l'outil qui est le plus maitrisé et consulté par les français.

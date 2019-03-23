@@ -1,0 +1,1 @@
+supprimer la TVA sur les produits de base en s'assurant que les prix n'augmentent pas suite à cette suppression

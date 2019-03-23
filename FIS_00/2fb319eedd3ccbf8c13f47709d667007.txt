@@ -1,0 +1,1 @@
+Envoyer une feuille d'impôt à tous les citoyens et pas seulement aux contribuables  (donc même si impôt = 0), en indiquant à chacun les sommes perçues à titre d'aide ou de prestations (ex. frais d'éducation d'un lycéen ou d'un étudiant) + récapitulatif national par grand

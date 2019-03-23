@@ -1,0 +1,1 @@
+Supprimer les rôles à très faible valeur ajoutée tel le CESE

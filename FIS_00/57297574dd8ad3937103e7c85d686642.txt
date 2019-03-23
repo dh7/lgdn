@@ -1,0 +1,1 @@
+A chaque utilisation d'un service financé par l'état ou par une collectivité indiqué le cout par utilisateur de celui -ci.Par exemple une année d'inscription a l'école =x euros.

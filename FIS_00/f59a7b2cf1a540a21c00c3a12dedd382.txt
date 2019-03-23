@@ -1,0 +1,1 @@
+Elaborer un document listant toutes les recettes (impot/revenus, TVA, CSG, etc ...) et dépenses (internationales, nationales, départementales, locales, etc ...) et en faire une synthèse graphique.  Ce document devra contenir un historique sur les 25 derniers années et être distribué à chaque foyer.

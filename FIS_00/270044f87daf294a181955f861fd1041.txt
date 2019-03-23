@@ -1,0 +1,1 @@
+- Lancement d'une appli personnalisée qui renseignera le contribuable de l'utilisation que fait l'état de son argent, au fur et à mesure des dépenses de l'état dans les différents budgets

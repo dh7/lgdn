@@ -1,0 +1,1 @@
+Avoir un tableau de bord des dépenses par ministères puis un seconde vue des dépenses de ce ministère.

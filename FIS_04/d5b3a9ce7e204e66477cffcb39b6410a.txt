@@ -1,0 +1,1 @@
+Rendre dégressives les allocations chômage avec le temps

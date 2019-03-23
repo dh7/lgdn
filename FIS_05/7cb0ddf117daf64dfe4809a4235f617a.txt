@@ -1,0 +1,1 @@
+tous les filets de sécurité : RMI, RSA, CMU mais avoir des protections dégressives et non pas sur base de seuils

@@ -1,0 +1,1 @@
+Continuation des mises à jour sur le site impôt.gouv, développement de simulateur pour tous les types d'impôt afin que le contribuable puisse mesurer l'impact de chaque réforme fiscale.

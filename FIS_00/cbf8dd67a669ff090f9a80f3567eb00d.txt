@@ -1,0 +1,1 @@
+Envoyer un mail annuel à toutes les personnes inscrites sur impots.gouv pour leur informer de l'utilisation de leur impôts. En plus du mail, cette information doit être accessible et visible dans les préfectures et les mairies, entre autres.

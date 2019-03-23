@@ -1,0 +1,1 @@
+Supprimer les paliers d'imposition en remplaçant ces derniers par une courbe exponentielle.

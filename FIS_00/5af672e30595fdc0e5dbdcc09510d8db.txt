@@ -1,0 +1,1 @@
+Afficher le budget en euros par habitant ( ou par foyer) plutôt qu'en grande masse car pour la plupart des citoyens les milliards ne parlent pas avec un comparatif sur 3 ans au minimum

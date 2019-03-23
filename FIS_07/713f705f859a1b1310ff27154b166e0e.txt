@@ -1,0 +1,1 @@
+Si ajout d'un impot, alors suppression de 2 impots

@@ -1,0 +1,1 @@
+pas de pourcentage mais une somme pour chaque grade d'imposition. même pour les plus simples 10 -100 - 500- 1000 - ...... 10 000

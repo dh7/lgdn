@@ -1,0 +1,1 @@
+afficher les sommes allouées ou pourcentage sur l'impot payé(ce qui va à la commune,au département,à la région,à l'état,

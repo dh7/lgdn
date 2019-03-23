@@ -1,0 +1,1 @@
+supprimer la taxe habitation et la taxe foncière sur l'habitation principale avec une condition de niveau de revenu.

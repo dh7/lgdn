@@ -1,0 +1,1 @@
+* la mise à disposition d'une information simple sur les dépenses de l'état.  * la mise à disposition pour chaque citoyen de son propre bilan : ce que l'état et les collectivités ont fait pour lui et ce que cela a couté, ce qu'il a directement touché via des prestations sociales et ce qu'il a contribué.

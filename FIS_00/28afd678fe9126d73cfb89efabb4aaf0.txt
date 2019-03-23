@@ -1,0 +1,1 @@
+Bilan annuel avec graphique simple de voir comment l'impôt est utilisé. Si un budget est positif en "fin d'exercice annuel" redistribution aux foyers fiscaux ou étalement sur autre budget. On en fini avec le "dépense pour dépenser"

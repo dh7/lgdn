@@ -1,0 +1,1 @@
+Un site internet pour visualiser les dépenses et recettes de l'Etat par postes, actualisé en direct.

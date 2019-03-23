@@ -1,0 +1,1 @@
+Réaliser un tableau entrées-sorties correspondant aux recettes et dépenses de la nation mis à jour mensuellement. Ce tableau pouvant être accessible sur internet, mais diffusé mensuellement dans de nombreux média.

@@ -1,0 +1,1 @@
+Faire un site dédié aux finances publiques qui comprend toutes les entrées et sorties d'argent (salaires des fonctionnaires, des élus avec une ligne pour le total, toutes les aides sociales ligne par ligne plus une ligne pour le total etc ...)  accessible et compréhensible pour tous (des mots simple) que toutes la situation du pays soit visible par tous ceux qui sont concernés.

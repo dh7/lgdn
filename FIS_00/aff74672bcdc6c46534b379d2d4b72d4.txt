@@ -1,0 +1,1 @@
+Multiplier les supports sur lesquels il serait affiché le coût réel d'un service. Par exemple sur ticket de métro, porter le coût réel du trajet. Pour la scolarité ( de la maternelle jusqu'à l'université), au moment de l'inscription, remettre une note sur laquelle figurerait le coût annuel. A faire pour tous les services avec aide de l'état ou des collectivités

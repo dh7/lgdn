@@ -1,0 +1,1 @@
+Supprimer les privilèges des nantis , qui souvent, ne sont pas dans le besoin (la liste est dans le titre)

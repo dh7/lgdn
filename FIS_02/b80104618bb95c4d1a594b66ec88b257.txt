@@ -1,0 +1,1 @@
+Suppression de tous les impôts sauf la TVA. Revoir les tranches  de la TVA  : Exemple : - Pas de TVA sur des bien de consommation courante. - Forte TVA sur les produits de luxe .

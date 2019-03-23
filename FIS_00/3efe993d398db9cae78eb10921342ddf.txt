@@ -1,0 +1,1 @@
+D'abord appliquer le principe que chaque citoyen soit en mesure de calculer son propre impôt. La complexité actuelle des règles de calcul rend le respect de ce principe tout à fait illusoire. Il s'agit pourtant d'un principe fondamental.

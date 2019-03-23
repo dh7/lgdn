@@ -1,0 +1,1 @@
+Faire un état ventilé des dépenses et leur correspondance de source.

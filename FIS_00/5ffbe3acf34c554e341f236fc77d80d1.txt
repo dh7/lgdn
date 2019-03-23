@@ -1,0 +1,2 @@
+-> Informer chaque citoyen de ce que coûte le service public qu’il utilise, au moment où il l’utilise. 
+Par exemple lors de l’inscription d’un enfant au collège : ce que coûte la scolarisation de cet enfant, ce que paye la famille et ce que paye la collectivité (par le biais des impôts de tous). -> Organiser la publication trimestrielle ou semestrielle de l’usage des impôts prélevés : quelle affectation ? quels usages ? afficher également le coût des réformes et leurs attendus (retour sur investissement, avancée sociale ou autre).

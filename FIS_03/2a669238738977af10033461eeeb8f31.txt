@@ -1,0 +1,1 @@
+Taxer les transactions financieres et recuperer l'argent des fraudes et de l'évasion fiscale.

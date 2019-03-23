@@ -1,0 +1,1 @@
+Tout simplement afficher le budget de tout établissement qui reçoit des fonds publics et indiquer le montant reçu.

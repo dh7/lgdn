@@ -1,0 +1,1 @@
+Créer une sorte de e-magazine afin de détailler les dépenses de l'état trimestriellement.

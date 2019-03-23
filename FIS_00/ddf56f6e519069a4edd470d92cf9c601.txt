@@ -1,0 +1,1 @@
+Mise en ligne d'un bilan des dépenses par niveau administratif: ville, département, région, pays avec les financements engagés et leur usage concret. Bilan de l'usage des impôts payés par chaque français (à quoi sert mon impôt)

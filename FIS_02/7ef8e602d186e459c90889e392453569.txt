@@ -1,0 +1,1 @@
+Supprimer les 192 taxes dont le rendement est inférieur à 150 millions d'euros.

@@ -1,0 +1,1 @@
+Il faut simplifier la lisibilité des aides. C'est un patchwork !

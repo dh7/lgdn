@@ -1,0 +1,1 @@
+supprimer les effets de seuil en calculant l'impôt au plus juste, de façon linéaire.

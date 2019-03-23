@@ -1,0 +1,1 @@
+Identifier les affectations des contributions et réduire le nombre des affectations

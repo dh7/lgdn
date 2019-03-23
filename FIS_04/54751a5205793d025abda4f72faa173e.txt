@@ -1,0 +1,1 @@
+L'API principalement avec un contrôle accru sur " l'isolement déclaré " du prestataire

@@ -1,0 +1,1 @@
+Lister l'ensemble des dépenses, ressources, leur provenance, leur utilisation, les économies réalisées... Rendre le tout accessible

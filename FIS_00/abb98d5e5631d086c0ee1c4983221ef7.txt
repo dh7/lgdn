@@ -1,0 +1,1 @@
+un tableau clair interactif sur les recettes et les dépenses de l'état avec la somme à ne pas dépasser (3% déficit)

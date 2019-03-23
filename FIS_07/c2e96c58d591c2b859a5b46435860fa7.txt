@@ -1,0 +1,1 @@
+Priorité de simplification, IR obligatoire même à titre symbolique.

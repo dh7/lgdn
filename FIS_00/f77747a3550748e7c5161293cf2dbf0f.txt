@@ -1,0 +1,1 @@
+Editer un bulletin annuel simplifié des recettes et dépenses réalisées au cours de l'année écoulée.

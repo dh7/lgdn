@@ -1,0 +1,1 @@
+Fournir le résultat du % moyen payé en impôt par famille par tranche de revenu (les 10% les plus aisés puis les 20% suivants, puis les 30% suivants)

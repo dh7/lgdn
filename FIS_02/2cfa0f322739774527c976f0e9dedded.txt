@@ -1,0 +1,1 @@
+tva des produits alimentaires sur la base du panier qui sert au calcul de l'inflation

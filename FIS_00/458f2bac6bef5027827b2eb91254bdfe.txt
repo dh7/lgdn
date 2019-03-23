@@ -1,0 +1,1 @@
+A chaque taxe une utilisation en rapport avec l'objet taxé. Achat d'une voiture diesel ==> taxe sur l'environnement etc.

@@ -1,0 +1,1 @@
+rendre public le budget de l'état ventilé par domaine

@@ -1,0 +1,1 @@
+Un retour sur les dépenses effectuées, à savoir si le budget a été respecté, si non pourquoi, d'où vient l'erreur. Si faute dans l'évaluation rendre responsable les personnes qui ont fait l'erreur.

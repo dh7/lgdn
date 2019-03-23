@@ -1,0 +1,1 @@
+ne pas cumuler les taxes sur un même "objet"

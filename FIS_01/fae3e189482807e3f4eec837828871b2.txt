@@ -1,0 +1,1 @@
+Amortir le plus possible tous ce ce qui fait effet de seuil.

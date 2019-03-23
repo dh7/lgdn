@@ -1,0 +1,1 @@
+La suppression des aides en fonction du nombre d'enfants (supplément familial de traitement), il faut que ce montant soit identique par enfant.

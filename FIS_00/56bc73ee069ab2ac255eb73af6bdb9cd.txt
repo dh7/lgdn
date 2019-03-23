@@ -1,0 +1,1 @@
+Mettre sur le site impots.gouv la décomposition des dépenses effectuées par l'état par type d'impôts.

@@ -1,0 +1,1 @@
+Une simple affiche dans un hôpital pour indiquer le prix d'une consultation, le coût de l'entretien journalier des locaux permettrait aux administré de comprendre que rien n'est gratuit.

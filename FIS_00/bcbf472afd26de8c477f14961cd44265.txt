@@ -1,0 +1,1 @@
+1. Supprimer le principe de non affectation.  2. Développer un mécanisme de token pour permettre à chaque citoyen de pouvoir pour les impôts payés,  suivre à chaque euro près la politique publique financée par sa contribution fiscale.

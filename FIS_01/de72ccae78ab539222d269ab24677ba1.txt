@@ -1,0 +1,1 @@
+rendre l'IR obligatoire pour tous. en conservant bien sûr sa progressivité.

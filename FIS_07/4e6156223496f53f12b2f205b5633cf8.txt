@@ -1,0 +1,1 @@
+Supprimer toutes les taxes sur impôts (exemple : la partie de la CSG déjà payée et pourtant incluse dans le revenu fiscal de référence)

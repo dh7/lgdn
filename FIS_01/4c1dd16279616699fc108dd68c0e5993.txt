@@ -1,0 +1,1 @@
+Arrêter de calculer d'une manière générale au pourcentage, et prendre en considération les revenues de chacun.

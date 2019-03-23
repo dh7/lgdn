@@ -1,0 +1,1 @@
+Créer un site regroupant les dépenses et les recettes d'Etat, collectivités ainsi que la part de l'impôt dans le financement des dépenses.

@@ -1,0 +1,1 @@
+regrouper les collectivités  local, en fonction de la densité  de la population.

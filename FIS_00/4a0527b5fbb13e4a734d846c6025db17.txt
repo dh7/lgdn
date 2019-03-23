@@ -1,0 +1,1 @@
+Montrer combien l'état a dépensé pour la personne par an.

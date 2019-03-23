@@ -1,0 +1,1 @@
+geler les dépenses et supprimer celles qui ne sont plus efficaces

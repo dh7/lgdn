@@ -1,0 +1,1 @@
+Envoyer un email à chaque concitoyen en faisant une synthèse, par impôt, des principales utilisations (fait par le département de la haute-savoie dans son bulletin mensuel). Un bulletin mensuel/trimestriel de l'activité de l'état pourrait également être porteur de cette information

@@ -1,0 +1,1 @@
+Il faut fusionner toutes les allocations en une aide unique, afin d'éviter l'effet pervers du travailler moins pour gagner plus.

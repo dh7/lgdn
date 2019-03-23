@@ -1,0 +1,1 @@
+cotisations sur tous les revenus, indemnitaires, RSA, un % en fonction du montant alloué. un minimun et un maximun. 

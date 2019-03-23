@@ -1,0 +1,1 @@
+supprimer l'impôt à la source, simplifier le calcul des impôts

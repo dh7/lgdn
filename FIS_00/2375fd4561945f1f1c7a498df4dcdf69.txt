@@ -1,0 +1,1 @@
+Un exemple: lors d'un passage à l'hôpital publique, renvoyer à titre d'information une facture détaillant les sommes dépensées lors d'une hospitalisation pour les soins. Cela donnera une idée sue le prix de la santé et par conséquent nos impots

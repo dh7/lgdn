@@ -1,0 +1,1 @@
+Supprimer les niches fiscales au dessus d’un seuil de revenu ou de patrimoine.

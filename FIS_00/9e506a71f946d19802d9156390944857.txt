@@ -1,0 +1,1 @@
+regrouper l'accès aux services d'information sur le budget de l'Etat et des collectivités territoriales, depuis la définition du budget (Gouvernement, Parlement), en passant par sa gestion (Minefi - Min Santé), son contrôle (Cour des comptes), et les informations économiques connexes (Min Eco, Banque de France, INSEE, ...)

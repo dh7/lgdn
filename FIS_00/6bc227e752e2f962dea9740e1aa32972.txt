@@ -1,0 +1,1 @@
+Communication en ligne sur les origines des recettes, leurs montants, le montant par "payeur" et leur affectations.

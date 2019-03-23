@@ -1,0 +1,1 @@
+Tracer les recettes des impôts vers les dépenses couvertes sous forme d’un graphique simple

@@ -1,0 +1,1 @@
+Affichage web structuré et régulier à travers les actualités de chacun des ministères et des communes.

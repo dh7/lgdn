@@ -1,0 +1,1 @@
+Détailler les budgets de l'état en indiquant par exemple éducation tel budget et nombre de personnes (budget) avec une répartition primaire secondaire universitaire et ce pour les différents budgets.

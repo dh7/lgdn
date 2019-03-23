@@ -1,0 +1,1 @@
+Mise en ligne de toutes les dépenses et recettes, avec possibilité de visualiser la moindre ligne comptable. En somme un Grand Livre des comptes publiques.

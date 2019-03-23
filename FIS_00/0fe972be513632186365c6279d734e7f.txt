@@ -1,0 +1,1 @@
+Il faut créer un site rassemblant en langage clair l'utilisation faite des impôts. Il faut plusieurs vues avec plusieurs niveaux de finesses. L'exemple a été donné dernièrement avec la publication de l'utilisation de 1000€. Ceci pourrait correspondre au premier degré de finesse.

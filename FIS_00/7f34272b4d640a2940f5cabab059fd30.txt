@@ -1,0 +1,1 @@
+Ne pas changer les règles d'impots et de transferts d'impots (pour de petites optimisations  de calculs) tous les quatres matins

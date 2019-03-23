@@ -1,0 +1,1 @@
+Suppression systématique des prélèvements fiscaux lorsque les montants prélevés ne compensent pas les coûts de traitement (calcul, émission avis, coût de prélèvement…)

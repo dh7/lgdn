@@ -1,0 +1,1 @@
+Apres la déclaration des impots, il serait intéressant d'envoyer par email le % d'attribution des différents impots  à chaque domaine. ceci serait valable également pour les taxes sur l'essence et tabac ou également la TVA.

@@ -1,0 +1,1 @@
+Regrouper tous les impôts et cotisations selon qu'il s'agit de solidarité (retraite, minimums sociaux, etc.), de fonctionnement (état et collectivités locales) ou d'assurance (chômage, santé)

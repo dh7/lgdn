@@ -1,0 +1,1 @@
+Définir un montant minimum des aides en dessus duquel il serait impossible de descendre où tout serait regroupé.

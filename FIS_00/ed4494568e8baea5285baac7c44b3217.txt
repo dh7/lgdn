@@ -1,0 +1,1 @@
+Un budget simple avec une ligne par catégorie d'impôts, montant annuel collecté et ce qu'il a financé.

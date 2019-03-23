@@ -1,0 +1,1 @@
+supprimer les salaires et avantages des politiques qui sont plus en activité

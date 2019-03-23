@@ -1,0 +1,1 @@
+Alimenter sur une page Web les dépenses de l'année avec le types de dépenses et en face l'origine des recettes

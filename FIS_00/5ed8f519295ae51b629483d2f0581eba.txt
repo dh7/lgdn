@@ -1,0 +1,1 @@
+envoyer a chaqu'un un récapitulatif des dépense de l'état ,région,département .

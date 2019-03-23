@@ -1,0 +1,1 @@
+Supprimer les taxes dans le cadre des transmissions/héritages (releve de la double taxation).

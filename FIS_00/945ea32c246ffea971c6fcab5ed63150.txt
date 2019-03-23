@@ -1,0 +1,1 @@
+L'édition d'un journal mensuel de l'affectation des dépenses selon domaines par ville, région et état sur un site internet.

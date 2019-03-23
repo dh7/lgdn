@@ -1,0 +1,1 @@
+Rendre simple et transparente l'origine d'une part (TVA, IR, IFI, Impôts Sociétés, ...) ainsi que la répartition de l'utilisation, par exemple, de 1000€ d'impôts.

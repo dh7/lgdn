@@ -1,0 +1,1 @@
+Supprimer la TVA sur les taxes. Ne faire porter la TVA que sur du hors taxes.

@@ -1,0 +1,1 @@
+Adapter encore plus finement les taux d'imposition selon les revenus

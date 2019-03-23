@@ -1,0 +1,1 @@
+Positionner le curseur de taxation en fonction des revenus

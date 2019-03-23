@@ -1,0 +1,1 @@
+afficher TOUT les chiffres des dépenses de l'état (salaires des fonctionnaires, achat de matériel, etc...)

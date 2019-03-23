@@ -1,0 +1,1 @@
+Revoir totalement un système à bout de souffle devenu trop complexe. Le simplifier pour le rendre transparent

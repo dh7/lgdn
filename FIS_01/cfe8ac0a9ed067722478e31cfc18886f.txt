@@ -1,0 +1,1 @@
+Un taux TVA variable selon les revenus

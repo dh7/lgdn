@@ -1,0 +1,1 @@
+Allocation chomage (montant, durée, dégressivité)  RSA

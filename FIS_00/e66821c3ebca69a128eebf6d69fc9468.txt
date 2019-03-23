@@ -1,0 +1,1 @@
+Publier sur Internet le montant des impôts payés en France par toutes les entreprises effectuant un chiffre d'affaire en France et les classer par montant d'imposition décroissant pour voir celle qui contribue plus et afficher également celles qui contribuent le moins par rapport à leur revenu

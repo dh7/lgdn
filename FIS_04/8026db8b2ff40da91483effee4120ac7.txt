@@ -1,0 +1,1 @@
+Toujours supprimer les seuils pour obtenir une répartition plus continue

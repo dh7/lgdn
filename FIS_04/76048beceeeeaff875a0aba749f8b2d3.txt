@@ -1,0 +1,1 @@
+mutualiser les traitements comme pour la DSN des entreprises, automatiser les attributions.

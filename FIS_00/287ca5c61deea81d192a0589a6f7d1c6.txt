@@ -1,0 +1,1 @@
+Consultation d'un site où l'on pourrait consulter une sorte de bilan détaillé de l'entreprise Etat Français avec les différents postes d'affectation des ressources, des dépenses.....en gros comme celui qu'une entreprise a obligation de fournir.

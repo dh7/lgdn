@@ -1,0 +1,1 @@
+Créer une application sur smartphone qui présente section par section dans le détails le contenu de chaque projet de loi de Finance.

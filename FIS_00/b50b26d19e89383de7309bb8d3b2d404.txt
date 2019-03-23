@@ -1,0 +1,1 @@
+un tableau accessible détaillant l'ensemble des dépenses avec l’impot utilisé

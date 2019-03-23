@@ -1,0 +1,1 @@
+Fournir pour chaque taxe ou impôts, au moment de la demande de paiement (Taxe foncière, d'habitation, IR, ...) une information sur la façon dont ma contribution va être utilisée.

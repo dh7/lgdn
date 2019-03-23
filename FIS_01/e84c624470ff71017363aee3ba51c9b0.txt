@@ -1,0 +1,1 @@
+Calculer et diffuser le bilan net des impôts des entreprises et des subventions qu'elles reçoivent.

@@ -1,0 +1,1 @@
+Sur le site des impôts, sur le compte de chaque citoyen, faire un onglet avec le résumé des sommes utilisées (sommes payées par le citoyen) dans chaque domaine. -> la somme totale doit représenter 100% de l’impôt payé par la citoyen

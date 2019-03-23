@@ -1,0 +1,1 @@
+dépendance, avec possibilité de récupérer sur l"héritage

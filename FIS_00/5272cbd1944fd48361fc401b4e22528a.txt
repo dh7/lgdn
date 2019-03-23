@@ -1,0 +1,1 @@
+Créer une application qui permette au contribuable d'accéder au budget voté par l'assemblée nationale. Matérialiser le déficit, par exemple en indiquant la contribution individuelle supplémentaire qui aurait été nécessaire à son financement.

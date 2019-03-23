@@ -1,0 +1,1 @@
+pas d'effet de seuil mais de la proportionnalité dans les aides. Les effets de seuil ne pousse pas vers le haut mais vers le bas

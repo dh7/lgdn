@@ -1,0 +1,1 @@
+Communication simple de l'utilisation des impôts par grand thème avec possibilité d'aller dans le détail.

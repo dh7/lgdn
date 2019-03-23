@@ -1,0 +1,1 @@
+Donnez des chiffres sur le coût des allocations familiales versées en fonction du nombre d'enfants avec des catégorisations par tranche de revenu. Cela permettrait de mieux appréhender la répartition des aides sociales en fonction de la composition de la famille et de ses revenus.

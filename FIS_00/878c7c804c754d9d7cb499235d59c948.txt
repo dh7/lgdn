@@ -1,0 +1,1 @@
+Clarifier les modes de calcul (foncier et taxe d'habitation, par exemple ).

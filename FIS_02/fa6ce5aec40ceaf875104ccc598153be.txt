@@ -1,0 +1,1 @@
+Supprimer la TVA sur certaines taxes, ne déclarer et payer l'impôt que sur les sommes réellement perçues

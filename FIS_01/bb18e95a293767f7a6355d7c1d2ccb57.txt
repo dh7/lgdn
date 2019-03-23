@@ -1,0 +1,1 @@
+le calcul des impots devrait etre effectué apres prise en compte des revenus de redistribution.

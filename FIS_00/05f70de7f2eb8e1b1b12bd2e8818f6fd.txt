@@ -1,0 +1,1 @@
+A chaque déclaration d'impôts, notifier comment les impôts sont utilisés, sous forme de camembert par exemple.

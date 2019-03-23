@@ -1,0 +1,1 @@
+Remplacer des points de CSG par des points de TVA (hors produits et travaux de première nécessité : nourriture, habitat) .

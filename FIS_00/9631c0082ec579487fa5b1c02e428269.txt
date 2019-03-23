@@ -1,0 +1,1 @@
+envoyer, au moment de la déclaration d'impôts aux français, un tableau bilan simplifié avec le montant des recettes fiscales et les dépenses/investissements réalisés avec les impôts.

@@ -1,0 +1,1 @@
+Sur la base d'une comptabilité analytique, donner l'accès à cette information via des outils modernes de manipulation de données.

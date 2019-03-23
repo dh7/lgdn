@@ -1,0 +1,1 @@
+Etablir un document chiffré type tableau croisé dynamique Excel qui détaillerait, d'un côté le montant des recettes et leur provenance et de l'autre côté les montant  des dépenses et où elles sont effectuées

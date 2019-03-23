@@ -1,0 +1,1 @@
+Diminuer le nombre de taxes (regarder une facture d'électricité !) même si globalement le montant est le même. Attribuer la taxe à son domaine exclusivement

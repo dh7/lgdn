@@ -1,0 +1,1 @@
+Envoyer/montrer la répartition des impôts payés par le citoyen par poste de dépense.

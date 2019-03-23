@@ -1,0 +1,1 @@
+Ne pas prendre en compte les ressources du couple mais les ressources individuelles

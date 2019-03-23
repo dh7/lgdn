@@ -1,0 +1,1 @@
+simplifier les règles pour qu'elles soient compréhensibles par tous

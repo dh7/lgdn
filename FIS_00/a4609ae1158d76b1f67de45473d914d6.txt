@@ -1,0 +1,1 @@
+l'info est livré lors des déclarations ISR mais global; un plus grand détail sur les attributions serait bien

@@ -1,0 +1,1 @@
+Deja faire une balance comptable, crédit, débit afin de connaitre et rendre publics les ressources et les dépenses.

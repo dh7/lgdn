@@ -1,0 +1,1 @@
+Mettre en place des sites webs consultables avec une grande transparentes sur les repartitions. Pour tous les chantiers sont visibles et consultables. Figureraient: les personnes en charge du chantier, les entreprises impliquées, le montant du budget et des dépenses, le statut, le Workflow.

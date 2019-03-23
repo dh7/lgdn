@@ -1,0 +1,1 @@
+Création d’un site internet développant les budgets de fonctionnement dans chaque domaine, ainsi que le financement des grands projets. Déclinaison aux régions et communautés de commune. Possibilité d’envoyer des messages aux élus

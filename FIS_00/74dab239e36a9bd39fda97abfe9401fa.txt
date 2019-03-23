@@ -1,0 +1,1 @@
+Concevoir une liste décroissante des affectations de l'impôt jusque 1% ,affichée en  mairie et accessible sur le net. D'une année sur l'autre indiquer par des symboles simples (+,-,=) l'évolution des affectations.

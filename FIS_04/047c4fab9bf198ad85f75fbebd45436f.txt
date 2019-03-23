@@ -1,0 +1,1 @@
+Le RSA doit être universel, sans condition, et d'attribution automatique

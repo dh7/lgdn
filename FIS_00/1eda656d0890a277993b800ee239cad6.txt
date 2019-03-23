@@ -1,0 +1,1 @@
+Créer un seul site où serait repris les ressources et les dépenses de chaque entité : l'Etat, les régions, les départements, les communautés de commune et les communes. Chacune publiera ses chiffres annuellement qui seront facilement consultables. Elles pourraient également renseigner leurs choix d'orientation sociaux et économiques pour l'avenir.

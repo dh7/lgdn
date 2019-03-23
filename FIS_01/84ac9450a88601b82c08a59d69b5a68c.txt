@@ -1,0 +1,1 @@
+Comparer de manière permanente les effets produits avec les effets attendus

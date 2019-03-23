@@ -1,0 +1,1 @@
+Un site internet où est afficher toutes les dépenses pour la transparence et une blockchain pour la traçabilité des dépenses de l'Etat.

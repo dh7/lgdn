@@ -1,0 +1,1 @@
+Réduire la complexité d'un système qui a entassé sans jamais nettoyer le CGI.

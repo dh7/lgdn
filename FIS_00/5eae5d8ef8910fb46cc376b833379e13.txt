@@ -1,0 +1,1 @@
+Mieux comprendre et faire prendre conscience des flux associés aux impôts : - Pour chaque € d'impôt prélevé : afficher systématiquement l'utilisation qui en est fait à chaque contribuable - Pour chaque € de prestation versé : afficher sa provenance et les sources de financement utilisées

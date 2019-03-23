@@ -1,0 +1,1 @@
+Implémenter des tranches comme pour les impôts plutôt que des plafonds

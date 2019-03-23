@@ -1,0 +1,1 @@
+Toutes : par suppression des effets de seuil (mise enplace de courbe à pentes dependant des revenus)

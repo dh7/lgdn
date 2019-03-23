@@ -1,0 +1,1 @@
+Fournir à chaque citoyen, au moment de sa déclaration d'impot, un détail de chacun des impots payé sur l'année : montant, objectif, etc.

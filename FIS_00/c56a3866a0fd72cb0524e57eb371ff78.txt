@@ -1,0 +1,1 @@
+Affichage sur les réalisations : exemple "ce nouveau bâtiment a été financé à hauteur de x% avec l'impot sur le revenu"

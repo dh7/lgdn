@@ -1,0 +1,1 @@
+Lister l'intégralité des dépenses par secteur et pas uniquement la répartition du budget général entre les secteurs.

@@ -1,0 +1,1 @@
+Toutes sauf le RSA.

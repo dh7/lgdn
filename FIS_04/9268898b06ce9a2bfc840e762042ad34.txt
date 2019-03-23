@@ -1,0 +1,1 @@
+Les APL afin de ne pas calculer avec ressources à n-2

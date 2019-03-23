@@ -1,0 +1,1 @@
+Diffusion, sous forme graphique des montants et % dépensés.

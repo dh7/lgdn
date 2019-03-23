@@ -1,0 +1,1 @@
+Affichage dans les hôpitaux, les écoles... des budgets et des coûts pour chaque usager ou bénéficiaire.

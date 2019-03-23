@@ -1,0 +1,1 @@
+Un fichier central accessible à tout le monde par internet. c'est transparent et rapide

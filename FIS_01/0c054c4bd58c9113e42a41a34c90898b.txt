@@ -1,0 +1,1 @@
+Simplifier les différentes couches d'impositions pour les entreprises et les particuliers. Un seul impot au niveau national et un seul au niveau territorial

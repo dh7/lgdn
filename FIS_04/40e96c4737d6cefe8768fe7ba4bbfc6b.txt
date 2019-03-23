@@ -1,0 +1,1 @@
+logements: une personne en HLM mais qui devinet non eligible devrait ceder la place

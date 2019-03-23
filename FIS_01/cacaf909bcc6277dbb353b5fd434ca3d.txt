@@ -1,0 +1,1 @@
+Suppression totale des tranches d'imposition, fixer un pourcentage pour chacun quelque soit son revenu.

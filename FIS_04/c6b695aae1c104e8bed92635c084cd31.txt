@@ -1,0 +1,1 @@
+Chômage proportionnel au heure effectuées avec un plafond. Arrêter les seuils , pour éviter les petits calculs de certains

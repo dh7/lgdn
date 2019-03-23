@@ -1,0 +1,1 @@
+Communiquer un tableau de synthèse annuel avec pour chaque dépenses le montant perçu en recette avec l’origine des recettes face au montant redistribué , ce tableau pourrait être communiquer lors de la déclaration fiscale.

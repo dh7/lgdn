@@ -1,0 +1,1 @@
+Mise en place d'une plateforme numérique pour afficher la clé de répartition de l’impôt de chaque citoyen en détaillant: -impôt sur le revenu -taxe foncière (si propriétaire) -taxe d'habitation  - TVA

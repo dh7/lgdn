@@ -1,0 +1,1 @@
+Que chaque bénéficiaire d'une aide ait le montant de cette aide en tête (transport en commun, usager de la route, bénéficiaire de HLM, etc).

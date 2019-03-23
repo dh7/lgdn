@@ -1,0 +1,1 @@
+Donner un accès détaillé à toutes les depenses par categories et sous categories à l’image de la gestion d’un  budget personnel

@@ -1,0 +1,1 @@
+Possibilité de consulter sur un site les dépenses et les recettes en euros et en pourcentage (budgets prévisionnel et réel) regroupées par thème et ce à tous les niveaux (état, région, département, intercommunalité et commune). Données conservées d’un exercice à l’autre pour que chaque citoyen puisse connaître leur évolution.

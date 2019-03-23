@@ -1,0 +1,1 @@
+Un bulletin annuel, avec un diagramme circulaire de la répartition des différents impôts.

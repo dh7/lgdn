@@ -1,0 +1,1 @@
+Paiement de l' EHPAD et cotisations mutuelle basée sur l'avis d'imposition.

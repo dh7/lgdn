@@ -1,0 +1,1 @@
+Mettre en place un support de communication (type diagramme) expliquant le budget de l'état (dépense et recettes). L'idée de savoir à quoi servent nos impôts et les taxes que l'ont paye.

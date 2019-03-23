@@ -1,0 +1,1 @@
+Payer les fonctionnaire en fonction du poste occupé et non en fonction du concours de recrutement.

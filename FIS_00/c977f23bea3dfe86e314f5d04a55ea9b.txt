@@ -1,0 +1,1 @@
+Au moment de la déclaration des impôts, informer par des graphiques ou Camembert la part de chaque budget dans un language banalisé.

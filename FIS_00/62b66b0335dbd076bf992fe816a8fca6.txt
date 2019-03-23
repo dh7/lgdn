@@ -1,0 +1,1 @@
+Prévoir un site Internet gouvernemental sur lequel on indique précisément la répartition de l'utilisation des impôts. La consultation de cette information doit être simple à obtenir et doit détailler le plus simplement mais le plus précisément possible, l'usage de chaque enveloppe.

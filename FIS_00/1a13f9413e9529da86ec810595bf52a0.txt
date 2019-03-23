@@ -1,0 +1,1 @@
+Pouvoir suivre sur Internet une sorte de "fil de l'eau" des dépenses au long de l'année (histogrammes par principales catégories de dépenses).

@@ -1,0 +1,1 @@
+regrouper dans un tableau tous les impôts et mettre en face de chacun d'eux leurs utilités vu le nombres de taxes d'impôts différents cela donnera peut être l'occasion de faire le ménage

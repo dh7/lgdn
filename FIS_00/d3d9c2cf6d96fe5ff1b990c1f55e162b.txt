@@ -1,0 +1,1 @@
+Plateforme web gouvernementale qui rassemble mensuellement toutes les dépenses : - au niveau communal - au niveau départemental - au niveau de l'état.

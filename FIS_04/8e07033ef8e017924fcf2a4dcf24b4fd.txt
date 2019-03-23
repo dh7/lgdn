@@ -1,0 +1,1 @@
+Toutes sauf le RSA, mais en vérifiant le bien fondé du RSA pour chaque bénéficiaire. .

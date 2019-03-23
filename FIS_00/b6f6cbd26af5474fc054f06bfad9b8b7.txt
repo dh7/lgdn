@@ -1,0 +1,1 @@
+Des diagrammes permettant de mettre en évidence l'évolution des dépenses dans le temps pour chaque poste.

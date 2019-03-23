@@ -1,0 +1,1 @@
+Mettre à plat toutes les fonctions et ne garder que celles qui sont vraiment des fonctions publiques. Pour celles qui ne sont pas alors il faut les mettre dans l'espace privé afin qu'elles apportent leur savoir

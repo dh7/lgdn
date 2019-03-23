@@ -1,0 +1,1 @@
+Questionnaire totalement orienté qui évite soigneusement les problèmes de fond.

@@ -1,0 +1,1 @@
+Créer un minimum vieillesse progressif en fonction des cotisations versées en étant travailleur actif.

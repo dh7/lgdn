@@ -1,0 +1,1 @@
+Taxer uniquement toutes les transactions financières pour supprimer les impôts.

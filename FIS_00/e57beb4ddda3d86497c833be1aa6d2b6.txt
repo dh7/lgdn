@@ -1,0 +1,1 @@
+Création d'un site internet qui montre les  flux financiers (entrés et sorties) au jour le jour avec détail des différents postes.  Le site doit montrer la comptabilité au niveau de la nation, mais également des régions, des départements et des communes.

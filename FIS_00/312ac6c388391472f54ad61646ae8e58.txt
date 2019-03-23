@@ -1,0 +1,1 @@
+Un site web avec la répartition et l'évolution des dépenses par catégories et natures (investissement, fonctionnement)

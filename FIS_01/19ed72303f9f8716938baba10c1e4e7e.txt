@@ -1,0 +1,1 @@
+Remplacer les systèmes de tranches, de planchers et plafonds par une progressivité en pourcentage.

@@ -1,0 +1,1 @@
+supprimer les régimes spéciaux et les départs anticipés. si les annuités sont de 41,5 ans, alors c'est pour TOUS. 

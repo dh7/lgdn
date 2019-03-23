@@ -1,0 +1,1 @@
+afficher le coût de chaque utilisation de service public.

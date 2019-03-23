@@ -1,0 +1,1 @@
+Une meilleure prise en charge la dépendance en fin de vie .

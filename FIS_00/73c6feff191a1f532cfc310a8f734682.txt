@@ -1,0 +1,1 @@
+Faire figurer le montant de l'impot payé et mettre en face le total des aides sociales reçues.

@@ -1,0 +1,1 @@
+- Rendre transparent le coût des principaux services rendus par l'état (exemple : coût d'une consultation aux urgences) - Introduire des indicateurs de performance économiques des principaux services

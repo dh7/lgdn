@@ -1,0 +1,1 @@
+diminuer le nombre de taxes, fixer un nombre maximal, n'en créer une que si on en supprime une autres

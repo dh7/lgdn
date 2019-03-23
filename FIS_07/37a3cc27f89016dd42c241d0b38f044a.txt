@@ -1,0 +1,1 @@
+Chaque « chef » doit pouvoir gérer ses agents comme dans le privé

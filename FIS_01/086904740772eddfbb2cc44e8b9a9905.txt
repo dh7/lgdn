@@ -1,0 +1,1 @@
+augmenter le nombre de tranches de calculs et relever les seuils des tranches actuelles, à taux équivalents

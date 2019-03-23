@@ -1,0 +1,1 @@
+Diffuser / afficher / communiquer tous les appels d'offres aux marchés dépassant un certain montant. (limites à fixer en fonction de la taille de la commune, du département ...)

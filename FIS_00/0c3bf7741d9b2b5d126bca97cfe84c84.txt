@@ -1,0 +1,1 @@
+Baisser le nombre de strates administratives et afficher les dépenses et recettes de chacune

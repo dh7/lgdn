@@ -1,0 +1,1 @@
+Un formulaire joint aux déclarations de revenus et qui indiquerait tous les postes de dépenses vers lesquels les prélèvements vont être versés. Comme c'est le cas en Espagne, ce formulaire pourrait nous donner le choix aux contribuables pour dire vers quel organisme l'argent sera versé.

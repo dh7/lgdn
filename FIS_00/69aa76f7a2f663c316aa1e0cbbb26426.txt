@@ -1,0 +1,1 @@
+mettre en ligne un tableau des grandes masses de recettes et dépenses  avec lorsque l'on clique dessus l'on puisse descendre dans le détail

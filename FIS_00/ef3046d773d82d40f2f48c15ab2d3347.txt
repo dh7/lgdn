@@ -1,0 +1,1 @@
+créer une application mobile permettant de savoir facilement quelle est l'utilisation des principales lignes budgétaires de l'État, avec la possibilité d'un contact par mél pour obtenir une réponse sur une question précise (comme cela est très bien fait sur le site des impôts).

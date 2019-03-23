@@ -1,0 +1,1 @@
+Remplacer la CSG par un IR plus progressif

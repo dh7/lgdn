@@ -1,0 +1,1 @@
+Fournir un tableau de bord synthétique des dépenses par grande fonction (sans dissimuler l'aspect "fonctionnement de l'état" : élus, ministères....)

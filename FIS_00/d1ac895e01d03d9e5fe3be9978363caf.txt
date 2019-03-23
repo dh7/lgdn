@@ -1,0 +1,1 @@
+Affecter les recettes à des actions précises de l’État (en finir avec la règle de la non affectation)

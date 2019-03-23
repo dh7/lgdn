@@ -1,0 +1,1 @@
+Supprimer les APL automatiques quand le bailleur social ne répond pas à certains critères de salubrité et de conformité

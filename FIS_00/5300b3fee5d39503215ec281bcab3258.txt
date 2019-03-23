@@ -1,0 +1,1 @@
+Un document d'une page qui listerait tous les impôts et taxes (y compris les impôts et taxes locales) que paye un citoyen lambda avec un fléchage sur quels budgets elles sont intégrées

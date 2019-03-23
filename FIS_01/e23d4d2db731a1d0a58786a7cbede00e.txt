@@ -1,0 +1,1 @@
+simplifier en suprimant les exceptions et cas particuliers comme les niches fiscales

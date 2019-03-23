@@ -1,0 +1,1 @@
+Supprimer les seuils en les remplaçant par des courbes continues, linéaires ou pas.

@@ -1,0 +1,1 @@
+Une plateforme indépendante listant toutes les dépenses de l'état et le pourquoi de cette dépense. Fait de manière claire par tous.

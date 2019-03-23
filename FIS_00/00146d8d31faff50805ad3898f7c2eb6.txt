@@ -1,0 +1,1 @@
+Supprimer tous les "secrets d'états". Transparence totale.

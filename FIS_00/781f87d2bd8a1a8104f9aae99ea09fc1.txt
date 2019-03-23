@@ -1,0 +1,1 @@
+A chaque impôt doit être affecté une dépense. Aujourd'hui toutes les recettes sont mise dans un pot commun et toutes les dépense puisent dedans. Cela rend illisible l'affection et l'utilisation d'une taxe ou d'un impôt

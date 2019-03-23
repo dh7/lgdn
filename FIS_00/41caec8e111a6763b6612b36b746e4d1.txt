@@ -1,0 +1,1 @@
+Envoyez les informations sur le compte électeur de chaque citoyens.

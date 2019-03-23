@@ -1,0 +1,1 @@
+Lister les dépenses de l'état par familles (santé éducation défense fonctionnement) et classer par ordre décroissant

@@ -1,0 +1,1 @@
+Sur chaque dépense de l'état informer le citoyen de la répartition entre lui et l'état sur cette dépense. Par exemple en cas d'hospitalisation communiquer une facture avec la répartition (x% pour le citoyen, y% pour la collectivité ...)

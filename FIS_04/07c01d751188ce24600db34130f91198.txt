@@ -1,0 +1,1 @@
+Allocation parent isolé. RSA. Pas d'allocations sans contribution.

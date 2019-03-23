@@ -1,0 +1,1 @@
+Un état simplifié des recettes par type d’impôt et des dépenses par grande famille voir sous famille (par exemple: santé 100 dont hôpital 50 arrêt de travail 30 ect ...)

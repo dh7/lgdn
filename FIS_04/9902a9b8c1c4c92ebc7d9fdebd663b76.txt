@@ -1,0 +1,1 @@
+suppression des allocations familles aux foyers fiscaux dont les revenus se situent au delà de 60000 euros

@@ -1,0 +1,1 @@
+- Email automatisé avec envoi semestriel de l'utilisation faite de nos versements. Et, surtout une information sur le niveau de la dette, sa progression, le montant des intérêts ainsi que le nombre de générations impactées par cette dette.

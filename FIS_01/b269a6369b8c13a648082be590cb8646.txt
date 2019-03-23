@@ -1,0 +1,1 @@
+Supprimer tout effet de seuil et le remplacer par une autre méthode plus progressive.

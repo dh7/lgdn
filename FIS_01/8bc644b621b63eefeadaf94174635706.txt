@@ -1,0 +1,1 @@
+Payer en fonction des factures déjà réglée s par rapp ort aux pensions salaires.

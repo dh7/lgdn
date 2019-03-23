@@ -1,0 +1,1 @@
+Fusionner CSG et IR en gardant l'ensemble " RAISONNABLEMENT" progressif. Pas d'abus!!!

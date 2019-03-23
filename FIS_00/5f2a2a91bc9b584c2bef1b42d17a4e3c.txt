@@ -1,0 +1,1 @@
+adapter les impots directs et indirects en fonction des revenus

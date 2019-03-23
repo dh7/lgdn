@@ -1,0 +1,1 @@
+Effectuer une classification de l'ensemble des recettes impôts par impôts. Effectuer une classification des dépenses. Mettre à la disposition de chacun

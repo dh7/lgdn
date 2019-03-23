@@ -1,0 +1,1 @@
+envoyer a chaque Français selon le montant de son impôt payé le dispatch et le montant de la répartition

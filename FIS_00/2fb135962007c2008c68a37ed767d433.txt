@@ -1,0 +1,1 @@
+Publier chaque année le montant des impôts récoltés sur N-1, les dépenses et sous-dépenses avec le pourcentage de hausse ou de baisse.  Fixer pour N+1 des objectifs de baisse par Dépenses et l'année suivante, publier le résultat des objectifs.

@@ -1,0 +1,1 @@
+Mise à disposition en mairie et par internet du budget de l'état Faire un site de type WorlOmeter qui indiquerait en temps réel les recettes et les postes de dépense de l'état.

@@ -1,0 +1,1 @@
+Un tableau simple sur la repartition des impots et taxes. A envoyer avec la notification annuelle des revenus servant au calcul de l'IR.

@@ -1,0 +1,1 @@
+Envoyer un récapitulatif des impôts payés au cous de l'année, hors la TVA. Donner aux citoyens des informations qui leur permettent de calculer la TVA qu'ils payent chaque année sur leurs consommations.

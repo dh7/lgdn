@@ -1,0 +1,1 @@
+créer un site en ligne dédié avec la répartition par ministère et par poste des dépenses engagées. Ceci pour l'Etat et pareil pour le département, la région, la commune, avec l'affectation des dépenses  par arrondissements pour les grandes villes  PLM

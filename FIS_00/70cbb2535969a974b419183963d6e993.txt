@@ -1,0 +1,1 @@
+Mettre en place un simulateur qui permette de voir où est réparti chaque euro donné, voire de choisir si on préfère le mettre dans la transition écologique ou dans le social par exemple.

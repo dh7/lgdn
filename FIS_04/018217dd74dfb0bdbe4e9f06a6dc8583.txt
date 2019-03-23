@@ -1,0 +1,1 @@
+Limiter les pensions de réversion proportionnellement au temps de vie commune (avec éventuellement une augmentation du taux de réversion),

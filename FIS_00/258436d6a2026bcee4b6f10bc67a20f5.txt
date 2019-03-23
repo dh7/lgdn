@@ -1,0 +1,1 @@
+Créer un site internet qui permette à chaque citoyen de consulter tous les trimestres les affectations par poste de dépense publiques, et la part relative de chaque taxe.

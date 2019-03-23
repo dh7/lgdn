@@ -1,0 +1,1 @@
+Repartir les sommes payées dans un tableau de bord individualisé à chaque contribuable

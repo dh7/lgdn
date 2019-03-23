@@ -1,0 +1,1 @@
+suppression des petites communes et des départements. Supprimer les enseignants dans les petites sections des maternelles pour les réaffecter dans le primaire .

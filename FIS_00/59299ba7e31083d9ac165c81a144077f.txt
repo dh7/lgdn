@@ -1,0 +1,1 @@
+Diffuser une liste de toutes les taxes qui existent avec le pourcentage et à quoi elles servent.

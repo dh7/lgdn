@@ -1,0 +1,1 @@
+Empêcher les maires d'augmenter la taxe d'habitation avant sa suppression.

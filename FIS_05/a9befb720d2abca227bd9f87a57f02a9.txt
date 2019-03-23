@@ -1,0 +1,1 @@
+diminuer les allocations , en regardant comment fonctionnent nos voisins qui ont une meilleure croissance que nous

@@ -1,0 +1,1 @@
+Eliminer toutes les taxes, droits, etc...dont le rendement est faible et source de complexité Supprimer l'IFI  et ne pas rétablir l'ISF

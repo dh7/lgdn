@@ -1,0 +1,1 @@
+Communication par e-mail automatique sur l'utilisation de l'impôt lorsque l'on a terminé de renseigner sa déclaration de revenus.

@@ -1,0 +1,1 @@
+reduction train vie de l'etat(deputés,sénateurs,ministres),des collectivités territoriales(mille feuilles administration)

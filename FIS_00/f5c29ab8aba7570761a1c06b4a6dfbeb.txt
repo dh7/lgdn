@@ -1,0 +1,1 @@
+Publication des revenus totaux de chacun(salaires+dividendes+indemnites) et des impots (pas en pourcentage en euros)

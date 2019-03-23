@@ -1,0 +1,1 @@
+supprimer les allocations familiales aux revenus qui dépassent un seuil très important (exemple : supérieurs à 10000€/mois)

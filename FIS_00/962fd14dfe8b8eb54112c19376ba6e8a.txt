@@ -1,0 +1,1 @@
+Un tableau budget /depenses /collecte d' impots  / balance par grandes masses devrait etre disponible en temps reel sur le site web impot.gouv pour voir ou on en est.

@@ -1,0 +1,1 @@
+. affichage pour chaque impôt et taxe des affectations de dépenses.

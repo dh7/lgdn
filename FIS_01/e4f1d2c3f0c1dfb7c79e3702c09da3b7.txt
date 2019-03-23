@@ -1,0 +1,1 @@
+Supprimer les aides au chômage lors du refus d'un emploi.

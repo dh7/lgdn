@@ -1,0 +1,1 @@
+un prix quelconque affiché comprenant le coût du produit, le gain du vendeur et les taxes de l'état.

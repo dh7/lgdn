@@ -1,0 +1,1 @@
+Au moment de la déclaration des impôts : envoyer par mail un document récapitulatif des différentes dépenses et recettes de l'état avec possibilité de cliquer sur des liens pour avoir plus de détails si on le souhaite.

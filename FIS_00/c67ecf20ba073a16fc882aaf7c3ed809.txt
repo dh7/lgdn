@@ -1,0 +1,1 @@
+Bilan annuel sous forme d'un graphique récapitulant de manière simple les recettes et dépenses par grand domaine.

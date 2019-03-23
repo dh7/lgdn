@@ -1,0 +1,1 @@
+suppression taxe d'habitation pour tous (méthode de calcul assez injuste + effet de seuil avec la suppression pour 80%)

@@ -1,0 +1,1 @@
+Faire un toilettage afin qu'il n'y ait plus trop d'exceptions et ne pas changer régulièrement les règles des abattements.

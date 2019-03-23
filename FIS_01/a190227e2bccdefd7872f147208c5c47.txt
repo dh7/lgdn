@@ -1,0 +1,1 @@
+Simplifier les règles : trop de cas particularités, niches, ... De plus comment avoir une vision globale de l'impôt : IR, CSG, TVA, ... ?

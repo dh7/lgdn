@@ -1,0 +1,1 @@
+Un site web simple et pédagogique, offrant les chiffres clefs du budget. Savoir que les hopitaux coûtent X milliards, dont Y pour les médecins, Z pour les équipements... Bref, des choses simples qui apparaitraient rapidement (pas après 32 clics).

@@ -1,0 +1,1 @@
+Afficher le lien entre le prelevement et l'usage (pour la taxe sur les ordures menageres, c'est clair ! Pour la CSG, beaucoup moins !)

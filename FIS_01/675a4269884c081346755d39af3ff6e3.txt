@@ -1,0 +1,1 @@
+fusionner la CSG et IR et rendre ce nouvel impôt progressif

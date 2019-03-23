@@ -1,0 +1,1 @@
+Donner les mêmes informations sur les dépenses que celles données pour le grand débat avec leur évolution par rapport aux années précédentes sur le site déclaration des impôts. Donner la possibilité à chaque foyer fiscal de choisir l'affectation d'un faible pourcentage de son impôt (par exemple 1%)

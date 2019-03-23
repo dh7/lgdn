@@ -1,0 +1,1 @@
+Toutes les successions en dessous d'une certaine somme, le prix d'une habitation par exemple.

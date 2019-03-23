@@ -1,0 +1,1 @@
+Avoir des tableaux simples de dépenses et réalisations par Ministères, ainsi que le nombre de personnes et le coût moyen et médian par salariés. garder la même présentation sur plusieurs pour permettre de comparer.

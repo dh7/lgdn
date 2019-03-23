@@ -1,0 +1,1 @@
+Simplification du calculs des impôts.  Supprimer les niches fiscales.  Plus de palier mais plutôt une formule progressive unique du calcul de l'impôt.

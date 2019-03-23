@@ -1,0 +1,1 @@
+Il serait interessant de monter le cout de gestion des aides avec toutes les redondances.  Par principe ce devrait être un type d'aide , un seul interlocuteur

@@ -1,0 +1,1 @@
+afficher la répartition des richesses crées entre les travailleurs, les entreprises, les actionnaires.

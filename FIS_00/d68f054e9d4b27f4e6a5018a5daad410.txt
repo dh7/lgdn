@@ -1,0 +1,1 @@
+Un site internet qui donne les rentrées et dépenses de l’état par secteur, en %

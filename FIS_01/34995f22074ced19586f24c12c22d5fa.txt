@@ -1,0 +1,1 @@
+Davantage moduler la TVA en fonction de la nature des produits de consommation  (Produit de première nécessité # produit de luxe )

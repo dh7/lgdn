@@ -1,0 +1,1 @@
+simplifier le code des impôts et les exceptions. Faire des tranches pour la CSG comme pour les impôts.

@@ -1,0 +1,1 @@
+Informer chaque citoyen de la réalisation annuelle des budgets (Nation, Région, Département Commune)

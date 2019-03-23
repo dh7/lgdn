@@ -1,0 +1,1 @@
+Le bareme de l'impôt sur le revenu est a revoir, il est proportionnel alors que le revenu par centile suit une courbe exponentielle.

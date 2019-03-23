@@ -1,0 +1,1 @@
+Créer une plateforme numérique qui regroupe toutes les dépenses d'utilisation des impôts et permettre au gens de donner leur avis sur les montants, avis qui sera pris en compte pour éventuellement être revu à la baisse ou à la hausse.

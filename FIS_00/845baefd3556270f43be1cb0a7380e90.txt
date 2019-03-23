@@ -1,0 +1,1 @@
+Donner une grille du nombre de mois de salaire qui sont donnés à l'état pour  l'IR par tranche de revenu  Informer de l'utilisation des impôts par secteurs: justice ,éducation nationale , santé, défense etc..

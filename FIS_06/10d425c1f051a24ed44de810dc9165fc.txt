@@ -1,0 +1,1 @@
+supprimer et simplifier l'empilement des niveaux administratifs (commune, communauté de communes ; département, région, Etat ....)

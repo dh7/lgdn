@@ -1,0 +1,1 @@
+Simplification et stabilité de la règle (pas forcément du taux pour pouvoir conserver les leviers)

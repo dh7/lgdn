@@ -1,0 +1,1 @@
+Allocation unique plutôt que cumul d'allocations. Prise en compte des revenus.

@@ -1,0 +1,1 @@
+Afficher clairement quels sont les impôts progressifs ou non.

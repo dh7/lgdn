@@ -1,0 +1,1 @@
+Rendre l'IR véritablement progressif, avec un taux marginal élevé sur les tranches les plus hautes.

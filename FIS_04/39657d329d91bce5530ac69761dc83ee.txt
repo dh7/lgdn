@@ -1,0 +1,1 @@
+Contrôler déjà si elles sont correctement attribuées

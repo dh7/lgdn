@@ -1,0 +1,1 @@
+toutes : fixer un minimum social uniforme prenant en compte toutes les aides versées et les aides en nature (CMU...).

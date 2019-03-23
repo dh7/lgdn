@@ -1,0 +1,1 @@
+la simplifier pour qu'elle soit lisible pour le plus grand nombre et limiter les cas d'exceptions

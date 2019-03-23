@@ -1,0 +1,1 @@
+Obtenir au moment de la déclaration fiscale par domaine un tableau présentant pour l'exercice écoulé le montant des dépenses réalisées au regard de celles budgétisées.

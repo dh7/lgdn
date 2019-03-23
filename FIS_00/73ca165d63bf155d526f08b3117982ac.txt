@@ -1,0 +1,1 @@
+répartition des entrées entre les différents impots (TVAs, IR, TH !! et TFoncière, Impots sur bénéfices des sociétés, Impots sur Locations-placements, etc.....), et répartition des dépenses par ministère (déjà fait !)

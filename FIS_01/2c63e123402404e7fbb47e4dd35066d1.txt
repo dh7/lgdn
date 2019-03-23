@@ -1,0 +1,1 @@
+RSA droit et devoirs pour une période fixe.

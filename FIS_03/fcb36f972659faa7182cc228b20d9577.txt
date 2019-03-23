@@ -1,0 +1,1 @@
+Regrouper les aides pour les simplifier. RSA et ASS par exemple.

@@ -1,0 +1,1 @@
+Créer un indicateur pour chaque institution publique mesurant le ratio entre l'impôt reçu et ce qui est réellement distribué une fois les coûts de fonctionnement déduits. Cela permettrait de mesurer l'efficacité des services publics.

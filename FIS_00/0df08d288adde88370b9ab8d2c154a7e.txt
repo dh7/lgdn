@@ -1,0 +1,1 @@
+Fournir une facture "virtuelle" des prestations "gratuites". (séjour hôpital, cout annuelle scolaires etc...)ajouter les aides reçus dans la déclaration de revenu.

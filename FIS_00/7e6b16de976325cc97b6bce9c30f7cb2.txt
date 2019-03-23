@@ -1,0 +1,1 @@
+Donner la proportion (un camembert) des différents impôts et taxes dans les recettes de l'état de façon claire sur le site des impôts. Mettre juste à côté (un autre camembert) expliquant ce que finance nos impôts et taxes en proportion dans les dépenses de l'état.

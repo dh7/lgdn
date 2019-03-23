@@ -1,0 +1,1 @@
+Allocations chômage, limitées dans le temps (9 mois), dégressives à chaque mois et supprimées en cas de refus de deux propositions d'emploi.

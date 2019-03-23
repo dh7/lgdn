@@ -1,0 +1,1 @@
+Que l'état ait connaissance de toutes les allocations par personne avant d'en allouer de nouvelles

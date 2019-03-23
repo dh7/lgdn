@@ -1,0 +1,1 @@
+Bilan annuel de ce qui est rentré en différents impôts et ce qui a été dépensé par l'état.  Ex : le total des cotisations retraites des salariés (somme total, nombre cotisants) et le versements des retraites (somme total, retraités)

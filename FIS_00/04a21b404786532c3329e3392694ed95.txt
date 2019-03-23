@@ -1,0 +1,1 @@
+Créer un chatbot gouvernemental permettant de répondre H24 aux questions des citoyens . Si le chatbot n'est pas en mesure de répondre, transmettre la question à un service de traitement avec un engagement d'apporter une réponse dans les 48h.

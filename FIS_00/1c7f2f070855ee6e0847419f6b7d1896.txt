@@ -1,0 +1,1 @@
+Sur notre espace impots.gouv, avoir un détail sur l'utilisation des impôts (exemple : sur les 1000 euros d’impôts sur mes revenus que je payent, combien sont dédiés à l'éducation, la culture, le logement,...). Idem pour les impots locaux (taxe foncière, d'habitation).

@@ -1,0 +1,1 @@
+Héritage en favorisant les sauts de génération

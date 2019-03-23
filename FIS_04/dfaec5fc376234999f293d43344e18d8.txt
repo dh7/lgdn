@@ -1,0 +1,1 @@
+diminuer rapidement l'allocation chômage quand elle est supérieure à 2000 euros

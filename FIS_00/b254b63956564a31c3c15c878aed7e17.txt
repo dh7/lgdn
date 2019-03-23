@@ -1,0 +1,1 @@
+donner le cout en euros d'un étudiant par exemple

@@ -1,0 +1,1 @@
+supprimer les tranches et instaurer un pourcentage pour l'impôt sur le revenu

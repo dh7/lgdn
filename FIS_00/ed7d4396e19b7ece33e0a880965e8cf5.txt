@@ -1,0 +1,1 @@
+Compte global de l'état simplifier en lecture en cascade

@@ -1,0 +1,1 @@
+Faire paraître un message d'Alerte pour toutes les personnes ayant une messagerie et les renvoyer sur le site de l'information concerné

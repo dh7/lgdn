@@ -1,0 +1,1 @@
+Simplification et réduction du nombre de taxes (fusion si possible). Et un détail de son utilisation

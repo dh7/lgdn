@@ -1,0 +1,1 @@
+mise en place d'un site internet avec toutes les répartitions des dépenses de l’état et des collectivité locales. de façon a ce que les gens puissent voir ou sont réalisées les dépenses.

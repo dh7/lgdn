@@ -1,0 +1,1 @@
+indexer les salaires au divers taxe et inflation et intégrer toutes les taxe dans l'inflation

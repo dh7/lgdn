@@ -1,0 +1,1 @@
+Afficher pour tous les services leur coût pris en charge par l'impôt (ou les cotisations obligatoires) et le prix payé (ou non) pour l'obtenir. Nettoyer la rue une fois par semaine coûte... Acheter un Rafale coûte... Scolariser un enfant dans tel établissement public, privé.... coûte

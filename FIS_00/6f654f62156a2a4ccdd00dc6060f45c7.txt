@@ -1,0 +1,1 @@
+Regrouper un certain nombre d'impôts et contributions afin de simplifier le classement et la lisibilité. Faire la même chose pour les prestations sociales. Afficher une version simplifée du budget de l'état sur le site des impôts (camembert toujours visible?) et ceux des services publics

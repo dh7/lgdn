@@ -1,0 +1,1 @@
+Envoi par mail une fois par an de la répartition de la collecte d'impôts et de la façon dont ils sont utilisés pour chaque échelle du millefeuille administratif, sous forme de quelques graphiques : commune / communauté de commune / département / région / état.

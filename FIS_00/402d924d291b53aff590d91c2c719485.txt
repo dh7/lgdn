@@ -1,0 +1,1 @@
+Pour chaque hospitalisation, présenter une facture virtuelle détaillant la part des frais prise en charge par l'assurance maladie.

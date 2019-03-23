@@ -1,0 +1,1 @@
+Un graphique de répartition à jour (forme de pie chart) de l'année en cours et des budgets à venir

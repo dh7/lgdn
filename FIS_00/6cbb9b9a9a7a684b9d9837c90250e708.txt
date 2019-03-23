@@ -1,0 +1,1 @@
+Publier annuellement (sur un site web) le budget prévisionnel détaillé, puis mettre en parallèle réalisé poste à poste. Offrir des fonctionnalités de zoom successifs sur les différents postes pour ceux qui veulent affiner les analyses

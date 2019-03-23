@@ -1,0 +1,1 @@
+Fusionner CSG et IR avec bareme progressif

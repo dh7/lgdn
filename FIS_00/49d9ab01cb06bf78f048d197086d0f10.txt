@@ -1,0 +1,1 @@
+envoyer le budget de l'Etat par mail à chaque citoyen

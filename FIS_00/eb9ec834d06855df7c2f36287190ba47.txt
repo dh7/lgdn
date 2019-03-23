@@ -1,0 +1,1 @@
+Proposer une base de données didactique sur l'exemple des 1000€, mais qui permettrait des accès multidimensionnels (par ligne budgétaire, par nature ou même par destination géographique des dépenses)

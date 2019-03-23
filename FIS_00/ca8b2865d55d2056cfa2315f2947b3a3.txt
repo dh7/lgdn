@@ -1,0 +1,1 @@
+Afficher le prix de tout ce qui est gratuit ou presque. Le prix du de revient du KM de bus, de train. Le cout des soins médicaux affichés, le cout du km de route affiché au bord de celle ci, enfin tout ce qui frappe les esprit par la réalité des chiffres.

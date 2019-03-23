@@ -1,0 +1,1 @@
+Simplification de la répartition et plus de clarté en notifiant le coût réel par institutions et la part qui va dans la redistribution sociale par catégorie de redistribution (retraite, sécu, RSA, etc...)

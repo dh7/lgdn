@@ -1,0 +1,1 @@
+Simplifier la lisibilité en regroupant les multiples taxes en une seule par "famille" d'affectation

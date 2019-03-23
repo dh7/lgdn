@@ -1,0 +1,1 @@
+Diffusion tous les trimestres des recettes et dépenses, assez détaillées, en précisant les recettes dédiées ou pas. Donner des informations sur le coût par usager d'un hôpital (bâtiment et salaires), d'une école (bât. et salaires), etc.

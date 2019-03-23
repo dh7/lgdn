@@ -1,0 +1,1 @@
+Utiliser une fonction continue à la place des tranches d'imposition.

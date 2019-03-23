@@ -1,0 +1,1 @@
+Eviter les effets de seuil. Rendre progressif la transition d'une tranche à une autre.

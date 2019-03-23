@@ -1,0 +1,1 @@
+Un site internet permettant de consulter les dépenses au mois le mois dans le détail (en reprenant les catégories comptables par exemple et ministère par ministère etc) ou à minima par an.

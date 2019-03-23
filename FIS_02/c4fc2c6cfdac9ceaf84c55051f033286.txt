@@ -1,0 +1,1 @@
+Celles des personnes qui ont un salaire inférieur à 2000€.

@@ -1,0 +1,1 @@
+Supprimer toutes les taxes qui rapportent moins qu'elles ne coûtent

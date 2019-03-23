@@ -1,0 +1,1 @@
+Simplifier la fiscalité et développer l'intégration des prélèvements aux actes quotidiens (TVA, prélèvement à la source, ...)

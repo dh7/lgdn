@@ -1,0 +1,1 @@
+Donner périodiquement une repartition des dépenses au niveau de k'etat et de la région

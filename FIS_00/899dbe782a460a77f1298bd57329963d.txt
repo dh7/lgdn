@@ -1,0 +1,1 @@
+Recevoir un tableau de répartitions des dépenses et le montant par habitant.

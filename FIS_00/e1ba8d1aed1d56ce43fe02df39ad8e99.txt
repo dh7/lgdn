@@ -1,0 +1,1 @@
+Publier en meme temps que les avis d'imposition, la repartition des dépenses publiques par grandes masses. De cette façon, au moment ou l'état demande l'impôt, il explique ou vont les contributions. en version online avec possibilité de "drill down" dans les grands totaux. De meme que dans les entreprises, informer les dépenses et variations par rapport aux budgets.

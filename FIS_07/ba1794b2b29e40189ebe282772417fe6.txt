@@ -1,0 +1,1 @@
+Supprimer les subventions inutiles genre comités Théodule, et eux-mêmes s'ils sont inactifs.

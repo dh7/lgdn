@@ -1,0 +1,1 @@
+TVA Supprimer la CFE quand un auto entrepreneur n'a eu aucune recette pendant l'année précédente (ex : pour un long arrêt de travail)

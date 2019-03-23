@@ -1,0 +1,1 @@
+Rationalisation complète des différents impôts pour 1 impot proportionnel (revenu et patrimoine) et une taxe à la consommation variable suivant les categories de produits.

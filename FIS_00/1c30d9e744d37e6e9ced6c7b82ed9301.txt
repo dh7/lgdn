@@ -1,0 +1,1 @@
+la liste des dépenses devrait être affichée au même titre qu'un bilan d'entreprise

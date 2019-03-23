@@ -1,0 +1,1 @@
+ne plus raisonner en tranches pour l'impôt sur le revenu mais une variation continue du taux d'imposition, en appliquant par exemple une fonction exponetielle

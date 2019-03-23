@@ -1,0 +1,1 @@
+Un site internet consultable par tous, décrivant toutes les dépenses faites par les différents ministères au cours de l'année écoulée, avec des graphiques de l'évolution des dernières années.

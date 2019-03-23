@@ -1,0 +1,1 @@
+Proportionnalité afin d'éliminer l'effet de seuil.

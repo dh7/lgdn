@@ -1,0 +1,1 @@
+supprimer la taxe d'habitation pour ceux dont la classification est inférieure à 3;

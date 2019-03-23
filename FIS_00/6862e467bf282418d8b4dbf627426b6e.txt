@@ -1,0 +1,1 @@
+Mettre en place une plateforme en ligne pour lister les salaires des fonctionnaires, hauts fonctionnaires, les commissions et groupes de travail et leur budget. Le but est de permettre aux citoyens de savoir où va l'argent des impots.

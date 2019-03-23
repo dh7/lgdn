@@ -1,0 +1,1 @@
+Connaître en pourcentage la répartition des dépenses par secteur par rapport à l'impôt payé. Ex: secteur social

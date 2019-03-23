@@ -1,0 +1,1 @@
+Produire régulièrement une synthèse de budget de la nation avec les flux d'entrée, les dépenses et surtout le fléchage entre les deux.

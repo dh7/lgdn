@@ -1,0 +1,1 @@
+Simplifier pour que le calcul soit compréhensible par le plus grand nombre

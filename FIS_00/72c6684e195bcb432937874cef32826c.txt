@@ -1,0 +1,1 @@
+Simplifier & alléger le CGI

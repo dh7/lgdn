@@ -1,0 +1,1 @@
+Beaucoup plus de "cas par cas" et moins de générique.

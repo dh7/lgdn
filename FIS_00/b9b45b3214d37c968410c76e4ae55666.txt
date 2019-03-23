@@ -1,0 +1,1 @@
+Tableau de bord annuel distribué aux citoyens avec la répartition des sommes collectées et le coût par habitant.

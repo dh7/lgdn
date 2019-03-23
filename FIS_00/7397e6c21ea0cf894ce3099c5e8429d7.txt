@@ -1,0 +1,1 @@
+créer des formulaire simples pour rendre la déclaration moins fastidieuse.

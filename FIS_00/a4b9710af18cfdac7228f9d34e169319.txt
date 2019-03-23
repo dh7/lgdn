@@ -1,0 +1,1 @@
+Affichage du montant en€ et% sur participation sur travaux engagés par les communes.

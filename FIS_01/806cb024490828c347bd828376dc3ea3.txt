@@ -1,0 +1,1 @@
+Un taux fixe, par graduant de salaire, exponentiel.

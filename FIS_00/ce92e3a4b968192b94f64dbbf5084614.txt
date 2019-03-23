@@ -1,0 +1,1 @@
+Au moment où l'on fait sa déclaration ou que l'on est notifié d'un prélèvement, ajouter une notice d'information macro sur l'utilisation qui a été faite des impôts l'année précédente, et un lien vers des données beaucoup plus détaillées.

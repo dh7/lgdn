@@ -1,0 +1,1 @@
+Supprimer les niches fiscales liées à une profession (journaliste par exemple) et plafonner les autres en valeur absolue et non plus en pourcentage des revenus.

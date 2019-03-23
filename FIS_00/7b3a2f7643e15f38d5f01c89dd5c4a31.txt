@@ -1,0 +1,1 @@
+Crée un site internet qui indiquerait pour chaque Ministère, collectivité, Association, etc les sommes reçues.

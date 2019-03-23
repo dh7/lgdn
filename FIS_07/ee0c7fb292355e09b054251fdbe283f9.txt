@@ -1,0 +1,1 @@
+Remise en oeuvre de l'indexation des retraites sur les salaires.

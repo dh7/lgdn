@@ -1,0 +1,1 @@
+Fournir une information chiffrée de chaque prestation/service, y compris education, santé etc.. Ex: combien coûte une année d'étude dans l'education nationale? une prestation de soin à l’hôpital? Tout le monde doit savoir

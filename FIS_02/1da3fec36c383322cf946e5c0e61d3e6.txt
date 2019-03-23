@@ -1,0 +1,1 @@
+Supprimer la multitude de taxes et indiquer une seule taxe et ajuster la variable sur l'impôt sur le revenu.

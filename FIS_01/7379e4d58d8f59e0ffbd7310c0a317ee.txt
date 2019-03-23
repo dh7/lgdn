@@ -1,0 +1,1 @@
+La rendre le plus progressive possible et éviter les effets de seuil.

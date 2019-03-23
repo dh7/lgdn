@@ -1,0 +1,1 @@
+Fixer une limite aux impôts locaux, par exemple un pourcentage des revenus à ne pas dépasser, comme pour l'impôt sur les revenus.

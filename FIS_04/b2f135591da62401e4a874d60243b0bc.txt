@@ -1,0 +1,1 @@
+Indexer les allocations familiales aux revenus des ménages.

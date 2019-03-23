@@ -1,0 +1,1 @@
+un tableau très simple avec d'un côté les entrées (les impôts) et de l'autre les sorties (les dépenses des sommes perçues).

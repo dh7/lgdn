@@ -1,0 +1,1 @@
+Supprimer les allocations au-delà d'un certain niveau de revenus, supprimer les allocations familiales au-delà de 3 enfants.

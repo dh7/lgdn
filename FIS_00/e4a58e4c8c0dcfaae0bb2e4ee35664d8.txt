@@ -1,0 +1,1 @@
+mettre en ligne de façon simple le total des recettes enregistrées, et ensuite la répartition des depenses en quelques thèmes  (santé, éducation, retraite, chômage , infrastructure...)

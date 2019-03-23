@@ -1,0 +1,1 @@
+Donner des informations synthétiques pouvant devenir de plus en plus détaillées selon une arborescence.

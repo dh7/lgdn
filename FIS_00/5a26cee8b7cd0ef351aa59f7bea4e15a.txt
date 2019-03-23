@@ -1,0 +1,1 @@
+Créer un site internet indiquant en chiffre et en pourcentage toutes les recettes classées par catégories ( différents impôts, prélèvements sociaux, contraventions,...) ainsi que chaque poste de dépenses. Chaque citoyen doit pouvoir connaitre la manière dont chaque euro collecté est dépensé.

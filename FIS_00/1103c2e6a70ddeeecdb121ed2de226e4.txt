@@ -1,0 +1,1 @@
+- Un site internet dédié affichant l'ensemble des prélèvements (Etat, collectivités territoriales, ...) avec y compris le détail par collectivité, et l'utilisation + la dette. - Flécher certains impôts à des types de dépenses.

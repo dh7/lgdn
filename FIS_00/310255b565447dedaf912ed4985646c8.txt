@@ -1,0 +1,1 @@
+Information générale lors de la déclaration d'impots sur la ventilation "dépenses" de toutes les recettes et pas seulement l'impot direct.

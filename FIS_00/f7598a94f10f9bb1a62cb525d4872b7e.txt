@@ -1,0 +1,1 @@
+mettre en ligne un simulateur qui fournirait d'une part les taxes prélevées par an pour un ménage (sur salaires, taxe foncière, tva moyenne sur dépenses; impôts sur revenu)  et d'autre part les dépenses de l’état pour le ménage ( éducation, santé, sécurité, défense etc...)

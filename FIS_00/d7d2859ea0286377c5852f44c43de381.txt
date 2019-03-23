@@ -1,0 +1,1 @@
+communiquer les detail des recette et depensse ligne par ligne

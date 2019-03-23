@@ -1,0 +1,1 @@
+Suppression des avantages des fonctionnaires mutés dans les DOM/TOM

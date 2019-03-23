@@ -1,0 +1,1 @@
+Toutes les allocations devraient être dégressives, en fonction du niveau de revenu

@@ -1,0 +1,1 @@
+Simplification de la lecture des fiches de payes.

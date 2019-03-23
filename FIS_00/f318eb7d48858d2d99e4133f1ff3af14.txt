@@ -1,0 +1,1 @@
+Un site internet simple d'utilisation avec les montants récupérés et la redistribution par le biais de graphiques mis à jour mensuellement.

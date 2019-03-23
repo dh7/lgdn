@@ -1,0 +1,1 @@
+Créer une application qui informe en temps réel sur les dépenses et qui donne des informations sur les dépenses de fonctionnement (montant par zone géographique, nombre de fonctionnaires, rémunération la plus basse et la plus haute... ). Envoyer à chaque citoyen un récapitulatif annuel de ce qu'il a payé et de ce qu'il a reçu directement (aides, dépenses de santé)

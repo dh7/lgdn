@@ -1,0 +1,1 @@
+Sur un site avoir en temps réel le montant des revenus de l'état et celui des dépenses avec projection cartographique et graphiques des dépenses par type et localisation

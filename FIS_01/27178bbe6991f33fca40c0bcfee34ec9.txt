@@ -1,0 +1,1 @@
+Taxer selon la hauteur  du salaire en augmentant la proportion au fur et à mesure.

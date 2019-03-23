@@ -1,0 +1,1 @@
+conserver 1/2 part par enfant et non 0.25 lors des gardes alternées

@@ -1,0 +1,1 @@
+Une page de synthèse (sur ImpotGouv ?) retraçant:    - De manière macro, pour 1000e, comment ceux-ci sont utilisés    - De manière individuelle, la somme annuelle de prestations sociales dont le citoyen a bénéficié (CPAM / Allocations / Aides diverses...)

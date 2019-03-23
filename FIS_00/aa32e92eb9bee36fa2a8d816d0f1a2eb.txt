@@ -1,0 +1,1 @@
+Il faut valoriser chaque service non régalien et rendre leur utilisation facultative (consommateur=payeur)

@@ -1,0 +1,1 @@
+Chaque administration devrait afficher le coût de son fonctionnement.

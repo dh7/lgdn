@@ -1,0 +1,1 @@
+csg  application d'un pourcentage progressif,  pour tout le monde mais par tranche avec des minimas pour les salaires inf à 2000 euros et ensuite augmenter le taux par tranche idem pour l'epargne

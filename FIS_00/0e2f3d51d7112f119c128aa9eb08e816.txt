@@ -1,0 +1,1 @@
+Tableau à 3 colonnes (dépenses, recettes, déficit) avec lecture horizontale poste par poste Plusieurs postes dépenses possiblent pour un même poste recette (IR, TVA,...)

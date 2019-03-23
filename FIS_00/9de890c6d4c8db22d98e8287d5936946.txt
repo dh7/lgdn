@@ -1,0 +1,1 @@
+Ajouter un graphe en camembert représentant les différents pourcentages de l'impôt attribué à chaque service (éducation, recherche, hopitaux, défense, ...) sur le récapitulatif lors du paiement de l'impot. Simple et efficace

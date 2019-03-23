@@ -1,0 +1,1 @@
+Un peu d'IR pour tout ceux qui travaillent même une somme symbolique

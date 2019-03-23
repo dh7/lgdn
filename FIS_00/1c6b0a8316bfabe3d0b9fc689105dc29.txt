@@ -1,0 +1,1 @@
+Un endroit unique qui permettrait de regrouper toutes les aides. Le mieux serait de pouvoir rentrer toutes ses données (ou faire une simulation), qui liste à la fin les différentes aides possibles, les conditions pour y accéder (comme des conditions sur revenu ou le choix entre deux aides non cumulables), ainsi qu'un guide de la démarche à suivre.

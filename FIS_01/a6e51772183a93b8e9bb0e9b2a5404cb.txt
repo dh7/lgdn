@@ -1,0 +1,1 @@
+Augmenter le nombre de tranches en essayant d'une manière équitable d'imposer la majorité des citoyens.

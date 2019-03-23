@@ -1,0 +1,1 @@
+Faire parvenir à chaque citoyen un récapitulatif du budget de l’état par ministère de l’année précédente avec entrée et sortie.

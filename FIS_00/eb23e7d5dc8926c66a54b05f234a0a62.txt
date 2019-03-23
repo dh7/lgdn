@@ -1,0 +1,1 @@
+Il faudrait que toutes les rubriques "d'état" soient regroupée en sous-domaines de .gouv.fr comme impôts.gouv.fr ou encore www.aquoiserventmesimpots.gouv.fr car il y aurait alors la certitude qu'il s'agit bien du site officiel. Par exemple https://granddebat.fr/ devrait être granddebat.gouv.fr.

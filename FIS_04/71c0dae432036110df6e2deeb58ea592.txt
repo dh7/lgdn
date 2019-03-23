@@ -1,0 +1,1 @@
+Revoir le montant des Assédic avec un taux dégressif.

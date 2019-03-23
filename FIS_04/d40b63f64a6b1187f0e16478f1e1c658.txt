@@ -1,0 +1,1 @@
+Allocations chomage qui durent trop longtemps. Intégrer une dégrissivité pour favoriser le retour à l'emploi

@@ -1,0 +1,1 @@
+Un site "Où va votre impôt" récapitulant le détail poste par poste des recettes de l'année en cours (y compris la TVA, les taxes sur le tabac, sur l'essence...) et des dépenses, et permettant aux citoyens de poser des questions et d'avoir des réponses.

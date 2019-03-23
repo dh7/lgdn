@@ -1,0 +1,1 @@
+Plafonnez l allocation chômage. Que ça ne soite pas indexé sur le salaire.

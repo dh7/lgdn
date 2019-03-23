@@ -1,0 +1,1 @@
+- Supprimer les privilèges de certains salariés, tels que EdF, SNCF ou autres.

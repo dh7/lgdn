@@ -1,0 +1,1 @@
+Un graphique accessible depuis la page internet du gouvernement montrant les dépenses par catégorie: santé, justice, éducation, défense, recherche, dépenses élus, commissions, reste de l'état

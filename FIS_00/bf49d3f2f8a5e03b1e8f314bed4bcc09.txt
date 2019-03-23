@@ -1,0 +1,1 @@
+Nous montrer la destination de nos impôts par catégorie et montant des dépenses : un reporting complet via un outil de datavisualisation par exemple ; ainsi on aurait une meilleure visibilité et transparence des dépenses

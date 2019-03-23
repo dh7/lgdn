@@ -1,0 +1,1 @@
+remplacer les tranches d'imposition et les seuils d'accès aux aides par des formules linéaires

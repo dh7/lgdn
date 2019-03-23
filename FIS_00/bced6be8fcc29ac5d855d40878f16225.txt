@@ -1,0 +1,1 @@
+Il serait intéressant d'associer à chaque service le coût , exemple sur une facture d'une journée d’hôpital préciser la part prise en charge par l'état

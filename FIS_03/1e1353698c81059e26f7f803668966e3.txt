@@ -1,0 +1,1 @@
+simplifier les méthodes de calcul, centraliser les aides, baisser les couts de gestion

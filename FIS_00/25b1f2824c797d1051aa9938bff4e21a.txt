@@ -1,0 +1,1 @@
+Réaliser des diagrammes accessibles au public qui retranscrivent chaque montants de chaque taxes et impôts récoltés par an. Puis un autre diagramme permettant de voir la réaffectation des crédits.

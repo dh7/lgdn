@@ -1,0 +1,1 @@
+Clarifier pour chacun ce qu'il touche indirectement de l'état.

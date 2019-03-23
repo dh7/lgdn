@@ -1,0 +1,1 @@
+Ajouter plusieurs tranches d'imposition en bas de l'échelle fiscale.

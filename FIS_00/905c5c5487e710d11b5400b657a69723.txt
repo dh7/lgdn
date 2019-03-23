@@ -1,0 +1,1 @@
+Une info annuelle simple, en début d'année pour l'année précédente. Maxi une page, sous forme de graphiques par exemple qui donnerai sur la partie gauche la provenance des recettes et leur répartition et sur la partie droite les dépenses et leur répartition.

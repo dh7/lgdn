@@ -1,0 +1,1 @@
+IFI : sortir la résidence principale du calcul de l'IFI.

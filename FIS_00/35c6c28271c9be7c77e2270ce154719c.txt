@@ -1,0 +1,1 @@
+Donner chaques années le montant total des rentrées de l'état et les sorties.

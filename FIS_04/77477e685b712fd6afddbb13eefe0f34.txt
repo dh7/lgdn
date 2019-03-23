@@ -1,0 +1,1 @@
+Calculer les allocations familiales en fonction du quotient familial. Enlever allocations familiales à des foyers gagnant 6000 euros et garder l' impot foncier ( taxe fonciere ) pour les gros salaires

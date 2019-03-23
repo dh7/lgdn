@@ -1,0 +1,1 @@
+Que chaque impôt ait une attribution unique, Etat, Région, Département, Commune.

@@ -1,0 +1,1 @@
+Affecter les taxes à un objet précis. Créer une contribution locale au bénéfice des communes, EPCI, départements et régions et une contribution nationale pour les dépenses de l'Etat pour simplifier l'impôt.

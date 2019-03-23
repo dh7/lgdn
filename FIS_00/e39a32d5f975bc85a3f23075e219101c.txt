@@ -1,0 +1,1 @@
+Montrer plus clairement le poids de la dette et sa sensibilité aux variations du taux d’interet

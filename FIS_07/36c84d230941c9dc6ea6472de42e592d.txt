@@ -1,0 +1,1 @@
+Suppression des niches fiscales n'ayant pas soit un rôle social direct soit un effet direct sur l'emploi.

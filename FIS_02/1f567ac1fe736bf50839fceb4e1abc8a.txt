@@ -1,0 +1,1 @@
+Supprimer l'IFI, compenser en augmentant le nombre de tranches

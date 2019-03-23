@@ -1,0 +1,1 @@
+tous: états et échelons intermédiaires, ne garder que 2 échelons communauté et région

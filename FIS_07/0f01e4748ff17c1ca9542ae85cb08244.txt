@@ -1,0 +1,1 @@
+Comptabiliser les aides sociales pour le calcul de l'impôt sur le revenu.

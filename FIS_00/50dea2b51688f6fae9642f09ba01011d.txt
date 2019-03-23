@@ -1,0 +1,1 @@
+Il devrait être possible de baisser volontairement le montant du crédit d'impôt remboursé en Janvier N sur le site impots.gouv. En effet, l'acompte étant basé sur les dépenses N-2, cela éviterait de percevoir une somme qu'il faudra potentiellement rembourser en Juillet si les dépenses éligibles à ce crédit d’impôt ont été inférieures voir nulles en N-1

@@ -1,0 +1,1 @@
+Une page simple contenant avec graphes et chiffres la répartition de l' utilisation du budget, avec comparaison des données des autres pays de l' Europe. Pas de discours, des chiffres !

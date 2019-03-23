@@ -1,0 +1,1 @@
+Uniformiser les taxes et les afficher clairement ex à la pompe Taxe = x  cout au litre x

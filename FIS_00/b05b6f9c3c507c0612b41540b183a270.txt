@@ -1,0 +1,1 @@
+mettre en place un site indiquant les dépenses publiques par nature, c'est à dire par ligne budgétaire, en évitant autant que possible les regroupements qui conduisent souvent à brouiller les choses

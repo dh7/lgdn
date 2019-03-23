@@ -1,0 +1,1 @@
+Interdire le RSA à vie: limiter la durée d'attribution à 5 années

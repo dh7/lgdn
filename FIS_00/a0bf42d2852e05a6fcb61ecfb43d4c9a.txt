@@ -1,0 +1,1 @@
+envoyer par mail l'estimation des soins, le coût de la scolarité (pour information)

@@ -1,0 +1,1 @@
+Simplifier et ne pas changer souvent les règles d3 calcul pour avoir de la continuité.

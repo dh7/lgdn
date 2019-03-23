@@ -1,0 +1,1 @@
+trop de cas particuliers et d'exceptions, simplifions

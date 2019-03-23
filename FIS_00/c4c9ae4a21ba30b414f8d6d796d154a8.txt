@@ -1,0 +1,1 @@
+Une simulation simplifiée sur le modèle du budget d'un ménage avec des montants intelligibles pour tous.

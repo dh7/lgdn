@@ -1,0 +1,1 @@
+Un site internet institutionnel présentant en dynamique les recettes et dépenses par type (volume des différents impôts collectés, découpage selon les périmètres des différentes politiques publiques) avec mise ne exergue de la planification (par exemple les différentes lois de finances et de programmations votées) et de la conduite (gestion des aléas et consommation des budgets).

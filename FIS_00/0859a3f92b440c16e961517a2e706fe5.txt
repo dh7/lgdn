@@ -1,0 +1,1 @@
+calculer pour chaque catégorie de dépense publique quelle somme elle représente pour chaque contribuable.

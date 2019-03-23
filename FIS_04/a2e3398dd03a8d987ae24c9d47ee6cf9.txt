@@ -1,0 +1,1 @@
+Il faut tendre vers une allocation unique fonction du salaire

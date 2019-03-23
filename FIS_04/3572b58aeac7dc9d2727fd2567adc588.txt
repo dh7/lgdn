@@ -1,0 +1,1 @@
+la suppression des allocs pour les salaires superieurs  de 10000€

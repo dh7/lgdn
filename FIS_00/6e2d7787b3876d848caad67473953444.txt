@@ -1,0 +1,1 @@
+afficher pour chaque citoyen la répartition de sa contribution aux différentes dépenses de l'état et des collectivités.  donner au citoyen la possibilité de choisir la répartition de sa contribution (éducation, santé, écologie, transport, ...) ce qui permettrait de mieux appréhende les priorités des françaises et français;

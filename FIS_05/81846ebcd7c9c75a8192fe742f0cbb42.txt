@@ -1,0 +1,1 @@
+handicap  RSA mais avec des contraintes (par facile à mettre en oeuvre)

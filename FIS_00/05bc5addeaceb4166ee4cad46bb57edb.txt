@@ -1,0 +1,1 @@
+Publier un résumé annuel de tout le budget de l'état avec les variations d'une année à l'autre ministère par ministère.

@@ -1,0 +1,1 @@
+Basculement d'une logique de concurrence, à une logique de coopération

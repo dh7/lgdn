@@ -1,0 +1,1 @@
+Plus de transparence et montrer clairement ce qui est effectué en fonction des classes.

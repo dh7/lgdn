@@ -1,0 +1,1 @@
+supprimer les effets de paliers, qui sur plusieurs impôts cumulés donnent des effets de progression exponentielle

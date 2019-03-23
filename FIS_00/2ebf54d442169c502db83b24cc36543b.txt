@@ -1,0 +1,1 @@
+simplement donner le montant des dépenses dans chaque ministère  avec les pourcentages sur le montant total

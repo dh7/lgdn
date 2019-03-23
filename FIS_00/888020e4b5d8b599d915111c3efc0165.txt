@@ -1,0 +1,1 @@
+Un tableau avec les différents postes de dépenses et leur part dans le budget.

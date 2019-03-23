@@ -1,0 +1,1 @@
+Afficher un "camembert" personnalisé de répartition de l'impôt à la fin de la déclaration de revenu. Informer les citoyens sur le coût des services qu'ils utilisent (ex : école, justice, hôpital...) Laisser au citoyen un petit pourcentage d'impôt à répartir lui même, voire imaginer un jeu avec des arbitrages à faire.

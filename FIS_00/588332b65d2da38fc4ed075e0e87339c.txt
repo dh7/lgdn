@@ -1,0 +1,1 @@
+- séparer les dépenses de nature d’aides sociales (RSA, Allocations) des dépenses de nature retributive d’un effort (sécurité sociale, retraites)

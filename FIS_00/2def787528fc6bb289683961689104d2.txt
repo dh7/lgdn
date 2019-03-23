@@ -1,0 +1,1 @@
+Donner des chiffres sur les sommes distribuées et le nombre de personnes concernées. Donner une liste hiérarchisée de l'utilisation des fonds pour se rendre compte du budget affecté.

@@ -1,0 +1,1 @@
+Un site internet qui présenterait des tableaux détaillés du budget de l'état avec les recettes et les dépenses et qui serait consultable par tout le monde (un peu comme le budget d'une copropriété) avec la possibilité de demander des précisions

@@ -1,0 +1,1 @@
+Un site web avec un simple graphique montrant où va l'argent collectée.

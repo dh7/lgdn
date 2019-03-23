@@ -1,0 +1,1 @@
+refaire une grille de tranches d'impôt avec des tranches égales et une ou 2 tranches supplémentaires

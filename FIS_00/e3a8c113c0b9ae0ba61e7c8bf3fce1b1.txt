@@ -1,0 +1,1 @@
+Un affichage permanent de la situation, sur le site du gouvernement, avec un pareto des pôles de dépenses.

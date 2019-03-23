@@ -1,0 +1,1 @@
+payer  8 % de taxe quand on achète un bien est ce bien sérieux

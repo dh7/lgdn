@@ -1,0 +1,1 @@
+Instaurer une TVA variable de 5% à 30% en fonction des revenus de chacun

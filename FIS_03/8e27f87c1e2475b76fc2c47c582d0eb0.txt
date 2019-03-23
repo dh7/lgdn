@@ -1,0 +1,1 @@
+augmenter les charges sociales avec un coef dégressif pour les bas salaires

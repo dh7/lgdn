@@ -1,0 +1,1 @@
+Relocaliser la dépense avec l’impôt. A une dépense locale correspond un impôt local

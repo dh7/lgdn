@@ -1,0 +1,1 @@
+Informer sur le coût d'une hospitalisation lors de la fin d'un séjour à l'hôpital.

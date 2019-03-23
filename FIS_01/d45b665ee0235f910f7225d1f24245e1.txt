@@ -1,0 +1,1 @@
+le faire en fonctions des revenus ne pas ponctionner a taux plein quand on dépasse de 1 euro le seuil

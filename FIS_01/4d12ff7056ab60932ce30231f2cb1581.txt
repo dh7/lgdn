@@ -1,0 +1,1 @@
+Simplifier le nombre de taxes. Faire payer à tous un impôt, même minimal.

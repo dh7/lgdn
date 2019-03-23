@@ -1,0 +1,1 @@
+qu'il y ait au niveau local un éclairage des dépenses réalisées par catégorie d'une manière lisible.

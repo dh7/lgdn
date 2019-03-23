@@ -1,0 +1,1 @@
+supprimer les postes redondants de fonctionnaires dans les départements et les régions.

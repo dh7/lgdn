@@ -1,0 +1,1 @@
+adapter le taux de TVA en fonction du type de bien ou service (produits "essentiels" moins taxés que d'autres type alcool, HIFI....)
