@@ -62,7 +62,7 @@
         el.style.display = 'block';
         el.style.left = x+10;
         el.style.top = y-10;
-        fetch(prefix + '/' + object.h+'.txt')
+        fetch('https://storage.googleapis.com/lgdn/'+ prefix + '/' + object.h+'.txt')
           .then(function(response) {
                 return response.text()
           })
