@@ -1,1 +1,0 @@
-L'état pour les prix des transports à imposer fixes en toute saison, l'état pour la recherche et les lois.

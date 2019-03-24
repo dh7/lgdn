@@ -1,1 +1,0 @@
-Proposer des opérations pilotes, des tests de consommation et restituer les résultats au niveau européen Exemple : Consommation d'électricité par certaines entreprises, magasins, restaurants la nuit entre 1heure du matin et 8h00 du matin. (Enseignes, luminaires, vitrines).

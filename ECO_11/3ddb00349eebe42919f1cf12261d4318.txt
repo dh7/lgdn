@@ -1,1 +1,0 @@
-Un service SNCF interurbain (un tram train) cadencé toutes les 20 mn sur les heures de pointe.

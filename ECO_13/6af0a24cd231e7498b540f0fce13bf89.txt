@@ -1,1 +1,0 @@
-Un opérateur capable de faire rouler des trains en temps et en heure sur le réseau ferré secondaire français (bien évidemment sans supprimer les petites gares sinon ce n'est plus du transport local). Comme savait le faire la SNCF il y a des années mais qui manifestement a complètement perdu sa compétence !

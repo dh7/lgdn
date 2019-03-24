@@ -1,1 +1,0 @@
-Pour limiter la consommation électrique, il faut que tous les appareils soient équipés d'un interrupteur. Actuellement, ils ne sont jamais arrêtés, mais en veille sauf si on les débranche. Il faut donc imposer aux constructeurs la mise en place d'un système de coupure permettant un arrêt complet quand ces appareils ne sont pas utilisés.

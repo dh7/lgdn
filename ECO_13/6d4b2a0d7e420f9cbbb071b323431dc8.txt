@@ -1,1 +1,0 @@
-cela dépend du type de transport. Cela peut concerner l'Etat, la région, la ville. Mais idéalement, il faudrait que cela soit simple d'utilisation.

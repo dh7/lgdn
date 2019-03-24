@@ -1,1 +1,0 @@
-Malheureusement de plus en plus compliqué, car si un trajet est possible en transport en commun, le retour ne l'est pas ou aléatoire (problème de correspondances pour les trains

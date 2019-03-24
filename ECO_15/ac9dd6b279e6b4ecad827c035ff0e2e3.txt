@@ -1,1 +1,0 @@
-Limiter les poids lourds sur l'autoroute en chargeant les camions sur des wagons. Développer le transport par rail. Développer le solaire et l'éolien.

@@ -1,1 +1,0 @@
-Une gestion des transports uniques SNCF, Régions, Villes, Agglomération, Communauté etc etc ... Cela a t'il du sens pour développer un système pour tous ?

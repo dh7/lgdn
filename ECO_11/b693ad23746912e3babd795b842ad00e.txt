@@ -1,1 +1,0 @@
-Marcher est une solution pour les déplacements de moins de 5 km dans la mesure où on le peut. Personnellement je fais 10 km par jour de marche.

@@ -1,1 +1,0 @@
-Un travail plus souple sur les horaires afin de faire les trajets en train. Supporter les entreprises qui favorisent les déplacements doux.

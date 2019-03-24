@@ -1,1 +1,0 @@
-Il faut penser temps global de trajet (temps en mouvement + temps d'attente plutôt que vitesse) Un bon système est voiture + parking relais+ réseau de transport en commun dense à fréquence élevée

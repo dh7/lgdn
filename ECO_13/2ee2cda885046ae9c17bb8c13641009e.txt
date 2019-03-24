@@ -1,1 +1,0 @@
-L'état pour les longs trajets en train ou en bus. Les régions, départements et communes pour les petits trajets.

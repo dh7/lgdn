@@ -1,1 +1,0 @@
-Les réseaux de bus son mal fait (exemple Bordeaux et Toulouse): toutes les lignes convergent vers un centre ville, ce qui implique de perdre du temps à aller dans le centre. Il manque un maillage circulaire et régulier autours des villes.

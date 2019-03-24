@@ -1,1 +1,0 @@
-Le nombre d'emballage pour des produits en vente : parfois un produit à 4 emballages pour la vente (entre le carton et le plastique).  refaire de la vente à l'unité pour les produits alimentaires.

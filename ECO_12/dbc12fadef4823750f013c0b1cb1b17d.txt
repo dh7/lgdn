@@ -1,1 +1,0 @@
-Développement de très petite voiture pour les transport urbains, style autolib mais plutôt en location abonnement longue durée. L’expérience des autolib ou vélib est décevante par les dégradations observées. 

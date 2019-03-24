@@ -1,1 +1,0 @@
-Constructeur de véhicule mais il faut les obliger à faire leur transition. Avec des restrictions plus sévère sur la pollution qui font que le véhicule, soit consommera très peu pour ne pas polluer, ou sera électrique, ou sera à hydrogène.

@@ -1,1 +1,0 @@
-Il y a plusieurs strates : l'état pour la gestion du transport ferroviaire,

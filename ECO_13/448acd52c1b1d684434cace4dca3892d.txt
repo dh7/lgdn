@@ -1,1 +1,0 @@
-l'échelon adminsitratif adapté: - la commune peut organiser les déplacements intercommunales - le département peut organiser les déplacements interdépartementaux - la région peut organiser les déplacements interrégionaux.

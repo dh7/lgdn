@@ -1,1 +1,0 @@
-Il pourrait être créer une structure qui ne raisonne plus de manière départementale ou régionale mais en fonction des bassins d'emploi , commerciaux, médicale et culturel

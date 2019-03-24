@@ -1,1 +1,0 @@
-Développer des sites internet  de proximité dans lequel chacun peut indiquer ses trajets des jours à venir pour inciter des voisins à partager ces trajets. Trouver une solution pour gérer les problèmes d'assurance induits

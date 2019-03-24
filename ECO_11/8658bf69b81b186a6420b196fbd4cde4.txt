@@ -1,1 +1,0 @@
-Développer le train pour les petits trajets  de ville à ville de département à département, avec des horaires et des fréquences acceptables et des prix qui ne dépassent pas l'utilisation de la voiture individuelle.

@@ -1,1 +1,0 @@
-Avoir valeur d'exemple en mettant en place les solutions puis en montrant qu'elles fonctionnent.

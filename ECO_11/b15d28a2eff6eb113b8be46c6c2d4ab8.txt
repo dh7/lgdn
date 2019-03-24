@@ -1,1 +1,0 @@
-Créer un site unique d'information sur tous les transports en commun existants : type de transport (avion, train, bus, etc)lignes desservies, horaires, tarifs, aires de stationnement et éventuellement tarifs, adresses précises des gares et différents arrêts prévus, facilité d'accès d'un type de déplacement à un autre, etc.

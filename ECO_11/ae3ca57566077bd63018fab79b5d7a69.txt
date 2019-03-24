@@ -1,1 +1,0 @@
-Généraliser un système d'auto-stop sécurisé, comme ça se fait en certains endroits, avec l'appli Autostop ou rezo pouce.

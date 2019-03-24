@@ -1,1 +1,0 @@
-Le bus, besoin de plus de régularité et signalement. A chaque arrêt de bus ou sur le smartphone, il faudrait afficher le statut des prochains bus (temps avant son arrivée, connaitre les soucis éventuels et les alternatives en cas d'incident). Nous rassurer, au plus près nous informer en temps réel et proposer des plans B.

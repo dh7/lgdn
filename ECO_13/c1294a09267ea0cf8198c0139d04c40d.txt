@@ -1,1 +1,0 @@
-Selon la distance à parcourir, on pourrait imaginer des solutions par le quartier/bâtiment (prêts de vélos/trotinettes entre particulier par exemple), par la ville (transports en communs, VLS), par le département/la région (train, covoiturage)

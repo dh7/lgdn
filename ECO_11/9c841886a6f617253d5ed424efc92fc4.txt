@@ -1,1 +1,0 @@
-Il faudrait développer  le système de voitures partagées de l’entreprise en ajoutant des scooters, des vélos et en proposant une interface de réservation plus pratique.

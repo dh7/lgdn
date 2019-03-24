@@ -1,1 +1,0 @@
-Ville , région, département. Cela se fait déjà (SNCF, car régionaux par ex.) mais doit être développé en particulier dans les villes

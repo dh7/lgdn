@@ -1,1 +1,0 @@
-Augmenter le nombre de TER qui dessert la gare la plus proche (à 5km) car les trains passent mais ne s'y arrêtent quasiment pas (une aberration !), créer des pistes cyclables entre les villages sur les sentiers de randonnée existants.

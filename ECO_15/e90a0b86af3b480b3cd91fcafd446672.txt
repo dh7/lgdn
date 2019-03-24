@@ -1,1 +1,0 @@
-Les comportements doivent changer, si nécessaire avec des contraintes financières: trop de gens laissent tourner le moteur d'une voiture à l'arrêt, une possibilité est d'augmenter le coût de l'essence pour limiter ces comportements.

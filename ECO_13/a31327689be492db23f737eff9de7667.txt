@@ -1,1 +1,0 @@
-Les mairies pour les trajets courts, les départements pour les trajets plus longs, l'état pour les trajets nationaux.

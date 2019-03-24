@@ -1,1 +1,0 @@
-Taxe verte progressive en fonction d'un seuil d'imposition à définir et d'un poids carbone annuel. (Obligation de déclarer le poids carbone annuel avion, voiture, chauffage, rejets des déchets...ect)

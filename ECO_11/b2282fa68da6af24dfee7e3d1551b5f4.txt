@@ -1,1 +1,0 @@
-Généralisation des systemes de covoiturage, création de lignes inter cités à fréquence courte, type RER avec correspondances adaptées.

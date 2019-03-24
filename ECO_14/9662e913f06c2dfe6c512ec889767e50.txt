@@ -1,1 +1,0 @@
-Taxer les marchandises en fonction du nombre de kilomètres parcourus, en tenant compte de la manière dont ils ont été transportés. Basculer toute la production d'électricité sur des énergies renouvelables.

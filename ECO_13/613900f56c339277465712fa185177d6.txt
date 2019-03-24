@@ -1,1 +1,0 @@
-90 % des voitures sont occupées par une personne seule.....il est certainement possible de faire mieux en mettant en place une application regroupant les ressources (nombre de place disponibles pour tel trajet de telle heure à telle heure) et en face les besoins avec les mêmes critères.

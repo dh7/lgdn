@@ -1,1 +1,0 @@
-Le département et la région suivant si le réseau est local dans le canton ou entre les départements.

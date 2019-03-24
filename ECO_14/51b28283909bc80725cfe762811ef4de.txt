@@ -1,1 +1,0 @@
-Le faire correctement dans l'hexagone dans un premier temps et ainsi prouver son bon fonctionnement dans un second

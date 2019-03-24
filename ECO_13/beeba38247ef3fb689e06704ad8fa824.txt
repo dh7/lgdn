@@ -1,1 +1,0 @@
-Pour le train, seul l'état et les régions peuvent le faire ... le reste devrait être mis en place localement

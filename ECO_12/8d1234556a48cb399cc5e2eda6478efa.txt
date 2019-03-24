@@ -1,1 +1,0 @@
-que le TER s'arrête à la gare la plus proche (actuellement le train passe sans s'arrêter) avec des horaires adaptés aux actifs

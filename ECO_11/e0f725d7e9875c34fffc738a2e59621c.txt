@@ -1,1 +1,0 @@
-Un trajet en train qui soit au moins aussi rapide que la voiture.

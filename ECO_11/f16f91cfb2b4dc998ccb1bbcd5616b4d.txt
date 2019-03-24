@@ -1,1 +1,0 @@
-Une plate-forme de covoiturage en ligne pour les navetteurs (allers-retours quotidiens entre domicile et travail). Des pistes cyclables sécurisées.

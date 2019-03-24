@@ -1,1 +1,0 @@
-L'état et les régions pour le réseau TER. Le département et les communes pour les pistes cyclables (quasiment inexistantes chez nous) et les réseaux urbains de bus.

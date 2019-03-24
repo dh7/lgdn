@@ -1,1 +1,0 @@
-il faut créer des modèles globaux destinés aux différents acteurs, citoyens, industriels, administration... et indiquer si pour chaques modèles les bénéfices escomptés

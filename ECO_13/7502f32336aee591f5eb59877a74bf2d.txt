@@ -1,1 +1,0 @@
-L’état pour les grandes distances (trajets entre grandes villes). Les collectivités locales pour les trajets moyens et courts.

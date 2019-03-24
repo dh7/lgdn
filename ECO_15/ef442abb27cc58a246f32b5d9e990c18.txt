@@ -1,1 +1,0 @@
-Obliger les constructeurs à faire du réparable!!

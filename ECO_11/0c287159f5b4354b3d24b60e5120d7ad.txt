@@ -1,1 +1,0 @@
-Une solution qui concurrence la voiture en termes de coût et de temps de déplacement.

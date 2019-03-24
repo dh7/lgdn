@@ -1,1 +1,0 @@
-Que les lignes de bus alternent les trajets à arrêts avec des trajets directs d'un point à un autre pour que le temps passé en bus ne soit pas le double ou le triple d'un trajet en voiture.

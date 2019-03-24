@@ -1,1 +1,0 @@
-Tester pour montrer que ça marche. Si ça marche, les autres suivront.On ne doit pas attendre un consensus pour y aller. Essayons!!

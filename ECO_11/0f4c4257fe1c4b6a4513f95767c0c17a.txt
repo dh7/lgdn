@@ -1,1 +1,0 @@
-Disposer de transports en commun qui ne multiplient pas par 2 ou 2,5 les temps de trajet (pour me rendre à mon travail notamment).

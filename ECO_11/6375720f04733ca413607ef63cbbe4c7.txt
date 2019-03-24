@@ -1,1 +1,0 @@
-Système équivalent au Vélib absolument partout en France ou prime à l'achat de vélos (non électriques!). Développer pour les transports intra-commune des taxis-vélos.

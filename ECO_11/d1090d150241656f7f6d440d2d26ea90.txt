@@ -1,1 +1,0 @@
-Augmenter le nombre de bus (actuellement il n'y a que les bus scolaires, en périodes scolaires et pas un seul en vacances. Horaires actuels: 2 le matin à 6h45 et à 8h et 2 le soir à 17h et à 17h30.

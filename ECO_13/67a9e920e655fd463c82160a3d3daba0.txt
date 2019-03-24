@@ -1,1 +1,0 @@
-L état doit pouvoir proposer en ligne une appli qui permettrait en fonction de sa localisation et de son itinéraire les solutions alternatives à proximité

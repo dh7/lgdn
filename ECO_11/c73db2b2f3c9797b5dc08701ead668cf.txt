@@ -1,1 +1,0 @@
-Il faudrait que le cout d'utilisation soit inferieur à celui de la voiture et que la fréquence des rotations de bus soient continues.

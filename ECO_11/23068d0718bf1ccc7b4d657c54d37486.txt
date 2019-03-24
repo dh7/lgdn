@@ -1,1 +1,0 @@
-- bien trop compliqué car tout converge vers le centre ville et fait perdre trop de temps; - créer comme en Espagne, une ligne circulaire autour de la ville, avec des parkings, qui permet si on va à l'extérieur de ne pas passer en centre ville - ici on limite les places de parkings d'entrée de ville, c'est une hérésie !

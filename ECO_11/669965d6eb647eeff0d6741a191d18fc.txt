@@ -1,1 +1,0 @@
-Je les utilise déjà, selon le type de trajet, la distance, l'affluence et les saturations routières.

@@ -1,1 +1,0 @@
--Suppression de l’heure d’hiver et garder l’heure d’été   -Moduler le nombre de jours de chasse , ex samedi oui dimanche non

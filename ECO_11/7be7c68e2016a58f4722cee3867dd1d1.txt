@@ -1,1 +1,0 @@
-La création d'une application web pour faire du covoiturage flexible avec les employés de ma société.

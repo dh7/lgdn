@@ -1,1 +1,0 @@
-Diviser par deux le temps de trajet par transport en commun.

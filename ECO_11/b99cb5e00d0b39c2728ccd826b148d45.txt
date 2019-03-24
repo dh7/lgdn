@@ -1,1 +1,0 @@
-Systèmes de géolocalisations pour les bus, tramways, métro, vélibs etc... permettant de définir exactement le temps des parcours domicile travail ou autres avec fréquences suffisantes pour perdre le minimum de temps entres différentes formes de transport. Pour l'auto-partage en ville, faciliter leur circulation en donnant accès à des couloirs réservés pour les bus

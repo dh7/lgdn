@@ -1,1 +1,0 @@
-Mettre en place une prime liée au km parcourus en vélo ou à pied sur une période donnée. Cela supposerait d'équiper les vélos et les personnes en conséquence.

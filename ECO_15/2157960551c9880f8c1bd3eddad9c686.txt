@@ -1,1 +1,0 @@
-Faire une exception au principe de non affectation des recettes aux dépenses en créant un compte d'affectation spéciale pour la taxe carbone (en tout ou partie) avec des dépenses fléchées.

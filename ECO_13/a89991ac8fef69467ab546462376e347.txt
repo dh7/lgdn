@@ -1,1 +1,0 @@
-Les constructeurs devraient obliger les conducteurs a enregistrer la destination sur leur gps et relier le système à un site web afin de voir si d'autres personnes ont le même trajet. Le cas échéant, lrur donner la possibilité de se joindre.

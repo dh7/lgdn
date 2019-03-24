@@ -1,1 +1,0 @@
-Densifier l'offre pour minimiser les contraintes horaires. 1 bus le matin et 1 bus le soir ne suffisent pas. Des mini-bus sans conducteur pour assurer des dessertes à la demande (via application mobile)

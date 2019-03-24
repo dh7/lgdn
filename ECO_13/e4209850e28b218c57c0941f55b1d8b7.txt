@@ -1,1 +1,0 @@
-2 niveaux: - 1er niveau ; l'état doit pour accompagner la région et le département - 2ème niveau ; la région et le département doivent organiser avec les communautés de communes les action à mettre en place

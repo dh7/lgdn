@@ -1,1 +1,0 @@
-L'état avec l'aide de bases de données des entreprises et pôles d'activité pour avoir une idée de qui va où. Et pouvoir créer des regroupements ciblés.

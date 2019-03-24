@@ -1,1 +1,0 @@
-comme déja proposé par STIREN je propose de développer des réseaux de minibus géolocalisés, appelables et réservables par une application smartphone qui permettraient de couvrir les zones rurales et d'habitat étalé. De plus un tel système pourrait être utilisé la nuit pour les zones urbaines et offrir une alternative à moindre coût pour les jeunes par exemple. 

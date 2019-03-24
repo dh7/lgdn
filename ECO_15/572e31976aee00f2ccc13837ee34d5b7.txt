@@ -1,1 +1,0 @@
-Taxer les poids lourds en fonction de la distance parcourue sur route (et non sur le rail) et utiliser le produit de la taxe pour le  développement et la baisse des coûts des transports en commun

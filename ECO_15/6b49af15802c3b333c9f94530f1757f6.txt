@@ -1,1 +1,0 @@
-Indexer les loyers sur le DPE  Exemple : si le logement est classé A il est sur la base "100" des loyers pratiqués dans la région... Et il subit une décote en classe B, C, D pour tomber à 50% en classe E. INTERDICTION DE LOUER en classe F et G = ruine écologique !!!

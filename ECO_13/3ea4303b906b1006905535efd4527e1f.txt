@@ -1,1 +1,0 @@
-Pourquoi pas une petite structure gérant les infos, propositions... à une échelle municipale. Des newsletters transmettant des infos actualisées, permettant aussi l'échange de propositions innovantes;

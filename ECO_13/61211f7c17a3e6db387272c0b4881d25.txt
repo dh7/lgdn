@@ -1,1 +1,0 @@
-Comme le type de transport est étroitement lié aux conditions locales (géographie, economiques, etc..) cela doit se définir au niveau local.

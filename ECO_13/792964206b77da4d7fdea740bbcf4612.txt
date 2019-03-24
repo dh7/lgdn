@@ -1,1 +1,0 @@
-SNCF, ratp, commune, état

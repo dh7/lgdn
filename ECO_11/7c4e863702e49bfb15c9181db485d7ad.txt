@@ -1,1 +1,0 @@
-- barrière de péage à l'entrée de toutes les villes bénéficiant de transports en commun (bus, tramway, métro), sur la base du pollueur-payeur, - gratuité des transports en commun en ville - remettre en service les petites lignes de train qui avaient été supprimées, et en construire de nouvelles s'il le faut

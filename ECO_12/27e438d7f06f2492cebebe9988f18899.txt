@@ -1,1 +1,0 @@
-Le covoiturage avec une organisation simple, en local. Des points de "ramassage " aux sorties des villes et lorsque les automobilistes passent ils s'arrêtent pour prendre des passagers (pas de réservation). Une sorte d'auto-stop organisé

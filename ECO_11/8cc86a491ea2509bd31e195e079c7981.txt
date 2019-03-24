@@ -1,1 +1,0 @@
-Quand on déclare le covoiturage on perd les primes de transport de l'entreprise alors qu'elle pourrait être modulél en fonction du nombre de fois qu'on peut covoiturer.

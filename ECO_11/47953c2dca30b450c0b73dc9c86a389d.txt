@@ -1,1 +1,0 @@
-Simplifier les billet/tarifs des transports en commun : un billet pour le bus, un billet pour le RER et les tarifs des RER variables selon le trajet, En ile de france par exemple, on pourrait penser à un tarif unique pour utiliser n'importe quel moyen de transport en commun.

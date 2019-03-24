@@ -1,1 +1,0 @@
-le principe du pollueur payeur est plutôt juste même s'il est probablement nécessaire de le moduler au cas par cas.

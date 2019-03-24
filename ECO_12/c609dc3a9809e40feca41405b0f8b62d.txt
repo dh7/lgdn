@@ -1,1 +1,0 @@
-marche à pied pour déplacement de moins de 2 km.

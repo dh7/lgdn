@@ -1,1 +1,0 @@
-Développer ces réseaux.  Mettre en place des systèmes de velib dans toutes les villes en faisant “exploser” le nombre de stations. Par exemple ce système existe à Pau, malheureusement le nombre de stations est insuffisant, beaucoup de zones ne sont pas couvertes, y compris dans Pau.

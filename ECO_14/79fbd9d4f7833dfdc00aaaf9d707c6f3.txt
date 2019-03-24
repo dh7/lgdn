@@ -1,1 +1,0 @@
-Limiter le nombre de déplacement de nos dirigeants et quand ils vont au même endroit, un seul transport et non un par ministre

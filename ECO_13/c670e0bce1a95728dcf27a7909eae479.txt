@@ -1,1 +1,0 @@
-Des opérateurs privés sans concurrence avec l'état afin d'assurer l'efficacité du système  ou bien l'état mais a un prix non commercial

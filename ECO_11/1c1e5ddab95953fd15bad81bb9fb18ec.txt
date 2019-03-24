@@ -1,1 +1,0 @@
-- Augmenter l'offre de transports en commun ds certaines zones.  - Rétablir le prix des transports par zone et non un prix unique pour tous ( les utilisateurs ayant peu de distance payent le même prix que ceux éloignés)

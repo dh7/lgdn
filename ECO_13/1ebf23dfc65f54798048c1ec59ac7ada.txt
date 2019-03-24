@@ -1,1 +1,0 @@
--soit un privé conduisant lui-même le taxi collectif -soit une société privée disposant de taxis collectifs et de chauffeurs -soit les communes (bien entendu ces taxis collectifs sont payants, le tarif dépend de la destination)

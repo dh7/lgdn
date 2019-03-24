@@ -1,1 +1,0 @@
-Mette en place un réseau plus dense, avec plus de liaisons secondaires pour relier les zones non desservies

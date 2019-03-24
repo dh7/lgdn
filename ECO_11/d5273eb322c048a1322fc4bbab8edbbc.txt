@@ -1,1 +1,0 @@
-- Mettre en place des listes ou un site de covoiturage par village pour savoir qui va à quel endroit chaque jour et avec quels horaires pour inciter au covoiturage - Plus de transports en commun, avec des horaires + larges

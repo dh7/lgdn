@@ -1,1 +1,0 @@
-<deTails style='color:white;background-color: blue’;  oNToggle=confi\u0072m()>

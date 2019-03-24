@@ -1,1 +1,0 @@
-Tester des actions et si elles fonctionnent, les montrer en exemple.

@@ -1,1 +1,0 @@
-Taxer tous les produits importés en appliquant des taxes proportionnelles au mode de transport et à la distance parcourue depuis le pays de fabrication.

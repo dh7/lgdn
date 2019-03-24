@@ -1,1 +1,0 @@
-Créer une plateforme de covoiturage publique et gouvernementales sur le modèle de Blablacar avec un système de points accumulés au fil des trajets que l'on pourrait convertir en crédits pour les prochains covoiturages en tant que passager ou en crédit d'impôt.

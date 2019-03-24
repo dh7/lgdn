@@ -1,1 +1,0 @@
-Il faudrait une infrastructure qui facilite le pasage d'un mode a un autre

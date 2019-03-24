@@ -1,1 +1,0 @@
-Donner l'exemple, en faisant de la R&D sur la récupération de la chaleur sur l'air ambiant disponible partout dans le monde. Ceci à l'aide de petite génératrice de 30kW de puissance disponible pour chaque consommateur.

@@ -1,1 +1,0 @@
-L'employeur en mettant en relation les employés habitant dans le même secteur et leur donner le même emplois du temps. Même horaires de travail.

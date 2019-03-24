@@ -1,1 +1,0 @@
-- label d’impact écologique pour chaque produit de consommation. Plus l’impact écologique est fort, plus la TVA augmente.

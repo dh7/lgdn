@@ -1,1 +1,0 @@
-- mise en place d’une TVA modulée dégressive fonction de la distance entre le lieu de production et le lieu de vente.

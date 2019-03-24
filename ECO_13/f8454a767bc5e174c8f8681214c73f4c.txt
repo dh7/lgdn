@@ -1,1 +1,0 @@
-Tous les niveaux en fonction des distances de deplacement: commune, département, région, état

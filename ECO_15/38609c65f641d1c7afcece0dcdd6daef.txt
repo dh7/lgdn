@@ -1,1 +1,0 @@
-Adapter les cultures agricoles suivant les régions, exemple maïs en région humide et non sableuse. Augmenter l'énergie éolienne.

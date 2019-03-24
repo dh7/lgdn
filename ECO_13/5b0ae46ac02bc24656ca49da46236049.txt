@@ -1,1 +1,0 @@
-la ville pour les lignes TRAMWAY, MÉTRO, VAL, BUS, pistes cyclables, le département pour les lignes de TER, inter citées, l'état pour les lignes de TGV, train

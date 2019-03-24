@@ -1,1 +1,0 @@
-Taxer les produits importés en fonction de la distance parcourue et du mode de transport (et de l'origine des composants). Taxer les produits importés qui ne respectent pas les standards européens.

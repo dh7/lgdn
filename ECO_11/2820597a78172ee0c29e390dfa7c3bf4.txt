@@ -1,1 +1,0 @@
-Rendre les solutions diverses (transports urbains, transports à la demande, covoiturage, etc, visibles pour l'usager lambda comme un ensemble de solutions parmi lesquelles on choisit la plus efficiente à l'instant T. Apps commune pour une agglomération, par exemple.

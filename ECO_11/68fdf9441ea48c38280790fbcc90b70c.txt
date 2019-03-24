@@ -1,1 +1,0 @@
-Trouver des personnes ayant les mêmes contraintes d'horaires et/ou risque de décalage horaire selon l'activité et les problématiques du travail

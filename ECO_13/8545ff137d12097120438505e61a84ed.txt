@@ -1,1 +1,0 @@
-Arrêter de supprimer les lignes de chemin de fer et redevelopper ce genre de transport en adaptant l'offre à la demande (horraire, cout, deserte, complement de, parking,...)

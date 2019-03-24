@@ -1,1 +1,0 @@
-la région ou l'état selon la longueur des lignes à gérer (ex les grandes lignes de train nationales mais les bus régionaux)

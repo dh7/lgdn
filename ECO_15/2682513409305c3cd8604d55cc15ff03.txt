@@ -1,1 +1,0 @@
-Arrêter de parler de gestion de la transition, une chose transite d'un état A à B, malheureusement B est déjà là, on ne transite plus. Maintenant c'est la transition de B à C (=fin du jeu) qu'il faut éviter avant qu'elle ne commence.

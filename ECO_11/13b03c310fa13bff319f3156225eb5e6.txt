@@ -1,1 +1,0 @@
-Pour les véhicules électriques, mettre en oeuvre un système de station service permettant de faire "un plein" par  changement de batterie. Cela équivaudrait au temps passé à remplir un réservoir.

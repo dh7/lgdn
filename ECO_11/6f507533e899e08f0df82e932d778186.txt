@@ -1,1 +1,0 @@
-Créer un service de transport en commun sur toute la journée, de 8h à 20h par exemple avec une fréquence d'un aller retour en direction de la métropole locale à chaque heure au moins

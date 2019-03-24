@@ -1,1 +1,0 @@
-limiter les ruptures de service pour les vélos partagés ou les voitures partagées (ex : grosse perte de service sur Velib et Autolib, qui n'incitent pas à basculer durablement sur ce type de mobilité)

@@ -1,1 +1,0 @@
-- Developper une offre de feroutage ou voies fluviales sur des tronçons majeurs (Paris Lyon Marseille, grands ports, autres villes EU).  - Surtaxer les camions empruntant les routes sur ces mêmes tronçons (basé sur le GPS du nouveau système tachygraphe G2). - Favoriser les circuits courts, les production locales.

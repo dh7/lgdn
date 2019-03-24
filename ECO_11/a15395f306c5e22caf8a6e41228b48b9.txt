@@ -1,1 +1,0 @@
-horaires et jours de travail variables. Si achat de pass transport, pas rentabilisé, coût élevé ajouté à celui de la voiture.  Si l'ensemble est moins cher, je peux adapter en fonction de l'agenda.

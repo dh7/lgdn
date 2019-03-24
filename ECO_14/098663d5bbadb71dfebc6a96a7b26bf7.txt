@@ -1,1 +1,0 @@
-refuser les importations de produits ayant un impact trop fort sur l'environnement

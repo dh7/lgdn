@@ -1,1 +1,0 @@
-Développer les petits véhicules électriques style "segway" et trottinette, les accepter dans les trains. Un code de la route/ code de la rue doit cependant être établi pour leur usage, afin de permettre la cohabitation avec les autres modes de transport (marche et vélo).

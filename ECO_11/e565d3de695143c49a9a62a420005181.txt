@@ -1,1 +1,0 @@
-Cela dépend du lieu de déplacement ( centre ville , peripherie , plus lointain ) et du nombre de personnes déplacées

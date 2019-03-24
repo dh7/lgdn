@@ -1,1 +1,0 @@
-Augmenter les nombres de passage du bus Diminuer le prix de l’abonnement TER, car pour l’instant TER+bus plus cher que consommation d essence

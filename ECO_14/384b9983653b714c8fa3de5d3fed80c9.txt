@@ -1,1 +1,0 @@
-simplifier les textes pour qu'ils soient applicables

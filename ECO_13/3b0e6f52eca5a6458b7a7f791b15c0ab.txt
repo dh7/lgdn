@@ -1,1 +1,0 @@
-region pour permettre une structure en ayant connaissance du terrain

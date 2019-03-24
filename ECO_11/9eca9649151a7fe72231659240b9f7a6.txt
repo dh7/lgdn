@@ -1,1 +1,0 @@
-Voiture utilisée seulement pour certains trajets, selon les contraintes de temps, de transports de proximité départ-arrivée, et de bagages.

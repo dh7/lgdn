@@ -1,1 +1,0 @@
-trajet domicile-travail = 65 km route campagne et autoroute avec horaires variables (cadre) => difficile de trouver une solution alternative

@@ -1,1 +1,0 @@
-- création de pistes cyclables sécurisées ; - création d 'une ligne de transport en commun  - inexistante à ce jour - ; - le covoiturage suppose des horaires identiques ou similaires et ce n'est pas évident de pouvoir l'organiser de façon systématique, notamment sur des trajets "secondaires".

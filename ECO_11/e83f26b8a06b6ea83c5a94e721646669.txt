@@ -1,1 +1,0 @@
-* Application de co-voiturage étatique (ie sans la marge de 30% de l'opérateur, et avec confiance dans l'utilisation ultérieure des données personnelles)  * Application étatique de "co-achat" : si je m'apprête à aller faire mes courses avec la voiture, possibilité de consulter ce que mes voisins aimeraient que je leur ramène, au lieu d'y aller chacun avec sa tonne de ferraille.

@@ -1,1 +1,0 @@
-Actuellement la voiture électrique ne peut servir que pour les trajets locaux, et encore à condition d'avoir accès à des prises de recharge. Pour la développer il faudrait créer des réseaux de points de recharge rapide avec une bonne densité sur tout le territoire; payants bien sûr (modérément)... un peu comme on a créé les réseaux de téléphonie mobile

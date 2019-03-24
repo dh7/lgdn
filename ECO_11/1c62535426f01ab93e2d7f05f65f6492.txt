@@ -1,1 +1,0 @@
-par exemple: prévoir des circuits de bus avec moins d'arrêt. Il y aurait des lignes "normales" multi- arrêt et des lignes "rapides" avec des arrêts moins fréquents. Cela éviterait de doubler le temps de transport entre un bus et l'usage de la voiture personnelle dans mon cas.

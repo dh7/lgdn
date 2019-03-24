@@ -1,1 +1,0 @@
-De manière générale, pour chaque problème il faut gérer les choses de manière globale et pas simplement petit bout par petit bout, c'est ce qui fait que ça n'avance pas à l'heure actuelle

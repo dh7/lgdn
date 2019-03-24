@@ -1,1 +1,0 @@
-Indexer une taxe commercial sur les émissions de carbones des produits importés.

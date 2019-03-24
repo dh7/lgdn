@@ -1,1 +1,0 @@
-Donner l'exemple : transports en communs propres, ainsi que les véhicules de l'Etat et des collectivités.  Programmer la sortie du diesel.

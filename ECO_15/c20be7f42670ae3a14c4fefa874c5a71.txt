@@ -1,1 +1,0 @@
-Abandonner le GCO : il est encore temps.  Revoir les règles pour la construction des routes. Ces sont les constructeurs qui décident de combien de surface ils ont besoin, et non les services de l'état. Du coup c'est plus cher ! C'est comme si votre boulanger décidait que vous devez manger 3 baguettes alors que 2 suffisent.

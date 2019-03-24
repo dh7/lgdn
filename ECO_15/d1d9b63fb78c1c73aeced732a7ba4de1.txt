@@ -1,1 +1,0 @@
-Suppression des PV qui sautent pour les forces de l'ordre en dehors du service avec leur véhicule personnel, suppression des véhicules de fonctions hors commerciaux , accentué le contrôle des véhicules de services qui servent souvent de véhicules de fonctions

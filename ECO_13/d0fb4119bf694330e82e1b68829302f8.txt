@@ -1,1 +1,0 @@
-Les transports en commun doivent être développés localement en fonction des besoins, mais il faudrait également permettre au gens de moins se déplacer (travail à domicile, livraisons de courses, services par internet...)

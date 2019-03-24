@@ -1,1 +1,0 @@
-Une application permet de faire des dons lorsque l'on cours (par rapport à la distance effectué). Faire pareil avec le vélo. Effectuer des pubs comme la sécurité routière

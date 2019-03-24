@@ -1,1 +1,0 @@
-Les entreprises privés, mais de façon encadrée par les pouvoirs publics locaux. Les autorisations doivent être données  de manière à désengorger des nœuds de trafic et à couvrir certaines routes isolée. Pour obtenir une autorisation, une entreprise doit s'engager à couvrir certaines routes à perte en échange de certaines plus rentables.

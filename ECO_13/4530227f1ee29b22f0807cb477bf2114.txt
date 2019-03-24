@@ -1,1 +1,0 @@
-les constructeurs avec des pris raisonnable et une gestion de la fin de vie des batteries adaptée

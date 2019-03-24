@@ -1,1 +1,0 @@
-Adapter les énergies utilisées en France en fonction des régions et donc potentiel/coût de chaque énergie à l'environnement

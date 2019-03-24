@@ -1,1 +1,0 @@
-Les constructeurs auto, et l'état.

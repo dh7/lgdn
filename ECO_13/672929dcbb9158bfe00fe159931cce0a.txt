@@ -1,1 +1,0 @@
-Évaluer des circuits de petits bus qui sont connectés au utilisateurs et qui adaptent le trajet en fonction des demandes.

@@ -1,1 +1,0 @@
-Je marche bp pour les déplacements de proximité et au delà les transports ne correspondent ni à la destination, ni aux horaires, ni à la durée de voyage que je peux consentir

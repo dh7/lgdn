@@ -1,1 +1,0 @@
-augmenter le temps de validité des tickets de bus en le passant à 2h voire 3h et plus en dehors des heures de pointe et en validant ce ticket à la descente(il ne serait ainsi pas tenu compte du temps du trajet)JE DESCENDS-JE VALIDE

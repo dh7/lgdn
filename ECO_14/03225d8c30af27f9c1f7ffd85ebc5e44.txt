@@ -1,1 +1,0 @@
-Montrer l'exemple pour commencer. L'état devrait être le premier à ne plus construire de bâtiments sans récupération d'eau (toilettes, lave-linge et arrosage des jardins : 30% de l'utilisation de l'eau), sans solutions d'éclairages durables (détecteurs dans les endroits de passage, lampes à basse consommation) et sans utilisation du chauffage solaire (pas le photovoltaïque)

@@ -1,1 +1,0 @@
-Taxe carbone en fonction de la distance de transport faite par les produits de consommation.

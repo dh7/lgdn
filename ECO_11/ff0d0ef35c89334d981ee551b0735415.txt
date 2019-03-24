@@ -1,1 +1,0 @@
-Pour le travail, voiture ou train + Bus. Le hic: en voiture :15mn, en train + Bus : 45mn / 1h.. Développer un bus spécifique passant par la route reliant ces 2 villes que de nombreuses personnes utilisent pour aller travailler.

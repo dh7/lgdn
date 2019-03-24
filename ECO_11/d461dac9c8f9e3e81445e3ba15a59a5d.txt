@@ -1,1 +1,0 @@
-Création de lignes régulières en covoiturage (domicile-travail) pour les personnes travaillant au même endroit et habitant à proximité les uns des autres.

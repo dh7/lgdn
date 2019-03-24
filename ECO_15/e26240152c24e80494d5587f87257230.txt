@@ -1,1 +1,0 @@
-Donner à chacun des objectifs et les moyens de calculer son CO2. Par taille de famille, lieu d’habitation (zone froide/chaude, campagne/ville, transports en commun ou non, âge, niveau de revenus) à mettre sur les feuilles d’impôts. Afficher le nutriscore sur les produits en rayon Donner un plan d’engagement de suppression des herbicides avec dates d’échéance contraignantes

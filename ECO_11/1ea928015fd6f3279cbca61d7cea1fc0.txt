@@ -1,1 +1,0 @@
-Adaptation des horaires, contrainte pour récupérer les enfants, emploi du temps flexible

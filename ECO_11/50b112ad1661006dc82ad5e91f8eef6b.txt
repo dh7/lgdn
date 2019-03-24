@@ -1,1 +1,0 @@
-On doit pouvoir disposer d'un outil numérique permettant de proposer des transports alternatifs : je planifie ma destination, mon heure de depart, et l'outil calcule les différentes solutions possibles (a pied, a velo, en bus, en covoiturage, en train, en voiture particuliere, etc.)

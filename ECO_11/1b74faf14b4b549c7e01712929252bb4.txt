@@ -1,1 +1,0 @@
-A paris, pour aller d'un point à un autre, il faut autant de tickets qu'il y a de moyens de transports utilisés. Exemple si je fais métro, tramway il faut 2 tickets. Pas assez de voies matérialisées. Les temps de trajets en BUS dépendent de la circulation etc.

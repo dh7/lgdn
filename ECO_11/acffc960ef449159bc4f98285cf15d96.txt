@@ -1,1 +1,0 @@
-Terminer la ligne 15 en IDF et construire de vraies pistes cyclables. Faciliter l'auto-stop. Ce serait bien que les véhicules indiquent leur destination s’ils ont des places disponibles pour favoriser l'auto-partage et consommer moins d'essence.

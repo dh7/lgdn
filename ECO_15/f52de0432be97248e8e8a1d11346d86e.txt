@@ -1,1 +1,0 @@
-Comme on calcule un prix de revient en euros, il faut introduire la notion d'impact environnemental sur tous les produits agricoles et manufacturés, voire services

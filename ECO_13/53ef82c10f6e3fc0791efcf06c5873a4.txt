@@ -1,1 +1,0 @@
-Syndicats de transports intercommunaux dans le cadre d'une offre de transport intégrée (MaaS : Mobility as a service) : calculateur d'itinéraires et billeterie multimodaux.

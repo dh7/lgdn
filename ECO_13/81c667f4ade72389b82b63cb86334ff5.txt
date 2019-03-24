@@ -1,1 +1,0 @@
-Il s'agit évidemment d'un modèle de développement qui doit être partagé, ne pas penser en système isolé!

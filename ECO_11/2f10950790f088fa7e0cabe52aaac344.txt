@@ -1,1 +1,0 @@
-Par exemple, pour le covoiturage que mon entreprise affiche une liste des personne se proposant de "covoiturer" et des personnes cherchant à l'être (avec échange des rôles quand c'est possible). autre exemple: pour les transport en commun, que les bus passent plus fréquemment pour aller à la gare attraper mon train puis rer puis méro puis autre ligne de métro..

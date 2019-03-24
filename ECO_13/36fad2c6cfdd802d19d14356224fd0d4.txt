@@ -1,1 +1,0 @@
-cela dépendrait : SNCF, commune, région... On pourrait imaginer un abonnement multiservice (train, transport à la demande, etc) avec un coordination entre les divers services concernés.

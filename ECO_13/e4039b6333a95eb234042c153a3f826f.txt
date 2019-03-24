@@ -1,1 +1,0 @@
-les régions, les aglo et les villes, car cela doit s'adapter à chaque configuration locale.

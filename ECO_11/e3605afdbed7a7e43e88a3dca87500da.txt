@@ -1,1 +1,0 @@
-Que le temps de trajet ne soit pas multiplie par 10 si je prends les transports

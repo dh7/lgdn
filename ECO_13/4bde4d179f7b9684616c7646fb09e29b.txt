@@ -1,1 +1,0 @@
-UE, etat, région,  département, ville, employeur

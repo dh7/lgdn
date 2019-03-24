@@ -1,1 +1,0 @@
-Supprimer tous les emballages inutiles en proposant le maximum de produits au poids, en amenant nos propres contenants

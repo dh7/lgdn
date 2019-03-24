@@ -1,1 +1,0 @@
-J'y recours lorsque c'est possible (horaire des transports en communs, distance/temps, charges à transporter, temps qu'il fait...)

@@ -1,1 +1,0 @@
-Taxer par une vignette annuelle les bateaux de plaisance au dessus d'un certain tonnage.

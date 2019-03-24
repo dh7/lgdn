@@ -1,1 +1,0 @@
-Tous les déplacements ne sont pas possibles en transports en commun, il faudrait donc développer l'offre disponible pour les usagers (nombre de lignes, fréquence)

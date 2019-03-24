@@ -1,1 +1,0 @@
-le train : pour un même trajet, le train devrait être moins cher que la voiture ou l'avion et être ainsi compétitif

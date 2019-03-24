@@ -1,1 +1,0 @@
-- Des structures pour pouvoir circuler en vélo en toute sécurité. - Des lieux de stationnement pour les vélos en nombre suffisant et surtout sécurisés (il est très désagréable de ne pas retrouver son vélo parce qu'il a été volé, ou de le retrouver délesté de certaines pièces)

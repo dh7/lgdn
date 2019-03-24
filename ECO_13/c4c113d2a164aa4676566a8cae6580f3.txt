@@ -1,1 +1,0 @@
-On ne devrait pas avoir systématiquement besoin de l'état pour tout cela. Des associations peuvent très bien organiser tout cela.

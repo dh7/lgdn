@@ -1,1 +1,0 @@
-Pouvoir réserver une place dans un parking en ville ainsi qu'un transport complémentaire (bus, vélo ou trottinette électrique). Actuellement, le facteur aléatoire de cette solution fait que je prends ma voiture de bout en bout.

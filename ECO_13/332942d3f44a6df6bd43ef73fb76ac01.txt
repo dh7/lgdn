@@ -1,1 +1,0 @@
-Une entité qui gère TOUS LES MODES de transports (voiture , train, bus, vélo) et qui regroupent TOUS LES INTERVENANTS : usagers + municipalités + région . Obligation d'utiliser les transports collectifs pour les décideurs de cette entité.

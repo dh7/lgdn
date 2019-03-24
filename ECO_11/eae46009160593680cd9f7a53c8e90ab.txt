@@ -1,1 +1,0 @@
-Synchroniser les horaires des bus sur ceux des trains pour raccourcir les correspondances. Réduire le nombre d'arrêt et de détour pour faire diminuer les temps de trajet.

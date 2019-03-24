@@ -1,1 +1,0 @@
-L'Etat car les régions se cantonne à leur secteur. Donc, aucune solution quand on doit passer d'un département A pour aller dans le département B qui ne se trouvent pas dans la même région.

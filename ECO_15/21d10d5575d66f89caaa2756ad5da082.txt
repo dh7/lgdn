@@ -1,1 +1,0 @@
-Stopper la pause forcée des compteurs "dits intelligents"

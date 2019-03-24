@@ -1,1 +1,0 @@
-?input=<h1>Hello <script>alert(1)</script></h1>

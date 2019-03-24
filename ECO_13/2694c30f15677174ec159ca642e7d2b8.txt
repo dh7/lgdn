@@ -1,1 +1,0 @@
-une plateforme de mobilité collaborative à l'échelle locale. Exemple je dois aller chez mon médecin demain j'informe la plateforme de mon trajet et de l'horaire, je rentre le nombre de place disponible. Mon trajet serai visible et donc susceptible d'intéresser mon voisin ou autre

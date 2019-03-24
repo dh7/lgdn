@@ -1,1 +1,0 @@
-- suppression totale de la TVA  et mise en place d’une taxation dépendant de l’éloignement entre le lieu de production et le lieu de destination finale. Les définitions de ce que ce sont les  lieux de production et de destination seront faites de manière à empêcher les abus et contournements de la loi.

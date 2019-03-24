@@ -1,1 +1,0 @@
-Actuellement pour aller à mon travail j'ai le choix entre: - la voiture: 35 minute par trajet - le bus (10 minutes de voiture pour aller à l'arrêt), 1 heure de trajet (15 €), puis 10 minutes de marche par trajet - le train (5 minutes, puis le bus 1 heure) Le choix est malheureusement vite fait... Développer le train (quitte à construire de nouvelles lignes !)

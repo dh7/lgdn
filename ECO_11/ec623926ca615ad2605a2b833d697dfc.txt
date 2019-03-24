@@ -1,1 +1,0 @@
-developper un système de transport à la demande : permettre l'emprunt d'un taxi, d'un bus selon les disponibilités et le trajet indiqué lors de la demande soit sur smartphone soit à une borne

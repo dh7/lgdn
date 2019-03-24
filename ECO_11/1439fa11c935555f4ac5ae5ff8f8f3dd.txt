@@ -1,1 +1,0 @@
-Une application type blablacar mais en mode "ligne de bus virtuelle" c'est à dire des lignes virtuelles enregistrées par les participants. Le long de ces lignes virtuelles des arrêts virtuels où les blabla stoppeurs pourraient être pris en stop !

@@ -1,1 +1,0 @@
-limitation à 60 kmh pour tous les véhicules incapables de passer de 0 à 100 kmh en moins de 6 sec.

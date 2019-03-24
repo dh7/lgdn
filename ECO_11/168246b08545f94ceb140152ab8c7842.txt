@@ -1,1 +1,0 @@
-Créer une carte interactive avec tous les chemins pédestres et voies cyclables. (aussi les chemins de roller, vtt, canoe)

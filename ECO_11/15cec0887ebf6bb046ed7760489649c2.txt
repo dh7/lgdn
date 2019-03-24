@@ -1,1 +1,0 @@
-Un bus modulable (allant chercher les personnes, près de chez eux) et une plateforme internet facilement utilisable pour les autres trajets.

@@ -1,1 +1,0 @@
-Démontrer que les solutions mises en œuvre sont efficaces

@@ -1,1 +1,0 @@
-constructeur + état pour cout acceptable

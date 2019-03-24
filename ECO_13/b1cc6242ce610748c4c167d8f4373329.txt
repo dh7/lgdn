@@ -1,1 +1,0 @@
-La solution est la contrainte. L'usage d'une voiture pour un trajet court devrait etre pénalisé. Une voiture qui démarre pour faire 500 m devrait enregistrer ce déplacement et son propriétaire sanctionné lors d'un controle.

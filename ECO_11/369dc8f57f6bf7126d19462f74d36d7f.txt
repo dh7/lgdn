@@ -1,1 +1,0 @@
-simplifier l’utilisation du train, ré-ouvrir des lignes, remettre en place les trains de nuit, augmenter l'offre du train, en terme de plages horaires. poursuivre en ayant des train du type navette.

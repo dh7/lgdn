@@ -1,1 +1,0 @@
-pour convaincre les autres, une sorte de compteur qui en temps réel leur fait visualiser  leur pollution, par exemple les factures des fournisseurs devraient avoir ce référentiel EDF GAZ TELEPHONE

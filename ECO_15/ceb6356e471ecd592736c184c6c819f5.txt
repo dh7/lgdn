@@ -1,1 +1,0 @@
-Arrêter de livrer des colis en porte à porte afin d'éviter ses multiples deplacement. Créer un espace par commune (ou quartier pour les villes) avec des consignes à code numérique.

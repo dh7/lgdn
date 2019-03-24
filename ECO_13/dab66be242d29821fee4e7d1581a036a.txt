@@ -1,1 +1,0 @@
-une section 'transport' de l'intercommunalité (si elle n'existe pas la créer) qui gérerait l'intéraction entre les différents acteurs (les fonctionnaires locaux et régionaux/les entreprises de transport public)

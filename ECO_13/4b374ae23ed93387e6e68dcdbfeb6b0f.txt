@@ -1,1 +1,0 @@
-Un service web unique (application type Uber)

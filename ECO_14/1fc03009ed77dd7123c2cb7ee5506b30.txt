@@ -1,1 +1,0 @@
-Taxe en fonction de la distance: TVA à 10% dans le département, 15 % la région, 20% en France, 30% UE, 40% hors UE (négociation à faire avec l'UE pour modifier les règles de libre circulation des biens).  Sinon en fonction du nombre de km: 10% en dessous de 50km, 20% en dessous de 200km, 25% en dessous de 1000km, 30% au dessus mais en UE, 40% hors UE

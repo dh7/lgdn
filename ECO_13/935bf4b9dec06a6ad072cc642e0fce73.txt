@@ -1,1 +1,0 @@
-Chacun doit trouver la meilleure solution pour éviter de nombreux déplacements. L'état doit augmenter le nombre de transports en commun pour ceux qui travaillent, surtout dans les campagnes où il y en a peu ou pas souvent

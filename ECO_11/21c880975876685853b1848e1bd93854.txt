@@ -1,1 +1,0 @@
-Améliorer le service de transport en commun (opérateur de transport, plage horaire et fréquence) Développer les parkings relais de covoiturage et application spécialisée dans les petits trajets quotidiens (comme le principe de l'application uber mais avec des particuliers et points de rdv prédéfinis par exemple..)

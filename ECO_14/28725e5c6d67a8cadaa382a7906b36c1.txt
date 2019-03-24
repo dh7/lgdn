@@ -1,1 +1,0 @@
-Initier une standardisation d'un système de tiroirs de batteries, stockés dans les stations services, qui seraient interchangés automatiquement en quelques minutes et permettraient d'avoir une autonomie de véhicule électrique aussi performante qu'avec un moteur thermique.

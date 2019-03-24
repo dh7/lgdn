@@ -1,1 +1,0 @@
-La pédagogie de l'exemple d'abord... un modèle qui marche est facile à exporter, Testons et exportons après.

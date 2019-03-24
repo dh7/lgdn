@@ -1,1 +1,0 @@
-Montrer l'exemple en évitant de déplacer des cohortes de véhicules lorsqu'un représentant de l'état se déplace.

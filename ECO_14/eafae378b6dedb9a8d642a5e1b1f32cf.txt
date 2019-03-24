@@ -1,1 +1,0 @@
-Se réformer en étant moins opportuniste et plus cohérent dans ses choix.

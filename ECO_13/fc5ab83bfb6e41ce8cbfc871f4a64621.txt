@@ -1,1 +1,0 @@
-Associations locales, pour maintenir un contact au plus proche des utilisateurs.

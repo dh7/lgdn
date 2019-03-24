@@ -1,1 +1,0 @@
-- Le gros problème pour les personnes dans mon cas : trajet de plusieurs dizaines de kilomètres en train, c'est la fiabilité de la SNCF : beaucoup trop de TER supprimés, de pannes ou de grèves

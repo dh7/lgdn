@@ -1,1 +1,0 @@
-ville=transport locaux, département=courtes distance, région= longues distances... sans oublier une logistique qui doit être prise en compte par les employeurs en relation avec le maillage existant

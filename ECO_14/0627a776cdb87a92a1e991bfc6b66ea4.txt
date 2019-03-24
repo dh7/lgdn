@@ -1,1 +1,0 @@
-concernant les mails, faire en sorte qu'ils soient supprimés après un délai d'un an ou deux et que ce soit automatique. ça décongestionnerait les terminaux qui réchauffe la planète;

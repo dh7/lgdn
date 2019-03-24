@@ -1,1 +1,0 @@
-banir l obsolescence programmee et obliger les constructeur a garantir leur produit pour des annees selon le type de produit

@@ -1,1 +1,0 @@
-Il faut analyser les transports en train pour aller le plus vite possible d'un point A à un point B (transport primaire) puis avoir des transports secondaires. On s'arrête à des gares ou descendent 3 personnes entraînant une perte de temps alors que ce transport primaire optimiser ferai gagner 100 passagers.

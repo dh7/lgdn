@@ -1,1 +1,0 @@
-Region +departement+etat

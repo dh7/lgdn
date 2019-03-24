@@ -1,1 +1,0 @@
-- Trop de marches dans le métro (exemple : porte de st coud, station du parc des princes, 60 marches entre le quai et l'exterieur et 0 escaliers mécanniques) : il faut généraliser les escaliers mécaniques - Pas assez de couloir de bus  - Le tram qui fait le tour de Paris doit être bouclé rapidement

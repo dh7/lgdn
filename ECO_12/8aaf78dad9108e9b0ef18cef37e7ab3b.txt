@@ -1,1 +1,0 @@
-voiture electrique autonome: création de flotte de voitures elecriques autonomes (sans conducteurs) que l'on pourrait commander comme des taxis en cas de besoin.les utilisateurs ne seraient plus propriétaires de la voiture, simples utilisateurs de voitures partagées

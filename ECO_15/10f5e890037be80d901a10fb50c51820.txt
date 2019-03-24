@@ -1,1 +1,0 @@
-Réorientation de la construcction de centrales nucéaires (à commencer par développer des modèles exportables sans trop de soucis)

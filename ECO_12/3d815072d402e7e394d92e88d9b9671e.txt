@@ -1,1 +1,0 @@
-CAMPAGNE = Trop compliqué pour utiliser les différents modes proposés ci-dessus ; Mais quand cela est possible nous le faisons déjà depuis toujours !.. 

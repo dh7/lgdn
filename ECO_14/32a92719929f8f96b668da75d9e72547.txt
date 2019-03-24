@@ -1,1 +1,0 @@
-taxer les produits en fonction de la pollution qu'ils génèrent (fabrication, transport, gestion de l'emballage)

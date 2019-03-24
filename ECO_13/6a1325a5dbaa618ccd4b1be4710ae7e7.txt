@@ -1,1 +1,0 @@
-Les constructeurs de véhicules avec éventuellement des aides de l'état.

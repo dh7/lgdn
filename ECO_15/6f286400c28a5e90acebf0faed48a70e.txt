@@ -1,1 +1,0 @@
-Diminuer l’impression des tickets de caisse en demandant au client avant d’imprimer

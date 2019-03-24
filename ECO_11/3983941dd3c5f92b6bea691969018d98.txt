@@ -1,1 +1,0 @@
-Développer l'offre de bus/car pour se rendre dans les villes les plus proches à des horaires compatibles avec les horaires des entreprises et des écoles. Développer les pistes cyclables entre les villes et les villages. Développer l'autopartage dans les villages.

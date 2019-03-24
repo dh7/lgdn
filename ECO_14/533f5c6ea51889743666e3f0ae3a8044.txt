@@ -1,1 +1,0 @@
-La preuve par l’exemple reste le meilleur moyen. Trouvons des solutions dans l’hexagone, démontrons que la mise en oeuvre s’est faite sans déchaîner les foules et prouvons l’efficacité des différentes actions.

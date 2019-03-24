@@ -1,1 +1,0 @@
-commune, groupement local, département, région, état.

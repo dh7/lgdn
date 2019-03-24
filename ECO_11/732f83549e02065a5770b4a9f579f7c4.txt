@@ -1,1 +1,0 @@
-Il y a un frein au covoiturage (risque notamment quand on est une femme). Créer une service / app à la Uber où chacun aurait une nom, un numéro de telephone et une note, qui permettrait de savoir "un peu" qui l'on prend. Je pourrais envoyer les informations à un proche avant de prendre la(les) personnes(s), notamment le soir.

@@ -1,1 +1,0 @@
-Multiplier transports en commun et prise en charge par l'état d'un pourcentage du prix des transports à la demande.

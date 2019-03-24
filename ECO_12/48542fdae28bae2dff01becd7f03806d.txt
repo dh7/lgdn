@@ -1,1 +1,0 @@
-Création d'une application regroupant l'ensemble des solutions de déplacements partagés en fonction d'une géolocalisation pour le point de départ et la désignation d'un point d'arrivé à l'image de BlaBlaCar mais pour des courts trajets.

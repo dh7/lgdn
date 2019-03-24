@@ -1,1 +1,0 @@
-Un meilleur maillage des transports en commun. Aujourd'hui, mes 10 minutes en voiture ne peuvent être remplacées que par 1 bonne heure de bus, en passant obligatoirement par le centre de la grande ville proche, alors que j'en ai pas besoin + 1 changement. Un développement en "couronne" plutôt qu'en "étoile" serait bienvenu.

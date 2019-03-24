@@ -1,1 +1,0 @@
-Interdire toutes traversée du territoire par les camions. Le camion doit être réservé à la distribution locale. rayon de 100km.

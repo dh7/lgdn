@@ -1,1 +1,0 @@
-- adapter les trajets et horaires de bus pour qu'ils soient plus courts que de prendre la voiture pour arriver sur mon lieu de travail, - trouver la motivation de prendre le vélo en cas de mauvais temps, - ne pas se faire voler son vélo !

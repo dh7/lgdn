@@ -1,1 +1,0 @@
-- créer un réseau routier permettant la cohabitation voiture, vélo  - inventer les systèmes publics ruraux de location horaire de véhicules

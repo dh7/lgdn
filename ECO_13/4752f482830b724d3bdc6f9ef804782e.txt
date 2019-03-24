@@ -1,1 +1,0 @@
-Ce type de solutions pourrait être mis en place par la mairie en réservant un emplacement sur un parking avec un tableau d'affichage pour un planning et une borne de recharge pour véhicule électrique. Mettre en place une application qui gère cette alternative par localités.

@@ -1,1 +1,0 @@
-La région et/ou département pour les grands trajet de ville à ville. La commune pour les petits trajets touchant à son agglomération.

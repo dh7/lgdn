@@ -1,1 +1,0 @@
-Mise en place de services de bus fréquents et peu éloignés, éventuellement avec un système d'utilisation par abonnement et à la demande comme dans certaines villes de province mais étendu à la campagne.

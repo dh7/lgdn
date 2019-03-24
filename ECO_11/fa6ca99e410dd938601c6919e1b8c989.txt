@@ -1,1 +1,0 @@
-Pas besoin d un bus toutes les 20minutes qui est vide. Il faut pouvoir demander un trajet comme un uber, ensuite le bus  doit automatiquement revoir son trajet pour récupérer le plus de monde et réduire les trajets de chacun.  Il faut aussi plus de VRAIES pistes cyclables. Rouler au milieu des voitures ou des bus est très dangereux, surtout à Paris

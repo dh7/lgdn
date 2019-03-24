@@ -1,1 +1,0 @@
-Le covoiturage|L'auto partage|"voiture-lib" sur l'exemple des vélos, mais possible aussi pour des trajets longs en kilomètres et en durée

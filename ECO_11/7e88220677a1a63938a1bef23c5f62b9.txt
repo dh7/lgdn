@@ -1,1 +1,0 @@
-Il faut que le temps de trajet ne soit pas supérieur au temps de trajet en voiture.

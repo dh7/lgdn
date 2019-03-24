@@ -1,1 +1,0 @@
-Les différentes structures en charge des municipalités.

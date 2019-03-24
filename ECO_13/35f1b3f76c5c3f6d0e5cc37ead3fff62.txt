@@ -1,1 +1,0 @@
-transports locaux : agglomération, département, régions. pour les grandes distances : Etat/région

@@ -1,1 +1,0 @@
-Augmenter le taux d'imposition des produits entrant sur le territoire en fonction du trajet qu'il a du effectuer pour arrivée en france. Plus c'est loin plus les taux d'imposition augmentent

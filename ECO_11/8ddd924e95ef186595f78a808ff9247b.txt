@@ -1,1 +1,0 @@
-Il faut trouver un maillage intelligent de plusieurs systèmes de transport avec des solutions économiquement viables. Le transport en commun ville-campagne par exemple n'est pas une solution car les bus sont peu fréquents pour l'usager et coutent une fortune à la communauté. Même chose pour certains trains.

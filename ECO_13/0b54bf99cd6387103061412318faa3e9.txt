@@ -1,1 +1,0 @@
-Il faut développer le transport collectif à la demande via une plateforme internet qui met en avant des propositions de trajets. Si absence de réservation le véhicule ne se déplace pas; si pléthore de demandes, multiplier les propositions.

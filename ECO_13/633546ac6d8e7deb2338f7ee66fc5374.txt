@@ -1,1 +1,0 @@
-Train -> état/région Bus -> collectivités locales/départements Vélo -> collectivités locales/départements

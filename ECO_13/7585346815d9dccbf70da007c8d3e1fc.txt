@@ -1,1 +1,0 @@
-L'état doit se charger de fournir une infrastructure adpatée.  En local, il sera alors possible de juger des moyens les plus adpatées.

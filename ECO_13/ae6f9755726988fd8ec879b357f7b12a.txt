@@ -1,1 +1,0 @@
-Infra structures doivent rester publiques, avec des systèmes de concession longue durée  Pour l’auto partage on peut imaginer des plateformes privées qui offre ce type de service

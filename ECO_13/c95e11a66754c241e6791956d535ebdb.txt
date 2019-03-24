@@ -1,1 +1,0 @@
-Développer un site de covoiturage gratuit (contrairement à Blablacar). Permettre des "lignes" de covoiturage comme commence à le développer Blablacar. Faciliter voir subventionner au maximum le covoiturage, aussi bien au niveau local que national.

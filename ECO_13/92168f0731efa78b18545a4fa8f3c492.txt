@@ -1,1 +1,0 @@
-Ce sont les gestionnaires des réseaux qui doivent offrir un service de qualité. Nous ne sommes pas des usagers mais des clients auxquels on doit proposer un service de bonne qualité.

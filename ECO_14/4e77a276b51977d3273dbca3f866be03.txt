@@ -1,1 +1,0 @@
-dialogue constant signaler les conditions de production

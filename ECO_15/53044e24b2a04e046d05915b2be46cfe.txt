@@ -1,1 +1,0 @@
-- Faire un système de consigne pour le tri des déchets.

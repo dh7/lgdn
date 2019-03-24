@@ -1,1 +1,0 @@
-Allonger les dates limites de consommation, changer la désignation des dates limites. Exemple : Remplacer "Date de durabilité minimale" par "meilleur avant le ... et encore bon après"

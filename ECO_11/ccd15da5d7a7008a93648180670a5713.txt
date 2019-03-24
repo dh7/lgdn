@@ -1,1 +1,0 @@
-des structure pour utiliser le vélo en sécurité. A l'heure actuelle, pas de piste cyclable en ville et le comportement des automobilistes est dangereux

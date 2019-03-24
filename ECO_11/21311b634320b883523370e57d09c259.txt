@@ -1,1 +1,0 @@
-J'utilise déjà des solutions alternatives (ex : TER) mais elles ne sont pas optimisées : Mauvaise intégration de la SNCF (gérée au niveau de la région) avec les dessertes locales (gérées par la métro). Le résultat n'est pas toujours opérationnel et les solutions simples ne sont rarement envisagées.

@@ -1,1 +1,0 @@
-limiter l'usage des voitures autonomes à l'auto-partage afin que la pollution induite (fabrication des batteries, flux de données, ...) soit rentabilisée au mieux.

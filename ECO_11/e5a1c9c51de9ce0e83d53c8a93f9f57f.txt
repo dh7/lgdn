@@ -1,1 +1,0 @@
-J'ai déjà mis en oeuvre : bus, vélo, covoiturage.  Pour les utiliser encore plus : plus de fréquence de bus, une piste cyclable tout le long du trajet pour sécuriser l'utilisation du vélo.

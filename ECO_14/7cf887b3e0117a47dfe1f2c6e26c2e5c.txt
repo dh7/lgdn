@@ -1,1 +1,0 @@
-Montrer l'exemple et limiter les importations des produits qui ne respectent pas de bonnes règles environnementales

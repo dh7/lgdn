@@ -1,1 +1,0 @@
-Prendre en compte la durée du trajet domicile travail dans le temps de travail si on utilise les transports en commun dans le cas d'une solution " transport en commun" acceptable en terme de temps comparée à l'utilisation de la voiture

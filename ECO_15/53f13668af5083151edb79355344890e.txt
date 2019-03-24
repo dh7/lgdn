@@ -1,1 +1,0 @@
-- Taxer les produits sur la quantité de déchets ou d'emballages générés. - Taxer la grande distribution selon la surface de leur enseigne et leur proximité avec le centre-ville (pour favoriser les commerce locaux et de proximité) - Taxer les produits d'exportation pour favoriser l'agriculture locale

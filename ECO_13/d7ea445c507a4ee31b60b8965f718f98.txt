@@ -1,1 +1,0 @@
-Les transports ne doivent être gérer que par une collectivité afin de rendre son exploitation + simple. L'échelle de la région semble le plus approprié (Bus/train/metro/tram/plan velo....)

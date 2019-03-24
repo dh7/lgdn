@@ -1,1 +1,0 @@
-d'abord l'état pour le train et les transports en commun, mais aussi le département et la région pour les TER, les transports collectifs et alternatifs adaptés à la région, au climat, à la topologie.

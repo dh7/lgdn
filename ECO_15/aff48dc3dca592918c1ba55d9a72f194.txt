@@ -1,1 +1,0 @@
-Rendre le prix électricités et gas proportionnelle à la taille sa résidence  Par exemple une maison est 100 m2 paie le kw 1 , une maison de 200m2 paie le kw 1.5

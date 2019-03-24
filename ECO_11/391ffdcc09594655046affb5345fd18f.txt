@@ -1,1 +1,0 @@
-- Décréter le TRAIN comme service public : rendre les tarifs attractifs quelle que soit la date d'achat du billet et l'horaire choisi.  Développer le frêt ferroviaire  - Améliorer le service des bus (plus de souplesse, plus de confort)

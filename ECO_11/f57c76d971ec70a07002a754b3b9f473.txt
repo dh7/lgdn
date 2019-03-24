@@ -1,1 +1,0 @@
-Developper les transports en commun pour que l’on puisse y avoir accès au départ de petites villes (5000 habitants) avec une fréquence assez intensive aux heures de prises de poste et de fin de journée exp : un train toutes les demi heure de 6h à 9h et de 16h à 19 h

@@ -1,1 +1,0 @@
-L'état par le développement d'un logiciel de navigation gratuite qui gère l'auto-stop, la mise en relation automatique de personnes ayant des trajets semblables pour du co-voiturage. Coût largement compensé par la réduction du trafic (des travaux très coûteux ne seraient plus nécessaires pour augmenter les voies de circulations) et de la pollution (coût en santé).

@@ -1,1 +1,0 @@
-Faire des études parmi les utilisateurs de la voiture et ajuster le maillage des transports public à ces besoins. Créer des bus à double compartiments : un compartiment passagers et un compartiments vélos.

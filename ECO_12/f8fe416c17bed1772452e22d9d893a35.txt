@@ -1,1 +1,0 @@
-Voiture électrique avec un courant produit par un générateur surnuméraire. 

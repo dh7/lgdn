@@ -1,1 +1,0 @@
-Il ne me semble pas que cette activité soit une fonction régalienne et il serait donc logique que ce soit une structure privée.

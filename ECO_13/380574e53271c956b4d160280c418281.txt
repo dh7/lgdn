@@ -1,1 +1,0 @@
-Il y a de multiples structures collectives, privées ou non, qui gèrent les bus. Et si on faisait la même chose pour les voitures (pour ne pas reposer sur trop de fonctionnement individuel difficile à bien maîtriser, travail au noir ou autre)

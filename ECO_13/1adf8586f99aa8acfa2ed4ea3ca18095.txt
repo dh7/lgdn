@@ -1,1 +1,0 @@
-Surtout pas le privé, L’état est en mesure de gérer tout le maillage nécessaire au transport. Exemple : longue distance le train, bus moyenne distance et les derniers kilomètres bus de ville ou véhicule en libre service (comme autolib)

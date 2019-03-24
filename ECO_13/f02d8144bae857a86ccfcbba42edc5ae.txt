@@ -1,1 +1,0 @@
-On peu facilement imaginer un système de transport collectif par navette plus souple le bus ou le train avec une interface de géolocalisation qui permet de mettre en relation l'usager et le transporteur.

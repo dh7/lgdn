@@ -1,1 +1,0 @@
-Pas de création de taxe nouvelle sans suppression d'une autre cotisation équivalente en valeur et en usagers.

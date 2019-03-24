@@ -1,1 +1,0 @@
-Un exemple: pour aller de Carcassonne à Montpellier, il existe des trains à 1 Euro, mais, hasard, on ne peut les obtenir qu'au départ de Montpellier le matin et au départ de Carcassonne le soir. Cherchez l'erreur.

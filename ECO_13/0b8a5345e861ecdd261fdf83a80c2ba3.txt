@@ -1,1 +1,0 @@
-L'état pour les transports nationaux, La région pour les transports régionaux et l'intercommunalité  pour les transports de proximité (Bus, pistes cyclables).

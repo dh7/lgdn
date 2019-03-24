@@ -1,1 +1,0 @@
-un réseau qui soit fiable et sécure (problème de retards récurrents, sécurité dans les transports)

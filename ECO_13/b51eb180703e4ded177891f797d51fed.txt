@@ -1,1 +1,0 @@
-Dans l'ordre, d'abord la municipalité, puis l'agglo, le département, la région, l'état (fonction du rayon d'action)

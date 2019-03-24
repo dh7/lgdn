@@ -1,1 +1,0 @@
-Pour tout produit, accéder grâce son code barre au nombre réel de km parcouru depuis le début jusqu'à la fin de sa fabrication.

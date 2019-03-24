@@ -1,1 +1,0 @@
-J'utilise le mode déplacement adapté en fonction de la distance à parcourir : marche à pied, vélo, transport en commun selon les horaires et en tout dernier la voiture.

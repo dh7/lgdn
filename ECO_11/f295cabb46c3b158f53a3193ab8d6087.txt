@@ -1,1 +1,0 @@
-Mise en place de plateformes de covoiturage permettant de mettre facilement en relation des utilisateurs pour les trajets quotidiens.

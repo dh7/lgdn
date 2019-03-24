@@ -1,1 +1,0 @@
--Généralisation d’espaces sécurisés permettant d’accueillir des vélos type VAE dans les centres villes, et espaces commerciaux, afin que ces vélos très couteux ne risque pas d’être volés. (Système de parking cage permettant d’enfermer un vélo avec un antivol pendant la durée des achats)

@@ -1,1 +1,0 @@
-Taxer les produits importés en fonction du taux de CO2 du pays d'origine et du CO2 émis pour transporter lesdits produits jusqu'en France

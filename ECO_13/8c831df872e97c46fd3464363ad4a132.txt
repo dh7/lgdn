@@ -1,1 +1,0 @@
-la région en créant une plateforme pour recenser les trajets domicile-travail de tous les habitants de la région et en créant les transports adaptés (train, bus,...)

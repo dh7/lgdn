@@ -1,1 +1,0 @@
-Avoir une TVA variable en fonction de la distance de provenance des produits, par exemple un taux normal à 15% pour les produits français, entre 15 et 20% pour les produits européens et entre 20 et 25% pour les produits du reste du monde. Cela afin de favoriser les produits avec le moins d'impact écologiques.

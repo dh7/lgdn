@@ -1,1 +1,0 @@
-Un service de bus fiable (horaires) et adapté (places suffisantes)

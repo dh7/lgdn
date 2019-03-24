@@ -1,1 +1,0 @@
-Mettre en place des navettes de transport en commun dans les milieux ruraux. Des trajets calculés quotidiennement sur la base des demandes individuelles de parcours pour le lendemain pourraient être calculés informatiquement.

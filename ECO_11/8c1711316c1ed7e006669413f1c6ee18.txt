@@ -1,1 +1,0 @@
-développer des nouveaux comportements et des solutions mutualisées faciles et adaptées pour répondre aux usages Par exemple : pool de transport appelable à la demande et mutualisable, par ex avec abonnement mensuel, ou pris en charge par la commune

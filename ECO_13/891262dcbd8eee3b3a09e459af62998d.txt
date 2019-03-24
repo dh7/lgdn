@@ -1,1 +1,0 @@
-Les instances en place: état, régions, départements, agglos et communes.

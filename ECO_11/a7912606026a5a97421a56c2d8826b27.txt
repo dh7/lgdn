@@ -1,1 +1,0 @@
-Une plateforme type blablacar pour trouver des gens proches de chez moi faisant le même trajet, mais suffisamment nombreux pour avoir de la latitude en cas d'impondérable (appel de l'école, etc.).

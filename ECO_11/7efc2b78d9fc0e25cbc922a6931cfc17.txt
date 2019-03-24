@@ -1,1 +1,0 @@
-Réduire le temps de trajet : pour le moment les transports en commun multiplient mon temps de trajet par 5.  Les développer, créer un site qui en fonction du trajet trouve le moyen le plus écologique  de le réaliser.

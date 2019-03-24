@@ -1,1 +1,0 @@
-Augmenter les fréquences de passage pour reduire les delais d'attente.

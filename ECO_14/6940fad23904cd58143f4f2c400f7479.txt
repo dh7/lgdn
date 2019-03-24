@@ -1,1 +1,0 @@
-Montrer l'exemple sur des points particuliers (prioritaires à définir) et prouver que les solutions fonctionnent grâce à des indicateurs précis que l'on ne pourrait pas contester.

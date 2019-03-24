@@ -1,1 +1,0 @@
-Itinéraire dédié au bus et davantage de rotation.  Le bus prend l'axe le plus embouteillé -> durée du trajet allongée. Actuellement un bus toutes les 30 minutes -> non compatible avec les horaires de la garderie des enfants

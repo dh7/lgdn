@@ -1,1 +1,0 @@
-appliquer une taxe sur les produits importés, taxes proportionnelles à la distance parcourue par les produits.

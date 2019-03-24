@@ -1,1 +1,0 @@
-taxer les marchandises importées sous un indice de TVA différenciée : TVA très réduite pour produit fabriqué en France : 5.5% ou 9%, TVA normale pour produit européen 20%, TVA taux majoré pour produits hors UE (possibilité de pondération suivant l'indice de développement environnemental  : ex ; USA à 35%, Suisse à 20.5%)

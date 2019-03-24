@@ -1,1 +1,0 @@
-Pour certains déplacements on ne peut pas dépendre des autres ou il n'y a pas d'alternative.

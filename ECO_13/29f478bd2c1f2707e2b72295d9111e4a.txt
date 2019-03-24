@@ -1,1 +1,0 @@
-Tout type de structure (publiques et privées)

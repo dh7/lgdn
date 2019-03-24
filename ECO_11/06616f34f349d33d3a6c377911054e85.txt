@@ -1,1 +1,0 @@
-Créer des applications locales de co-voiturage, généraliser le transport à la demande.

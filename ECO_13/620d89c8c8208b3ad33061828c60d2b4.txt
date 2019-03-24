@@ -1,1 +1,0 @@
-soit des applications qui en fonction des données qu'elles disposent, mettent en relation automatiquement des personnes sur un même trajet quotidien. ou des applications ou sites internet qui permettent de comparer en fonction de nos habitudes de transport, les différentes solutions

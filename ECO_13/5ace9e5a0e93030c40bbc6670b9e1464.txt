@@ -1,1 +1,0 @@
-Etat, région et commune suivant le type de transport.

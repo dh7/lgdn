@@ -1,1 +1,0 @@
-Revoir les trajets. Je travaille sur un établissement hospitalier où il n'y a 6 passages de bus en semaine : 2 entre 8 h 00 et 9 h 00 - 1 à 12 h 00- 1 à 14 h 00 - 1 à 17 h 00 et 1 à 18 h 00.  Développement des pistes cyclables (cf Belgique - Pays Bas...)

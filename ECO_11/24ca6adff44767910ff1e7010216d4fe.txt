@@ -1,1 +1,0 @@
-Prise en charge des transports en commun sous une forme à définir- Généralisation des tarifs famille (train, RER, metro) Pass Navigo à Paris plus abordable

@@ -1,1 +1,0 @@
-développement de l'offre et optimiser la rupture de charge. Les bus régionaux ne sont parfois pas en correspondance avec les trains. L'outil mis en place par la Région Aquitaine permettant de connaître les différents modes de transports pour un trajet donné est un exemple à développer

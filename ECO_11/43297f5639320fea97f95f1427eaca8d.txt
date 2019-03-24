@@ -1,1 +1,0 @@
-Une infrastructure multi-modes permettant éventuellement de passer simplement de la voiture individuelle aux transports en commun suivant le trajet.

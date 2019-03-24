@@ -1,1 +1,0 @@
-Créer un service publique du covoiturage qui proposerait aux citoyens des contact de Covoiturage en se basant sur les données fiscales  et Insee  permettant de déterminer le logement et le lieu d'activité (employeur). ce covoiturage serait alors incité financièrement   via un crédit d’impôts ou une prime selon les conditions de ressources une prime

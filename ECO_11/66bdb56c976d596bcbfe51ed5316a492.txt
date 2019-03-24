@@ -1,1 +1,0 @@
-applications numériques simples pour connaitre en temps réel l'heure de passage effectif d'un bus ou prendre une personne se rendant au même endroit que moi, gratuitement (sur de plus longs trajets, il existe blablacar)

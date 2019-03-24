@@ -1,1 +1,0 @@
-Tous: Etat, Région (qui gère les transports), Département (qui gère les routes), Entreprises publiques et privées, Commune, Utilisateur. Comment mettre en place une voie de bus et/ou covoiturage par exemple alors que les compétences ne sont pas toutes au même endroit ? Les déplacements doivent être analysés localement (où sont les bassins de vie et les bassins d'emploi,

@@ -1,1 +1,0 @@
-Réserver une voie pour les voitures qui ont au moins 3 passagers.

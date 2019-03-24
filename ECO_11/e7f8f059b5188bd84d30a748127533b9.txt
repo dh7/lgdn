@@ -1,1 +1,0 @@
-Organiser un système de covoiturage de quartier (j'habite dans un quartier excentré d'une commune moyenne), en créant des "arrêts de covoiturage" comme les arrêts de bus: ils suffirait que des gens s'y présentent pour que je les embarque, et réciproquement.

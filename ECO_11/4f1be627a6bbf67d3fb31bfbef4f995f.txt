@@ -1,1 +1,0 @@
-Seul le co-voiturage est une solution. Elle reste compliquée à mettre en œuvre quand les horaires de travail ne sont pas fixes.

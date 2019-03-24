@@ -1,1 +1,0 @@
-Collectivités locales et region. Problème pour les départements entre deux regions (ex: ligne sncf Chartres Paris)

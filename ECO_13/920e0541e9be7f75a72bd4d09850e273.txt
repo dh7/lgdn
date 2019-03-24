@@ -1,1 +1,0 @@
-L'état dois être le moteur pour développer cette solution et valider les véhicules.

@@ -1,1 +1,0 @@
-Utilisation d'un outil informatique simple pour effectuer du covoiturage, de l'autostop. Mettre des transports en commun (bus) avec accès pour les vélos  et développer partout même dans nos campagnes des pistes cyclables

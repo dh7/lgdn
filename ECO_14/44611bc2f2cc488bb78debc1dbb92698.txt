@@ -1,1 +1,0 @@
-Mettre en place une taxe sur les produits (importés ou non) dont le montant augmente avec la distance parcourue depuis la zone de production et ce pour chaque composant du produit. Cette taxe pourrait servir au financement d’une transition de notre modèle agricole et une reindustrialisation de pointe.

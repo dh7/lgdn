@@ -1,1 +1,0 @@
-Il faut créer des lignes de fer pour les camions afin que les plus cours trajets en camion ne dépasse pas les 20km pour accéder à leur destination.

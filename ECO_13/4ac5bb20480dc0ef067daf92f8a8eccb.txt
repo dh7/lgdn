@@ -1,1 +1,0 @@
-L'état doit rouvrir les lignes de train partout entre villes et villages, de bus ensuite quand il n'y a pas de lignes. Ou en créer de nouvelles. L'état doit obliger les instances locales à créer un réseau complet de pistes cyclables et un réseau de bus à haute fréquence.

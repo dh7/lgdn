@@ -1,1 +1,0 @@
-Augmenter le maillage des réseaux de transports en commun (bus, trains...) et leurs "correspondances". Multiplier les transports à la demande, surtout en milieu rural

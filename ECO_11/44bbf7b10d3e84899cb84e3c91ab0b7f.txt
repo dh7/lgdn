@@ -1,1 +1,0 @@
-simplifier le co-voiturage : créer des zones d'attentes identifiées facilitant le co-voiturage non anticipé similaire à l'auto-stop mais structuré combiné avec une appli permettant à chacun de préciser sa destination et au conducteur de voir en temps réel sir les gens qui attendent vont vers sa destination.

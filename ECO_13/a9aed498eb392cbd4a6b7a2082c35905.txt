@@ -1,1 +1,0 @@
-Chaque collectivité en fonction de ses compétences et territoire (État pour le train, Régions pour les bus et TER, Villes pour les transports au local)

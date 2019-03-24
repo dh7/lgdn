@@ -1,1 +1,0 @@
-- Communes et intercommunalités (pour les bus et liaisons en autocars entre transports structurants) - Métropoles, départements et régions (réseaux structurants types métros, tramways et RER) - Intercommunalités, départements et régions (trains locaux) - Régions et État (trains de grandes lignes)

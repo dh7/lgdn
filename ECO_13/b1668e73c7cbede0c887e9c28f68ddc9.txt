@@ -1,1 +1,0 @@
-Les régions pour le train, les départements pour les bus et covoiturage ou les communes pour le vélo et non l'état, car on doit s'adapter à chaque endroit.

@@ -1,1 +1,0 @@
-Ces solution devraient être regroupée dans un outils unique et PUBLIQUE pour éviter la dispersion des informations : on peut trouver des trajets sur le site le plus connu de covoiturage, ou sur des sites gratuits, ou par l'intermédiaire des communauté de commune qui ont des outils plus ou moins performants. Tout devrait être regroupé et géré par un service publique.

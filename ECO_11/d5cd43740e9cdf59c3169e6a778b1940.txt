@@ -1,1 +1,0 @@
-Augmentation des fréquences train/bus, Supprimer les centres commerciaux périphériques, et rapprocher les commerces des citoyens (taxation des surfaces dédiées aux parkings)

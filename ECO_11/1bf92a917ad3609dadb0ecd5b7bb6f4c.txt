@@ -1,1 +1,0 @@
-vélo: déja le cas selon météo. Bus: améliorer la ponctualité.

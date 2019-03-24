@@ -1,1 +1,0 @@
-Je fais du covoiturage, toutefois nous ne sommes que 2 dans la voiture et je fais une grande partie du trajet seul (15 km sur 35 km). Développer un système de transport en commun dans les alentours de Marseille (notamment avec MPM). De même, il est incroyable qu'en 2019, il n'y est pas de train pour les village entre Aubagne et Aix en Provence alors que ce train existait en 1939.

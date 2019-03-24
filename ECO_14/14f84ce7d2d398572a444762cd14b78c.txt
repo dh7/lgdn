@@ -1,1 +1,0 @@
-Dans un premier temps, montrer l'exemple et prouver que ça marche !

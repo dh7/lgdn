@@ -1,1 +1,0 @@
-Adapter les transports en commun et retrouver des magasins de proximité qui font défaut dans certaines villes et villages.

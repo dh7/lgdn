@@ -1,1 +1,0 @@
-benchmark : mesurer la performance et communiquer sur son amélioration  : bilan carbone, conso electrique ( de mémoire, ca ne fait qu'augmenter) mesurer les t de déchets... ce qui est mesuré peut s'améliorer, ce qui ne l'est pas n'a aucune chance de s'améliorer et même si c'est le cas, on ne le sait pas !

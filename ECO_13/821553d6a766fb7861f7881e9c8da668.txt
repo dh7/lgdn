@@ -1,1 +1,0 @@
-Forcer les lobbys à mettre en œuvre la construction et la vente de véhicules à pile solaire ou à hydrogène(ou à eau).

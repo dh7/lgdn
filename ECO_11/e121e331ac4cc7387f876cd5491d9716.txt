@@ -1,1 +1,0 @@
-augmenter le nombre de trajets en train et permettre d'accéder en train ou en bus dans ma ville de résidence professionnelle avec des horaires s'accordant avec l'arrivée des trains.

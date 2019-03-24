@@ -1,1 +1,0 @@
-Des pistes cyclables quand elles n'existent pas et des vraies pistes cyclables quand celles-ci sont simplement délimitées par une petite ligne blanche.

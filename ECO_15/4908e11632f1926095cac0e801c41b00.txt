@@ -1,1 +1,0 @@
-Il faudrait modifier les primes à la conversion, primes à la casse et les donner par niveaux (tranches) de pollution primes et non pas par années de production ! Par exemple un véhicule de 2000 qui émet un taux de CO² de 335 g/km n'a pas le droit à cette prime alors qu'il est parmi les plus polluants.

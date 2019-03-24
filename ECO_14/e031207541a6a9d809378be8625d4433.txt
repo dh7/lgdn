@@ -1,1 +1,0 @@
-Créer un constructeur automobile européen (type Airbus en plus partagé) avec solution 100% électrique.

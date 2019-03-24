@@ -1,1 +1,0 @@
-- Covoiturage très difficile (horaires, disponibilités, proximité). - Vélo, possible mais pas sécurisé (22 kms sur la route avec les voitures nombreuses aux heures de pointe) - Transport en commun (faible passage et durée de transport d'1h15 contre 20mns en voiture) - Transport à la demande => Je ne connais pas - Auto-partage => inexistant

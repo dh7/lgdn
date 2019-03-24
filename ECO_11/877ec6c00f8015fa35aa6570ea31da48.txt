@@ -1,1 +1,0 @@
-développer les aires de covoiturages associées à un transport en commun très régulier. Le temps de  transport ne doit pas être excessif par rapport à l'usage de la voiture ( le différentiel ne doit pas excéder 20 minutes)

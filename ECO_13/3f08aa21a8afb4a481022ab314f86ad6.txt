@@ -1,1 +1,0 @@
-Une plateforme sur le principe de Uber avec un point d'entrée unique. Pourquoi pas un système garanti par l'état (application et base de données uniques) mais dont les offres seraient assurées par des intervenants privés ?

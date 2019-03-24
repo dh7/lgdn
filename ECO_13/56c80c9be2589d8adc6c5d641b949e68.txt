@@ -1,1 +1,0 @@
-les communes, les régions ou l'état selon la périmétrie du service ( commune = vélo, région = transports en commun, covoiturage ou autre : communes pour les parking, état pour les solutions )

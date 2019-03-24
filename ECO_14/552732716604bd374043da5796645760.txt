@@ -1,1 +1,0 @@
-- communiquer et benchmarker sur des indicateurs (valeur, évolution, objectifs) de performance environnementale, comme : taux de rejets CO2 / habitant, taux de rejets de particules fines des grandes villes, taux de recyclage des déchets.

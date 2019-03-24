@@ -1,1 +1,0 @@
-Obligé l'utilisation des led sur d'eclerage  public quand il faut les remplacer et y ajoutant des détecteur de  présence entre 23h et 5h du matin pour limiter l'éclairage inutile quand on dort

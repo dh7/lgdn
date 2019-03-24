@@ -1,1 +1,0 @@
-Adapter les transports en commun. Par exemple, un arrêt de bus ne doit pas être un simple panneau planté sur le trottoir car je n'ai pas envie d'attendre sous la pluie et le vent sinon, je préfère le confort de ma voiture.

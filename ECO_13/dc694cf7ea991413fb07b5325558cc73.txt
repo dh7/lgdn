@@ -1,1 +1,0 @@
-- Les constructeurs - des opérateurs privés ou publics mis en concurrence et proposant un large panel de services, sur des distances et des liaisons variables, avec des service de paiement mutualisés (façon Liber-T ou plateforme de paiement OPnGO, etc.).

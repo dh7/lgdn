@@ -1,1 +1,0 @@
-Montrer la réussite de modèles locaux pour créer un effet d'entrainement.

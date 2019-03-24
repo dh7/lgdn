@@ -1,1 +1,0 @@
-Un service de car une fois par jour aller/retour pour se rendre dans la ville la plus proche.

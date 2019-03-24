@@ -1,1 +1,0 @@
-Généraliser le tri sélectif dans tous les états

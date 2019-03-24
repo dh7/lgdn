@@ -1,1 +1,0 @@
-Mettre en place un site national permettant à chaque foyer, selon sa configuration (lieu d'habitation, trajet, type d’habitations, habitudes, mode de chauffage....)  de voir quelles aides ou dispositifs sont à sa disposition

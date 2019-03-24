@@ -1,1 +1,0 @@
-La ville en premier lieu, mais aussi le département et les régions pour les trains interdépartementaux, et l'Etat pour les trains à échelle nationale.

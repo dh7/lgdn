@@ -1,1 +1,0 @@
-Montrer qu’un modèle français fonctionne et l’elargir

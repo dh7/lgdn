@@ -1,1 +1,0 @@
-Développer des applications de covoiturage court, pour les petits trajets boulot/maison, qui n'existent encore que pour les grandes villes.

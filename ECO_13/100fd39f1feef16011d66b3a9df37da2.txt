@@ -1,1 +1,0 @@
-Etat/Région pour les trains. Région/Commune pour les pistes cyclables, l'auto partage, le covoiturage

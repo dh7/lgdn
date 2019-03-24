@@ -1,1 +1,0 @@
-Les villes, les communes ou l'état.  Il y a trop de paramètres pour que ce soit une autre structures.

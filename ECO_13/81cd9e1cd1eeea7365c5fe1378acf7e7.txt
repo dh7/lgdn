@@ -1,1 +1,0 @@
-l'employeur,le département,la région et l'état

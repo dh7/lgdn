@@ -1,1 +1,0 @@
-Augmenter la fréquence des cars, et coordonner les horaires des cars et de la sncf. Il n'est pas possible aujourd'hui d'aller en transport en commun de mon village aux villes les plus proches si on travaille avant 9h.

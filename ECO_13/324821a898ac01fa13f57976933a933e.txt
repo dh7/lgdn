@@ -1,1 +1,0 @@
-A chaque niveau:Commune, departement et region (piste cyclable, route,).

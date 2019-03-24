@@ -1,1 +1,0 @@
-Augmenter la cadence et le nombre des trains autour de toutes les villes avec un cadencement identique à un tramway aux heures de pointe (tram-train région nantaise par exemple)

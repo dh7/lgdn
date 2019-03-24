@@ -1,1 +1,0 @@
-Si le trajet est dans la ville, c'est pour la commune. Si c'est entre deux villes, c'est pour le département. Si c'est entre deux départements, c'est pour la région. Si c'est entre deux régions, c'est pour l'état.

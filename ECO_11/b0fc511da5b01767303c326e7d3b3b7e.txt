@@ -1,1 +1,0 @@
-modifier les heures de départ et de retour(plus tot le matin et plus tard le soir)cela pour faciliter les correspondances avec les transports urbains des villes (dans mon cas,Nancy et Metz)

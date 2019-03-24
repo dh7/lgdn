@@ -1,1 +1,0 @@
-Il faut développer des modes alternatifs, et montrer que ceux-ci fonctionnent !

@@ -1,1 +1,0 @@
-C'est clairement un service privé et non public. Sauf qu'il ne faut pas de mise en concurrence sur un même territoire de deux réseaux de stockage de vélo pour des raisons de mobilité.

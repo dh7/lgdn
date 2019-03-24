@@ -1,1 +1,0 @@
-Un système de covoiturage digne de ce nom permettant en "levant" le petit doigt" de trouver une voiture de passage sure et un conducteur sûr dans les 5 mn en payant en fonction du km parcouru pour remercier le chauffeur du véhicule.

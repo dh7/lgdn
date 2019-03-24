@@ -1,1 +1,0 @@
-création d'une vignette annuelle en fonction de la puissance réelle et du poids du véhicule ; l'ancienne vignette supprimée à la fin des années 90 allait dans le sens de la limitation de l'achat de véhicules puissants et lourds et donc polluants

@@ -1,1 +1,0 @@
-Il me semble qu'en local, une application type Blablacar pour les trajets du quotidien (très courts, peu prévisibles) serait utile. Ca existait, on appelait ça l'auto-stop :-)

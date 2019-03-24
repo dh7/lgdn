@@ -1,1 +1,0 @@
-personne = les citoyens doivent être capables de choisir le meilleur moyen en rapport à leur situation personnelle.

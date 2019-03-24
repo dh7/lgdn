@@ -1,1 +1,0 @@
-Optimiser l'affectation des personnes. exemple fonctionnaire ( prof)  Mr Y habite ville A travaille ville B , Mme Y habite B travaille ville A .   c'est des cas rencontrés

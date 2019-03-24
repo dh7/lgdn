@@ -1,1 +1,0 @@
-Ne plus être à la fois:        - en zone blanche cellulaire (sans couverture)       - en zone à très bas débit ADSL (<600kb/s...!!!) afin de pouvoir accéder en temps réel  à une application de disponibilité d'un de ces moyens  de transport.

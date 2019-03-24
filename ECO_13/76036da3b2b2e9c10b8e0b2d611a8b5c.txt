@@ -1,1 +1,0 @@
-Vues les dépenses à engager, seul l'état et ses régions, bien sûr, est capable d'avancer sur ce problème

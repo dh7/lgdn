@@ -1,1 +1,0 @@
-Supprimer tous les produits chimiques qui rentre dans l'alimentation.  Indexer les consommables en fonction des distances parcourues,  ex un produit fabriqué ou récolte a moins de 100km classé A et un produit venu par bateau ou avion D

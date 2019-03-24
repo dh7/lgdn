@@ -1,1 +1,0 @@
-Les déplacements se font sur une région, donc la Région devrait être en charge pour une solution globale.

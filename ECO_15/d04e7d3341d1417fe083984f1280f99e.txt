@@ -1,1 +1,0 @@
-Que le site "granddebat.fr" arrête d'envoyer un mail à chaque contribution (inutile, on retrouve ses contributions sur le site) : les mails conservés nécessitent d'immenses serveurs très consommateurs d'électricité

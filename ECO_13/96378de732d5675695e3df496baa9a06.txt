@@ -1,1 +1,0 @@
-Le nombre de trains est insuffisant ( exemple : 1 seul Dijon/ Lille par jour) et c'est la raison pour laquelle je prends la voiture sur un certain nombre de trajets

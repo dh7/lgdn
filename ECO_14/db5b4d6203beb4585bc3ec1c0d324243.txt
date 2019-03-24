@@ -1,1 +1,0 @@
-Donner l'exemple en mettant en place des solutions qui fonctionnent et qui permettent d'économiser des ressources de l'état (ex : moins de dépenses de santé - moins de traitement de déchets - etc ...)

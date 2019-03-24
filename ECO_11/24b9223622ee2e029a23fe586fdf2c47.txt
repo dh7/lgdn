@@ -1,1 +1,0 @@
-Train + vélo: faire en sorte que le train soit à l'heure (moins de 3/4h de retard) ou ne soit pas annulé ( 2 à 3 fois par semaine)

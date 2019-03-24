@@ -1,1 +1,0 @@
-mix publique (train, bus, …) privé (co voiturage, blabla car, uber…)

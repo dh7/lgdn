@@ -1,1 +1,0 @@
-Des solutions d'analyse de comportement de véhicule ou d'enregistrement des trajets des gens pourraient être utile pour faire des propositions de covoiturage de personne qui font les même trajets au même horaire.

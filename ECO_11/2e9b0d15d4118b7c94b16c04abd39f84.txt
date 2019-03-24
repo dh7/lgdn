@@ -1,1 +1,0 @@
-Une appli très simple de bus virtuel qui centralise toutes les offres de covoiturage sur un trajet (une ligne de bus virtuel).

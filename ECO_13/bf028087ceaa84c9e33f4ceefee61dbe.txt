@@ -1,1 +1,0 @@
-Communaute de communes / Département/region / etat suivant le type de trajets. Pour les trajets quotidiens ceci devrait être très majoritairement réalisé au niveau du departement/ régions (ancien périmètre de régions, le périmètre actuel n'est pas pertinent vu la taille de la région nouvelle aquitaine)

@@ -1,1 +1,0 @@
-desserte réelle ( horaire, cadencement, proximité) par des transports collectifs. Réduire les ruptures de charge dans les trajets ( une rupture de charge est une correspondance ou un changement de mode de transport)

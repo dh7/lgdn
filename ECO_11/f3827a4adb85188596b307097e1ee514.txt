@@ -1,1 +1,0 @@
-Mettre en place un système de covoiturage local et quotidien. Développer le train ou les bus (horaires et nombre) surtout les lignes de proximité. Développer les pistes cyclable encore un peu plus.

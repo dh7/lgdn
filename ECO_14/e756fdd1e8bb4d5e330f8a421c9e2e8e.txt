@@ -1,1 +1,0 @@
-Créer un réseau de ferroutage pour les camions qui traversent l'Europe Développer les circuits court de l'alimentation

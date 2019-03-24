@@ -1,1 +1,0 @@
-toutes les couches administratives : l'etat, les regions, les departements, les communautes de commune, les municipalites

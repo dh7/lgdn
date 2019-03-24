@@ -1,1 +1,0 @@
-Augmenter les fréquences de nos bus de banlieue. Diminuer leur temps de trajet en généralisant les couloirs de bus et, chaque fois que possible, les "bypass" de feux rouges.

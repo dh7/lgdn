@@ -1,1 +1,0 @@
-développer des réseaux fiables, avec des outils permettant de s'organiser (comme des applications donnant des heures d'arrivées précises aux arrêts de bus ou train, avec des calculs pour les correspondances - voir application TPG en Suisse à Genève) si on développe un bon réseau, on peut limiter ou interdire à certains véhicules de circuler

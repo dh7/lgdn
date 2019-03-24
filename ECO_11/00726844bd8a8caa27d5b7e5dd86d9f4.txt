@@ -1,1 +1,0 @@
-Le développement d'un service public intégré de transport en commun (avec un pass de type Navigo de l'Ile-de-France) dans ma métropole.

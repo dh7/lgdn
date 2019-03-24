@@ -1,1 +1,0 @@
-Pour tout véhicule de PTAC > 3 tonnes, créer une vignette pour circuler sur le réseau routier français. Cette vignette est obligatoire pour tout véhicule de PTAC > 3 tonnes, quel que soit la distance parcourue ou la « nationalité » du véhicule.

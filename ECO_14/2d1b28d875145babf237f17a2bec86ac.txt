@@ -1,1 +1,0 @@
-Montrer l'exemple, mettre en place des tests pour arriver à la table des négociations avec des résultats concrets

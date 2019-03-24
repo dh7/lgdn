@@ -1,1 +1,0 @@
-un service de bus plus dynamique réduisant les temps d'attente

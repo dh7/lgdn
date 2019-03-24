@@ -1,1 +1,0 @@
-Les constructeurs avec l état.

@@ -1,1 +1,0 @@
-- installer plus d'unités de méthanisation - n'installer des éoliennes que s'il y a suffisamment de vent (facteur de charge supérieur à 50%) -conserver momentanément le nucléaire -diminuer à terme la consommation énergétique

@@ -1,1 +1,0 @@
-Améliorer l'interconnexion entre les différents modes de transports.  Ex trajet domicile travail : 25 mn en voiture et 1h30 en train + tram principalement a cause du fait que les connections entre les différents mode de transports ne sont pas pensés

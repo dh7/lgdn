@@ -1,1 +1,0 @@
-Commencer par donner l'exemple, et limiter les importations en provenance des état les moins vertueux.

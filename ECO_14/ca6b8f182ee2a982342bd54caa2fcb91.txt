@@ -1,1 +1,0 @@
-Essayons de faire du benchmarking sur les solutions existant ailleurs avant de proposer des solutions que nous n'avons pas mis en oeuvre

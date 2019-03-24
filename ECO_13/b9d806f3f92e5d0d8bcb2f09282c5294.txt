@@ -1,1 +1,0 @@
-La ville (transports dans une ville), le département (transports entre village et ville) et l'état (transports nationaux).

@@ -1,1 +1,0 @@
-Je l'ignore, mais il faut éviter les dépenses en doublon (état + région + département + communautés de communes + communes)

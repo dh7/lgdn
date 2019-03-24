@@ -1,1 +1,0 @@
-Interdire l'abattage des arbres pour construire des zones d'habitations Prendre en compte que des habitations supplémentaires dans une zone déjà largement construite entraîne obligatoirement une augmentation du trafic routier, alors que les routes actuelles sont déjà saturées. Ceci augmente la pollution atmosphérique.

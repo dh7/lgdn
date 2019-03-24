@@ -1,1 +1,0 @@
-Calculer la taxe carbone de a à z ( fabrication, transport,...) pour tous les produits vendus en France. On éviterais peut-être ainsi que nos chênes partent en Chine pour revenir sous forme de parquet.

@@ -1,1 +1,0 @@
-Réorganiser le tri sélectif en le standardisant, pour le rendre évident.

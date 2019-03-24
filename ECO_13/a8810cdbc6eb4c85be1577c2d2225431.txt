@@ -1,1 +1,0 @@
-Cela dépend des contextes: en ville, c'est la ville qui devrait le faire. A la campagne, c'est plus complexe, car la voiture reste le premier mode de transport. Dans ce cas, l'état devrait inciter les gens à acheter des zoe, par exemple en donnant une prime ou alors en permettant de déduire cet achat de son revenu.

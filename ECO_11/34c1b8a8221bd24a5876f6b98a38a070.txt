@@ -1,1 +1,0 @@
-Prix et niveau de service de ces transports en commun (nombre de trajets proposés et fréquence + sûreté dans ces types de transport).

@@ -1,1 +1,0 @@
-J'attends les solutions de voitures autonomes qui seront capable de regrouper dynamiquement des personnes. Nous savons tous que les embouteillages sont liées au déplacement de caisses vides. Il faudrait qu'elle se remplissent mieux : c'est un problème de télécom et d'algorithme de recherche opérationnelle.

@@ -1,1 +1,0 @@
-Eviter la multiplication des sites de covoiturage qui n'offre que peu de voyages chacun et ne donne pas de visibilité globale. Il faudrait une application par métropole qui reprenne tous les modes de transport disponibles et l'ensemble des horaires et des connexions.

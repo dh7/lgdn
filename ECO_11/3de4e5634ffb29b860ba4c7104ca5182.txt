@@ -1,1 +1,0 @@
-Plateformes réactives, en temps réél, permettant de mettre en commun les disponibilités de chacun, même pour des déplacements locaux. Une sorte de BlaBlacar géant pour une disponibilité immédiate

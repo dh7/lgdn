@@ -1,1 +1,0 @@
-Limiter les importations de pays qui se soucient peu de l'environnement tant que qu'ils n'ont pas fait d'efforts de ce coté la

@@ -1,1 +1,0 @@
-Une application déclinant l'usage de ma voiture vis à vis du trajet avec tous les éléments financiers que sont : trajet ,  carburant ,  temps passé , parking  à quel endroit et à quel cout par rapport à d'autres solutions alternatives

@@ -1,1 +1,0 @@
-c'est un problème de gestion du territoire, qui devrait etre géré par la region (RER, lignes de bus etc)

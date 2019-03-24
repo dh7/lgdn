@@ -1,1 +1,0 @@
-L'état pour le train grandes lignes, la région et le département pour le bus et les TER, les municipalités et le département pour le vélo.

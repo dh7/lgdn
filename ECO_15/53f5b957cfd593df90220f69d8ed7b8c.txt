@@ -1,1 +1,0 @@
-Faire en sorte que les tickets de transport urbains ne coutent pas la même somme selon la duree du trajet Pour ce faire valider en entrant avec une puce électronique et qui sera débitée en la représentant en sortant du trajet

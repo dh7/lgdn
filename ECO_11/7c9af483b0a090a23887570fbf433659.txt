@@ -1,1 +1,0 @@
-Un bus par jour qui emmène dans la plus proche ville pour prendre le train a des heures incompatibles avec ma fonction me force à prendre mon véhicule pour rejoindre la ville la plus proche qui dispose du RER. Donc plus de bus serait un bon départ (navette autonome?)

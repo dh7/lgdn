@@ -1,1 +1,0 @@
-Supprimer la déduction d’impots des frais réels pour les déplacements en voiture domicile-travail lorsqu’une solution existe en transport en commun, développer les frais kilométriques à vélo.

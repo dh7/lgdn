@@ -1,1 +1,0 @@
-Mois de temps d'attente pour un bus.

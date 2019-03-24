@@ -1,1 +1,0 @@
-Voisinage, commune, département, région, état, selon le type de déplacement.

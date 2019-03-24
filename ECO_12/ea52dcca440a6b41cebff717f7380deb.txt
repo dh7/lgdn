@@ -1,1 +1,0 @@
-Mes déplacements quotidiens ont un trajet et une longueur tels qu'il n'existe aucune solution alternative à la voiture individuelle. (aucune ligne de transports en commun, auto-partage impossible, etc...)

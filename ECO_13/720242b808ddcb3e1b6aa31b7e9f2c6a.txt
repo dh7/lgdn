@@ -1,1 +1,0 @@
-Démarche collective privée + publique mais inutile de déployer des solutions comme  autolib. qui suppose que les utilisateurs soient un tant soit peu soigneux et l’exploitant entretienne correctement son matériel.

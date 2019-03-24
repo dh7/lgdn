@@ -1,1 +1,0 @@
-Un nouveau service de létat en charge de la gestion des transport des citoyens. Ce service proposerait à la demande du citoyen le meilleur transport en termes coût, écologie et bien être. En s'appuyant sur les prestataires public et privé de tout moyens de déplacement.

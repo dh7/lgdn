@@ -1,1 +1,0 @@
-Rien : temps de déplacement multiplié par 4 + contraintes horaires

@@ -1,1 +1,0 @@
-Supprimer les vols interieur d avion entre villes quand il y a un TGV. Interdir aux camions de circuler à vide ( environ 20%)

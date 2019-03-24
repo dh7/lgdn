@@ -1,1 +1,0 @@
-Montrer les méthodes des pays qui sont plus performants que la France.

@@ -1,1 +1,0 @@
-Une seule entité, la Région. actuellement c'est trop compliqué entre la région, le département et la commune voir les communautés de communes.

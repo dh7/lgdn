@@ -1,1 +1,0 @@
-Fiabilité. On ne peut pas dépendre d'un service TEr systématiquement en retard ou annulé.

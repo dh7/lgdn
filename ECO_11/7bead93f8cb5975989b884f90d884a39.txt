@@ -1,1 +1,0 @@
-Un site internet de covoiturage clair et simple. Des parkings sur les grands surfaces (nombre de place obligatoire à définir) pour déposer les voitures. Subvention pour l'achat de véhicules électriques ou baisse des prix.

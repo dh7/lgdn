@@ -1,1 +1,0 @@
-proposer des taxes à l'importation, exemple taxer les produits qui ont utilisés une énergie carbonnée en fonction du taux d'usage d'energie carbonnée du pays.

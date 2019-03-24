@@ -1,1 +1,0 @@
-Montrer l'exemple, avec des villes offrant des tramways, des bus électriques et des pistes cyclables.

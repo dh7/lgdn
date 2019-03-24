@@ -1,1 +1,0 @@
-Des 'fournisseurs de transports' : les institutions pour les transports en commun, les particuliers pour l'autopartage, etc. Chacun propose les bouts de moyen de transport, et l'outil donne les différents trajets possibles, avec le temps mis, le cout, voire l'empreinte carbone. Une sorte de 'Super blablacar'

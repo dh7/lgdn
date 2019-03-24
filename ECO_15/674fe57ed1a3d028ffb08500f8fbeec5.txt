@@ -1,1 +1,0 @@
-Supprimer le changement d'heure et vivre à l'heure UTC pour que midi soit vraiment midi et minuit vraiment minuit, ce qui garantira une meilleure qualité de vie conforme à notre rythme biologique.

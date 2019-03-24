@@ -1,1 +1,0 @@
-Densifier le réseau (géographique et temporel)

@@ -1,1 +1,0 @@
-Montrer l'exemple et prouver que ça marche, mais aussi s'inspirer des solutions qui marchent à l’étranger.

@@ -1,1 +1,0 @@
-Un service public du déplacement qui coordonnerait les différents moyens de transports en commun proposés (train, bus, voir avion...) pour éviter les doublons et avoir une coordination des offres. Les transports en commun mis en œuvre pourraient être de financement public ou privé.

@@ -1,1 +1,0 @@
-Région ou département pour les cars, ville pour les bus, état pour les trains.

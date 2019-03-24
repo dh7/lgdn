@@ -1,1 +1,0 @@
-Indiquer le coût énergétique total de la production d'un produit (acheminement inclus) sur les étiquettes et créer un label qui valorise ceux à faible coût énergétique.

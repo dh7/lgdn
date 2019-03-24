@@ -1,1 +1,0 @@
-Adapter du materiel d'info pour les différentes categories d'âges, y compris les retraités.

@@ -1,1 +1,0 @@
-mettre en place une plate-forme  internet performante, de type blablacar, mais orientée sur la mise en relation pour des trajets courts. Contrairement à ce qu'est devenu Blablacar, celle ci devrait rester entièrement gratuite (pas de ponction même minime sur le porte-monnaie des utilisateurs)

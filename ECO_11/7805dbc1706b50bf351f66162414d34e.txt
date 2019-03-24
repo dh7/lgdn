@@ -1,1 +1,0 @@
-mettre en place une plateforme locale pour le covoiturage sur les petites distances, étendre le trajet du bus de 3 km pour qu'il passe chez moi

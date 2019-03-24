@@ -1,1 +1,0 @@
-Installer un système à l'échelle locale et valider son fonctionnement et les apports positifs qu'il engendre, pour pouvoir l'exporter.

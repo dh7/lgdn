@@ -1,1 +1,0 @@
-L'état mais en tenant compte des spécificités locales tel que climat, type d'industrie, typologie du bassin d'emploi

@@ -1,1 +1,0 @@
-cela commence par les constructeurs mais avec une obligation de résultats dans un temps défini. Cette obligation doit être imposée et contrôlée par l'état. Elle doit être assortie de subventions en cas de réussite uniquement (on paie après!), mais aussi de pénalités importantes (% du CA) en cas d'échec.

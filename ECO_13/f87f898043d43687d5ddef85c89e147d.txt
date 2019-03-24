@@ -1,1 +1,0 @@
-L'état pour les relations TGV et intervilles, la région pour les réseaux régionaux, les communes ou communauté de communes  pour les déplacements locaux.

@@ -1,1 +1,0 @@
-Faire que la durée du trajet avec les transports en commun ne soit pas le quatruple de la durée du trajet en voiture

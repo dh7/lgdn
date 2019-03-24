@@ -1,1 +1,0 @@
-Des services plus réguliers (bus pour aller du centre de lyon à l’ecole centrale de lyon) de manière générale les services de transports entre les grandes écoles contruites en périphérie et les villes laissent à désirer. Il faudrait développer une application de covoiturage pour les trajets maison / bureau ou maison / ecole ou des navettes.
