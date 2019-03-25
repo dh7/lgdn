@@ -1,0 +1,102 @@
+<html>
+  <head>
+    <title>Le Grand d&eacute;bat National</title>
+    <script src="https://unpkg.com/deck.gl@^6.0.0/deckgl.min.js"></script>
+    <style type="text/css">
+      body {
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        background: #EEE;
+        position: fixed;
+        overflow-y:scroll;
+        overflow: hidden;
+      }
+      .tip {
+        line-height: 1;
+        font-size: small;
+        font-family: 'arial';
+        padding: 12px;
+        visibility: hidden;
+        background-color: rgba(255, 255, 255, 0.6);
+        color: #111;
+        border-radius: 0px;
+        position: absolute; z-index: 1;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="tooltip" class="tip"></div>
+    <canvas id="deck-canvas"></canvas>
+  </body>
+
+  <script type="text/javascript">
+    // Get the question set prefix
+    url_str = window.location.href
+    var url = new URL(url_str);
+    var prefix = url.searchParams.get("prefix")
+    
+    // Get the question list
+    var questions = []
+    fetch(prefix + '/' + 'questions.json')
+      .then(function(response) { return response.json(); })
+      .then(function(data) {
+        questions = data
+      });
+    
+    // Create the deck object
+    const {DeckGL, ScatterplotLayer} = deck;
+
+    function color(object) {
+        x = object.c / 200 * 255
+        return [x, 0, 255-x]
+    }
+
+    function setTooltip(object, x, y) {
+      const el = document.getElementById('tooltip');
+      if (object) {
+        el.style.display = 'block';
+        el.style.visibility = 'visible';
+
+        el.innerHTML = ''
+        el.style.left = x+10;
+        el.style.top = y-10;
+        fetch('https://storage.googleapis.com/lgdn/'+ prefix + '/' + object.h+'.txt')
+          .then(function(response) {
+                return response.text()
+          })
+          .then(text => {
+            el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+          })
+          .catch(err => {
+            console.log(err)
+          })
+      } else {
+        el.style.display = 'none';
+      }
+    }
+
+    new DeckGL({
+      longitude: 0,
+      latitude: 0,
+      zoom: 3,
+      maxZoom: 5,
+      layers: [
+        new ScatterplotLayer({
+          id: 'scatter-plot',
+          data: prefix + '/' + 'data.json',
+          opacity: 0.1,
+          pickable: true,
+          radiusScale: 2000,
+          radiusMinPixels: 5,
+          getPosition: d => [d.x*2, d.y*2, 0],
+          getColor: d => color(d),
+          onHover: d => setTooltip(d.object, d.x, d.y)
+        })
+      ]
+    });
+
+  </script>
+</html>
