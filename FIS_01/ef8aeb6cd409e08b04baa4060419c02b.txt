@@ -1,1 +1,0 @@
-Revoir le calcul des impôts. Je trouve que les tranches d'imposition sont très injustes, en effet celui qui au bas de la tranche avec un salaire moindre, paye autant d'impôt que celui qui se trouve en haut de la même tranche. Un pourcentage qui serait appliqué sur le salaire (à partir d'un revenu minimum) serait plus juste. Ainsi il n'y aurait pas besoin de remettre l'I.S.F.

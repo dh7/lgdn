@@ -1,1 +1,0 @@
-Un mémo (style camembert), avec d'une part d'ou proviennent les resources, et comment elles sont utilisées d'autres parts. Enfin, un graphe permettant chacun en fonction de son salaire montrant ce qu'il paye (en TVA, impot, ...), et ce dont il bénéficie en face (gratuité de l'école, sécurité sociale, ...)

@@ -1,1 +1,0 @@
-La Caf suivant le nombre d'enfant( à partir d'un certain revenu, il faut la supprimer) Par exemple, pour un revenu mensuel de 10000 € est nécessaire de percevoir des allocations familiales pour les enfants.

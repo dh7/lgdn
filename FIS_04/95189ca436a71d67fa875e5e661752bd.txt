@@ -1,1 +1,0 @@
-- CMU  - Toutes les allocations pour 3 enfants maximum-  - Limiter le nombre et le type de soins / mois pour les gens qui ne cotisent pas -  - Obliger les cartes vitales avec photos et uniquement pour les gens qui parlent français ( trop d’abus la nuit aux urgences)- - Aides sociales réduites en cas de certaines peines judiciaires

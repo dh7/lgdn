@@ -1,1 +1,0 @@
-Il suffirait d'accentuer les vérifications des dossiers lors de l'aide initiale et de maintenir dans le temps des contrôles pour vérifier si ces allocations ou aides sont toujours nécessaires

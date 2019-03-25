@@ -1,1 +1,0 @@
-un affichage sur la répartition des impôts visible dès que l'on reçoit l'avis d'imposition.

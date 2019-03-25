@@ -1,1 +1,0 @@
-En priorité le RSA. De plus multiplier les contrôles afin de vérifier le bien fondé de son attribution et que cela ne favorise pas la travail au noir

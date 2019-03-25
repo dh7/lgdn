@@ -1,1 +1,0 @@
-Accorder les aides en fonction d'un minimum vital. Conserver une partie des ces aides en fonction du revenu. Faire qu'une personnes qui travaille gagne plus qu'une personne qui ne travaille pas

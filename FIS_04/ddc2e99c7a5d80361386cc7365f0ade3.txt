@@ -1,1 +1,0 @@
-Toutes il faut les fusionner. Pas d'allocs au dessus du 3ème enfant. Pas d'assedics au dessus de 2200€

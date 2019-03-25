@@ -1,1 +1,0 @@
-Fiche de paie vraiment simplifié avec une catégorie impôt (une ligne impôt sur le revenu et une ligne prélèvement sociaux censé aider les français les plus démunis) et une cartegorie assurancielle (cotisation sécurité sociale, retraite, prévoyance... en limitant le nombre de ligne et les innombrables particularités ou régimes spéciaux.

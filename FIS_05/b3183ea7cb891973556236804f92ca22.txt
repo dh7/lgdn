@@ -1,1 +1,0 @@
-MDPH : simplifier les dossiers et les allocations : ne pas couper l'allocation sous prétexte de non engagement des frais par le bénéficiaire pendant l'instruction de son dossier !! Aucun dossier social ne devrait être traité en plus de 3 mois de bout en bout (du dépôt à l'obtention de l'aide).

@@ -1,1 +1,0 @@
-Il faut commencer par rendre plus lisible la base de calcul de l’impôt sur le revenu en transformant la CSG-CRDS non déductible en CSG-CRDS déductible

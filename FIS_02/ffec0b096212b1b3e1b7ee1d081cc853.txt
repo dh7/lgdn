@@ -1,1 +1,0 @@
-supprimer le doublon entre la taxe foncière et la taxe d'habitation: pour les propriétaires ce doit être l'un ou l'autre, pas les deux

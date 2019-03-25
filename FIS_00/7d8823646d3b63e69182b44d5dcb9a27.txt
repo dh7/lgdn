@@ -1,1 +1,0 @@
-Regrouper les différents impôts en un seul impôt (local par exemple hab/foncière …  - et revenus)

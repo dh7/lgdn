@@ -1,1 +1,0 @@
-Il faut créer un identifiant unique pour chaque français qui permettrait de pouvoir faire matcher toutes les données des différents services sur une même base : impots, allocations, assurance maladie, retraite, assurance, employeur, justice...faciliterait le debusquage des fraudes qui coûtent beaucoup trop d,argent à l’etat

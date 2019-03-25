@@ -1,1 +1,0 @@
-Afficher sur les structures publiques le coût en pourcentage

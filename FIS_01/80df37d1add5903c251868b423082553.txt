@@ -1,1 +1,0 @@
-Revoir l'I/R: suppression et remplacement des tranches d'imposition actuelles par mettre une fonction affine du type    I/R = a.x + b  (a= coefficient d'imposition pour tous ex: 10%, b étant = au smic annuel net, pas de plafond pour les plus riches)

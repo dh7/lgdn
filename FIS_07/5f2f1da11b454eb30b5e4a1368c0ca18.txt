@@ -1,1 +1,0 @@
-Rénover le calcul de la taxe d'habitation et de la taxe foncière.  Tous les habitants d'une commune doivent être redevables de la TH et les propriétaires dans la commune de la TF. Il faut indexer ces taxes en fonction des revenus et intensifier les contrôles sur les changements de destination des pièces (par exemple garage transformé en pièce habitable supplémentaire) .

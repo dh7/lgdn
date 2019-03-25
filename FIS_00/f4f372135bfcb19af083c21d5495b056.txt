@@ -1,1 +1,0 @@
-Une chose simple: créer un site, comme celui du grand débat, qui rendrait public et de manière DIGESTE l'utilisation du budget de l'état. Digeste = par exemple comme dans les applications mobile des banques, avoir accès à un diagramme (ou autre manière de présenter les données) regroupant par catégorie les dépenses de l'état (dont l'utilisation des impôts fait partie).

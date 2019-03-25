@@ -1,1 +1,0 @@
-faire en sorte que toutes les aides reçues soient justifiées (faux parents isolés, ou bénéficiaires d'aides par les associations par exemple), et que le  montant global reçu ne soit pas supérieur à un seuil à déterminer.

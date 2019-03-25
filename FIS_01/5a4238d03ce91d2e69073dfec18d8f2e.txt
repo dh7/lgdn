@@ -1,1 +1,0 @@
-Rendre l'ensemble de CSG deductible. Actuellement on paie deux fois l'impôt sur le même revenu, le mécanisme de CSG non deductible n'est pas juste

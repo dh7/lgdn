@@ -1,1 +1,0 @@
-Il faut créer un site internet officiel qui donne la somme d'argent totale collectée par les impôts et qui donne les détails par domaine (éducation, sécurité, santé, etc) de l'utilisation de cet argent.

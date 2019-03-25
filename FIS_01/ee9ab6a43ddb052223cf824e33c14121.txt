@@ -1,1 +1,0 @@
-Supprimer les tranches et mettre un pourcentage comme pour le prélèvement à la source. Mais en suppriment CFG CRDS. Car le pourcentage actuel est majoré.

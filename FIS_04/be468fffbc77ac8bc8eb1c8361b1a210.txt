@@ -1,1 +1,0 @@
-Pourquoi ne pas verser qu'une seule allocation qui tiendrait compte de tous les paramètres du citoyen concerné : chômage, allocations familiales, allocation logement, etc. et plafonner cette allocation afin que celui qui travaille ne perçoive pas moins que celui qui est au chômage

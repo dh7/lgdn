@@ -1,1 +1,0 @@
-Créer une taxe tva intégrée au moyen de paiement, et qui permettrait de créer des tranches de tva, liés au consommateur plutôt qu'au produit, même problème pour la csg. L'impôt doit être juste et donc fonction de la situation de la personne

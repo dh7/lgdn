@@ -1,1 +1,0 @@
-Réduire les allocations en fonction du nombre croissant d'enfants, remplacer les primes de scolarité par des bons d'achat chez des partenaires revendeurs de fournitures scolaires. Il n'est pas normal que les bénéficiaires de la CMU n'aient pas à leur charge la franchise sur les consultations et les médicaments

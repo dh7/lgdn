@@ -1,1 +1,0 @@
-reconstruire la taxe d'habitation (pour que les communes puissent avoir des ressources) en repartant à zéro. Se baser sur la superficie du logement et l'affecter d'un coefficient  tenant compte de la "cote" du quartier

@@ -1,1 +1,0 @@
-Quand l'état dépense 1000€ nous faisons un crédit à la consommation de 250€.  Il faut le faire savoir.

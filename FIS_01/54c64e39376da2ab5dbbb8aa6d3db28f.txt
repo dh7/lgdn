@@ -1,1 +1,0 @@
-Linéariser les prélèvements en fonction des revenus. Incorporer tous le, aides, salaires, avantages fiscaux  revenus.... dans la déclaration (y compris les allocations et l'APL...)

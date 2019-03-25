@@ -1,1 +1,0 @@
-Il ne s'agit pas de choisir ... Il faudrait seulement une meilleure vérification des conditions d'attribution et prévoir une méthode pour vérifier leur utilisation.

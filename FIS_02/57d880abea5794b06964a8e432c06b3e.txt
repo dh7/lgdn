@@ -1,1 +1,0 @@
-- Supprimer les taxes et impôts dont  le coût de fonctionnement est supérieur au revenu généré - Supprimer la TVA sur les produits de première nécessité et sur l'énergie (Electricité et chauffage) - Supprimer la CSG, impôt initalement temporaire avec un but précis qui est devenue une sorte de TVA

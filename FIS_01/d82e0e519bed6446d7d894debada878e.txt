@@ -1,1 +1,0 @@
-Définir une échelle du "reste à vivre" qui serait partageable par tous ((écart de 1 à  ? ) du salaire médian )et en déduire une contribution individuelle en fonction de cette échelle.

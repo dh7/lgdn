@@ -1,1 +1,0 @@
-Reporter les % de répartition nationale des impôts sur l'impôt personnelle. Par ex : si les impôts se montent à 1000€ indiquer le montant en € de l'affection de ces 1000€.

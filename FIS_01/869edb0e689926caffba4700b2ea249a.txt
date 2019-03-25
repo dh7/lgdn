@@ -1,1 +1,0 @@
-tout devrait être en pourcentage et non en tranche. les effets de seuils sont durs à accepter.

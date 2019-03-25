@@ -1,1 +1,0 @@
-Simplifier afin de réduire les cumuls.  Plafonner les indemnités chômage et la durée d'indemnisation. Aider les chômeurs par d'autres "incentives" (ex : payer un déménagement à un chômeur qui accepte de bouger, l'aider à s'installer, ...)

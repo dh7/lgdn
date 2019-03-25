@@ -1,1 +1,0 @@
-Suppression des departements en zone urbaine. Proportionnaliser les depenses fonctionnement et investissement selon des tryptiques (logement, emploi, transport). Si on augmente ou baisse pour l’un, on le fait dans les memes proportions pour l’autre.

@@ -1,1 +1,0 @@
-suppression de la csg et la rds pour tous

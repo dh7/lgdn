@@ -1,1 +1,0 @@
-Suppression des taxes qui ne tiennent pas compte des revenus comme la TVA et réintégration de celles-ci dans des taxes qui tiennent compte des revenus (impot sur le revenu, CSG)

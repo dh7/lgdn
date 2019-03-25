@@ -1,1 +1,0 @@
-Afficher la transparence des dépenses de l'état et surtout de ses représentants.

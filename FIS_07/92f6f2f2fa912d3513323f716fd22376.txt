@@ -1,1 +1,0 @@
-Faire une évaluation sur toutes les agences d état qui sont en doublon avec les ministères, les régions, et départements et supprimer celles qui ne sont pas utiles et réaffecter les personnes dans d autre tâche ce qui évitera l embauche de fonctionnaire supplementaire

@@ -1,1 +1,0 @@
-Supprimer les niches fiscales . Calculer l'impôt de chaque citoyen sur la base des ses revenus. Continuer à lutter efficacement contre l'évasion fiscale

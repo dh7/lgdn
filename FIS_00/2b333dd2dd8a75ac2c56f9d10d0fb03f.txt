@@ -1,1 +1,0 @@
-Un site web dédié au suivi des dépenses publiques en temps réel. Proposer aux français un suivi par grand thèmes (Éducation / Défense / Santé / etc...) ; des tableaux de bord compréhensibles de tous.

@@ -1,1 +1,0 @@
-Un bulletin mensuel d'information avec possibilité d'abonnement gratuit pour réception par mail, indiquant la provenance des recettes, leur affectation à des dépenses données, et la répartition des dépenses qui en découle. Incluant une comparaison entre le montant des recettes du mois et les dépenses associées (compte-tenu d'un nécessaire décalage dans le temps).

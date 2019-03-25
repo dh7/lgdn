@@ -1,1 +1,0 @@
-- Ré-indexer les retraites sur l'inflation et ce pour tous les retraités. C'est le minimum !

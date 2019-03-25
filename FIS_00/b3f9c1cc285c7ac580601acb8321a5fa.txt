@@ -1,1 +1,0 @@
-Rendre le système moins complexe et plus lisible, donc plus acceptable par tous

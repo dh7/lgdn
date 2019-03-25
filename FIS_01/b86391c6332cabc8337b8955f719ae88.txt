@@ -1,1 +1,0 @@
-Suppression de l'effet de seuil sur les bas salaires en alignant fiscalité et cotisations sur les autres. Suppression de l'abattement de 10% sur les retraites, un retraité n'a pas de frais professionnels.

@@ -1,1 +1,0 @@
-Faire paraître un état des dépenses de toutes sortes sous forme de camembert par rapport au budget annuel.

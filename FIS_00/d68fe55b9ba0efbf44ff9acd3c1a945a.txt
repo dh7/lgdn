@@ -1,1 +1,0 @@
-Informer les citoyens du budget national poste par poste et afficher le comparatif des taxes par rapport aux pays d'Europe

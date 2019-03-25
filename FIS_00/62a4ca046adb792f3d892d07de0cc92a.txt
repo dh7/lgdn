@@ -1,1 +1,0 @@
-Lister les recettes et dépenses dans un tableau simple,  faire apparaître le déficit clairement afficher ce tableau à la télévision publique régulièrement. Décortiquer les postes dans des étapes suivantes.

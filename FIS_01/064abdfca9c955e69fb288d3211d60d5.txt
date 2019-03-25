@@ -1,1 +1,0 @@
-Simplifier la lecture de l'impot, et diminuant le nombre d'organisme collecteur, j'aurais aimé 1 seul statut d'entreprise, 1 seul impot, 1 impôt par Francais

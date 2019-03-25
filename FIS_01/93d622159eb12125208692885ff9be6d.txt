@@ -1,1 +1,0 @@
-fusionner la CSG et l'IR et permettre à chaque citoyen d'être imposable

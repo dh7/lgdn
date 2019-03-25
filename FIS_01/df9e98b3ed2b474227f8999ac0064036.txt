@@ -1,1 +1,0 @@
-réduire les types d'impots et simplifier leur calcul. il ne devrait exister que l'IR, et l'Impot société. leur calcul devrait être publique et base uniquement sur une contribution juste (progressive?) de chaque source, sans limite basse, ni haute.

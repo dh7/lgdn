@@ -1,1 +1,0 @@
-Plutôt envisager un package évolutif en fonction des situations de vie

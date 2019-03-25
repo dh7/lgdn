@@ -1,1 +1,0 @@
-Il faut surtout s'assurer que les conditions sont bien remplies, contrôler qu'elles continuent de l'être et y mettre fin si ce n'est pas le cas.

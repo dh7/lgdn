@@ -1,1 +1,0 @@
-Présenter plusieurs vues budgétaires :  un budget montrant sous forme de pourcentage comment est distribuer ce que l’on paie comme impôt indiquer les coûts des services dont nous bénéficions (une année de scolarisation, ramassage des ordures, ...) un budget sur l ensemble de l’impôt collecté sous forme de graphique par poste (et leurs finalités)

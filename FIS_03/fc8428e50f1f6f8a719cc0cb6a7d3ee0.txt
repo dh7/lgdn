@@ -1,1 +1,0 @@
-Reorganiser l'état et les collectivités, faire des économie de structure et de gestion 

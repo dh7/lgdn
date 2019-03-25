@@ -1,1 +1,0 @@
-une grille de lecture simple affichant le pourcentage ou le montant affecté par thème.

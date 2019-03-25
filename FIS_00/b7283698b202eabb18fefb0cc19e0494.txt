@@ -1,1 +1,0 @@
-Un site web spécialisé et interactif qui montre la répartition assez fine des moyens et qui permette au citoyen de se prononcer sur ce qui lui semblerait être une meilleure répartition (un tableau avec des curseurs). Cet outil permettrait au gouvernement d'avoir un ressenti populaire.

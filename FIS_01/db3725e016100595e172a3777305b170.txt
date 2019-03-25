@@ -1,1 +1,0 @@
-Rendre la défiscalisation moins opaque en réduisant/remplaçant son utilisation lorsque c’est possible afin que ces mesures bénéficie plus facilement à tous sans avoir à connaître l’integralite des lois. Et automatise dès que possible.

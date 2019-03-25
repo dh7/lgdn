@@ -1,1 +1,0 @@
-Développer le site  https://www.aquoiserventmesimpots.gouv.fr/ avec un volet local, commune, département, région et en permettre l’accès dans des lieux comme les maisons de service public et accompagné les administrés pour accéder à ce type d’informations.

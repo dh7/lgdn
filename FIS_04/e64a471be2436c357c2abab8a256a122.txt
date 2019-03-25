@@ -1,1 +1,0 @@
-- Calculer les allocations familiales en fonction du revenu et du nombre d'enfants. - Supprimer tout ou partie des aides sociales de façon progressive pour les parents dont les enfants commettent certains délits ou s'absentent trop souvent de l'école

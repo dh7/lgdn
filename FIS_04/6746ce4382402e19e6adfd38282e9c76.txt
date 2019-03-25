@@ -1,1 +1,0 @@
-Supprimer toutes celles qui sont attribuées à des personnes percevant plus de 3000 € net mensuels (et à leurs enfants).

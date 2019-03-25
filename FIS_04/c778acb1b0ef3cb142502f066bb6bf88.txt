@@ -1,1 +1,0 @@
-RSA, Allocation parent isolé. Enfin être certain que l'attribution est bien justifiée. Je vois trop de personnes toucher le RSA ou l'allocation parent isolé indument

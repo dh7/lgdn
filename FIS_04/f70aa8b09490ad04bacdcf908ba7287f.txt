@@ -1,1 +1,0 @@
-Plus de lisibilité dans les calculs. Exemple: la prime d'activité, dont personne ne comprend comment elle est calculée..

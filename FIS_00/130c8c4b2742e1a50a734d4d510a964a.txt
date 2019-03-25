@@ -1,1 +1,0 @@
-Fournir un récapitulatif des dépenses engagées par l'état, les régions, etc en fonction des différents impôts (cotisations sociales, patronales, TVA...)

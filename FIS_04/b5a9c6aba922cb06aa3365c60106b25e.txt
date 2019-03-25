@@ -1,1 +1,0 @@
-Les allocations devraient être supprimées quand un enfant se déscolarise, manque trop les cours ou est délinquant (selon la taux de gravité).

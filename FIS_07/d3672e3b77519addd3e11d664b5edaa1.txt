@@ -1,1 +1,0 @@
-lisser les "marches" que sont les tranches d'imposition afin de diminuer les effets de seuil 1%, 2%,...30%, puis 31, puis 32% etc, au lieu de  0%, 15 puis 30 puis 45% actuellement. (Permettrait une augmentation des recettes quasi indolore et tous les français paieraient l'IR)

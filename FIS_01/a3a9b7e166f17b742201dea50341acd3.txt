@@ -1,1 +1,0 @@
-1/ Faire un audit sur l'ensemble des classes sociales en tenant compte de la liste des 214 taxes et impôts en France (source = wikipédia) 2/ Identifier les injustices sur la base de critères (conditions de ressources, capacité de se loger,...) 3/ Réparer les injustices par la mise en place d'une pondération

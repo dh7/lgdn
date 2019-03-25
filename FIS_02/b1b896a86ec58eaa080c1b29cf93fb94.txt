@@ -1,1 +1,0 @@
-- Tva - Taxe sur le carburant - Csg, RDS et contribution additionnelle a moduler en fonction des revenus

@@ -1,1 +1,0 @@
-Créer un site internet avec mise à jour semestrielle des dépenses de l’État par destination et simulation d'un suivi personnalisé

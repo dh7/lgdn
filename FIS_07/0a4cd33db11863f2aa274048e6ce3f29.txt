@@ -1,1 +1,0 @@
-- il y a trop de taux différents pour le même impôt ( TVA, impôt société, droits de succession) - il y a trop d'exonérations ( IRPP, taxe d'habitation, taxes foncières , etc.) ; quand plus de la moitié des contribuables sont exonérés d'un impôt, ca ne va pas , il faut le supprimer car il est devenu injuste

@@ -1,1 +1,0 @@
-Afficher des informations sur l'utilisation des recettes fiscales, le budget de l'état, etc. sur la page d'accueil du site impots.gouv.fr sous forme de newsbar par exemple où des données succinctes et précises défilent ou sont mises à jour périodiquement

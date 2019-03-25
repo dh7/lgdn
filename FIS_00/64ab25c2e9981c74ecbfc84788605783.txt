@@ -1,1 +1,0 @@
-Une vue en temps réel sur les comptes (recette/dépense)

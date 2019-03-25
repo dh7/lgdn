@@ -1,1 +1,0 @@
-Il faut créer un site gouvernemental dédié permettant de voir les sources de revenus de toutes les collectivités publiques (Etat, collectivités territoriales, organismes publics...), ainsi que toutes les dépenses associées.

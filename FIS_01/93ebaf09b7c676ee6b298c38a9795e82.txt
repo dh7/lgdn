@@ -1,1 +1,0 @@
-Abandonner le système de tranches d'imposition au profit d'un "système par points": déterminer un seuil de revenus annuels en dessous duquel on ne paye pas d'impôt et fixer un montant d’impôt pour chaque Euros de revenus annuels au dessus de ce seuil.

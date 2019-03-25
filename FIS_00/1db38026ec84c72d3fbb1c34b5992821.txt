@@ -1,1 +1,0 @@
-Sur le site impôt.gouv.fr ajouter toutes les dépenses de l'état, budget par ministère et le détail de ces dépenses afin d'avoir une transparence totale (masse salariale, fourniture bureautique, énergétique). Faire la même chose pour la région, le département, la communauté de commune et la mairie.

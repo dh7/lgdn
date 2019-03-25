@@ -1,1 +1,0 @@
-Supprimer les tranches, le taux d'imposition = revenu imposable net  / taux unitaire fixé par l'État( entre 2500 et 3600 )= taux de l'Impôt ; le taux s'applique sur la totalité du revenu imposable net, le taux est plafonné à 40% ,

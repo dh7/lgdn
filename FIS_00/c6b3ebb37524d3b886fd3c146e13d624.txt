@@ -1,1 +1,0 @@
-avoir un site dédié qui permet aux citoyens de visualiser l'ensemble des dépenses et des recettes du budget de l'état  et qui détaille le taux consacré sur son revenu  par chaque catégorie de contribuable.

@@ -1,1 +1,0 @@
-Mettre en place un outil simple (baromètre base 100) visant à expliquer clairement l'utilisation de nos dépenses et le mode de financement.

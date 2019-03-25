@@ -1,1 +1,0 @@
-supprimer les effets de seuil. Les augmentations sous la forme d'une somme fixe pour tout le monde et non pas sous la forme d'un pourcentage (salaires, pensions, allocations ...)

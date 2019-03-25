@@ -1,1 +1,0 @@
-3 graphiques (un national, un régional, 1 communal) qui permettent visuellement de visualiser les proportions  de dépenses et de recettes.  Ces graphiques pourraient être diffusés annuellement et accessible sur les déclarations d’impôts.

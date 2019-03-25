@@ -1,1 +1,0 @@
-A supprimer la CSG et le RDS qui ne servent plus à ce pourquoi ils ont été créés.

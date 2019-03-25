@@ -1,1 +1,0 @@
-Taux de prélèvement unique et identique pour tous. Eviter l'effet"ciseaux"

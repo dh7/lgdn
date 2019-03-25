@@ -1,1 +1,0 @@
-Une lettre d'information mensuelle pour chaque type de prélèvement mais un seul à la fois, schématique pour une vue d'ensemble et avec la possibilité d'accéder à davantage de détails. Trop d'informations à la fois nuisent à une lecture approfondie.

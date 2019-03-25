@@ -1,1 +1,0 @@
-Ajouter des Tranches dans l'IR;: Redécouper plus finement les tranches actuelles et ajouter une ou 2 tranches à 55% et 65 %

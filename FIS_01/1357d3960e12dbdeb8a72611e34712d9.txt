@@ -1,1 +1,0 @@
-zéro cash (supprimer les espèces: billets et pièces) supprime le travail au noir, permet une TVA modulable selon tranche d'imposition par CB ou Téléphone

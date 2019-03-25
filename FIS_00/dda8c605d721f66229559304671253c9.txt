@@ -1,1 +1,0 @@
-Diffuser clairement un tableau chiffrés des emplois ressources par thèmes avec liens directs pour les détails.

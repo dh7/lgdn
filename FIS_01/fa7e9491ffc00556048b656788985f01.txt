@@ -1,1 +1,0 @@
-ajuster la TVA en fonction des produits  ex  TVA à 0%  pour le pain TVA à 30% pour les automobiles dont la puissance est supérieure à 200CV  ou pour les bateaux de loisirs

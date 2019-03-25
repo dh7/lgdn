@@ -1,1 +1,0 @@
-- simplifier le langage administratif et rendre lisible le code des impôts - rendre publique et facilement accessible la justification de la dépense dès le premier euro

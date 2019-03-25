@@ -1,1 +1,0 @@
-Supprimer les investissements inutiles (ex ronds points) ou de prestige de pouvoir (ex : sièges des collectivités locales)

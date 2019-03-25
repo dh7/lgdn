@@ -1,1 +1,0 @@
-mettre un contrôle sur les montants de facturation des cartes CMU afin de pouvoir vérifier la bonne utilisation de cette carte. permet de contrôler les soins abusifs par le propriétaire de la carte et de ses connaissances.

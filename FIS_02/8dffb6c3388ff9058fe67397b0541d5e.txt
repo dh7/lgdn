@@ -1,1 +1,0 @@
-Retirer les taxes sur les taxes : ex. la TVA sur les taxes sur l'électricité, la CSG imposable. Ne laisser qu'une CSG non imposable Simplifier la TVA à 5,5% en 5% pour les produits essentiels, garder 10%, 20% et réintroduire un 30% pour les produits "nocifs" ou addictifs (précédemment il existait un taux à 33%).

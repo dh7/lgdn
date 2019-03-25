@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de l'IR en les faisant passer à 8 au lieu de 5 et sans augmenter le taux de la dernière tranche  a 45 %. Ce qui permettrait une meilleure progressivité et un meilleur lissage en fonction des revenus

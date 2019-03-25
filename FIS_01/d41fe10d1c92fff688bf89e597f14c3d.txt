@@ -1,1 +1,0 @@
-Calculer les impôts des revenus fonciers en fonction des revenus.

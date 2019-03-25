@@ -1,1 +1,0 @@
-En étant factuel, par exemple, faire une information annuellement sur les prestations et autres dépenses financées par les impôts. Ex : on a collecté xx d'impôts et on a dépensé xx pour telle prestation et xx pour telle autre etc...cette information pourrait être réalisée de manière macro (à l'échelle nationale ou régionale ) et micro (à l'échelle du département)

@@ -1,1 +1,0 @@
-il faut automatiser au maximum les processus administratifs. Mettre en place le STP (Straight-through processing).

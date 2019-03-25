@@ -1,1 +1,0 @@
-Suppression de la CSG, quitte à répartir cela sur une autre ligne afin d'avoir une lecture simple de l'impôt. Cet impôt était temporaire à l'origine et il n'a pas forcément de signification pour de nombreuses personnes.

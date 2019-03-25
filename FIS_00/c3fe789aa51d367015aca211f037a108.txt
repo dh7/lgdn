@@ -1,1 +1,0 @@
-Faire figurer sur chaque facture (cantine, hospitalisation ...) le coût réel du service, le prix payé par l'usager et la part restante prise en charge par nos impôts.

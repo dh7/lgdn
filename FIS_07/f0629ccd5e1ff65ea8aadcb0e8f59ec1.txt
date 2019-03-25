@@ -1,1 +1,0 @@
-Constat  : de nouvelles taxes sur le carburant ont montré qu'au final le montant récolté par les taxes ne financent pas toujours ce qui est prévu à l'origine.  Proposition  : indiquer systématiquement la destination des montants de chaque taxe.

@@ -1,1 +1,0 @@
-Créer un site internet, sur lequel il serait possible de consulter tous les budgets de l'état et des collectivités locales. par exemple pouvoir savoir combien ma commune consacre à l'aide sociale . Il faudrait que chaque budget soit obligatoirement saisi par la collectivité concernée.

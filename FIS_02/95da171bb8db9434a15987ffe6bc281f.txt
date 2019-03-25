@@ -1,1 +1,0 @@
-Avant tout, il faut rendre l'IR plus progressif : augmenter le nombre de tranches, en diminuant leur assiette, plus éventuellement faire une tranche supérieure supplémentaire. Les effets de seuils sont redoutables avec les tranches actuelles.

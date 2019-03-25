@@ -1,1 +1,0 @@
-Creation d'un impôt minimal forfaitaire Integration de l'ensemble des aides et allocations dans le calcul des revenus imposables      ( un euro d'allocations ou d'aides doit etre equivalent a un euro de salaire  = equité  )

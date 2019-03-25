@@ -1,1 +1,0 @@
-- Payer ses impôts dans le pays d'où l'on tire ses revenus - Ajouter une tranche d’imposition à 50% pour les revenus supérieurs à 250 000€.

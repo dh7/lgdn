@@ -1,1 +1,0 @@
-Toutes. En fait, il faut gommer les effets de seuil. Ces seuils conduisent à des incohérences. Exemple : une personne qui travaillait à mi-temps dans deux structures a démissionné d'un des postes parce qu'avec les deux salaires, elle dépassait le seuil d'attribution d'une aide sociale pour les études de ses enfants !

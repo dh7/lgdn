@@ -1,1 +1,0 @@
-allocation parent isolé (pas si isolé que cela) faire des vérifications régulièrement

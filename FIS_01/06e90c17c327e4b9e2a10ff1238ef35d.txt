@@ -1,1 +1,0 @@
-Commencer déjà par la remettre à plat pour lister tous les impots et taxes en déterminant qui les paye, quel montant, quel usage. Eviter les "boucles". Exemple de boucle : les jeunes qui cotisent pour les retraites, les retraités qui payent la CSG pour les jeunes. Dans la boucle, il y a des gens qui sont payés pour traiter le flux de l'argent donc des déperditions.

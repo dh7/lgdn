@@ -1,1 +1,0 @@
-Créer une carte ( type carte Vitale) dans laquelle seraient additionnées, au fur et à mesure de leur attribution, toutes les aides quelles qu'elles soient en les faisant figurer comme un revenu.

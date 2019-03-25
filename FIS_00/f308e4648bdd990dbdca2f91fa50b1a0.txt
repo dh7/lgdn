@@ -1,1 +1,0 @@
-Ex: sur impôts.gouv.fr trouver les recettes par nature et dépenses par nature de l'Etat

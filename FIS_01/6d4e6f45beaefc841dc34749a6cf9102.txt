@@ -1,1 +1,0 @@
-Instaurer une TVA et autres taxes variables en fonction des revenus. Détaxer les produits de premières nécessites. Rétablir l'ISF.

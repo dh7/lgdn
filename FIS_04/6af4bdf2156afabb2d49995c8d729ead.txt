@@ -1,1 +1,0 @@
-regrouper toute les aides en une seule atout niveau , RSA,APl,alloc etc et instaurer un controle strict en améliorant les aides a ceux qui en ont vraiment besoin

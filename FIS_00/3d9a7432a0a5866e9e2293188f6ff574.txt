@@ -1,1 +1,0 @@
-Sur impôt.gouv, developper un espace détaillant l'utilisation des impôts sur le revenu, de la taxe foncière et de la taxe d’habitation.

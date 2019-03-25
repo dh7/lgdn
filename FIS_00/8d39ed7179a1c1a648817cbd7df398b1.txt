@@ -1,1 +1,0 @@
--Informer sur le coût annuel d'une année de scolarité de la maternelle à l'Université. -Remettre au patient qui sort d'un établissement de soins une facture détaillée (avec la prise en charge de la Sécurité Sociale, mutuelle). -Remettre au patient la facture de ses médicaments délivrés par la pharmacie (avec la part de la Sécurité Sociale, mutuelle).

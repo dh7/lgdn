@@ -1,1 +1,0 @@
-Revoir l'application de la T2A qui ne prend pas en compte l'accompagnement en soins palliatifs. Une consultation à tarif spécifique pour la rédaction des Directives Anticipées avec le médecin généraliste ou pour une annonce difficile.

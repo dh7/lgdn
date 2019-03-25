@@ -1,1 +1,0 @@
-Suppression de la CVAE. Fusion CFE et Taxe foncière

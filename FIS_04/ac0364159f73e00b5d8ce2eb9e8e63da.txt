@@ -1,1 +1,0 @@
-Additionner les aides sociales aux ressources d’un foyer afin de les attribuer jusqu’a une ressource raisonnable. On parle toujours des faibles salaires mais si on ne comptabilise pas les aides allouées à même un foyer, certains pourraient dépasser des revenus n'y ayant pas droit ce qui serait injuste pour les foyers non aidés.

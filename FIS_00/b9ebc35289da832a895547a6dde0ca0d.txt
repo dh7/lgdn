@@ -1,1 +1,0 @@
-Afficher le détail des frais de fonctionnement de toutes les administrations financées par l'Etat français dans les halls d'accueil.

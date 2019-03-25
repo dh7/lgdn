@@ -1,1 +1,0 @@
-donner un accès simple aux données statistiques sur les montants financiers (par exemple les courbes de fréquence des revenus, des montants d'impôts, des montants de prestations sociales... des foyers fiscaux selon leur composition, des aides aux migrants, aux personnes vulnérables...) pour éviter aux mouvements populistes de divulguer des informations difficilement contrôlable

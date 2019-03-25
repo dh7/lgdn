@@ -1,1 +1,0 @@
-Créer une Dette Sociale Généralisée à la "Naissance".  Sachant que nous avons une dette par habitant de 30 000 €. Si l'enfant est né d'une famille fortunée, l'enfant ou ses parents paiera dès sa majorité 30 000 € aux Impôts. Si  l'enfant est né pauvre, il devra rembourser toute sa vie sa dette sociale de 30 000 € en travaillant et payer un impôt mensualisé.

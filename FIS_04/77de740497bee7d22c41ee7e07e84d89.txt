@@ -1,1 +1,0 @@
-Pour la CAF, attribuer les aides inversement proportionnelles au nombre d’enfant. Attribuer dès le premier enfant, diminuer les aides au deuxièmes et supprimer les aides à partir du 3ème.

@@ -1,1 +1,0 @@
-Supprimer l'IFI. Ou lui mettre un seuil de déclenchement à 5 M€.

@@ -1,1 +1,0 @@
-simplifier le plus possible, les rendre transparentes, et les contrôler efficacement

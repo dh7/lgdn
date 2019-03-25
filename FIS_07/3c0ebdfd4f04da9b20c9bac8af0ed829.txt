@@ -1,1 +1,0 @@
-Supprimer les commissions, et autres observatoires qui ne servent à rien (en l'occurrence celles/ceux dont le rendu est nul !)

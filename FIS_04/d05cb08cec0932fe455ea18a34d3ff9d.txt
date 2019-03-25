@@ -1,1 +1,0 @@
-Moduler les allocations familiales en fonction des revenus des familles lorsque ce n'est pas déjà le cas, allocations familiales par exemple.

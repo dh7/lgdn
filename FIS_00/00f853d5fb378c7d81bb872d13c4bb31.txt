@@ -1,1 +1,0 @@
-Un site internet dédié qui recueille l'ensemble des dépenses publiques pour chaque niveau administratif (Etat, Région, Département, ...). On pourrait y trouver une répartition en pourcentage d'une part et les actions menées.

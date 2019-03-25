@@ -1,1 +1,0 @@
-Etablir un Dashboard de KPI clés sur la santé de la France n''évoluant pas de gouvernement en gouvernement. Cela permettrait de :  - comprendre dans quelle situation se trouve la France  - comparer avec les "Dashboard" des autres pays - comprendre et visualiser l'impact des mesures sur l'état de santé de la France.

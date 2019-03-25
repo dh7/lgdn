@@ -1,1 +1,0 @@
-Un site Web qui présente les dépenses actualisé par les institutions (ville, département, région etc)

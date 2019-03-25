@@ -1,1 +1,0 @@
-Elle est déjà trop développée ! Mettre en place un mécanisme pour couvrir la dépendance.

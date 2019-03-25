@@ -1,1 +1,0 @@
-nécessaire de recalculer les seuils (pauvreté, médian, richesse) pour le calcul de certains impôts(taxe habitation). des foyers de classe moyenne juste au dessus du seuil de richesse  sont comparés aux très riches. INDECENT

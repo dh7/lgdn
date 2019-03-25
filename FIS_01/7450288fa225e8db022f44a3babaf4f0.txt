@@ -1,1 +1,0 @@
-Comparer les revenus en totalité de tous les citoyens et leur niveau de fiscalité.

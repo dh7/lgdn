@@ -1,1 +1,0 @@
-éviter les effets de seuil en rendant les progressivités plus fines et plus linéaires , de 1 à 5% puis de 5% en 5%,  en continuant les tranches jusqu'à 75% et en les commençant à 1%, sans s'interdire de créer des tranches négatives pour les très bas revenus

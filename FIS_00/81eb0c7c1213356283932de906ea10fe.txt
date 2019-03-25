@@ -1,1 +1,0 @@
-definir un pourcentage de l'impot pour l'état et un autre pour le niveau local (région , département ?)

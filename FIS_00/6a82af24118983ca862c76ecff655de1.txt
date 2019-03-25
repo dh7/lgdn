@@ -1,1 +1,0 @@
-Créer un site internet qui recense aussi bien les dépenses publiques liées aux investissement, subventions ou autre que celles données aux élus (indemnités, remboursement de frais, avantages fiscaux, primes...) et consultable librement par chaque citoyen.

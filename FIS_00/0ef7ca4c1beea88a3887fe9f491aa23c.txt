@@ -1,1 +1,0 @@
-Mise en ligne sur un site spécialisé de toutes les informations de manière lisible, par exemple un camembert avec vision globale, possibilité de sélectionner une part et en générer un nouveau camembert a un niveau inférieur. Plusieurs niveaux peuvent ainsi être fait pour avoir une visibilité globale puis détaillée de chaque dépense.

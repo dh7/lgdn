@@ -1,1 +1,0 @@
-simplifier les circuits et processus d'attribution avec des pôles dédiés, gérés à l'échelon regional

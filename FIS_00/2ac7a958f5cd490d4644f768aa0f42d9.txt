@@ -1,1 +1,0 @@
-- chaque organisme (administration, polemploi, caf, organisme de retraite) devrait rendre une fois par an un compte détaillé de ses dépenses en fonction de ses objectifs. (en s'inspirant du modèle de la cour des comptes par exemple) -détailler les frais de fonctionnement et les prestations distribuées (et agir sur les frais de fonctionnement)

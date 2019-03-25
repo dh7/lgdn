@@ -1,1 +1,0 @@
-Moduler la TVA en fonction de la valeur de l'achat et non en fonction du type de produit. Pour les produits de tous les jours, le montant serait faible. Pour les produits moins nécessaires (plus grosse dépenses) le taux serait plus élevé. Ce qui en quelque sort ferait que cette taxe serait progressive.

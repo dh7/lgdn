@@ -1,1 +1,0 @@
-Un tableau en consultation libre avec les dépenses et les recettes, classées par domaines. Le contribuable a le droit de savoir à quoi sert son impôt

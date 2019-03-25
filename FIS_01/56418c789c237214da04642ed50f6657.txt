@@ -1,1 +1,0 @@
-Instaurer un ratio entre le salaire minimale et maximale dans une même entreprise. Ratio entre 10 et 15. Imposer moins les entreprises sur leurs bénéfices lorsqu'elles dégagent de nombreuses heures de formations à leurs salariés ou qu'elles embauchent dans l'année un certain nombre de personnes (à definir  par l'Etat).

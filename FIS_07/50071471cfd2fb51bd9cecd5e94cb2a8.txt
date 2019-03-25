@@ -1,1 +1,0 @@
-Réduire le train de vie de l'état en partant du sommet, à titre d'exemple, jusqu'au niveau communal où on constate souvent des dépenses surdimensionnés par rapport aux besoins

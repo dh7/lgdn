@@ -1,1 +1,0 @@
-Afficher les prix de fonctionnement par acte médical, par l'intervention des pompiers ou de la police. Afficher les prix de fonctionnement de transport public.

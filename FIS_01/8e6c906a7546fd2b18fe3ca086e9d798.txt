@@ -1,1 +1,0 @@
-Appliquer une stricte proportionnalité dans le calcul des impôts. Exemple : Un retraité touchant 1990 euros sera exonéré de la CSG, un retraité touchant 2001 euros ne le sera pas. En bref, il restera davantage d'argent au premier qu'au second ! Cherchez l'erreur !!! Est-ce cela l'égalité ?

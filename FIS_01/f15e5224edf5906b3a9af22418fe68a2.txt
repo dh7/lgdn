@@ -1,1 +1,0 @@
-- Revoir les tranches d'imposition  - Ne pas inclure les primes ponctuelles en revenu annuel  - Tenir compte du lieu de résidence dans le calcul de l'impôt - Calculer l’impôt sur le réel salaire net perçu - Faire payer à tous l'impôt sur le revenu, de manière symbolique pour les plus pauvres - Arrêter d’assommer la classe moyenne

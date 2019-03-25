@@ -1,1 +1,0 @@
-Permettre aux personnes de choisir leur date départ en restant sur un âge minimum de départ. Leurs revenus seront calculés sur la base de leurs cotisations pendant le nombre d années effectuées.

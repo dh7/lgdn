@@ -1,1 +1,0 @@
-Aide au logement (peut etre revoir son calcul afin qu'une personne seule ne touche pas d'aide pour la location d'un F4 alors qu'un apprtement plus petit suffit)

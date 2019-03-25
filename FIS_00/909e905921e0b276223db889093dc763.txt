@@ -1,1 +1,0 @@
-Envoi d un E mail et d un Sms à tous avec un lien sur un site internet d informations. Affichage dans chaque Mairie Reportages tv reguliers Note ecrite avec l envoi de la déclaration

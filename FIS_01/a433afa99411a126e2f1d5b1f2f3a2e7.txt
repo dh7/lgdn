@@ -1,1 +1,0 @@
-Limiter les allers-retours, qui génèrent des frais de fonctionnement superflus. Ex: cesser de considérer les aides comme des revenus soumis à l’impôt, ou le déduire avant de les verser. Simplifier les processus, diminuer le nombre de cas particuliers.

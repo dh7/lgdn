@@ -1,1 +1,0 @@
-Evaluer le nombre de missions, commissions mises en place à un moment donné mais dont l'existence n'est plus justifiée à ce jour pour les supprimer. Les coûts récupérés de telles commissions ou missions pourront financer d'autres domaines de l'action publique.

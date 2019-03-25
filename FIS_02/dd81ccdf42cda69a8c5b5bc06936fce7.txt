@@ -1,1 +1,0 @@
-Revoir le calcul de l'impôt sur les revenus  en augmentant le nombre de tranches.  Faire contribuer chaque foyer fiscal suivant ses moyens.

@@ -1,1 +1,0 @@
-- Allocations familiales à attribuer en fonction des ressources. - RSA : est-on assez rigoureux dans l'étude des critères d'attribution de cette aide ?

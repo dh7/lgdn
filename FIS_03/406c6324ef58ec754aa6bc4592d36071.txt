@@ -1,1 +1,0 @@
-Cotiser de façon progressive, selon les revenus en prenant en compte tous les revenus, en particulier ceux des rentiers et loueurs de logements.

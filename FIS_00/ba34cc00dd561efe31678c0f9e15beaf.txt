@@ -1,1 +1,0 @@
-Une application qui permettrait de voir, par ministère, puis par poste de dépenses le budget de l’état. Elle serait reliée à la comptabilité publique.

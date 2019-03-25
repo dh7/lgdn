@@ -1,1 +1,0 @@
-Supprimer les crédits d'impôts lorsque les bénéficiaires ne sont pas imposables. S'ils ne payent pas d'impôts sur le revenu il n'y a pas de raison de leur donner de l'argent. 

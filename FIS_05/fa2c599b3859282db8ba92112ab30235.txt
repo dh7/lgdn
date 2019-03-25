@@ -1,1 +1,0 @@
-Après chaque hospitalisation,envoyer une facture détaillée des frais réels ( médecins, personnels soignants, utilisation du bloc opératoire etc..) au patient pour se rendre compte que même si le patient ne paie rien où juste une infime partie, son séjour à l'hôpital n' est pas gratuit et même très couteux à la communauté.

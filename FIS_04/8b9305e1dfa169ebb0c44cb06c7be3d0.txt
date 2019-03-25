@@ -1,1 +1,0 @@
-allocation mère isolée (contrôle strict)

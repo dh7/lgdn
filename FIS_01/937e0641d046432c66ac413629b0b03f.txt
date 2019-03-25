@@ -1,1 +1,0 @@
-Simplifier le code des impôts : moins de cas spécifiques permettant des exonérations ou baisses d'impôts.  Conserver les incitations fiscales qui soutiennent la politique familiale et les investissements d'avenir (parts fiscales des enfants à charge, dépenses liées à l'optimisation énergétique des habitations...)

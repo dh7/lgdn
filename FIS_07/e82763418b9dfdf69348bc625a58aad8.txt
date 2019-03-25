@@ -1,1 +1,0 @@
-Mettre un sou dépensé en face d'un sou encaissé ne parait pas si compliqué. Encore faut il que le service qui encaisse puisse avoir une relation avec le service qui budgette.   Améliorer la communication entre ces services  serait un bon début.  Et non un budget non dépensé n'est pas un bénéfice .

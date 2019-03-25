@@ -1,1 +1,0 @@
-Supprimer toutes les taxes qui ont un taux identique pour tous et les remplacer par des taxes proportionnelles à la situation du foyer fiscal. Création d'une carte révisable de paiement attestant de l'appartenance à la catégorie socio professionnelle du foyer.

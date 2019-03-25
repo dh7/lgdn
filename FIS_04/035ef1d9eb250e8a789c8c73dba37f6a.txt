@@ -1,1 +1,0 @@
-Les barèmes d'attribution sont semble-t-il corrects , mais les conditions de ressources devraient être davantage contrôlées .

@@ -1,1 +1,0 @@
-le RSA, revoir en profondeur son mode de calcul et sa délivrance.

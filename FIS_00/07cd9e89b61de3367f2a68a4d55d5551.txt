@@ -1,1 +1,0 @@
-Lister toutes les dépenses avec un intitulé claire, en les regroupants par catégories, pour chaque Ministère. Et ouvrir cette information sur Internet

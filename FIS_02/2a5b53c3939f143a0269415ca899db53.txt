@@ -1,1 +1,0 @@
-Supprimer le seuil de calcul de la CSG pour les retraités, que cet impôt soit doucement progressif selon les revenus Exemple: 1999€ CSG=0€   2001€  CSG= 52,02€ résultat: 2€ de plus sont punis par 52€ de moins! ce chaque mois! bravo pour l'encouragement au travail!

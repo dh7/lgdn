@@ -1,1 +1,0 @@
-recalculer une grille barème, en fonction de quelques critères simples et les mêmes pour tous (salaires et revenus, famille,...) et connus de tous. la feuille d'impôts ne devrait contenir que quelques lignes.

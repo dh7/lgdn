@@ -1,1 +1,0 @@
-Schéma en temps réél sur une plateforme numérique qui permet de connaître l'affectation de l'impôt.

@@ -1,1 +1,0 @@
-Gérer les allocations diverses en fonction des revenus actuels et non passés : exemple les APL. Eviter tous les effets de seuil, ce qui devrait être possible à l'heure du prélèvement à la source. Pour l'âge de la retraite prendre en compte la pénibilité et l'espérance de vie en bonne santé. .

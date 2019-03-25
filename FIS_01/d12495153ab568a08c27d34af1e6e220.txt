@@ -1,1 +1,0 @@
-Supprimer le cumul des taxes : Calculer chaque taxe sur le montant HT et non sur un montant déjà taxé . Trop de niches fiscales.  Que chacun paye l'impot (Même symbolique)

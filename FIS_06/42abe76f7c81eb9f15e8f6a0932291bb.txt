@@ -1,1 +1,0 @@
-Basculer les montants des dépenses inopérantes  vers des dépenses efficaces dans les applications de leurs projets.

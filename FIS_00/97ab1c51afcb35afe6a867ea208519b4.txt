@@ -1,1 +1,0 @@
-L'information donnée sur la feuille de l'impôt sur le revenu ne suffit plus. Je pense qu'il faudrait indiquer le taux et le montant de la TVA sur tous les tickets de caisse et indiquer que la TVA sert à X et Y. On pourrait aussi le faire sur les reçus pour l'essence : TIPP dont X% sert à.. et Y% sert à...  (sur le modèle de la facture EDF)

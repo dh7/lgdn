@@ -1,1 +1,0 @@
-Créer un guichet unique pour toutes les prestations, soumises à contrôle stricte des revenus s'il y en a.

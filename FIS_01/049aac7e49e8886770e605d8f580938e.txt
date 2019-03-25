@@ -1,1 +1,0 @@
-Communiquer qui (par catégorie, salaire, ...) paye et combien.

@@ -1,1 +1,0 @@
-Informer l'usager du coût d'un service de l'état : coût réel d'une opération à la sortie de l'hôpital,  coûts de remèdes remboursés par SS, coût d'une année scolaire d'un enfant au collège ou lycée, etc

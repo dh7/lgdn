@@ -1,1 +1,0 @@
-Controler les logements des propriétaires d appartements. Normes pas respectées = Pas d APL pour les locataires = Pas de,logement insalubres.

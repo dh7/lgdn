@@ -1,1 +1,0 @@
-Créer un site qui résume les dépenses au niveau national, départemental et communal afin que chacun puisse y accéder librement.

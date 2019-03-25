@@ -1,1 +1,0 @@
-Ne plus faire dépendre les allocations ou autres aides d'état du niveau d'imposition du foyer mais du niveau de revenus du foyer

@@ -1,1 +1,0 @@
-Fixer un taux incompressible d.impots ( ex 25%) pour toute entreprise faisant plus de x millions d’euros;

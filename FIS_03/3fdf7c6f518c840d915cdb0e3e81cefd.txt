@@ -1,1 +1,0 @@
-Eviter de fonctionner par seuil pour les aides ; utiliser des fonctions affines pour rendre les aides plus progressives.

@@ -1,1 +1,0 @@
-- Banques fragiles - Créer une banque de dépôt pour les citoyens qui garantisse la restitution des dépôts ou - Séparer les banques de dépôt des banques d’affaire pour protéger les dépôts des citoyens et arrêter le vol organisé des montants supérieurs à 100 000 € (qui ne sera pas respecté si tout s'écroule)

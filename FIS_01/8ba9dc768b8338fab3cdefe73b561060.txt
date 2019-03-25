@@ -1,1 +1,0 @@
-plus de progressivité et intégrer le coût du logement dans le calcul des seuils ( loyer ou intérêts d'emprunts) avec un plafond tenant compte de la composition du foyer fiscal

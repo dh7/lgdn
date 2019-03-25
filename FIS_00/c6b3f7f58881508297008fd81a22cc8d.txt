@@ -1,1 +1,0 @@
-Faire une information didactique par théme de dépenses (EX retraite:montant collecte ,cout de gestion ,montant distribué ,deficit,nbre de retraités...)

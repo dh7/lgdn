@@ -1,1 +1,0 @@
-1/*  Suppression de toutes les niches fiscales qui n'ont pas un impact direct sur l'amélioration de la qualité de vie(cf. ci-dessus). 2/* lutte contre, et pénalisation de l'évasion fiscale organisée (cf. sociétés). 3/* suppression du CICE pour les sociétés hors PME et ETI. 4/* lutte contre le travail dissimulé 

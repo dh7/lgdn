@@ -1,1 +1,0 @@
-Lors de la déclaration de l'IR, informer du montant récolter et de son attribution ministère par ministère, sous format PDF, ou sous forme de news letter mensuelle ou trimestrielle.

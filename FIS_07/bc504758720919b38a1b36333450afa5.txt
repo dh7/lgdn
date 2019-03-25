@@ -1,1 +1,0 @@
-TVA modulable pour produit de première nécessité . Suppression TVA sur CSG (taxes sur taxes )

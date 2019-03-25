@@ -1,1 +1,0 @@
-Permettre l’autoliquidation des cotisations sociales des travailleurs non salariés. Ça ne coûterait rien et éviterait les régularisations N+1 qui ne sont pas toujours en phase avec les cycles économiques, générant des problèmes de trésorerie.

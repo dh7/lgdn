@@ -1,1 +1,0 @@
-Afficher leur coût sur chaque équipement.

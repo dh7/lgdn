@@ -1,1 +1,0 @@
-Tout d'abord retour de l'ISF et arrêter de prendre en compte le salaire net fiscal mais prendre en compte le salaire réellement perçu.

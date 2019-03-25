@@ -1,1 +1,0 @@
-Taxer les heritages pour permettre une allocation intergenerationnelle égale entre tous

@@ -1,1 +1,0 @@
-Simplifier le code des impôts. Il n'y a qu'à voir le nombre de lignes possibles sur la déclaration d'impôt. C'est incompréhensible

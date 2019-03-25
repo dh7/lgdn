@@ -1,1 +1,0 @@
-Toutes les données globales doivent utiliser des méthodes de mesures cohérentes d'une année sur l'autre, validées par des auditeurs ou , si le domaine est critique, par la cour des comptes.

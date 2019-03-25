@@ -1,1 +1,0 @@
-Rapport des revenus de 1 à 20. ex : salaire médian/mensuel 2000€ x 20 = 40000€/mensuel  Pas de salaire en dessous du salaire médian compenser par aucun revenu au-dessus de 40000€

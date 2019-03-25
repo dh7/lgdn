@@ -1,1 +1,0 @@
-- harmoniser tous les régimes de retraites ( durées de cotisations, calcul du montant ) en introduisant une bonification pour certains aspects ( pénibilité, maternité, étudiant,...)

@@ -1,1 +1,0 @@
-Adapter les taxes sur les entreprises en fonction du chiffre d'affaires.

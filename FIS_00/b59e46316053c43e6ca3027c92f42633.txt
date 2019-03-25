@@ -1,1 +1,0 @@
-fournir un état des comptes, avec les entrées sorties d'argent, et détail des dépenses aux citoyens. Nous devons savoir ce qui est prélevé et comment est dépensé cet argent

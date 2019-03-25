@@ -1,1 +1,0 @@
-fin des prélèvement caché, ne conserver que les prélèvements transparents, oui, fin des micro taxes (ex : disque dur, PC, abonnent internet, taxe sur taxe sur la facture Electricité, de téléphone...)

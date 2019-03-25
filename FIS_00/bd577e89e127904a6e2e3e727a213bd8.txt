@@ -1,1 +1,0 @@
-Mettre le budget de l'état en ligne sur le site impots.gouv, consultable par tous, avec un détail par poste (recettes et dépenses par poste : éducation, défense, administration, investissements, intérêts dettes, etc.)

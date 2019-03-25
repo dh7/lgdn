@@ -1,1 +1,0 @@
-Revoir le calcul de l'URSSAF qui est totalement disproportionné dans certains cas. Pouvoir choisir différents niveaux de cotisation pour différents niveaux de couverture sociale..

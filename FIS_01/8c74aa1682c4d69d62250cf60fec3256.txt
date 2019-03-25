@@ -1,1 +1,0 @@
-Modifier le calcul de la CSG en instaurant des tranches comme pour l'IRPP. De façon à faire payer moins les plus bas revenus et plus les hauts revenus

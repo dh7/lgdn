@@ -1,1 +1,0 @@
-Modifier les tranches d'imposition en créant une seule tranche avec un pourcentage unique

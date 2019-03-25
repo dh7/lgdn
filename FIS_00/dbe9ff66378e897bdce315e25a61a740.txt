@@ -1,1 +1,0 @@
-Lors de la préparation du budget publier le montant attendu de chaque type d'impôt (impot sur le revenu, IFI, impots locaux, TVA, CSG, CRDS ...) et indiquer à quoi chaque type d'impot va servir : grands postes de dépenses (ministères, armée, subventions, ...) par pourcentages. ET ensuite publier chaque mois le suivi des réalisations

@@ -1,1 +1,0 @@
-Augmenter le temps de travail|Il faut développer la CSG mais en la rendant progressive en évitant les effet de paliers, en partant du principe que tout revenu implique paiement de la CSG (même les heures supplémentaires) 

@@ -1,1 +1,0 @@
-Intégrer un graphique simple de la répartition de nos impôts sur chaque feuille d'imposition. Quand on paie un produit ou un service on le touche, on le sent ou on le voit, on devrait se rapprocher de cela en introduisant ce graphique.

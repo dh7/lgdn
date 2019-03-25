@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de l'IR pour le rendre plus juste , sans forcément augmenter considérablement le plafond

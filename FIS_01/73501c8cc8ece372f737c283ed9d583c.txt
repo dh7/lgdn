@@ -1,1 +1,0 @@
-Pour le calcul du taux d'imposition pour l'impôt sur le revenu, utiliser une fonction continue plutôt qu'un système de tranche. Par exemple, la fonction logarithmique "[taux d'imposition] = 29,4 * ln([revenu annuel]) - 2,1" serait une bonne approximation.

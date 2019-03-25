@@ -1,1 +1,0 @@
-Un impôt fonctionnement par tranche mais aussi par %. Entre x€ et x€, le pourcentage appliqué est de x%. Dans la tranche du dessus,  le pourcentage d'imposition sera plus élevé.

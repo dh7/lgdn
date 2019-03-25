@@ -1,1 +1,0 @@
-Lisser les taux d'imposition directs par une courbe continue (éventuellement exponentielle)

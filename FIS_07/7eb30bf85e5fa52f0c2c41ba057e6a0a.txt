@@ -1,1 +1,0 @@
-Eviter les effets de seuils lors d'exonération d'impots.

@@ -1,1 +1,0 @@
-- santé (remboursement aux frais si l'état de santé le justifie et non remboursement des soins de bien-être, exemple : cure thermale..). Ceci s'applique aussi à la Mutuelle. - allocation de logement avec des conditions (au delà de 6 membres composant le foyer : l'allocation de logement sera supprimée)

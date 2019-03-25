@@ -1,1 +1,0 @@
-Recréer une TVA sur les produits de luxe. Quelqu'un qui peut s'acheter une montre à plus de 50.000 € doit pouvoir payer 30% de TVA.

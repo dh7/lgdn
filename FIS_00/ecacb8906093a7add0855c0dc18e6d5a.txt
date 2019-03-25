@@ -1,1 +1,0 @@
-envoyer les budget par mail au niveau des dépenses régionales et départementales 1 fois par an.

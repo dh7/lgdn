@@ -1,1 +1,0 @@
-Limiter la TVA sur les sommes au delà d'un certain montant (à définir) ou variable suivant la nécessité de la consommation en question

@@ -1,1 +1,0 @@
-Supprimer la flat taxe et appliquer la règle un euros perçu, un euro comptant pour le calcul de l.IR et avec la même règle qu’elle que soit l’origine des ressources Ceci est cohérent avec ce qui semble être envisagé pour la réforme des retraités

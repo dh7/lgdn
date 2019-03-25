@@ -1,1 +1,0 @@
-Regrouper impôts, prélèvements de toutes sortes et aides sociales dans un même ministère chargé des impôts et de l'aide sociale. Chaque ménage declarerait sa situation et ses revenus chaque année et cette entité calculerai les impôts et les aides éventuelles. Le solde serait débité ou versé chaque mois

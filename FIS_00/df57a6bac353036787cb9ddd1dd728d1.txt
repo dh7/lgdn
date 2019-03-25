@@ -1,1 +1,0 @@
-Une plateforme informatique permettant d'avoir accès au budget de l'état, répartis par ministère et postes de dépenses, avec un grand choix de granularité : Général, puis de plus en plus précis, de même pour les recettes de l'état. Par exemple : un diagramme "camembert" où on puisse cliquer sur chaque catégorie pour révéler un diagramme similaire, pour cette catégorie.

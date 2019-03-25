@@ -1,1 +1,0 @@
-Eviter les effets de seuil en créant des paliers supplémentaires (ex: CSG)

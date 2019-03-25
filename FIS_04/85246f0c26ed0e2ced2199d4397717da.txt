@@ -1,1 +1,0 @@
-Toutes en fonction des ressources et en éliminant les effets de seuils. Au delà d'un certains niveau de ressources on devrait limiter les aides afin d'en donner plus à ceux dont les ressources le justifie.

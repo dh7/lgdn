@@ -1,1 +1,0 @@
-Créer un site  sur lequel chaque citoyens pourrait visualiser les recettes et les dépenses de l'état par ministère.  Le rendre accessible dans des "maisons des citoyens" où serait regroupé différents services publics.

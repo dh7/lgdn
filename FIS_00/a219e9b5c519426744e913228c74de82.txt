@@ -1,1 +1,0 @@
-Afficher sur tous les avis d'imposition le vrai Revenu Fiscal de Référence (RFR) prenant en compte tous les revenus même ceux issu de la solidarité nationale et locale.

@@ -1,1 +1,0 @@
-- Donner une répartition des dépenses par grande famille (administration, aides sociales, infrastructure, éducation, santé, etc.. - Donner des exemples de montants de dépenses correspondant à des services "du quotidien" (année scolaire d'un enfant, par exemple) - Faire un bilan des aides (directes et indirectes) reçues par un citoyen

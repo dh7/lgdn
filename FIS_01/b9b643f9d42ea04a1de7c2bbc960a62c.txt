@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de l'IR, afin de le rendre plus progressif. Eviter les effets de seuil pour les prestations sociales (introduire plus de dégressivités)

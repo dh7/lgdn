@@ -1,1 +1,0 @@
-Fusionner l'IR et la CSG en une "super CSG" rendue progressive, permettant d'en ajuster annuellement le taux en fonction des besoins de la nation Sinon augmenter le montant collecté de l'Impot sur le Revenu en créant une 5° tranche pour les hauts revenus

@@ -1,1 +1,0 @@
-Créer un programme informatique de simulation d'économie, tester et choisir la performance.

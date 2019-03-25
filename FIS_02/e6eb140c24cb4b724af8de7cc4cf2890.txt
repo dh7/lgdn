@@ -1,1 +1,0 @@
-supprimer les taxes et impots à rendement insuffisant (cout de collecte inférieur à 120 pourcent des recettes), rendre lisible une feuille de paye (trois lignes si pas d'éléments variables)

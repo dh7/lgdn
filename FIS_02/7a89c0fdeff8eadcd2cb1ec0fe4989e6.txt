@@ -1,1 +1,0 @@
-Etat, régions , départements, communauté de communes, communes collectent des impôts et surtout des taxes. Des services sont communs à ces strates. Il faut supprimer les "doublons"et 1 ou 2 de ces strates:département, communes.

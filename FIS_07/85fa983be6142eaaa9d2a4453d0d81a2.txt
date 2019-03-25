@@ -1,1 +1,0 @@
-Il faut que le gain à aller travailler soit significatif. Actuellement, en touchant des allocs on touche à peine moins que ceux qui font l'effort de bouger.

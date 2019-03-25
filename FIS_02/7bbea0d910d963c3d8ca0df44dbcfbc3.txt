@@ -1,1 +1,0 @@
-Choisir entre taxe sur valeur ajouté (impôt indirect, tva, csg etc) ou impôt direct (revenu, taxe habita, foncier, etc)

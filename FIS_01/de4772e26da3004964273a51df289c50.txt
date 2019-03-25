@@ -1,1 +1,0 @@
-La fin des tranches d'imposition pour l'impôt sur le revenu à remplacer par une courbe, de forme exponentielle. Cela permettrait d'éviter que, à quelques euros près, deux foyers paient des impôts de montants très différents.

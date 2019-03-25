@@ -1,1 +1,0 @@
-Simplifier la gestion administrative des citoyens en regroupant dans un espace numerique unique, sous leur numéro de sécurité sociale tous leur services publique (assurance maladie, impots, CAF etc) une base de données unique ou toutes les administrations peuvent piocher les informations qui les concernent sans avoir a produire des milliers de justificatifs inutiles.

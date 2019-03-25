@@ -1,1 +1,0 @@
-La page d'accueil du portail des impôts (https://www.impots.gouv.fr/portail/) devrait afficher le montant total de tous les types d'impôt perçus les dix dernières années et la répartition de ce montant par année et par poste de dépense.

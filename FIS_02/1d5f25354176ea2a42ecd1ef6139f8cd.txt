@@ -1,1 +1,0 @@
-csg,tva, autoroutes,voitures, nourriture, service  edf,eau,gaz,essence, tout ce qui permet de vivre convenablement,assurance, mutuelle,

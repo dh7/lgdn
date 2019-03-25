@@ -1,1 +1,0 @@
-limiter les allocations chomage à 1800 euros par mois

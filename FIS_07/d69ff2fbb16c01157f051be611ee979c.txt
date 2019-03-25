@@ -1,1 +1,0 @@
-Faire une TVA qui s adapte aux produits, tva 1% pour les produits de première nécessité et 25 % pour des produits dit superflus et très onéreux, exemple voiture de plus de 60000€ parfums de luxe smartphone type iPhone.

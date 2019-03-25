@@ -1,1 +1,0 @@
-Afficher clairement les dépenses par ministère mais aussi par poste. Donner clairement un site où l'on peut retrouver ce type d'information

@@ -1,1 +1,0 @@
-Envoyer un décompte mensuel par mail indiquant les dépenses engagés par la communauté en ma faveur (allocations, santé, transport, etc).

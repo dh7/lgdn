@@ -1,1 +1,0 @@
-créer un site sur lequel serait listé en détail les budgets, dépenses et recettes des administrations tel que les  Mairies, communautés de communes, départements et régions sous forme de comptes de résultats.  Des + et des -, ce n'est pas compliqué de gérer en "bon père de famille"!

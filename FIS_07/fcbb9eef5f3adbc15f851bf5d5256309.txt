@@ -1,1 +1,0 @@
-Taxer la spéculation boursière en fonction du temps de possession des actions. exemple si moins de 1 jour, 99% du bénéfice doit revenir à l'état alors que si plus de 5 ans, 10% de taxe.

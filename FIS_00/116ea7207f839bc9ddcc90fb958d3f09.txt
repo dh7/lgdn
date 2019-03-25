@@ -1,1 +1,0 @@
-Bilan financier annuel envoyé en même temps que la déclaration d'imports, et y ajouter un prévionnel soumis à accord ( case oui/non/proposition pour chaque ligne prévionnelle)

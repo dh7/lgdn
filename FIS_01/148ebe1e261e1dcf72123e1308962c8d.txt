@@ -1,1 +1,0 @@
-simplifier avec 3 taux pour l'IR,pour la TVA,pour l'impôt sur les Sociétés:5% ,15% ,25% et que chaque citoyen participe à l'impôt car chacun bénéficie de son utilisation

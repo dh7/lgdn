@@ -1,1 +1,0 @@
-Un site de type www.budgetetat.gouv.fr avec toutes les dépenses et budget de chaque ministère, coût de fonctionnement de chaque administration, de tous les conseils régionaux avec salaires de chaque élus.

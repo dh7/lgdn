@@ -1,1 +1,0 @@
-Simplification du code des impôts et uniformisation des règles. Chaque euro gagné ou dépensé doit avoir la même fiscalité pour tous. La redistribution des aides est fonction de règles simples.

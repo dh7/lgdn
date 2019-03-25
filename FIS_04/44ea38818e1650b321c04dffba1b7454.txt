@@ -1,1 +1,0 @@
-Limiter les allocations au delà d'un certains seuil, trois ou quatre enfants par exemple et faire en bénéficier les familles n'ayant qu'un seul enfant car un ou zéro c'est quand pas la même chose!

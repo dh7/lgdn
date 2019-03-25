@@ -1,1 +1,0 @@
-IR: le rendre totalement progressif, selon une courbe sigmoïde afin d'éviter les effets de seuil et pour avoir (tout de même) un plafond

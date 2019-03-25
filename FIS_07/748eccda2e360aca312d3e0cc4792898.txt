@@ -1,1 +1,0 @@
-Bien distinguer les différentes dépenses: les impôts d'une part et les autres cotisations. Par exemple la cotisation d'assurance maladie n'est pas un impôt, l'assuré en bénéficie en propre. La CMU par contre doit être prise en charge par l'impôt.

@@ -1,1 +1,0 @@
-Simplifier le mille-feuille fiscal. Exemple: La CSG non déductible qui revient à payer un impôt sur un revenu qui n'a jamais été gagné, qui pourrait être remplacée par des taux d'impositions modifiés mais avec un calcul plus simple et plus lisible.

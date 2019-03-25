@@ -1,1 +1,0 @@
-Suppression de la notion de non imposable, pour éviter l'effet de seuil. Plafonner l'abattement de la résidence principale à 800 000 euros, pour l'imposition sur la fortune, au lieu d'avoir un pourcentage d'abattement.

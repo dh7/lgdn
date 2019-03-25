@@ -1,1 +1,0 @@
-Évaluer un pourcentage de richesse sur chaque produit exemple un produit qui est fabriqué en France avec des employés français aurait un pourcentage de richesse élevé donc paierait moins d'impôts

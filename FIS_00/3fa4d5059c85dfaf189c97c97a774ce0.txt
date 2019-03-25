@@ -1,1 +1,0 @@
-Chiffrage des dépenses publiques visualisable sur site public ( coût moyen d'une une hospitalisation, d'une démarche administrative, d'une heure de cours, d'une journée de travail des forces de l'ordre...)

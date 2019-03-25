@@ -1,1 +1,0 @@
-simplifier; bannir les niches et exception; être affecté par "niveau" de consommation dont chacun est utilisateur, et donc "client". faire un suivi des audits de la cours des comptes, pour témoigner des réels soucis d'efficacité (ne pas rester au niveau de la parole performative)

@@ -1,1 +1,0 @@
-Pour chaque prestation non payante ou partiellement payante il faudrait en afficher le coût. Par exemple un acte de santé, médicaments, un billet de train, une formation obtenue par Pôle emploi, le coût de la cantine par enfant, etc

@@ -1,1 +1,0 @@
-Un accès public et mensuel sur les dépenses, avec la possibilité de modifier les catégories (sur demande des français) afin de faire apparaître clairement certaines d'entres elles.

@@ -1,1 +1,0 @@
-les mutualiser pour éviter les effets de seuil qui varient d'une prestation à l'autre, système trop compliqué et coûteux pour une efficacité moindre

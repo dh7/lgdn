@@ -1,1 +1,0 @@
-Un nombre maximum de jour de chômage dans une vie.

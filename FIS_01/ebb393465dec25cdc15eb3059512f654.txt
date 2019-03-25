@@ -1,1 +1,0 @@
-Fixer un montant en dessous duquel on ne peut que survivre et non vivre ex 1500€ net/mois et donc 0 impot et fixer un montant au dela duquel aucune déduction de niche n'est possible ex : 150000€ par mois

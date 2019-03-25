@@ -1,1 +1,0 @@
-Taxer les produits importés, en appliquant une taxe carbone en fonction de la distance parcourue depuis le pays de production et du moyen de transport utilisé.

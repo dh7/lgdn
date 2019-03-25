@@ -1,1 +1,0 @@
-Simplifier et tenir à jour les sites internet adhoc. Tous les services de l'état doivent pouvoir afficher de manière claire concise et uniformisée son financement et ses dépenses. Les informations doivent pouvoir être communiquées sous forme de budget prévisionnel et clos avec un délais de quelques mois (3 par exemple)

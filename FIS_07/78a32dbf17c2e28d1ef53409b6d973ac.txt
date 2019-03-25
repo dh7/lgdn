@@ -1,1 +1,0 @@
-limiter les tâches redondantes et coûteuses dans l'administration

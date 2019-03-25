@@ -1,1 +1,0 @@
-Lors de la déclaration des revenus, l'état devrait indiquer l'ensemble des dépenses publiques sur un site avec le détail des dépenses de l'année passée, nous devrions aussi pouvoir comparer budget et réel

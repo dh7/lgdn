@@ -1,1 +1,0 @@
-Ne plus fonctionner par seuil mais en pourcentage par seuil. Actuellement des situations font que si je travaille plus je gagne moins car j'ai moins d'aides !

@@ -1,1 +1,0 @@
-Taxer les transactions financières, en particulier les aller retours spéculatifs de manière inversement proportionnelle au temps de l'investissement : 100% du bénéfice si t<1 jour, 10% si t<1semaine, 1% si t t<1an par exemple.

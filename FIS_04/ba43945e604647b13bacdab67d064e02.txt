@@ -1,1 +1,0 @@
-simplifier le nombre d'aides sociales. Par exemple, l'aide logement compte APL, ALF, ALS. N'est-il pas possible de faire qu'une seule aide au logement. Idem pour la prestation d'accueil des jeunes enfants qui compte 4 aides différentes. Idem pour les prestations sociales aux personnes âgées.

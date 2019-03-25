@@ -1,1 +1,0 @@
-faire le cumul en somme des aides perçues et les plafonnées de telle sorte qu'elles ne fasse pas autant qu'un salaire.

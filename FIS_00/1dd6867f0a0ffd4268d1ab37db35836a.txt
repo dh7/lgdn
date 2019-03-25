@@ -1,1 +1,0 @@
-Informer annuellement de la répartition du paiement de l'impôt sur le revenu (% foyers imposés et non imposés), complété par une répartition au sein des foyers imposés (ex. 20 % des foyers paient x% de l'impôt sur le revenu)

@@ -1,1 +1,0 @@
-Publier localement les aides qui sont accordées et le nom des bénéficiaires.

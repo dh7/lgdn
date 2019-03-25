@@ -1,1 +1,0 @@
-Rendre les allocations chômage dégressives dans le temps et les conditionner à une recherche réelle d'emploi en limitant  le nombre de refus de postes proposés. Rendre les allocations familiales dégressives en fonction du quotient familial.

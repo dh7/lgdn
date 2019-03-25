@@ -1,1 +1,0 @@
-Pas d'application de La TVA sur d'autres taxes (exemple: factures électricité, carburants) uniquement sur le produit lui-même.

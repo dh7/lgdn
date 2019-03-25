@@ -1,1 +1,0 @@
-TIPP et TVA sur les produits de consommation courante.. fixer une barre pour chaque type de produit, en dessous de laquelle la TVA seraient réduite (par exemple 10%) voire nulle, et au dessus de laquelle elle serait réhaussée (par exemple 30%)

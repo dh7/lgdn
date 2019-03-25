@@ -1,1 +1,0 @@
-Chômage pour que les postes vacants ne soient pas supérieurs au nombre de chômeurs.

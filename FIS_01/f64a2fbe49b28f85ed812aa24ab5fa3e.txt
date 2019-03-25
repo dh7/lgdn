@@ -1,1 +1,0 @@
-Controler les professions libérales qui déclarent leurs employés de maison comme étant employés de leur cabinet médiacl par exemple.  La fiscalité n'est pas la même.

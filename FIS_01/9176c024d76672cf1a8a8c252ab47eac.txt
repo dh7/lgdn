@@ -1,1 +1,0 @@
-Simplification de l'administation, suppression du système d'aide actuel (apl, aides diverses) système qui impose une administration importante.

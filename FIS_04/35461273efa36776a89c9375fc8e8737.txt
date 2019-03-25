@@ -1,1 +1,0 @@
-Allocations familiales dégressives en fonction des revenus. Y associer une allocation dès le 1er enfant.

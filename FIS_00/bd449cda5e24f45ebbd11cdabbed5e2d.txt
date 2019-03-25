@@ -1,1 +1,0 @@
-Indiquer à chaque citoyen la provenance de chaque indemnité lorsqu’il en perçoit.  Ex: remboursement de frais médicaux, aujourdh’ui plus personne ne sait ce qu’il coûte sauf s’il paye lui même la prestation ce qui est rare.  Afficher dans chaque lieu public son coût de fonctionnement annuel (école, hôpital, services publics,...)

@@ -1,1 +1,0 @@
-- Déductabilité de la CSG du calcul de l'IRPP, - Suppression de l'application de la TVA dans le calcul du prix des carburànts. Seule la TIPP. est appliquée.

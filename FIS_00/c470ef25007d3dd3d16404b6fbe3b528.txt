@@ -1,1 +1,0 @@
-Pour chaque taxe ou impôt dire à quelle dépense l'argent récolté sera affecté. Cette information doit être pérenne et consultable à tout moment (site internet ?).

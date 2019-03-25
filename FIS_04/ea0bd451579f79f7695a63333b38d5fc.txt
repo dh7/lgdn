@@ -1,1 +1,0 @@
-Dégressivité (linéaire !) des allocs en fonction des revenus. Fixer un niveau maximum pour ces mêmes allocs (jusqu'à 5 enfants par exemple)

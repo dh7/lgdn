@@ -1,1 +1,0 @@
-Envoyer avec chaque déclaration de revenu le budget de l'état avec les dépenses et les revenus (impôts).  Indiquer pour chacun des  taxes  l'utilisation qui en est faite.

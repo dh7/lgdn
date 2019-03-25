@@ -1,1 +1,0 @@
-toutes : exemple :CAF: allocations  dégressives en fonction du salaire du ou des parents (expl :  de 2500,00 a 3000,00 €/mois -moins 5%  par tranche de 100,00 € . Au delà -10 % par tranche de 100,00€.)   Idem pour toutes autres aides.

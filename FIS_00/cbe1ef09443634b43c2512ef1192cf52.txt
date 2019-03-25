@@ -1,1 +1,0 @@
-Donner des statistiques sur ce que l'on pait par rapport à d'autres. Exemple, vous payez x euros d'impôts. La moyenne de ceux qui en paient est de y euros. Informer les citoyens sur les taxes carburants : que financent elles?

@@ -1,1 +1,0 @@
-Arrêter les histoires de tranches et remplacer le calcul par une formule valable quels que soient les revenus.

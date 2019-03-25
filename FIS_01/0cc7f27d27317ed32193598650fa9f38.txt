@@ -1,1 +1,0 @@
-creer un TVA en fonction de la tranche d'imposition, c est a dire que le taux de TVA serait appliquée par le biais de la carte bancaire de l utilisateur, cet impot est le plus injuste

@@ -1,1 +1,0 @@
-Toutes les aides au foyer ayant un revenu supérieur à 10000€.

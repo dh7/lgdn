@@ -1,1 +1,0 @@
-1 Simplifier et justifier le calcul de chaque impôts. 2 Communiquer le montant des dépenses de la commune et du département en Mairie et sur le site internet de la Mairie

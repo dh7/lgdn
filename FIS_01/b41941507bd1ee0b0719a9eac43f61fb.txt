@@ -1,1 +1,0 @@
-Établir un niveau plancher (montant d’une valeur à établir) de l’impot pour chaque tranche d’imposition (ce plancher pourrait être de zéro pour la ou les premières tranches, puis croître ensuite). Ce plancher ne pourrait pas être neutralisé par l’utilisation de niches fiscales.

@@ -1,1 +1,0 @@
-Chaque année, un bilan des recettes/dépenses publiques devrait être accessible en ligne avec différents niveaux de détail possibles (1er niveau assez synthétique ; un clic sur une rubrique permettrait d'accéder au niveau de détail suivant etc...).

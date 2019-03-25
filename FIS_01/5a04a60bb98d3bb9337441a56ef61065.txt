@@ -1,1 +1,0 @@
-La simplification. Pour commencer une reforme drastique de la mode déclarative. Déclarer les allocations CAF par soucis de transparence. Centraliser les procédures administratives impôt et cotisations sociales de base.

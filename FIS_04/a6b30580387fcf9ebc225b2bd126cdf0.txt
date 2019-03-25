@@ -1,1 +1,0 @@
-Allocation par enfant à partir d' un certain rang d' enfant.

@@ -1,1 +1,0 @@
-refonte de l'impot en se fixant un seuil de redistribution. faire que tout le monde soit contributeur à hauteur de ses moyens

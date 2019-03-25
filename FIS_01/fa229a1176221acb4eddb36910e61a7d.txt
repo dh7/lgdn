@@ -1,1 +1,0 @@
-conserver le système actuel qui fait appel à deux types de prélèvements, sur le revenu et sur la consommation. (TVA)

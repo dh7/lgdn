@@ -1,1 +1,0 @@
-Etablir un barême par tranches (plus modulable) où toutes sommes perçues doit être déclarées (salaire, revenu foncier, allocations diverses :familiales, APL,RSA etc..

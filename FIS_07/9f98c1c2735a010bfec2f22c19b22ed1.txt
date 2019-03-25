@@ -1,1 +1,0 @@
-De manière générale chaque nouvelle initiative ou modification d'un point de vue impôt devrai subir 5 phases: évaluation, test à petite échelle(si possible), test à grande échelle, vérification, boucle d'amélioration. ces étapes devraient être visible via une information simple et accessible pour tous les citoyens.

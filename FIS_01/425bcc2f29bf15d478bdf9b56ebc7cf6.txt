@@ -1,1 +1,0 @@
-Calculer les impôts par personne et pas par foyer. Supprimer le quotient familial.

@@ -1,1 +1,0 @@
-Faire varier le taux de TVA par exemple pour les voitures en fonction du degré de luxe du produit. 5% sur une petite Clio, 20% sur une BMW série 7.

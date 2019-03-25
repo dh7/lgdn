@@ -1,1 +1,0 @@
-Supprimer les allocations aux couples qui ont plus de 10000€ par mois. Supprimez la prime pour l'emploi pour les enfants qui sont encore chez leurs parents ou les APL pour les jeunes étudiants qui ont des parents qui paient plus de 4000€ d’impôts.

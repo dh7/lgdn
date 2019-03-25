@@ -1,1 +1,0 @@
-Uniformiser le privé et le public.

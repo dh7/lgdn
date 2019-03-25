@@ -1,1 +1,0 @@
-Tous les ans, afficher le budget et montrer clairement quelles sommes sont allouées à chaque domaine. Est ce possible de montrer à quelle hauteur chacun cotise en fonction de sa tranche d'impôt, notamment pour les services publics?

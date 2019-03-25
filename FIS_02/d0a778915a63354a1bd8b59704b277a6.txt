@@ -1,1 +1,0 @@
-Revoir la liste des produits pouvant bénéficier de la TVA réduite. Supprimer le "doublon" taxe d'habitation et taxe foncière (en mettant en pkace la première seulement pour les locataires)

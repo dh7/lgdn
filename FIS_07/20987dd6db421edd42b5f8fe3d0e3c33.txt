@@ -1,1 +1,0 @@
-Supprimer la monnaie liquide afin de forcer les paiements par carte bancaire, virement bancaires ou chèques de banque. Cela permettra de réduire le "travail au noir". Par ailleurs, les fonds pouvant être tracés cela limitera potentiellement les trafics de stupéfiants.

@@ -1,1 +1,0 @@
-Reduction des allocations chomage, suppression de la prime d'activite.

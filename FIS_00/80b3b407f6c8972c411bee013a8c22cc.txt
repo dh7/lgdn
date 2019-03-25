@@ -1,1 +1,0 @@
-simplifier et envoyer a chaque foyer la repartition des depenses par secteur et par nature

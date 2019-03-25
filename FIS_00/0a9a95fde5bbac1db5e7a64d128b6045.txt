@@ -1,1 +1,0 @@
-Que chaque taxe soit dirigé vers sa fonction (ex: taxe santé pour l'alcool et le tabac, pour la sécurité sociale)

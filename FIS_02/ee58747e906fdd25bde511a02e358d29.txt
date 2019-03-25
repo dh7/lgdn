@@ -1,1 +1,0 @@
-Supprimer le paiement de la TVA sur des taxes, ne payer l'impôt que sur les sommes réellement perçues

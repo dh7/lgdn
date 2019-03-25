@@ -1,1 +1,0 @@
-Eviter la multiplication des aides (allocations de rentrée, etc...) et rassembler les aides sous une allocation unique, proportionnelle aux besoins réels. Eviter les effets de seuil.

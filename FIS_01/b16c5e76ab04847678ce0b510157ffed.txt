@@ -1,1 +1,0 @@
-Supprimer toutes les niches fiscales qui sont un élément rendant l‘impot inégal.  Augmenter le nombre de tranches pour l’impot sur le revenu, et augmenter le nombre de contribuables devant payer cet impôt sur le revenu (il n’est pas normal à mon avis que seulement quatre français sur dix payent cet impôt).

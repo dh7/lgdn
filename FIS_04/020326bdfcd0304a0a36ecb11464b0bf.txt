@@ -1,1 +1,0 @@
-Diminution du RSA jusqu'à suppression si pas de recherche de travail. Allocations familiales limitées selon les salaires

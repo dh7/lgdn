@@ -1,1 +1,0 @@
-ne pas charger les chefs d'entreprises de gestions  qui les ralentissent (fiche de paye, charges, etc..) qu'ils donnent un salaire brut, à charge pour le salarier de faire le reste.

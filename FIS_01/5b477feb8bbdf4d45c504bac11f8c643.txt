@@ -1,1 +1,0 @@
-1- Inclure la CSG dans l’IR => la CSG est mal indexé sur le revenu   2- Restaurer l’impôt pour tous même un euro symbolique

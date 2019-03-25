@@ -1,1 +1,0 @@
-Déterminer le reste à vivre net par individu en déduisant de, tous les revenus et aides, l'ensemble des charges et impôts. L'analyse des résultats pourrait contribuer à tendre vers une justice sociale incluant la fiscalité.

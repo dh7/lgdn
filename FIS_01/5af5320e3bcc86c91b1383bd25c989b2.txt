@@ -1,1 +1,0 @@
-Eviter les effets de seuils en lissant les sauts de tranches (une fenêtre plutôt qu'une valeur). Le taux maximum de prélèvement actuel (45%) est un taux qui ne doit pas être relevé afin d'éviter l'augmentation des exilés fiscaux.

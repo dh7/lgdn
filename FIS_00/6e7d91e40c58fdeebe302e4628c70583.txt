@@ -1,1 +1,0 @@
-Créer une base de données des dépenses engagées par les institutions avec la possibilité à chaque citoyen de la consulter et de "zoomer" de plus en plus en détail s'il est intéressé.

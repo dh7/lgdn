@@ -1,1 +1,0 @@
-Simplifier au maximum le mode de calcul pour que chaque citoyen soit capable de calculer et d'anticiper ses impôts simplement.

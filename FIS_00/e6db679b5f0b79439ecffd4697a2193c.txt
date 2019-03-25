@@ -1,1 +1,0 @@
-Fournir des données statistiques sur le budget de l'état sur la feuille d'impôt. Proposer une répartition théorique de l'impôt payé en fonction des postes, par exemple "sur les 1000€ d'impôts payés, 50€ sont allés à la défense, 75€ à l'éducation nationale, etc".

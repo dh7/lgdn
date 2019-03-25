@@ -1,1 +1,0 @@
-Afficher un tableau montrant en pourcentage les dépenses de l'Etat ainsi que les recettes , impôts et taxes en expliquant bien les contributions par tranches d'imposition.

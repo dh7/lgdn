@@ -1,1 +1,0 @@
-Chaque dépense/recette doit faire l'objet d'une mesure d'efficacité et doit couter le moins possible en frais de gestion, ce qui n'est pas le cas actuellement.

@@ -1,1 +1,0 @@
-il faut les ajuster. Pour l'impôt sur le revenu, nous ne pouvons plus passer d'une tranche à l'autre pour 1€. Il faut créer un pourcentage qui permet vraiment à l’impôt de s'ajuste chaque mois.

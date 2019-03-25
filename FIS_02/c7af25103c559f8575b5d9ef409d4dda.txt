@@ -1,1 +1,0 @@
-- ceux des classes moyennes dont le revenu mensuel est supérieur à 1500 euros brut et inférieur à 3000 euros brut  - la taxe d'habitation et l'impôt foncier

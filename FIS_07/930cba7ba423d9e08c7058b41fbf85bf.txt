@@ -1,1 +1,0 @@
-Pourquoi ne pas retirer de la circulation les pièces de 1 et 2 cts? Les transactions et paiements pourraient être arrondis à 5 cts pour les montant <10 € et a 10 cts pour les montants >10€.

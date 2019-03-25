@@ -1,1 +1,0 @@
-Contrôle de "l'activité recherche d'emploi" des chômeurs.

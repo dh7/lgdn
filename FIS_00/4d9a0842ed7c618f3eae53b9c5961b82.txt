@@ -1,1 +1,0 @@
-Création d'un site web accessible à tous pour connaitre dans les grandes lignes l'utilisation des impots. Par le biais de "impots.gouv" ,connaitre le détail de l'utilisation de chaque € prélevé sur le revenu et sur les impots locaux.

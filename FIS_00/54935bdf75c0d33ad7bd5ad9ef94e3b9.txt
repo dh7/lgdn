@@ -1,1 +1,0 @@
-Simplifier les noms (impôt, taxe, contribution, blablabla...), réduire le nombre de prélèvements par grand thèmes, faire une cagnotte par thème et attribuer un pourcentage de la cagnotte à chaque sujet.

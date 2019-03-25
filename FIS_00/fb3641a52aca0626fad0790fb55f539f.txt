@@ -1,1 +1,0 @@
-afficher le montant les dépenses engagées lors de chaque investissement et rappeler qu'il est réalisé par la contribution de tous.

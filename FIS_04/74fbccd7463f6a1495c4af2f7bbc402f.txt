@@ -1,1 +1,0 @@
-Objectif principal vérifier la fraude (c’est-à-dire savoir si la ou les personnes y ont droit, par exemple vérifiant physiquement le nombre de personnes vivant au sein d’un même foyer) en mettant une seule allocation regroupant l’ensemble des allocations, (allocation familiale, prime activité, allocation logement,……..etc)

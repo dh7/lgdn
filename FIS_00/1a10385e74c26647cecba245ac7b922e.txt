@@ -1,1 +1,0 @@
-- avoir une vue claire de comment notre argent est dépensé, alloué... des vue graphiques par exemple - avoir une vue plus claire de la dette

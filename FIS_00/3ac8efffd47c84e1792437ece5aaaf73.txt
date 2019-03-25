@@ -1,1 +1,0 @@
-Un site web avec un tableau synthétique des dépenses des différents ministères, bien sur des vrais chiffres , des dépenses de fonctionnement aussi, et surtout le but final de ces dépenses. Ce qui manque c'est une direction, un objectif à atteindre, actuellement c'est le flou, on ne sait pas concrètement à quoi sert l'impôt .

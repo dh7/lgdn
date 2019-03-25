@@ -1,1 +1,0 @@
-Un site internet informant sur l'utilisation des dépenses. Avec une vue nationale, régionale et locale.

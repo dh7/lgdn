@@ -1,1 +1,0 @@
-Flécher les taxes et impôts vers les entités et centres de dépense  concernés lorsque cette situation existe (ex: taxes écologiques). Poursuivre l'information sur la répartition des dépenses de manière plus détaillée (ex: pour 1000 € de dépenses publiques).

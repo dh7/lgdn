@@ -1,1 +1,0 @@
-supprimer tous les impôts existants et remplacer par un prélèvement unique sur toute transaction bancaire des personnes physiques ou morales en entrée ou en sortie de compte

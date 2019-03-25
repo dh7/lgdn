@@ -1,1 +1,0 @@
-limiter a 40% la marge de revente des vehicules d'occasion par rapport a sa valeur vénal pour interdir l'augmentation du prix en fonction de la prime verser pour la transition énergétique

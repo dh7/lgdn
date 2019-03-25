@@ -1,1 +1,0 @@
-Conditionner l’attribution des aides sociales à une recherche effective d’emploi ou à la réponse aux convocations dans les écoles. Exemple: perte des allocations chômage si x rejets de proposition d’emploi. Perte des allocations familiales si x absence aux convocation des parents par les enseignants. Attribution du RSA sous condition de travaux d’interet Généraux.

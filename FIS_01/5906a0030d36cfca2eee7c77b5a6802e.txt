@@ -1,1 +1,0 @@
-- Eviter les effets de seuil - Prendre en compte tous les revenus y compris les différentes aides pour l'impôt sur le revenu - Supprimer toutes les niches fiscales - Tout revenu (entreprise française ou étrangère ou personne privée) gagné en france doit faire l'objet d'un impot en france

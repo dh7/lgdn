@@ -1,1 +1,0 @@
-Diffuser des statistiques consolidées avec l'ensemble des impôts et contributions payées par les citoyens (y compris les cotisations retraite, malade, chômage) et montrer leur affectation par poste de dépenses. Faire un ration au regard des dépenses de personnel

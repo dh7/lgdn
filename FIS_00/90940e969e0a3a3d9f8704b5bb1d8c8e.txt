@@ -1,1 +1,0 @@
-une information individuelle pour chaque impôt payé (IR, Taxes locales,CSG...) indiquant la destination de ces impôts

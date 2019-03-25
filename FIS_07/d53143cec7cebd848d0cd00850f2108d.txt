@@ -1,1 +1,0 @@
-Suppression des taxes lors d'une construction par exemple : Taxe d'aménagement, taxe de raccordement... Finalement, on essaye de faire construire mais on nous taxe tellement que l'on ne peut pas finir et avancer.

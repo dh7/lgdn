@@ -1,1 +1,0 @@
-Une information sur la répartition des dépenses et de recettes de l'état, pas seulement en pourcentage, mais aussi en montant. Nous dire combien coûte notre dette par an (en remboursement d'intérêts)

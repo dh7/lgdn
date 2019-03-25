@@ -1,1 +1,0 @@
-* mettre la TVA à 0% pour les produits alimentaires de base. * Une partie des taxes rajoutées sur l'électricité, le gaz, l'eau, le carburant * Ne pas taxer des taxes (TVA sur des taxes, CSG non déductible soumise à IR)

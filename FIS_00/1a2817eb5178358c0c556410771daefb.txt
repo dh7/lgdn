@@ -1,1 +1,0 @@
-suppression CSG /RDS  et indexation retraite sur cout de la vie

@@ -1,1 +1,0 @@
-Supprimer les situation de rente telle que le statut de DOCKER

@@ -1,1 +1,0 @@
-plus de controle au niveau du rsa et eventuellement créer une aide unique qui centralise tout et une meilleure surveillance du train de vie des bénéficiaires

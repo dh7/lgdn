@@ -1,1 +1,0 @@
-Multiplication des tranches d'imposition pour éviter les effets de seuil. Rétablissement de l'ISF.

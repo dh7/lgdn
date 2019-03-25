@@ -1,1 +1,0 @@
-Faire en sorte que les budgets publiés (ils sont déjà publics) le soient en fonction du nombre d'usagers qu'ils servent et avec quelles équipes? (exemple fonctionnement hôpital public/ Clinique privée)

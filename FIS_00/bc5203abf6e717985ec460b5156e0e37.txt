@@ -1,1 +1,0 @@
-Mettre en place un portail sur un site dédié où l'on puisse filtrer par ministère, par région, par département et par taxe et voir comment et pour quels projets est utilisé l'argent des impôts. (présentations statistiques et graphiques)

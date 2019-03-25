@@ -1,1 +1,0 @@
-Simplifier les aides sociales. Par exemple 1 allocation unique dégressive en fonction du revenu : 0 revenu = allocation maxi. revenu = 2 fois le SMIC 0 allocation. Si je retrouve un travaille mon allocation s'ajuste en fonction de mes revenus. On pourrait aussi imaginer 1 allocation par enfant et supprimer le quotient familial

@@ -1,1 +1,0 @@
-Simplifier la feuille d'impôts en disant à quoi ils servent (graphiques avec la contribution en euro de chaque contribuable)

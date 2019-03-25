@@ -1,1 +1,0 @@
-Détaxer les produits de première nécessité Appliquer une TVA proportionnelle en fonction du prix unitaire de chaque produit (plus le prix est élevé, plus le taux de TVA augmente)

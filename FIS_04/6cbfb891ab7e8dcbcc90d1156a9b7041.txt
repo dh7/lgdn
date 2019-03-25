@@ -1,1 +1,0 @@
-Il faut créer une progressivité et la rendre lisible pour éviter des comportements anormaux. Exemple ne pas vouloir faire d'heures sup. pour ne pas risquer de devenir imposable et perdre le bénéfice de certaines aides en franchissant un seuil fatidique.

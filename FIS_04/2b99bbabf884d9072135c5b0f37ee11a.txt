@@ -1,1 +1,0 @@
-Instaurer un système de surveillance pour s'assurer que les allocations destinées aux enfants ne soient pas détournées vers d'autres dépenses. Les suspendre momentanément dans le cas contraire.

@@ -1,1 +1,0 @@
-Instaurer un tarif des EHPAD variable, selon les revenus des pensionnaires.

@@ -1,1 +1,0 @@
-réalisation d'un site responsiv qui publie chaque année la ventilation des dépenses et des réalisations effectuées par l'Etat, la région, mon département , ma commune (cf.rapport d'activité) information jointe au moment de la déclaration

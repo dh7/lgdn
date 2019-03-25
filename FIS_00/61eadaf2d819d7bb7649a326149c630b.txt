@@ -1,1 +1,0 @@
-Afficher les coûts de construction dépassements et fonctionnement des projets publics comme les hôtels de région, mairies et métropoles.

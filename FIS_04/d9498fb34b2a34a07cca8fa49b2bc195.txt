@@ -1,1 +1,0 @@
-Il faudrait commencer par fusionner les aides en une seule (et fusionner les services correspondant). Puis moduler le montant en fonction : -de la situation du foyer (handicap, vieillesse...) -de ses ressources - de la situation géographique (le coût de la vie n'est pas le même dans toutes les régions)

@@ -1,1 +1,0 @@
-Transformer le système des urgences pour que les urgences ne traitent que les urgences.  Pour les petites pathologies, créer un numéro d'appel unique de medecin de ville via une plateforme pour dispatcher les patients sur les médecins les plus proches et les plus disponibles.

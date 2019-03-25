@@ -1,1 +1,0 @@
-Rapport personnalisé a la fin de son avis d'imposition donnant, en euros,  à quelle destination il va (plutôt qu'en pourcentage), sur le montant individuel de l'impôt réglé.

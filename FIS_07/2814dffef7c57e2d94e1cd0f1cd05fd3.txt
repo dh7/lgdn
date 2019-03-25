@@ -1,1 +1,0 @@
-fusionner la gestion des départements et de la région

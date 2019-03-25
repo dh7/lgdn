@@ -1,1 +1,0 @@
-afficher pour chaque contribuable non seulement le montant de l'impôt à payer mais aussi sa répartition en euros pour les différents postes de dépenses publique ( santé , défense, éducation...)

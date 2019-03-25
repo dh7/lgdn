@@ -1,1 +1,0 @@
-Simplifier la gestion des aides, pour économiser sur les frais de gestion, utiliser les outils adéquats pour détecter la fraude, et notamment croiser les fichiers des différentes aides. 

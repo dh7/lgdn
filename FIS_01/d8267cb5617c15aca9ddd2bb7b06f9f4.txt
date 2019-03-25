@@ -1,1 +1,0 @@
-Faire un impôt en fonction des différents revenus. Supprimer les niches fiscales Imposer les G.A.F.A. et autres géants qui défiscalisent un maximum. Moduler les minima ou maxima des bases de calcul des différents impôts Ex : la base de vos impôts sur le revenu, C.S.G etc  /24000€ Pas d'impôts 24100 = impôts

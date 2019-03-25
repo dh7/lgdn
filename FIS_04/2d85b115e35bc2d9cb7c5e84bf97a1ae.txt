@@ -1,1 +1,0 @@
-Regrouper les aides (et aussi les services qui les calculent et les délivrent) et donner ces aides en fonction des besoins réels (plutôt que 'vous avez droit à ...') avec plafonds. Mettre des 'devoirs' en contre-partie de ces 'droits et aides'

@@ -1,1 +1,0 @@
-Actuellement, si l'on veut connaître les dépenses de l'état, on doit le pouvoir. Mais c'est difficile et en avons nous réellement le besoin ?. Personnellement, comme tout contributeur, un accès dématérialisé à une base de données présentée simplement par des graphiques, me conviendrait.

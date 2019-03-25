@@ -1,1 +1,0 @@
-Actuellement, l’impôt ne se calcule pas en fonction des revenus globaux, mais morceaux par morceaux, en fonction de leur origine légale (salaire, vente mobilière, royalties,...). Il est temps que l’impôt sur le revenu et la CSG soient confondus : avec l'assiette de la CSG et le système par tranches de l'IR.

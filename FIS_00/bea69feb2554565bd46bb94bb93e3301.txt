@@ -1,1 +1,0 @@
-Lorsqu'une personne a été hospitalisée, je suppose qu'une facture est adressée à l'organisme de sécurité sociale et à la mutuelle. Je pense que tous les patients devraient recevoir cette facture mettant en évidence le montant des soins et le restant à charge pour le bénéficiaire des soins.

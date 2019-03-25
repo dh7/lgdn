@@ -1,1 +1,0 @@
-Simplifier. Si les allocations familiales sont <30 euro, sont supprimés.

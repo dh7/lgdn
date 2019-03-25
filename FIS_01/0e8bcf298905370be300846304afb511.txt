@@ -1,1 +1,0 @@
-agir en programme simulés effectué sur un temps court et évalués finalement avec la possibilité de fermer le programmes si les objectifs ne sont pas atteints

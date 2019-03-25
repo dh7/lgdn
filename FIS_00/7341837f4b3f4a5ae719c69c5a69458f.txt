@@ -1,1 +1,0 @@
-Pour expliquer le système de tranches de l'impôt sur le revenu, on peut fournir des graphiques donnant le montant de l'impôt (sans déduction) en fonction du revenu imposable, pour des foyers types comme un célibataire ou un couple avec deux enfants.

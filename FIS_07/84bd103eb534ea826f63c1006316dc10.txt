@@ -1,1 +1,0 @@
-Simplifier le mille feuille fiscal générateur d'un nombre de dépenses énorme: mairies, communautés de communes, conseils départementaux, conseils régionaux,... avec beaucoup de redondances et d'économies possibles. Mais il faut le courage politique pour supprimer une strate à un moment donné (départements).

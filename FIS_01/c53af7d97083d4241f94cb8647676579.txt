@@ -1,1 +1,0 @@
-Augmenter le nombre d'échelon. Arrêter de se baser sur les années passées, mais se baser sur le salaire actuel. Tel salaire = tel impôt. Ex (exagéré): Si on bosse un mois dans l'année et que l'on gagne 10 000 euros, on paye des impôts sur ces 10 000 euros!!! Alors que aujourd'hui, on va dire 10 000 euros sur un an donc pas d'impôt!!!

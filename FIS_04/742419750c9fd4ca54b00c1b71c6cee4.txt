@@ -1,1 +1,0 @@
-il ne faut pas revoir les conditions d attribution mais plustot s assurer qu elles sont utilisees.par exemple s assurer que les allocations familiales sont bien utilisees pour ameliorer les conditions des enfants

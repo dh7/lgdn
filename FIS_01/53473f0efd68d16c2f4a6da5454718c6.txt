@@ -1,1 +1,0 @@
-Un pourcentage bien defini en fonction du revenu. Ex : un PV de 90€ pour un smicard  , 450 € pour un revenu de 5000€ ,  9000€ pour un salaire de 100000€  etc Et comme ça pour tout

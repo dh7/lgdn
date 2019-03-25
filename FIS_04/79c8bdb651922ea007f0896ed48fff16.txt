@@ -1,1 +1,0 @@
-Les aides sont aujourd’hui basé sur un système de tout ou rien par rapport à un plafond. Il faudrait qu’il y ait de la proportionnalité dans le calcul et cela sera plus juste pour tout le monde

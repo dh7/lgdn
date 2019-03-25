@@ -1,1 +1,0 @@
-Simplifier le système des allocations en créant un Revenu Universel de base

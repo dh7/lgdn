@@ -1,1 +1,0 @@
-Supprimer TOUS les privilèges d'un autre temps, tant au niveau public que privé.

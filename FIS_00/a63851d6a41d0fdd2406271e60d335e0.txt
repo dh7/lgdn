@@ -1,1 +1,0 @@
-sur le site des impots, creer un espace ou serait indique la totalite des recettes publiques reçues pour l'annee N-1 et les depenses financees par ces recettes.

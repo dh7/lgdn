@@ -1,1 +1,0 @@
-Afficher en temps réel les dépenses militaires, les salaires et privilèges des hauts fonctionnaires, les exonérations d'impôts et de charges des entreprises.

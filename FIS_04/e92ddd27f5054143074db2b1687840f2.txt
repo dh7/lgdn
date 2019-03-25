@@ -1,1 +1,0 @@
-il faut faire des échelles et non avoir des effets de seuil. S'il y avait des tranches raisonnables en fonction de son RI, certains ne s'obligerait pas à rester sous les seuils.

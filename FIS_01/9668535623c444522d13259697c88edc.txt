@@ -1,1 +1,0 @@
-augmenter le nombre de tranche afin que chacun participe. Déduire du montant imposable le montant de l'impot payé. Csg toute déductibles .

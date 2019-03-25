@@ -1,1 +1,0 @@
-Mettre en place une taxe sur les transactions boursières, égale à 3 %. La clé c'est le porucentage, et non pas les paliers injustes

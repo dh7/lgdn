@@ -1,1 +1,0 @@
-De payer de l'impôt sur la CSG. La taxe foncière devrait être calculée sur un prix au m2, identique partout.

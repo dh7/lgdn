@@ -1,1 +1,0 @@
-Simplifier le système de redistribution par une allocation unique

@@ -1,1 +1,0 @@
-Remplacer les mots Taxes, Contributions et ... par Impôts et les comptabiliser comme tels.  Prendre en compte le Coût Réel de Eau Energie ( Electricité, Carburants, Fuel, gaz ...) Assurances diverses ... pour le calcul de l'inflation

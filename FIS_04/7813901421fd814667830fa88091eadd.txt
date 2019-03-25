@@ -1,1 +1,0 @@
-Le RSA, car a ce jour très mal utilisé.

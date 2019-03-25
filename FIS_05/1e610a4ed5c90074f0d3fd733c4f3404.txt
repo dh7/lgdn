@@ -1,1 +1,0 @@
-À peu près tous, il faut reconduire la réforme du RSA qui permettait une dégressivité du RSA de manière à ce que le travail paie toujours plus

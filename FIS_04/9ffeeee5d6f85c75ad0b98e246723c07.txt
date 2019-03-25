@@ -1,1 +1,0 @@
-Il s'agirait déjà de s'assurer que les demandes actuelles sont bien éligibles, en particulier en chassant mieux les fraudeurs (exemple : faux numéros de SS)

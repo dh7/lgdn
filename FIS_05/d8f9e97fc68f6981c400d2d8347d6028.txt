@@ -1,1 +1,0 @@
-Aide pour les familles mono parentales (allocation dès le premier enfant et allocations nettement dégressives si plus de trois enfants).

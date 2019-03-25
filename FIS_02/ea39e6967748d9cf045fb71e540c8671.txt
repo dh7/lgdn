@@ -1,1 +1,0 @@
-moduler la TVA entre 0 et 50% selon la nature des biens ; première nécessité à luxe

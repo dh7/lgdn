@@ -1,1 +1,0 @@
-Chaque citoyen paye un impôt en fonction de ses revenus avec des tranches variables selon le niveau de revenu. Rétablissement de l'ISF

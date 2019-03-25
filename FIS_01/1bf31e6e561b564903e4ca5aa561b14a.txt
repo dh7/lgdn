@@ -1,1 +1,0 @@
-on pourrait imaginer remplacer les tranches de l'IRPP par une fonction continue afin d'éviter les effets de seuil.

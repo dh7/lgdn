@@ -1,1 +1,0 @@
-Le RSA ne devrait être accordé qu'à des personnes qui en ont réellement besoin, pas à celles qui ne recherchent jamais d'emploi

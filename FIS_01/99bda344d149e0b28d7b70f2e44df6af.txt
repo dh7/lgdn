@@ -1,1 +1,0 @@
-Payer en fonction de ses ressources. Cesser les passe-droits.

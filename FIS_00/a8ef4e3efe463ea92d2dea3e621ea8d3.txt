@@ -1,1 +1,0 @@
-envoyer à chaque citoyen les dépenses faites dans son département et l'origine des fonds qui les ont financées.

@@ -1,1 +1,0 @@
-Mise en place d'un compte-rendu périodique sur le site impots.gouv.fr Compte-rendu simple et clair : graphique camembert avec répartition en fonction du type de dépenses ; mise en avant des dépenses phares de la période en terme de financement (de mesures, de projets…)

@@ -1,1 +1,0 @@
-Faire en sorte que le calcul des retraites soit fait en amont lorsque les actifs sont encore actif pour pouvoir anticiper et ne pas être sur le fait accompli au moment de la retraite.

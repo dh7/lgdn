@@ -1,1 +1,0 @@
-Adapter en fonction des revenus, non pas par pallier mais par pourcentage.

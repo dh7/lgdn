@@ -1,1 +1,0 @@
-supprimer le plus grand nombre de petites taxes et augmenter en parallèle les plus significative (revenus, foncière, TVA)

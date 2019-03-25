@@ -1,1 +1,0 @@
-a chaque avis d'imposition, donner la ventilation analytique des dépenses effectuées sur N-1. Celà doît être disponible pour l'ensemble des impôts. (taxe foncière /habitation/ TV...) et affiché en mairie pas de nouvel impôt sans suppression d'un impôt existant.

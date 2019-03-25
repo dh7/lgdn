@@ -1,1 +1,0 @@
-modifier le monde de revalorisation. Passer d'une revalorisation en % à une revalorisation en euros. Ainsi, plutôt que d'augmenter de x% augmenter de x euros tous le monde. Les petites dépenses augmente plus en % que les grosses dépenses. 

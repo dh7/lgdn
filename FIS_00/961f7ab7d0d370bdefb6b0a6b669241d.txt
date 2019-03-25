@@ -1,1 +1,0 @@
-Simplifier le système d'imposition, le rendre déterministe et fléché. Les taxes doivent servir ce à quoi elles ont été mises en oeuvre, afin de pouvoir en déterminer l'efficacité, le compte-rendu aux citoyens et les supprimer une fois leur but atteint.

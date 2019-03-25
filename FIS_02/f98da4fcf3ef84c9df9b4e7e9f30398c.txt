@@ -1,1 +1,0 @@
-Il faut calculer l'impôt sur le reste à vivre, charges déduites. Il faut considérer que l'impôt est du temps de vie et non de l'argent. Certains donnent de l'argent et les autres que donnent-ils ?

@@ -1,1 +1,0 @@
-prendre les ressource du foyer en temps réel et non pas un an en arrière

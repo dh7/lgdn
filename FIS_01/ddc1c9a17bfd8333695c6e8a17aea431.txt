@@ -1,1 +1,0 @@
-Calculer les impôts par une formule de calcul continue sans tranches. Par exemple, si I est l'impôt et NF le net fiscal alors  I = A . LOG10 ( NF / SMIG ) + B . LOG10 ( NF / SMIG ) . LOG10 ( NF / SMIG ) A et B sont choisis pour coller à la grille d'impôts existante pour éviter les remous

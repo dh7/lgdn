@@ -1,1 +1,0 @@
-supprimer toutes les tranches d'imposition et les remplacer par un taux unique s'appliquant à tous les revenus quels qu'ils soient

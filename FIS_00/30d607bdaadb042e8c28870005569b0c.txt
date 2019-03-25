@@ -1,1 +1,0 @@
-Afficher de manière transparente la répartition des dépenses de l'état

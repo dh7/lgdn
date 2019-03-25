@@ -1,1 +1,0 @@
-Diffuser les montants prélevés (CSG, IR, TVA) et la destination des dépenses sous forme graphique (fromages)

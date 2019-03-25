@@ -1,1 +1,0 @@
-fusionner la CSG et IR afin de rendre l'impôt plus lisible et le rendre plus progressif en ajoutant des tranche au bareme

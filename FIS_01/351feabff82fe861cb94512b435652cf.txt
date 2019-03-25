@@ -1,1 +1,0 @@
-Calcul de l impôt  sans tranches marginales et pour tout le monde.

@@ -1,1 +1,0 @@
-A chaque fois que l'on "profite" de la générosité de l'état, le faire savoir, le chiffrer.  Exemple:Vous entrez à l'hôpital, tout est gratuit pour vous, mais tout coûte très cher. Afficher le prix de chaque soin. Et cette gratuité c'est grâce à vos cotisations et vos impôts Vous inscrivez votre enfant à l'école: l'institutrice est payée par vos impôts etc etc

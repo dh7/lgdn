@@ -1,1 +1,0 @@
-Un service en ligne permettant de consulter en ligne l'organisation des dépenses leur évolution de manière pédagogique, un compte rendu clair des dépenses au niveau des communes et des départements régions, informer du coût des services publiques de manière détaillée.

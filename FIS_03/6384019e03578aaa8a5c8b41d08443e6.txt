@@ -1,1 +1,0 @@
-taxer les transactions et fournisseurs internets et les transactions boursières au dela de certains plafonds.

@@ -1,1 +1,0 @@
-Afficher la contribution des différentes taxes et impôts sur les chantiers gérés par l'état, les collectivités ou les entreprises publiques. Créer un site Web consultable par l'ensemble des citoyens.

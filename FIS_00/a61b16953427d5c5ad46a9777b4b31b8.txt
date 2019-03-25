@@ -1,1 +1,0 @@
-Afficher les depenses et recettes de l'Etat et des régions  en première page de la déclaration d'impôts, avec renvoi par lien sur des rapports par postes.

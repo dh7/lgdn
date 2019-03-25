@@ -1,1 +1,0 @@
-un impôt à 6 niveaux. 1 pour les salaires entre 750€ et le SMIC 2 pour les salaires entre le SMIC et 2250€ 3 pour les salaires entre 2250€ et 3500€ 4 pour les salaires entre 3500€ et 5000€ 5 impôt au pourcentage pour les salaires au delà de 5000€. 6 1 pourcent pour les revenue de moins de 750€.

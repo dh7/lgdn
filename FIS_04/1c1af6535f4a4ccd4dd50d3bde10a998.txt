@@ -1,1 +1,0 @@
-Simplifier toutes les aides et les globaliser en une allocation unique . Attribution automatique sans avoir à faire une demande .

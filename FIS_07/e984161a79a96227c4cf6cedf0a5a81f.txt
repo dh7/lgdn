@@ -1,1 +1,0 @@
-Simplifier le code de la fiscalité qui n'est qu'une succession d'exceptions, pour ceux qui ont des revenus aisés. Pour tous les autres, classes moyenne comprise, il n'y en a jamais. Faire en sorte que le travail ne soit pas seulement fait pour survivre.

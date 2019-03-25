@@ -1,1 +1,0 @@
-Faire un tableau de bord consultable sur internet en temps réel avec les coûts par catégorie (et une indication par rapport aux années précédentes)

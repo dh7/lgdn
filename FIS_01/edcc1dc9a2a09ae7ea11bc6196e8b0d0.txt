@@ -1,1 +1,0 @@
-supprimer les tranches des impôts sur le revenu et les remplacer par une courbe exponentielle avec une plus forte pente pour les plus gros revenus

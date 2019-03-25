@@ -1,1 +1,0 @@
-L'ARE doit être réellement soumise à des conditions strictes (véritable recherche, impossibilité de pointer à distance par le web, dégressivité plus rapide)

@@ -1,1 +1,0 @@
-la TVA sur les produits énergétique (eau, électricité, gaz…..), pour les produits ayant d'autres taxes que la TVA ne plus la calculer après ces taxes mais avant.

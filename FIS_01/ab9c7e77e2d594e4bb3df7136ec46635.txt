@@ -1,1 +1,0 @@
-commencer par supprimer les services peu utilisés et les remplacer par des services à sous-traiter.

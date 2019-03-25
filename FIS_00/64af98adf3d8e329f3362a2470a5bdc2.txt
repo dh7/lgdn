@@ -1,1 +1,0 @@
-Indiquer le cout de la santé dans chaque hopital, indiquer le cout de l'éducation dans chaque établissement scolaire par exemple lors des conseil d'administration ou a chaque entré d'élèves ou de patients (cout par patient cout par élèves etc..)

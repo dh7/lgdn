@@ -1,1 +1,0 @@
-Mettre en ligne un site web montrant les différentes dépenses de l'état. Que la dépense soit plus transparente.

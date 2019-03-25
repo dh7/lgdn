@@ -1,1 +1,0 @@
-Supprimer le nombre d’agents territoriaux et le nombre d’elus

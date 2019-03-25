@@ -1,1 +1,0 @@
-augmenter le nombres des tranches d'impôt sur le revenu, avec baisse des taux d'imposition pour les revenus inférieurs à 3000 €/mois/personne et augmentation des taux pour les revenus supérieurs à 5000 €/mois/personne.

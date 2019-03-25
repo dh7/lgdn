@@ -1,1 +1,0 @@
-- Supprimer le bouclier fiscal. - Augmenter les taux d’imposition pour les revenus élevés (impôt plus progressif). - Ne pas imposer du tout en dessous d’un minimum pour vivre (à définir). - Renforcer les services de lutte contre l’évasion de capitaux et la fraude fiscale. - Réguler les délocalisations (surtout lorsqu’il y a eu aide à l’implantation).

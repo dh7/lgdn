@@ -1,1 +1,0 @@
-Supprimer les seuils et remplacer le calcul par une fonction mathématiques (presque exponentielle), ainsi chacun pourrait calculer ses impôts et éviterait les stratagèmes pour rester dans une tranches

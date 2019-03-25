@@ -1,1 +1,0 @@
-Suppression de la TVA sur les taxes (TIPP et toute autre taxes)

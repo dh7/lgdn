@@ -1,1 +1,0 @@
-toutes, les rendre plus justes, plus simples (1 seul type d'aide, modulable,  par domaine : emploi, logement, famille, handicap, ...)

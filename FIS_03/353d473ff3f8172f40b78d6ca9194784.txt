@@ -1,1 +1,0 @@
-Une meilleure gestion de tt les recettes déjà conséquentes de l état. 

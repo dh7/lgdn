@@ -1,1 +1,0 @@
-la prise en compte du foyer comme base, pas seulement d'un individu declaré et un meilleur controle dans le cumul. Plafonner les aides à un montant et ne pas les conditionner aux nombres d'enfants

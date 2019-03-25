@@ -1,1 +1,0 @@
-Augmentation du SMIC pour tous, ceci sans tenir compte du revenu fiscal de référence, donc du foyer.

@@ -1,1 +1,0 @@
-Affectation automatique de certaines recettes sur certains budgets, ex taxe carbone sur transition énergétique.

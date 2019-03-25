@@ -1,1 +1,0 @@
-Simplifier l'obtention d'aides pour les retraités ayant un revenu inférieur à 1000€ (ASPA, chèque énergie, ...). Ré-indexer les retraites sur l'inflation. Revaloriser l"ASPA.

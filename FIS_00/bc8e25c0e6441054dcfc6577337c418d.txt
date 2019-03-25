@@ -1,1 +1,0 @@
-Lister et donner le montant total annuel des aides sociales pour chaque foyer fiscal avec un rappel annuel

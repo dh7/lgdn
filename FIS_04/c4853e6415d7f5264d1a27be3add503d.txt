@@ -1,1 +1,0 @@
-Changer le calcul de la prime d activité. Revenir à l ancienne car elle était individuelle et ne tenait pas compte du coefficient famillial.

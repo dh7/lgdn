@@ -1,1 +1,0 @@
-Controler les retraites versées à l'étranger. En exclure tous ceux qui ne sont pas en situation régulière.

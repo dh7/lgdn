@@ -1,1 +1,0 @@
-Prime d'activité, les tranches devraient être révisées. En effet, elle n'est calculée que sur les salaires net, alors que nos emplois nous font dépenser de l'argent, beaucoup d'argent (frais kilométrique, frais de restauration etc..)

@@ -1,1 +1,0 @@
-disposer dans un premier temps d'une liste de toutes les taxes et de tous les impôts qui existent, avec le montant reçu et les frais liés à la collecte

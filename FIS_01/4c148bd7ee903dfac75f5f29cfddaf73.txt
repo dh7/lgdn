@@ -1,1 +1,0 @@
-puisque le calcul des impôts directs prend en compte le nombre de parts dans un foyer il serait juste d'intégrer tous les revenus de ce même foyer : allocations familiales , APL etc ...  dans le calcul de la base d'imposition .

@@ -1,1 +1,0 @@
-Supprimer les taxes (TVA etc) de l'assiette de calcul des revenus imposables

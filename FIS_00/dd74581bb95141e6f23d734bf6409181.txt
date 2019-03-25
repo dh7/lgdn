@@ -1,1 +1,0 @@
-presenter sous forme de tableau avec zooms successifs le budget après son vote, et le réel des dépenses . Faire valider la présentation par des citoyens lambdas, ouvrir une consultation sous forme de questions, et  mettre les réponses sous un format type FAQ

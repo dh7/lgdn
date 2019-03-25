@@ -1,1 +1,0 @@
-revoir les seuils d'attribution et les caler sur les ressources de l'année du foyer => l'impôt sur le revenu est désormais prélevé à la source et s'adapte aux revenus à l'instant t, pourquoi ne pas également faire de la même manière avec les aides

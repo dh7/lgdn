@@ -1,1 +1,0 @@
-Simplifier la communication, avec des schémas principalement pour représenter plus clairement

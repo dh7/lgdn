@@ -1,1 +1,0 @@
-Calculer l'impôt à partir d'un pourcentage des revenus, à l'intérieur des tranches et des barèmes.

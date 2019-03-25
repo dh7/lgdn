@@ -1,1 +1,0 @@
-Voir Q2 mais en y ajoutant : -	TVA : la moduler (en l’augmentant pour les produits de luxe par exemple) -	Charges fiscales des entreprises -	Charges sur les dépenses contraintes (e.g eau, gaz, électricité) -	Fiscalité sur les logements loués

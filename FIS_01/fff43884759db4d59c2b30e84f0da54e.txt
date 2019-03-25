@@ -1,1 +1,0 @@
-Taxer les citoyens en fonctions de leurs revenus. Les taxes : habitation, foncière et TV ne doivent pas être supprimées (elles reviennent toujours sous une autre forme) mais modulées les taxes en fonction des revenus.

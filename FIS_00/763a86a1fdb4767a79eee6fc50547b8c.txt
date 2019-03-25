@@ -1,1 +1,0 @@
-Affecter à chaque ressource une dépense (comptabilité analytique) et l'évaluer à fréquence régulière. Rendre systématiquement publics ces résultats.

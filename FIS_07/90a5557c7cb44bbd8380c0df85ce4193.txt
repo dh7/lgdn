@@ -1,1 +1,0 @@
-Mettre en oeuvre un processus permettant de connaître le vrai revenu disponible de chaque citoyen en y intégrant toutes les aides, allocations, etc dont il a bénéficié dans l'année et en y ajoutant les multiples réductions (cantine, électricité, frais bancaires, bons divers, prime achat voiture, etc etc ... dont il a bénéficié par rapport aux autres citoyens

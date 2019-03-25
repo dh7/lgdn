@@ -1,1 +1,0 @@
-simplifier, éviter les problèmes de seuils, réduire le nombre d'allocation, généraliser, supprimer les conditions (de ressources de situation etc.......).

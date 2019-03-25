@@ -1,1 +1,0 @@
-Un tableau en deux colonnes. Les taxes et les aides reçues. Pour montrer que les taxes nous sont aussi reversés

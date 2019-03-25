@@ -1,1 +1,0 @@
-- Contrôler non seulement l'attribution des aides sociales, mais aussi leur destination, afin que celles-ci ne soit pas dépenser n'importe comment.

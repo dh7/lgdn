@@ -1,1 +1,0 @@
-Ne plus supprimer des fonctionnaires si l'on veut que les contrôles puissent être réalisés, que les renseignements soient donnés, que les documents soient bien remplis.

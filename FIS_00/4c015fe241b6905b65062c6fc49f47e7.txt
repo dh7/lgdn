@@ -1,1 +1,0 @@
-Donner une facture à  chaque patient quand il subit une opération du coût que cela représente, la même chose pour les transports, les écoles, etc.

@@ -1,1 +1,0 @@
-inversion du bareme kilometrique pour le calcul des frais réels;  suppression des allocations familiales au 3ème enfant .suppression du numéraire;

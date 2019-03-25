@@ -1,1 +1,0 @@
-Créer un site internet avec un simulateur du taux d'imposition à partir de 3 paramètres simples: le revenu minimal imposable, le taux maximal d'imposition et une mesure de la progressivité de l'impôt.

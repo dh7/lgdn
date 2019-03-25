@@ -1,1 +1,0 @@
-Afficher les parts les plus consommatrice sur notre imposition. Plus de clarté des pondérations de chaque impôt nous incombant.

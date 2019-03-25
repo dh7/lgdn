@@ -1,1 +1,0 @@
-Diminuer le nombre de couches administratives. Laisser les interco et les régions et l’état, indexer le salaire des élus sur le salaire médian avec un max de x2

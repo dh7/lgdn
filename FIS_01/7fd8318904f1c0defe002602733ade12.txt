@@ -1,1 +1,0 @@
-Simplifier en profondeur tout le fonctionnement, les lois, l'organisation de l'etat

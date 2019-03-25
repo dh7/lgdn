@@ -1,1 +1,0 @@
-Tableau de bord explicatif et regulier comme n’importe quelle entreprise. Afficher les couts qui sont pris en charge par les impots : prix avant et apres impot sur des prestations visibles : frais de santé , frais de transport, cout de réhabilitation de routes, etc. Comme un ticket de cantine qui affiche la part prise par l’entreprise sur le repas.

@@ -1,1 +1,0 @@
-un tableau claire en 2 colonnes : recettes , dépenses à recevoir avec déclaration d'impôts

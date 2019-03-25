@@ -1,1 +1,0 @@
-Réaliser un graphique type camembert et en appuyant sur les différents pourcentages : trouver les réalisations concrètes et leurs coûts réels

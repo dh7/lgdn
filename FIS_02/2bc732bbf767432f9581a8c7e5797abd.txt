@@ -1,1 +1,0 @@
-simplifier les taxes. remettre plusieurs tranches pour que ce soit progressif

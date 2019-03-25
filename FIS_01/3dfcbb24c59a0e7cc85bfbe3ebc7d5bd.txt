@@ -1,1 +1,0 @@
-pour annuler les effets de seuil il faudrait intégrer toutes les aides (allocation, Apl ...) dans le calcul du revenu

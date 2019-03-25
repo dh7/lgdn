@@ -1,1 +1,0 @@
-améliorer le rendement en supprimmant des lois au moment d'en creer si elles se supperposent partiellement 0/fixer des objectifs chiffres  1/simuler avant  2/ executer sous conditions pendant évaluer 3/ évaluer les résultats à l'aune de la cible 0/ et stopper si pas atteint

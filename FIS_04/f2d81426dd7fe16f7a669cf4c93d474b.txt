@@ -1,1 +1,0 @@
-rendre les allocations chomage dégressives avec le temps

@@ -1,1 +1,0 @@
-Informations aux citoyens sur la répartition des budgets :quels sont les secteurs attribués à la région ou à la commune. A l'intérieur de chaque secteur , donner le listing des dépenses .

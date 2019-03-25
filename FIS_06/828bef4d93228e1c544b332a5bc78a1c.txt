@@ -1,1 +1,0 @@
-La mise en place de contrôleurs, afin de vérifier les droits des personnes bénéficiaire, afin d'éviter la fraude.

@@ -1,1 +1,0 @@
-Taxer les dividendes quand l'investissement a été amortit.

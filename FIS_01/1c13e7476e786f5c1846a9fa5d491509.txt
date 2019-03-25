@@ -1,1 +1,0 @@
-afficher le détail des 214 taxes, des montants collectés et transformer ces taxes en un unique impôt

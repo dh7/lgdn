@@ -1,1 +1,0 @@
-- Supprimer les allocations chomage à tous ceux qui refusent une deuxième offre d'emploi (en modulant la mesure pour des personnes de plus de 55-56 ans qui ont été  licenciées et ne retrouveront jamais de travail)

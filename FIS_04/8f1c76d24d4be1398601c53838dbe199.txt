@@ -1,1 +1,0 @@
-- moduler les primes de rentrer scolaire en fonction des revenus et du niveau scolaire : primaires, collèges, lycées - supprimer les allocations familiales à partir de 5000 €uros de revenus mensuels - contrôler davantage les bénéficiaires du RSA, des assurances chômages,de la CMU

@@ -1,1 +1,0 @@
-Il faudrait inverser le mode de calcul des frais réels lors de la déclaration des revenus. En effet, actuellement, plus votre voiture a de chevaux fiscaux, plus vous pouvez déduire de frais réel; Et inversement, moins vous avez de chevaux fiscaux, moins vous pouvez déduire. Ce mode de calcul contribue à en encourager l'achat de véhicule qui consomme plus et qui pollue plus.

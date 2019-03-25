@@ -1,1 +1,0 @@
-Disposer d'une plate-forme en ligne qui afficherait de manière détaillée l'utilisation de l'impôt local ou national.

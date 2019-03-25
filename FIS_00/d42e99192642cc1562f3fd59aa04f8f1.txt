@@ -1,1 +1,0 @@
-Utiliser le site impôt.gouv.fr afin d'y afficher un graphe montrant la répartition de notre contribution en impôt lors de la saisie des impôts

@@ -1,1 +1,0 @@
-Information simple et personnalisée du type « vous payez 800euros d’impots, 100euros seront utilisés pour..., etc »

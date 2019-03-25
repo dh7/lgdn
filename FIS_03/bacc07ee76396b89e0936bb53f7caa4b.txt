@@ -1,1 +1,0 @@
- Simplifier le système avec une allocation unique. Ne redistribuer que le produit des impôts y affectés

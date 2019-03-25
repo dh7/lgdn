@@ -1,1 +1,0 @@
-Simplifier les aides sociales en les regroupant et en les simplifiant. Un seul service pourrait s'occuper de l'aide sociale. Le travail doit toujours plus rapporter que la somme des aides.

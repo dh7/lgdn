@@ -1,1 +1,0 @@
-- Laisser les commercants ouvrir leur commerces quand ils le veulent: jour, nuit, jours feries, 7j/7.  - Plafonner les tarifs d'assurance et de banque - Obliger les FAI de creer une offre "minimale" a un prix fixe par le gouvernement

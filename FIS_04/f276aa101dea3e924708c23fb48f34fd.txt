@@ -1,1 +1,0 @@
-Le RSA doit être considéré comme un dépannage d'urgence mais pas un état à laisser perdurer. Il doit y avoir des contributions : au moins 5 jours/mois pour des travaux collectifs encadrés.

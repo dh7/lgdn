@@ -1,1 +1,0 @@
-Un site internet détaillant de manière interractive le coût des services publics (école, hôpitaux, médecin, routes, police etc...) et aussi de manière personnalisée (on entre ses infos et on voit où va chaque pourcentage de sa propre contribution).

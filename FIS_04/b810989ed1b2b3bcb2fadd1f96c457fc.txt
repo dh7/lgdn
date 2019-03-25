@@ -1,1 +1,0 @@
-Avoir des mécanismes d'attribution plus progressifs  afin d'éviter les effets de seuil qui rendent les attributions binaires. Vérifier l'usage (exemple prime de rentrée).

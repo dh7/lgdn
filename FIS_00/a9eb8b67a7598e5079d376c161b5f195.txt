@@ -1,1 +1,0 @@
-Un affichage plus clair des grands postes du budget et des recettes qui les financent.

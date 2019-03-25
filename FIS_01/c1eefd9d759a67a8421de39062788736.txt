@@ -1,1 +1,0 @@
-Fixer un montant mini et maxi au montant cumulé total des impôts à payer par citoyen.

@@ -1,1 +1,0 @@
-En fonction de la déclaration de revenus de l'année précédente, afficher une estimation des impôts et taxes prélevées en euros dans l'année, et les ventiler en euros dépensés: justice, éducation, solidarité, entreprises publiques, etc. Sans oublier le montant emprunté correspondant!

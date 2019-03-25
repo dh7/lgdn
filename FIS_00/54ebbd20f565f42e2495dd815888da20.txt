@@ -1,1 +1,0 @@
-- prélever l'impôt sous 2 formes uniquement ( impôt sur le revenu payé même à minima par tous et tva) - prélever les taxes/contributions sociales sous un forme unique ( contribution sociale employeur / employé) - Dans les deux cas publier la répartition de ces rentrées fiscales ( le fléchage se faisant après prélèvement)

@@ -1,1 +1,0 @@
-Flat taxe = Revenu net du quotient familial et des déductions fiscales x taux proportionnel d'imposition x facteur de progressivité

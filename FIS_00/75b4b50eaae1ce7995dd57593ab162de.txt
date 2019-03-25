@@ -1,1 +1,0 @@
-quand on reçois son avis d'imposition, donner la répartition de ce qu'on paie dans les différents services. Si je paie 2000 euros d'impôts, j'aimerais savoir que XXX euros vont à la santé, XXX euros au fonctionnement de l'état, , à l'éducation.... etc

@@ -1,1 +1,0 @@
-On devrait pouvoir consulter le total des impôts récoltés par an et avoir la redistribution notée noir sur blanc: pour chaque impôt différent, la somme récoltée, le détail et le destinataire. On pourrait mieux juger si les sommes sont réinvesties ou pas.

@@ -1,1 +1,0 @@
-Produire lors du dépôt de la déclaration de revenus un tableau simplifié des dépenses sociales et des dépenses de l'état et des collectivités locales.

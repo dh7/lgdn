@@ -1,1 +1,0 @@
-Toutes et les refondre en une allocation unique d'un montant variable selon les situations.

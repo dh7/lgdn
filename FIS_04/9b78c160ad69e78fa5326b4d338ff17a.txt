@@ -1,1 +1,0 @@
-Globaliser/regrouper les aides en une aide unique (dont le montant varie en fonction de tous les critères : chômage, aide logement, aide familiale, ....) pour mettre en évidence par foyer fiscal la totalité des aides perçu

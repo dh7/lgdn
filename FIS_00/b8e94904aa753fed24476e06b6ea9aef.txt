@@ -1,1 +1,0 @@
-Intégrer sur impots.gouv.fr une rubrique "A quoi sert votre impôt ?" dont la page d'accueil serait un grand camembert présentant les différentes affectations dont le détail serait obtenu en double-cliquant sur chacune des zones hachurées.

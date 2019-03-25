@@ -1,1 +1,0 @@
-Diffuser chaque année un graphique style camembert avec les dépenses globales, mais aussi faire le focus sur les sous catégories (une par mois par exemple).

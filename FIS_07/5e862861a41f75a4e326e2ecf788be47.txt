@@ -1,1 +1,0 @@
-Fixer un rapport maximal au sein d’une même entreprise entre le salaire le plus haut et celui le plus bas (environ 30)

@@ -1,1 +1,0 @@
-- suppression de la taxe d'habitation pour tous - TVA si et uniquement si et uniquement si la baisse est répercutée sur le consommateur, et pas sur les marges - radars routiers

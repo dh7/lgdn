@@ -1,1 +1,0 @@
-Schématiser le fonctionnement de l'impôt et l'afficher en 1ere page des sites administratifs (1 schéma pour l'état sur les sites de l'état, un schéma pour la région sur les sites de la région...)

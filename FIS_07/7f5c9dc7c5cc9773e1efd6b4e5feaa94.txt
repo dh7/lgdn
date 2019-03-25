@@ -1,1 +1,0 @@
-Prise en compte des années d'étude  troisième cycle dans le calcul du nombre d'années valides pour une retraite à taux plein, même si il n'y a pas eu de cotisation (exple étudiant faisant une thèse sans bourse).

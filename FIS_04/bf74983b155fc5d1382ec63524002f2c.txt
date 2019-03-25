@@ -1,1 +1,0 @@
-allocation chômage limitation des aides en fonction des revenus (une aide doit intervenir quand on ne peut pas faire face seul)

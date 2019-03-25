@@ -1,1 +1,0 @@
-Fournir un tableau des recettes par acteur et des dépenses par secteur.

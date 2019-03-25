@@ -1,1 +1,0 @@
-l'IR des classes moyennes qui prennent à chaque fois toutes les augmentations et n'ont pas de retour.

@@ -1,1 +1,0 @@
-supprimer les tranches d'impôt, les remplacer par un pourcentage appliqué sur les revenus, qui soit le même pour tous les citoyens

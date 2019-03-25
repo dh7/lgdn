@@ -1,1 +1,0 @@
-La calculer au plus juste pour chaque famille en fonction de sa situation (nombre d'enfants, le montant des revenus). et de son évolution dans le temps.

@@ -1,1 +1,0 @@
-corriger les disparités générées par les effets de seuil couperet

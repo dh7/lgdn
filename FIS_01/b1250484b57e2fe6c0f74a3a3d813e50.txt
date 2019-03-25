@@ -1,1 +1,0 @@
-Adapter la TVA sur certains produits en fonctions des revenus des acheteurs: par exemple, qu'une personne qui s'achéte une voiture à 150 000 € paye plus de TVA.

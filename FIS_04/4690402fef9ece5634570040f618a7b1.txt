@@ -1,1 +1,0 @@
-Ne pas verser d'allocations à partir d'un certain montant de revenus (à définir). Etablir des paliers de dégressivité. Ex: bourse de rentrée scolaire payée en totalité ou zéro pour quelques euros au-dessus du plafond.  On donne trop facilement le RSA et l'AME.

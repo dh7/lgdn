@@ -1,1 +1,0 @@
-Rendre le franchissement de seuil IR plus doux. Eviter de faire passer de 6% et quelque à 14% quand on franchit un seuil. Il faut des seuils, mais plus de douceur dans la progressivité.

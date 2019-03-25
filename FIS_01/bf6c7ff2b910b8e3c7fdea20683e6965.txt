@@ -1,1 +1,0 @@
--  paiement progressif de l'impot pour tous, même symbolique à 1€ pour tous. - des tranches d'impot plus nombreuses -

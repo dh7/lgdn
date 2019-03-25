@@ -1,1 +1,0 @@
-Afficher dans les administrations (écoles, collèges, lycées; hôpitaux...) le coût moyen, par usager , du service rendu .

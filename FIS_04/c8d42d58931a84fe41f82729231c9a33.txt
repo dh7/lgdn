@@ -1,1 +1,0 @@
-Chaque allocation devrait être attribuée quasiment au cas par cas.

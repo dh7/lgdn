@@ -1,1 +1,0 @@
-Adresser à chaque citoyen un tableau avec mes principales dépenses publiques : santé, éducation, ordre public, aides sociales, retraite et en parallèle afficher les recettes afin que les citoyens aient une vision chiffrée de tout le fonctionnement.

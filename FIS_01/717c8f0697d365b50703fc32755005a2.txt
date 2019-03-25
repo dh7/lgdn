@@ -1,1 +1,0 @@
-réduire les niches, mettre en place la courbe continue de calcul des impôts plutôt que la fonction affine par morceaux, ne faire qu'un seul impôt, pas cent mille et complexes à calculer : le temps qu'on passe à faire sa déclaration, dans certains cas, pourrait être plus utilement utilisé

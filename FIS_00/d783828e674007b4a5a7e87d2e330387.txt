@@ -1,1 +1,0 @@
-Publier les dépenses de chaque administration Calculer et publier le cout de chaque service fournit aux citoyens. Si chacun voit ce que coute les services qu'il considère gratuit il en fera une consommation plus efficace

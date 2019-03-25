@@ -1,1 +1,0 @@
-c'est l'ensemble du système qu'il faut faire évoluer. je suis consterné de voir que systématiquement, l'option choisie, est de jouer sur un curseur au détriment d'un autre.

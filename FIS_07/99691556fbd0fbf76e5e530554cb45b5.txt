@@ -1,1 +1,0 @@
-supprimer toutes les redondances entre l état , la région , les départements , les intercommunalités , les communes .

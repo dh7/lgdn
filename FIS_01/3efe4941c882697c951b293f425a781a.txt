@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches d'imposition. Par exemple, Il n'est pas normal que les personnes touchant de 27 086 (classe moyenne) se retrouvent dans le même tranche que celles touchant  72 617 euros (classe très aisée). Si on créée plus de tranches, l’impôt serait plus juste et tout le monde apporterait sa pierre à l'édifice même modestement pour les petits revenus.

@@ -1,1 +1,0 @@
-Revoir le mode de calcul de l'indice d'inflation annuel en prenant en compte le poids réel des dépenses liées au logement. Indexer les salaires, les retraites et les prestations sociales sur ce nouvel indice.

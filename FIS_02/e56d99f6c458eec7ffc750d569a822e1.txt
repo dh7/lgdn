@@ -1,1 +1,0 @@
--impot sur le revenu, ajout de nouvelles tranches (plus progressif) -réduction de la TVA sur produits de 1ere nécessité, compensation sur augmentation de TVA sur le luxe, alcools, produits hightech -suppression de l'impot sur l'impot ( ex impot sur le revenu sur CSG, taxe fonciere, taxe d'habitation etc....)

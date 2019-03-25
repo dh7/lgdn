@@ -1,1 +1,0 @@
-Mise en place d'une taxe "flottante" sur les carburants selon les prix du pétrole, afin de maintenir en permanence un même prix du carburant.

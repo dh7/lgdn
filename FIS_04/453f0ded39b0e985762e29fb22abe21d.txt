@@ -1,1 +1,0 @@
-Je ne comprends pas pourquoi cette question est posée automatiquement : elle aurait dû apparaître si et seulement si la case "revoir les conditions d'attribution de certaines aides sociales" est cochée.

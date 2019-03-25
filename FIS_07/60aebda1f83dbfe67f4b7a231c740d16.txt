@@ -1,1 +1,0 @@
-Suppression du non imposable sur le revenu, pour supprimer son effet de seuil. pour l'IFI, prendre en compte la valeur de la résidence principale au dessus de 800 000 euros, au lieu d'avoir un abattement de 30%

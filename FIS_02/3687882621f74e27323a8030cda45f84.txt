@@ -1,1 +1,0 @@
-regrouper les centaines de taxes (supprimer les taxes idiotes) regrouper CSG et Irpp? ET  revoir les barèmes

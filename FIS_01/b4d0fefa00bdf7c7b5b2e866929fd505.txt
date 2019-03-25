@@ -1,1 +1,0 @@
-Fusionner IR et CSG. Ensuite pour le calcul de l’impôt, prendre en compte tous les revenus du ménage, y compris les aides sociales. Puis appliquer un barème progressif dès le premier euro. Tout citoyen devrait payer l’IR même une somme symbolique.

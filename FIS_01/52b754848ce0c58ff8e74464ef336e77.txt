@@ -1,1 +1,0 @@
-Avec les moyens actuels (informatique), je ne comprends pas que l'impôt soit encore calculé par tranche ! Il faudrait un système linéaire (ou exponentiel).

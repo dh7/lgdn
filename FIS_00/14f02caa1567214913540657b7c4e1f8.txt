@@ -1,1 +1,0 @@
-un portail visualisant toutes les dépenses et recettes Etat Régions Départements Communes en cumulé avec la possibilité de descendre jusque la commune. Avec possibilité de plus de détails que par nature. Et comme la Météo information mensuelle sur les chiffres clefs : dette , déficit , etc. tant au niveau National , Régional, Communal

@@ -1,1 +1,0 @@
-Envoi d'un relevé mensuel par l'état qui liste les dépenses engagées pour chaque foyer, crèche, écoles, université, soins, avec le cout pour chaque

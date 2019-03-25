@@ -1,1 +1,0 @@
-Application de trois taux d'imposition à 5 % - 15 % - 25 % (impôt sur le revenu, impôt sur les sociétés et taux de TVA) Suppression totale de l'ISF (impôt qui n'a pas été supprimé dont on a simplement modifié l'assiette pour n'en conserver que la partie immobilière - IFI)

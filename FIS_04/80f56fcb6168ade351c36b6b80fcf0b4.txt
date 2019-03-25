@@ -1,1 +1,0 @@
-Toutes les aides devraient être declarables et imposables selon le barème progressif.  Avantage: l'assiette pourrait être plus large. Les allocations données avec ou sans limite de ressources deviendraient plus justes et plus utiles.

@@ -1,1 +1,0 @@
-envoie d'un résumé graphique à tous les citoyen avec les montants des dépenses et des recettes de l'état en comparaison sur 5 ans

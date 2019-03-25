@@ -1,1 +1,0 @@
-Simplification et regroupement des différentes taxes pour en diminuer fortement le nombre. Chaque impôts et taxes doivent être affectés à ce pourquoi ils ont été créés et non plus alimenter un grand pot commun

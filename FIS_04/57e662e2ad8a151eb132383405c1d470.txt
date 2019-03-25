@@ -1,1 +1,0 @@
-simplifier les conditions d'accès mais organiser une évaluation des projets et des résultats ex : RSA, les allocations Pôle Emploi

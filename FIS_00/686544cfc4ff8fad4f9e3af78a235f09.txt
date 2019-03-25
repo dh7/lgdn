@@ -1,1 +1,0 @@
-Envoyer un résumé par trimestre, de toutes les dépenses qui ont été prises en charge par l'Etat et allocations à chaque foyer fiscal.  Donner accès au détail de l'utilisation des impôts.

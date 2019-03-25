@@ -1,1 +1,0 @@
--limiter les hierarchies administratives (commune, communauté de communes; départements, régions, état) à chaque strate des impots

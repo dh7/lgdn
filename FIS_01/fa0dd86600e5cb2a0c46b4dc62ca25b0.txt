@@ -1,1 +1,0 @@
-tenir compte de la notion de point mort pour déterminer les impôts et taxes. A savoir, point mort = somme des revenus - sommes des dépenses indispensables(logement, alimentation, santé, transport, énergie, ...). Zéro impôt ou taxe au point mort !

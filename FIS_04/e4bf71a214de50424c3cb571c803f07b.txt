@@ -1,1 +1,0 @@
-Globaliser les aides de manière à plafonner le total des aides en fonction de la situation sociale.

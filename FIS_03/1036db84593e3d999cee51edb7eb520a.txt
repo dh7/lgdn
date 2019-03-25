@@ -1,1 +1,0 @@
-indexation des impots indirects sur les resssources (TVA variable selon les revenus salariés+ revenus du capital)

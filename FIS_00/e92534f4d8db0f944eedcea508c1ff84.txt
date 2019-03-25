@@ -1,1 +1,0 @@
-calculer la somme des salaires et charges des élus / nombre de personne. Comparer par rapport aux autres fonctionnaires

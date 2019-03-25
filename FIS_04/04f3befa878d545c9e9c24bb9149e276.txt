@@ -1,1 +1,0 @@
-- Allocations familiales pour de nombreux enfants quand les revenus du foyer sont très élevés voire élevés. - Revoir les effets de seuil, Dans de nombreux cas, dès que les revenus dépassent une valeur (même pour très peu), de nombreuses aides sociales sont supprimées au point que c'est désavantageux. C'est un non sens. Les aides devraient être proportionnelles aux revenus.

@@ -1,1 +1,0 @@
-- Conditionner l’IMF à un investissement ( ex. 10 ou 20% de l’ensemble soumis à l’IMF) dans les entreprises françaises  payant leurs impôts en France   - Remplacer les tranches, c'est à dire le système des seuils, par un calcul individualisé des %  (ca doit être possible à l’heure de l’IA)

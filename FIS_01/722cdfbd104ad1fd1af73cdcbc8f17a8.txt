@@ -1,1 +1,0 @@
-Remonter les plafonds du bas et appliquer un pourcentage inversement proportionnel  aux revenues ( plus faibles en bas mais supérieurs tout en haut de l'échelle)

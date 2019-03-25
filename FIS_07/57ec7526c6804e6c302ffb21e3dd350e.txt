@@ -1,1 +1,0 @@
-Augmentation du SMIC Fixer une limite dans les héritages au dessus de laquelle la taxation sera très importante (par exemple >50% de taxation si héritage >20 millions d'euros)

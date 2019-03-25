@@ -1,1 +1,0 @@
--Allocations familiales selon revenus. Pas d'allocations familiales pour les familles aisees qui n'en ont pas besoin. -Pas d'apl pour les etudiants venant etudier en France.

@@ -1,1 +1,0 @@
-Le RSA avec un système de barème avec une majoration et une minoration. Une personne cherchant activement à se former ou à travailler pourrait avoir un RSA majoré, au contraire une personne ne montrant aucun intérêt pour travailler ou se former aurait un RSA minorés, et au fur et à mesure d’autres aides seraient baissées ou coupées.

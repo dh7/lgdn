@@ -1,1 +1,0 @@
-Il faut calculer le montant total des aides perçues par foyer et définir un montant maximum. Ce n’est pas normal que parfois des familles perçoivent plus d’aides qu’un couple qui travaille et touche le SMIC

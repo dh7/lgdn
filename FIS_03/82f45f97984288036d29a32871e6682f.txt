@@ -1,1 +1,0 @@
-Donner les allocations dès le premier enfant. Diviser le montant par deux pour le deuxième et rien après car les ménages sont équipés.

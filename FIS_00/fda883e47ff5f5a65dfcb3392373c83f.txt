@@ -1,1 +1,0 @@
-1. Simplifier le nombre d'étages administratifs (état, région, département ou groupement de communes) 2. Limiter le nombre de taxes à chacun de ces niveaux 3. Définir un organe de communication unique qui informe des répartitions des impôts et de leur usage, pour toutes les couches

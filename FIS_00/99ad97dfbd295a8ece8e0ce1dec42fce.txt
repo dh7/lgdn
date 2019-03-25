@@ -1,1 +1,0 @@
-Une fois la déclaration d'impôt remplie, on nous annonce ce que l'on va payer comme impôt. Ce serait intéressant de savoir la proportion de cet impôt aux différentes dépenses publiques (ex : j'ai payé 50 € pour l'enseignement, 30 € pour l'armée, 20 € pour la culture...). Il faudrait aussi augmenter l'open data des dépenses publiques.

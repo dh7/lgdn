@@ -1,1 +1,0 @@
-introduire un coefficient qui tienne compte de la localisation géographique du contribuable.Ce coefficient devrait être établi à partir de critères tels que, rural ou ville, accès aux services de transports ou de santé, , niveau des loyers, etc

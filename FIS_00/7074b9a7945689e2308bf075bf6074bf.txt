@@ -1,1 +1,0 @@
-Donner les dépenses réelles de chaque département, leurs recettes , les dépenses réelles de fonctionnement du gouvernement avec le détail.  Avoir un esprit pédagogique pour justifier les décisions.

@@ -1,1 +1,0 @@
-Le prélèvement à la source est quand même pratique, cela évite de provisionner et/ou de bloquer un montant qui sera prélevé ultérieurement. Peut-être moyen de rendre le système plus simple avec un prélèvement plus important et un remboursement en fin d'année (exemple Australien) par défaut et la possibilité d'affiner à la main des utilisateurs s'il le souhaite.

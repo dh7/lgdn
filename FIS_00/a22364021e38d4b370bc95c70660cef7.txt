@@ -1,1 +1,0 @@
-Afficher les tarifs lors d'une hospitalisation, d'une intervention des pompiers, d'une scolarisation ... afin que tout citoyen se rende compte de la nécessité de payer des impôts.

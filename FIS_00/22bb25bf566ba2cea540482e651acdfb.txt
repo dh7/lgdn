@@ -1,1 +1,0 @@
-Afficher clairement et regulierement les realisations avec leur cout, surtout an niveau local

@@ -1,1 +1,0 @@
-Le RSA et l'AAH pour limiter les effets de transferts entre les deux.

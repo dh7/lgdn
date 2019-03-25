@@ -1,1 +1,0 @@
-- revoir les tranches d'imposition. De 0 à 95500 euros , pas d'impôt; de 9500à 27519 euros, 14% de taux d'imposition, de 27519 à 74000, 30%  de taux d'imposition, et ainsi de suite. Que l'on gagne 2800 EUROS ou 73000 euros , on paie le même taux , mais à la fin du mois le reste à vivre est complètement différent.

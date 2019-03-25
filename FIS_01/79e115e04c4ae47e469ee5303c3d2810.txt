@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de l’impôt sur le revenu pour une progression plus juste. <10000=0% 10 001-25 600 = 8% 25 601-40 500 =12,5% 40 501-45 900=15% 45 901-55 000=20% 55 001-66 150=25% 66 151-76 350=30% 76 351-86 400=35% >86 401=45%

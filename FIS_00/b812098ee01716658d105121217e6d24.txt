@@ -1,1 +1,0 @@
-Simplifier le code des impôts  Ne pas imposer l'argent déjà fiscalisé (en revenu et en flux) Fournir des données sur la contribution relative à l'impôt de chaque niveau de revenu.

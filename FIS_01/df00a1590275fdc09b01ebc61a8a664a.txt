@@ -1,1 +1,0 @@
-Prendre plus en compte le reste à vivre que des pourcentages qui ne correspondent pas à grand chose. Il vaut mieux prendre 60% du superflus que 20% du nécessaire.

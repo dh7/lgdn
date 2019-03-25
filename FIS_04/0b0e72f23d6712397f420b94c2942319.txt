@@ -1,1 +1,0 @@
-Rendre dégressive dans le temps toute allocation de chômage d'un montant supérieur au smic.

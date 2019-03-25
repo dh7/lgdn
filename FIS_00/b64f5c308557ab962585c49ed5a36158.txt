@@ -1,1 +1,0 @@
-La mise en place d'une dataviz de la dépense et des recettes des impôts envoyée à tous y compris ceux qui ne paient pas d'impôts aujourd'hui. La mise en place d'un site ou de pages dédiées à ce suivi et son évolution d'année en année.

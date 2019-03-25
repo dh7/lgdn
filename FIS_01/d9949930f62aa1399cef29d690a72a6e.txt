@@ -1,1 +1,0 @@
-Pratiquer une analyse au cas par cas (quitte à augmenter les contrôles). Supprimer ou réduire certaines taxes pour en augmenter d'autres afin de rétablir une classe moyenne.

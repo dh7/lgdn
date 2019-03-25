@@ -1,1 +1,0 @@
-- Communiquer à chaque citoyen sur le fait que chaque aide ou subvention (ex: gratuité des médicaments) provient d'impots payés par d'autres citoyens. - Afficher le prix des médicaments pour que chaque personne prenne conscience de leur coût

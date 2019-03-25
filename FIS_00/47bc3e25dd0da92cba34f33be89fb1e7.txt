@@ -1,1 +1,0 @@
-Faire un diagramme expliquant le pourcentage et sommes dépensés pour chaque ministère. Au niveau des collèges à partir des classes de sixièmes et chaque année cours sur les dépenses de l'état.

@@ -1,1 +1,0 @@
-Regroupement de toutes les aides sous une enveloppe unique attribuée au citoyen en fonction de son cas. Un taux pourrait être déterminé en fonction des besoins de l'individu, calculé sur une somme de base revalorisée en fonction de l'évolution du coût de la vie. Le taux individuel mis à jour chaque année et variant selon l'évolution de l'allocataire.

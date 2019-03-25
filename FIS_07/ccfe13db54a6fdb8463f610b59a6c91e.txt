@@ -1,1 +1,0 @@
-Revoir le calcul de l'assurance chômage car la différence d'allocation entre activité réduite et sans activité n'est pas assez  importante. Si on déduit les coûts de transport ou garde, il peut devenir négatif voir nul. Un minimum de 200 € d'écart serait incitatif

@@ -1,1 +1,0 @@
-Afficher le montant des prélèvements au fil des mois/années et l'associer à l'évolution de la dette et du budget de l'état. Le citoyen verrait ainsi que la hausse de ses impôts ... continue de financer la hausse du budget de fonctionnement de l'état et de la dette ... ou pas !

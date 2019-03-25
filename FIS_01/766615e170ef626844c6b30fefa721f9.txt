@@ -1,1 +1,0 @@
-Distribuer un grand nombre de prestations sociales en fonction des revenus. Par exemple, les APL qui sont attribuées automatiquement. Elles devraient l’etre selon un barème progressif lié aux revenus de la famille ou du jeune s’il s’assume seul.

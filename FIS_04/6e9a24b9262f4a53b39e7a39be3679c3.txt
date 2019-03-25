@@ -1,1 +1,0 @@
-Rendre dégressif les allocations chômage.

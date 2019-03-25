@@ -1,1 +1,0 @@
-au niveau communale, un petit graphique qui donne les actions concrètes menées. Au niveau nationale, un camembert  qui donne les principales dépenses avec si on le souhaite un détail de ces dépenses.

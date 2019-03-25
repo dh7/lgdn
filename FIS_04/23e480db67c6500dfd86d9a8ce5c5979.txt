@@ -1,1 +1,0 @@
-Deux cadres ayant 4 enfants ne devraient pas percevoir la même chose que 2 RSA ayant 4 enfants! N'ayez pas peur de repenser cela, il n'y a que les journalistes parisiens que cela perturbe!

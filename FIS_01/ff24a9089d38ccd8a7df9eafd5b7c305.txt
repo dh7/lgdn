@@ -1,1 +1,0 @@
-Que chaque citoyen paie l'impôt sur le revenu même les plus modestes.  Afin que chacun se rende compte des sommes dont il a disposé dans l'année, afficher pour mémoire sur la feuille d'imposition le montant des aides sociales perçues. Donner moins d'aide sociale pour que ces aides ne dépassent pas le SMIC. Réduire ou supprimer les niches fiscales pour les plus aisés.

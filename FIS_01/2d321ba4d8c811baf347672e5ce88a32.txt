@@ -1,1 +1,0 @@
-Stopper le système de tranche mais plutôt un pourcentage.

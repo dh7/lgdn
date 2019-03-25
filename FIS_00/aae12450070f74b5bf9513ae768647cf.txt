@@ -1,1 +1,0 @@
-Mise à disposition automatique dans chaque espace utilisateur d'un état annuel de la répartition des impôts, avec le niveau de granularité requis/choisi à paramétrer par l'utilisateur

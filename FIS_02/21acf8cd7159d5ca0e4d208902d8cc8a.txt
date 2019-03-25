@@ -1,1 +1,0 @@
-Supprimer les taxes sur les taxes (ex : TVA sur taxes EDF ).Diminuer la TIPP

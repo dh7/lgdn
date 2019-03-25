@@ -1,1 +1,0 @@
-affichage dans les administrations (ex: comme pour les travaux de voirie qui indiquent le prix et la participation de l'état ou de la région, etc...)

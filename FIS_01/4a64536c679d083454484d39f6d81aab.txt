@@ -1,1 +1,0 @@
-Affecter directement une taxe à une dépense identifiée et un objectif. Isoler et gérer de manière transparente les dépenses qui relèvent de la solidarité légitime ou de la 'nationalisation' de certains intérêts (intermittents, retraite fonctionnaires, avantages SNCF, EDF etc...)

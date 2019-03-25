@@ -1,1 +1,0 @@
-Remplacer le seuil par un plancher où l'avantage est total, un plafond où il est égal à zéro et utiliser une fonction continue entre le plancher et le plafond. Cela évite toute tentative de contournement dudit seuil.

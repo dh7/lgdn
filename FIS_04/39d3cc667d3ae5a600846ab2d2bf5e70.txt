@@ -1,1 +1,0 @@
-Le mode de calcul pour les indemnités de chômage des gros salaires. Tenir compte du nombre d'années travaillées sur le territoire Français et les cotisations qui ont été payées par ces personnes étrangères. Un personne cotisant pour 5,6,7 ou plus personnes à charge.

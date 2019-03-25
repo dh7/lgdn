@@ -1,1 +1,0 @@
-simplifier la demande de cmu la rendre automatique sur simple déclaration de revenus sur impots.gouv

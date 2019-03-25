@@ -1,1 +1,0 @@
-Faire un compte de résultat fiscal permettant de visualiser le total de nos contributions (IRPP, TVA, Taxes, Cotisations sociales…) au regard du total de nos rétributions (enfants scolarisés, rbts sécu, allocations, subventions transports, indemnités chômage…).

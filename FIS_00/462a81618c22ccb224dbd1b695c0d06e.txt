@@ -1,1 +1,0 @@
-Afficher pour chaque structure/service ("public" ou "privé") la part du budget provenant de l'Etat ou des collectivités (en incluant les subventions et les économies d'impôts).

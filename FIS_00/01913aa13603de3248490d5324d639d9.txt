@@ -1,1 +1,0 @@
-Communiquer les chiffres de l’utilisation de impôts sous de tableaux et "camembert" simples en pourcentage et en valeurs absolues pour les différents domaines (Education, défense, justice, santé....) par voie numérique sur un site dédié.

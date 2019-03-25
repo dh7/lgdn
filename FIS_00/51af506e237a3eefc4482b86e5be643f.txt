@@ -1,1 +1,0 @@
-Sur les fiches de payes, changer la formulation des charges pour faire  apparaître ce qui est un salaire différé (cotisation retraite) et ce qui revient à l'assurance santé et ce qui reste un impôt pour clarifier la lecture des prélèvement sur les salaires : trois rubriques : - 1  salaire différé - 2 Assurance santé - 3 Impôt

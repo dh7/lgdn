@@ -1,1 +1,0 @@
-Tenir compte du reste à vivre et non du pourcentage pour les bas revenus

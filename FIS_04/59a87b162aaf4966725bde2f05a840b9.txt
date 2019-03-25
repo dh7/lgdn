@@ -1,1 +1,0 @@
-Limiter la durée de chômage. Limiter le niveau de couverture chômage en fonction du salaire (% dégressif lorsque les salaires augmentent)

@@ -1,1 +1,0 @@
-Limiter dans la durée les allocations chômage excédant un certain montant, à définir (5000 € / mois ?)

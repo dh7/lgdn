@@ -1,1 +1,0 @@
-Donner la liste et le montant des services financés pour chaque type d’impôts.

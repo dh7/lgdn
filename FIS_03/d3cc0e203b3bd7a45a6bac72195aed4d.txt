@@ -1,1 +1,0 @@
-taxer les robots de service (péages, distributeurs de billets, caisses automatiques de la grande distribution, automates des stations-services), à l'exception des robots industriels de fabrication

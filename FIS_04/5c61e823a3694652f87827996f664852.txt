@@ -1,1 +1,0 @@
-aide ok mais avec un contrôle, par exemple vérifier qu'une personne percevant l'allocation de parent isolé soit bien seul(e)

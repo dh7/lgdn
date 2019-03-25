@@ -1,1 +1,0 @@
-business en France = impôts en France - siège français = impôt sur le bénéfice - siège étranger = impôt sur le chiffre d'affaire - transaction internet avec l'étranger = taxe sur la vente

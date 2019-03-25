@@ -1,1 +1,0 @@
-Déjà, faire des attributions qui soient dégressives en fonction du salaire. Il n'est pas normal que quelqu'un perde la totalité de ses prestations au dessus d'un certain seuil. C'est plutôt décourageant

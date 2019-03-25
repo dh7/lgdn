@@ -1,1 +1,0 @@
-tenir compte plafonnement de sorte de ne pas toucher plus qu'un smicard

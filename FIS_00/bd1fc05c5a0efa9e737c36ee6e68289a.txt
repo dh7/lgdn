@@ -1,1 +1,0 @@
-Afficher le niveau de contribution par tranche de revenu mensuel et annuel en valorisant d’un côté  les postes de dépenses des ménages et de l’autre les impôts et autres contributions sociales versés par domaine d’intervention. Les français doivent identifier concrètement les effets au quotidien de leurs impôts et les charges qu’ils supportent.

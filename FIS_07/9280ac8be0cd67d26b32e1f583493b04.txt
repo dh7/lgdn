@@ -1,1 +1,0 @@
-mettre en place une dégressivité  dans le temps des allocations chomage et plafonner les mensualités.

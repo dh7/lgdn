@@ -1,1 +1,0 @@
-Joindre un bulletin des dépenses avec l'envoi de l'impôt payé de chaque foyer fiscal.

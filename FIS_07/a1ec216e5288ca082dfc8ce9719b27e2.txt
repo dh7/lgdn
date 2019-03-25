@@ -1,1 +1,0 @@
-- Supprimer toutes les Agences, commitions et autres cabinets obscures qui coutent cher - Limiter l'action de l'état aux fonctions Régaliennes - Diminuer le poids de la partie Administrative dans les ministères, et les collectivités localmes (Plus de productifs et moins d'administratifs) - Supprimer le Conseil Economique et Social

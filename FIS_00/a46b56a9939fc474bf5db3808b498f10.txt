@@ -1,1 +1,0 @@
-Revoir le calcul de l'indice des prix pour la faire coïncider avec la réalité des produits réellement achetés par les consommateurs.

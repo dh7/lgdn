@@ -1,1 +1,0 @@
-- remettre une facture (sans règlement) pour tous types d'actes médicaux, surtout concernant l'hospitalisation. Que chacun voit ce qu'il aurai du payer!

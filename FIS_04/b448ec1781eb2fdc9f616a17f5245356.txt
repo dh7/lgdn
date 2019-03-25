@@ -1,1 +1,0 @@
-- Chômage : pour toucher les allocations chômage il devrait être impossible de refuser plusieurs offres d'emploi, quel que soit l'offre (peu importe si elle n'est pas dans le secteur de prédilection de la personne par exemple)

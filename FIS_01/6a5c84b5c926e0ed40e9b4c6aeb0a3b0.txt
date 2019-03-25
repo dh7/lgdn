@@ -1,1 +1,0 @@
-IRPP proportionnel pour tous (à partir d'un niveau de ressources à définir) au plan national ainsi que pour la fiscalité régionale et locale (arrondissements et communes-canton)

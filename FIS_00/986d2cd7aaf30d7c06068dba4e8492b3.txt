@@ -1,1 +1,0 @@
-Consultation d'informations sur internet à partir d'un mail signalant les mises à jour du site

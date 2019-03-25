@@ -1,1 +1,0 @@
-Oui les systèmes doivent êtres calculés automatiquement et répondre a des fonctions mathématiques afin d'éviter les effets de seuils ou cliquets

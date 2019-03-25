@@ -1,1 +1,0 @@
-simplification des parcours d'obtention des droits, et controles plus stricts

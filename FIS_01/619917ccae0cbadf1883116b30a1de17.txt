@@ -1,1 +1,0 @@
-Supprimer les effets de seuil dans tous les domaines.

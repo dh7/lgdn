@@ -1,1 +1,0 @@
-Rendre plus clair le résultat de l'utilisation des sommes: Cout des services de secours et de santé = nombre de vies sauvées. Cout des services de police = nombre de déliquants arrétés Cout de la justice = nombre de délinquants relachés (gag mais c'est l'esprit) Cout des investissements dans le transport = nombre de passagers/kilomètre + nombre de tonnes de pollution économisées

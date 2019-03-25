@@ -1,1 +1,0 @@
-Les base de calculs de tout impôt devrait être simple de manière à ce que tout citoyen puissent le calculer et le contrôler par lui-même (bon=TVA, mauvais=impôt foncier). Tout revenu quel qu'il soit (y compris aides sociales en tout genre) devrait entrer dans le calcul de l’impôt sur le revenu.

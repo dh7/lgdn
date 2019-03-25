@@ -1,1 +1,0 @@
-Adapter les impôts selon ce qui est taxé.

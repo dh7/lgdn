@@ -1,1 +1,0 @@
-Il faut améliorer le tri sélectif en le facilitant. Les instructions sur les différents emballages ne sont pas claires : ou TRI, ou PAS TRI avec un logo barré ou pas

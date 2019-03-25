@@ -1,1 +1,0 @@
-Il faut supprimer tout les mécanisme d'aide qui comportent des effets de seuil ; le franchissement d'un seuil est toujours jugé injuste quand il fait perdre une aide pour un seul euro d'écart dans les conditions d'attribution. Je pense que nos députés savent utiliser des règles de proportionnalité et des polynômes.

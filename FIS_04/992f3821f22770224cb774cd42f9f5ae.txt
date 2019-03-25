@@ -1,1 +1,0 @@
-Il faut plafonner le RSA à un certain temps. Par exemple, ne plus pouvoir en bénéficier après 2 années.

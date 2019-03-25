@@ -1,1 +1,0 @@
-Autre sujet : Modiifier le code du travail afin de permettre au salarié de choisir de recevoir le versement de leur salaire au mois, ou à la semaine ou bien tous les 15 jours, afin d’accéder à son pouvoir d’achat dès que possible.

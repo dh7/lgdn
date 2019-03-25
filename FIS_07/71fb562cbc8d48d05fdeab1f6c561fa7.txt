@@ -1,1 +1,0 @@
-- Créer un site accessible par tous les citoyens sur lequel il serait affiché en temps réel les dépenses de l'état, rubrique par rubrique ainsi que les destinataires des fonds versés. tout cela pour une transparence fiscale !

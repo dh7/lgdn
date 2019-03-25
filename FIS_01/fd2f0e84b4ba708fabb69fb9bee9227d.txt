@@ -1,1 +1,0 @@
--Faire remplir une déclaration de revenus et de patrimoine (montant des assurances vies, montant part de SCI, montant patrimoine immobilier, etc...) pour toute personne qui sollicite une aide sociale. Trop de personnes sollicitent des aides (bourses ou autres) et sont multi propriétaires ou ont des assurances vie.

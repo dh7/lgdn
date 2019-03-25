@@ -1,1 +1,0 @@
-rendre les taxes locales modulables en fonction des ressources des habitants.

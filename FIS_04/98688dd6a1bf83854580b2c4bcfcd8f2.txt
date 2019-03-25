@@ -1,1 +1,0 @@
-- contrôle drastique pour l'allocation parent isolé  - pas d'allocation familiales au delà de 2 enfants, - attribution des allocations familiales en bon nourriture, vêtement (éviter gaspillage)  - le RSA devra être versé que si les citoyens concernés ont effectué l'année de réinsertion décrite ci-dessous

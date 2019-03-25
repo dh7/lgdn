@@ -1,1 +1,0 @@
-Suppression de toutes les taxes autre que la TVA (taxe sur les boissons trop alcoolisées, trop sucrées ...) et les différents taux de TVA à clarifier.

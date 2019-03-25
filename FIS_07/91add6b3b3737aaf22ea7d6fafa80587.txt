@@ -1,1 +1,0 @@
-Créer un système d'alerte afin de suivre les personnes abusant des consultations médicales et réduire le de remboursement sauf en cas de maladie nécessitant un suivi régulier. Mieux gérer les dépenses publiques en réduisant le nombre de fonctionnaires des administrations non régaliennes pour que ce nombre soit strictement proportionné au travail à accomplir

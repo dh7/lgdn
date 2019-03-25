@@ -1,1 +1,0 @@
-- Suppression de la TVA sur les taxes  - Taxe d' habitation pour tous et taxes foncières pour tous les propriétaires non soumis à l' IFI.

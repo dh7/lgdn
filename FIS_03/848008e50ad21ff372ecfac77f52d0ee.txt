@@ -1,1 +1,0 @@
-Un taux de cotisations sociales fonctions du contrat de travail: CDI => cotisation normale; contrat court => cotisation élevée; contrat très court => cotisation très élevée.

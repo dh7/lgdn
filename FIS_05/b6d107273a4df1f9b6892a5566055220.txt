@@ -1,1 +1,0 @@
-Revoir le calcul des minima sociaux (AAH, minimum vieillesse) en introduisant une complémentarité avec d'autres ressources type pensions notamment. Cf. proposition.

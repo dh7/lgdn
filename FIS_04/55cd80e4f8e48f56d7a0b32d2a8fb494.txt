@@ -1,1 +1,0 @@
-Allocation familiales supprimé si enfant viré plusieurs fois école. APL supprimé si personne condamné plusieurs fois pour crime ou fraude.

@@ -1,1 +1,0 @@
-Que soit pris en compte le revenu année 0   (tant réel ) et pas N-1 ou -2. Supprimer les pensions de réversion des divorcés .

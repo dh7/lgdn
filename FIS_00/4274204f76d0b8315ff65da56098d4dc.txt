@@ -1,1 +1,0 @@
-Création d'une TVA variable en fonction du cout de l'objet.  Exemple, tout le monde à droit de posséder une voiture donc Tva faible pour les voitures pas cher et celle ci augmente quand le prix, donc les équipements parfois superflus augmente. illustration, voiture de moins de 15000€ 5% de TVA, de 15000 à 30000, 20% au dela de 30000, 40%

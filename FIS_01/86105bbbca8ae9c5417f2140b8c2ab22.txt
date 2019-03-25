@@ -1,1 +1,0 @@
-Réaliser un contrôle de gestion des politique publique, afin d'éliminer celles qui ne sont pas efficace. Le droit à l'erreur est acceptable, si les corrections sont amenées rapidement.

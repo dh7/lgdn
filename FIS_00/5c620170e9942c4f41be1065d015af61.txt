@@ -1,1 +1,0 @@
-Tableau de bord simple et lisible.  - D'où viens la recette de l'Etat par grand types.  - Comment est dépensé l'argent public. par Destination : Sécurité (intérieure, extérieure), justice , santé, éducation, social. Extraire les frais de gestion (fonctions support) consolidée de l'ensemble des 3 fonctions publiques

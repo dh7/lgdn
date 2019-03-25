@@ -1,1 +1,0 @@
-Lorsqu’un patron demandera une augmentation à son conseil d’administration, cette augmentation sera automatiquement appliquée à l’ensemble des salariés de l’entreprise. Ainsi, si un patron demande 5% d’augmentation, tous les salariés bénéficieront de cette même augmentation de 5%.

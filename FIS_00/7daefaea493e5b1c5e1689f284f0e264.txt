@@ -1,1 +1,0 @@
-Imprimer les revenus nets de toutes les personnes célèbres.

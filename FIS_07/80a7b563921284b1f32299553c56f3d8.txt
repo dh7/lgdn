@@ -1,1 +1,0 @@
-Ne plus appliquer de TVA sur les taxes (EDF, carburants...) La TVA doit s'appliquer sur le bien consommé et pas sur les autres taxes.

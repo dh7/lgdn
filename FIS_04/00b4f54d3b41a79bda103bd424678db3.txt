@@ -1,1 +1,0 @@
-RSA à limiter dans le temps pour inciter les personnes à retrouver un travail déclaré. pas de RSA à vie.

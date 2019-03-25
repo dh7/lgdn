@@ -1,1 +1,0 @@
-Controller les allocations logement. Certains oublient de déclarer qu'ils se sont remis en couple pour continuer de toucher les indemnités.

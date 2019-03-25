@@ -1,1 +1,0 @@
-Suppression de la TVA sur les taxes (facture EDF par exemple...)... Les taxes ne sont pas une valeur ajoutée !!!!

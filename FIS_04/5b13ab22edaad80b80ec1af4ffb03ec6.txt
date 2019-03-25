@@ -1,1 +1,0 @@
-Les cotisations chomage constitue une "cagnotte" qui grossit au fur et à mesure que l'on cotise. En cas de chomage, la cagnotte diminue en fonction du temps. lorsque la cagnotte est égal à 0, les chomeurs sont redevables d'un certain nombre d'heure d'intérêt général, sils veulent continuer à toucher des allocations (de niveau adapté)..

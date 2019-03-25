@@ -1,1 +1,0 @@
-Plafonner le total de la distribution des aides sociales à l'échelle d'un ménage en fonction de sa taille. Réduire les contournements liés aux ménages "non juriquement établis" (veufs ou veuves non-juridiquement remariés ou pacsés mais vivant marialement par exemple.

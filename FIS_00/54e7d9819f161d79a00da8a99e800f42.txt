@@ -1,1 +1,0 @@
-un schéma heuristique virtuel, permettant de visualiser en temps réel, la réattribution des pourcentages des prélèvement fiscaux. Mis a jour toutes les 24 heures.

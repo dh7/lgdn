@@ -1,1 +1,0 @@
-Suggestion : appliquer un taux de csg maximun sur toutes les transactions boursières se denouant en quelques fractions de secondes. Alléger ce taux en fonction de la durée du denouement achat/vente. Débat à organiser pour fixer les délais de rétention et les taux à appliquer .

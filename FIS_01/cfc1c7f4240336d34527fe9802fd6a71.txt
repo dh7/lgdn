@@ -1,1 +1,0 @@
-Comme déjà évoqué, remplacer les tranches d'impôt par un calcul proportionnel. Exemples fictifs : une personne qui passerait de 100 à 500 euros d'impôt suite à une augmentation ne devrait peut-être payer que 150 ou 350 euros mais pas encore 500. A l'inverse, une personne qui ne paye pas d'impôt pourrait peut-être payer 20 euros.

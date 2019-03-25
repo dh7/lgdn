@@ -1,1 +1,0 @@
-Tableau (avec  "camembert" ) similaire à celui fourni dans la doc (exemple des dépenses de l'état pour 1000€) avec un peu plus de détails pour 1 million d'euros

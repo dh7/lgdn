@@ -1,1 +1,0 @@
-Afficher le cout des dépenses hospitalières quand on se fait soigner. Les gens se rendraient mieux compte de l'importance des dépenses de santé que la collectivité fait pour eux.

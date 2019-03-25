@@ -1,1 +1,0 @@
-simplification des aides familiales (ex : montant de l'aide CAF au déménagement pourrait être intégrée dans les allocations familiales de base)

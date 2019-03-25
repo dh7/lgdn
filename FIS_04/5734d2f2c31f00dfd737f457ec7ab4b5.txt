@@ -1,1 +1,0 @@
-Refondre toutes les allocations en une seule allocation qui ne doit pas être plus élevée qu'un salaire, car le travail doit être privilégié, plus que l'assistance.

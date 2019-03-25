@@ -1,1 +1,0 @@
-Supprimer la taxe sur les cotisations aux mutuelles complémentaires de santé. Extraire du champ des cotisations sociales les compléments de retraite des pensionnés dont les cotisations sans participation patronale n'ont pas été déduites de l'assiette de celles-ci par rapport aux salaires durant la période d'activité.

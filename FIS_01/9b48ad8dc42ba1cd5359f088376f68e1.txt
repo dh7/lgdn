@@ -1,1 +1,0 @@
-Instaurer un pourcentage par tranche de 1000 euros qui soit individualisé, sans tenir compte du revenu du conjoint comme pour les charges sociales.

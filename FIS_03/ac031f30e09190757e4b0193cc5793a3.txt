@@ -1,1 +1,0 @@
-quand on change les règles du jeu, ces nouvelles règles doivent être applicables à tous

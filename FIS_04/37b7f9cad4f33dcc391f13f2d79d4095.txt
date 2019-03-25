@@ -1,1 +1,0 @@
-- limiter les indemnités chaumage nettes à un montant unique de 90% du SMIC brut  - distribution des allocations sociales uniquement aux personnes payant l’impôt en France depuis au moins 2 ans

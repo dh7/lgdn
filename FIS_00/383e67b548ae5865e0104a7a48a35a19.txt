@@ -1,1 +1,0 @@
-faire un tableau de fonctionnement  par ministère avec les masses  et charges salariales , le budget et le nombre d'emplois

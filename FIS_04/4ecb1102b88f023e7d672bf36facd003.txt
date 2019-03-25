@@ -1,1 +1,0 @@
-Le cout de la vie ayant beaucoup augmenté, revoir les plafonds d'attribution. Lorsqu'un plafond d'aide est atteins, les bénéficiaires ne doivent plus pouvoir recevoir d'aide.

@@ -1,1 +1,0 @@
-Créer une carte (comme la carte vitale) sur laquelle est enregistrée la tranche d'imposition du détenteur, utilisée pour tous les paiements afin que le taux de TVA appliqué sur le produit ou service acheté soit calculé en fonction des revenus de chacun . Baisser la TVA pour les particuliers, l'augmenter pour les entreprises.

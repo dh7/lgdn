@@ -1,1 +1,0 @@
-suppression de la tva pour les produits alimentaires de base, sante et bio (maintient pour l'ultra transformé, les sodas etc...) création d'un taux de tva majoré (25 ou 30%) pour les produits de luxe

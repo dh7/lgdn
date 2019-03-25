@@ -1,1 +1,0 @@
-Simplifier les déclarations. La source est une bonne chose

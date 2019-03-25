@@ -1,1 +1,0 @@
-Par un tableau publié sur un site: pour chaque service de l'état, quelles sont les dépenses, avec niveaux de détails à choisir par l'utilisateur.

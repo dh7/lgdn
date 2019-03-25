@@ -1,1 +1,0 @@
-verser automatiquement les aides sociales aux ayants droits (en fonction des ressources) et assurer un contrôle a posteriori, bien moins onéreux. Cela éviterait qu'un tiers des ayants droits ne perçoivent pas les allocations qui sont prévues pour eux (RSA , alloc logement, chèque énergie …)

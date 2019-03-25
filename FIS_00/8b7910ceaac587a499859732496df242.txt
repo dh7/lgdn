@@ -1,1 +1,0 @@
-Faire un site internet avec les revenues et les dépenses, liés à des réalisations concrètes ( salaire des enseignants, construction d'une route)

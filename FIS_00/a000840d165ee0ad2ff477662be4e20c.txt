@@ -1,1 +1,0 @@
-Un site internet où nous aurons un accès par département et national au détail de la répartition des recettes et dépenses.

@@ -1,1 +1,0 @@
-Adapter la TVA en fonction du revenu par le biais d'un crédit d'impôt pour les revenus modestes

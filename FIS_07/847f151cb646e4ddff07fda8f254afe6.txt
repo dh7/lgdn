@@ -1,1 +1,0 @@
-Rendre l impôt sur les revenus proportionnel suivant une courbe exponentielle (supprimer les paliers). Le rendre obligatoire pour tous et y incorporer csg, crds  Appliquer une tva de 25% pour tous les objets de luxe ou superflus au prix déjà élevés

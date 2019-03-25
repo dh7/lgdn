@@ -1,1 +1,0 @@
-Simplifier. Supprimer les taxes de type CSG et RDSG, ISF, ISI sauf la TVA, car on ne les comprend pas.  ET Imposer sur les revenus davantage les + riches (ajout d'une ou 2 tranches) mais aussi imposer les + pauvres même de 10€/an. 100% des citoyens doivent contribuer à l'IR.

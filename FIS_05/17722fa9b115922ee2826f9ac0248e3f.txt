@@ -1,1 +1,0 @@
-Logement pour tous: loyer encadré et variable (mini et maxi) en fonction du revenu pour les revenus inférieurs à 1,5 fois le SMIC.

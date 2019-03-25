@@ -1,1 +1,0 @@
-Je pense d'abord qu'il faut éviter les effets de seuils. De nos jours, il me semble qu'il n'est pas si compliqué de faire une attribution des aides au minimum de façon linéaire par morceaux.

@@ -1,1 +1,0 @@
-- Supprimer les niches fiscales spécifiques à certaines professions, journaliste par exemple - Mettre en place un moyen pour que certains commerçants déclarent l'ensemble des revenus de leur profession, coiffeurs, restaurateurs entre autres

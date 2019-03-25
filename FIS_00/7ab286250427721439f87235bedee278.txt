@@ -1,1 +1,0 @@
-Un récapitulatif synthétique et visuel des recettes et dépenses de l'état (Par exemple graph en camembert).

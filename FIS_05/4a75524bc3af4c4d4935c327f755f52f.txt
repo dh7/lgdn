@@ -1,1 +1,0 @@
--	Indexer les montants de retraite sur le taux d’inflation avec calcul de l’inflation sur les produits alimentaires, énergie, eaux, (hors produit luxe, tabac et alcool)

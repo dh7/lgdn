@@ -1,1 +1,0 @@
-Revoir les modalités de calcul de l'impôt sur les revenus ainsi que les tranches. Chaque foyer devrait payer un impôt minimal sur les revenus (prestations sociales comprises)

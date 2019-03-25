@@ -1,1 +1,0 @@
-Mettre en ligne la simulation des impôts de la case 0XX. Ainsi le calcul pourra se faire sans se déplacer aux impôts.

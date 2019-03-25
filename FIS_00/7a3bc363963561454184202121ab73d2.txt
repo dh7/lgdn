@@ -1,1 +1,0 @@
-Afficher une synthèse des budgets alloués aux différents services publics.

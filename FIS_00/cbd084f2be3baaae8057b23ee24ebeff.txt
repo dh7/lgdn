@@ -1,1 +1,0 @@
-Simplifier l'impôt pour que chaque prélèvement corresponde à une dépense. Ex : taxe d'habitation pour le fonctionnement de la ville.

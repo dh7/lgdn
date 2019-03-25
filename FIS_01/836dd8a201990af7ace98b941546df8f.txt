@@ -1,1 +1,0 @@
-créer un logiciel calculant dans chaque cas, en fonction de différents critères, si les individus sont dans une moyenne (détecter les cas de grande précarité et les aider)

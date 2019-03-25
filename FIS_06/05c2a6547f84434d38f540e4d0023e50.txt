@@ -1,1 +1,0 @@
-Pour un meilleur contrôle et un suivi des allocations allouées aux français.

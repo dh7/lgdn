@@ -1,1 +1,0 @@
-Fournir lors des envois des formulaires de déclaration d'impôts, le montant des recettes détaillés par impôt prélevé et le détail des dépenses par Ministère et autres organismes.

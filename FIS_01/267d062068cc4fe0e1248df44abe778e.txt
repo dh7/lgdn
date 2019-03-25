@@ -1,1 +1,0 @@
-Affecter les taxes à ce quels sont prévus, exemple taxe carburant pour l'achat d'un véhicule moins polluant, même s'il est diesel ou essence du moment qu'il est Crit Air 2. Il semble que moins de 40% va à la transition écologique ( au lieu de 100% ).

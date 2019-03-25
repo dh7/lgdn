@@ -1,1 +1,0 @@
-le système est déjà très couteux et il faut plutôt stabiliser le niveau en travaillant sur un meilleur rendement (rapport entre le cout de gestion et la part redistribuée)

@@ -1,1 +1,0 @@
-supprimer les différences liés aux statuts (fonctionnaire européens ne payant pas d'impots, supprimers les abattements par profession/retraité..., prélèvement différents fonctionnaires/non fonctionnaires ...)

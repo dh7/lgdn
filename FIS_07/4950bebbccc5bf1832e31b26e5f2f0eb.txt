@@ -1,1 +1,0 @@
-Moduler le niveau d'imposition sur le revenu en fonction du coût du logement (coefficient de pondération à introduire pour l'Ile de France)

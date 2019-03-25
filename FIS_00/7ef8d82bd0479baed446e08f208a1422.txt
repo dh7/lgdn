@@ -1,1 +1,0 @@
-Sur le site des impôts, une fiche devrait être accessible avec les grandes masses de la répartition de l'impôt payés par les différents types de contribuables ainsi que la part de chaque type d'impôt (direct et indirect) dans le budget (IR, IS, IFI, TVA...)

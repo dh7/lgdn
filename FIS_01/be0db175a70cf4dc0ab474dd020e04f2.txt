@@ -1,1 +1,0 @@
-Remplacer tous les Effets de Seuil par les Courbes à Poles en duo avec la Carte Vitale . Détails et explications sur http://www.msene.fr/ms.pdf

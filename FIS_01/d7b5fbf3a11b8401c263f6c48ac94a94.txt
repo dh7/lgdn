@@ -1,1 +1,0 @@
-- moduler les loyer locatifs privés et impôts sur revenus locatifs selon un barème fixé selon revenus du locataire avec un min/max  - imposer aux propriétaires les frais d'abonnements énergétiques de leur logement et dont eux seuls bénéficient de réductions d’impôts selon choix d'équipement  (gaz et électricité ou autre). Les locataires ne paient que leur consommation

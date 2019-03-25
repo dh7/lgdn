@@ -1,1 +1,0 @@
-tenir compte des moins values réalisées pour les opérations imposables en cas de plus value.

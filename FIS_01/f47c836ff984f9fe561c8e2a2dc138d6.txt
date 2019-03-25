@@ -1,1 +1,0 @@
-faire une TVA réduite pour les produits de première nécessité. Adapter le taux de TVA en fonction de la gamme du produit, par exemple, taux réduit pour une voiture de base et taux plus élevé pour les voitures puissantes (plus polluantes).

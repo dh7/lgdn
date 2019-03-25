@@ -1,1 +1,0 @@
-Que chaque contribuable paie TVA et autres taxes, en fonction de son coefficient fiscal.Chacun dispose d'une carte vitale et ou d'une carte bancaire, sur laquelle apparaîtrai le coefficient fiscal. Au passage en caisse, sur présentation de celle ci, serait automatiquement calculer le montant des taxes, en fonction de ses propres revenus.

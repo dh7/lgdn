@@ -1,1 +1,0 @@
-affichage dans le lieux publics (maire, poste ...) des lois votées en indiquant leur calendrier (qui a proposé, quand, combien de votants, combien de pour, contre, abstention, date de mise en application ..)

@@ -1,1 +1,0 @@
-Augmenter le temps de travail|Il faudra tenir compte de l'allongement de la durée de vie, mais là encore en évitant les effets de seuil.

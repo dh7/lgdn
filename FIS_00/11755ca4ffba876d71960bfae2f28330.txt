@@ -1,1 +1,0 @@
-Afficher la répartition de l'utilisation de 1000 euros de prélèvements, dans tous les lieux de prestation : cpam, caf, carsat, impôts, cabinets médicaux, etc.... Ne pas se limiter à l'IR, faible partie des prélèvements. Inclure les impôts locaux.

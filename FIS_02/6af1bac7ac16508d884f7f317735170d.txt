@@ -1,1 +1,0 @@
-Il faut suprimer toutes les taxes qui portent sur d'autres taxes (exemple : la TVA sur la taxe sur les carburants)

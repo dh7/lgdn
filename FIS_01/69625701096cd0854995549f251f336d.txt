@@ -1,1 +1,0 @@
-Supprimer les effets de seuil en ce qui concerne les taxes ou aides : il suffit d'un mathématicien et d'un informaticien, qui pour chaque taxe ou aide, créent un programme informatique avec des pourcentages évolutifs en fonction des revenus.

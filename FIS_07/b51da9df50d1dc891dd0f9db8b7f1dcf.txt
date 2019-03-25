@@ -1,1 +1,0 @@
-Constat : les virements des salaires, des retraites, des prestations sociales ne sont pas versés le même jour suivant la banque.  Proposition : trouver une solution pour que le virement des salaires, des retraites et des prestations sociales soit effective à la même date quelque soit la banque.

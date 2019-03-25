@@ -1,1 +1,0 @@
-Défiscaliser et exonérer les éléments variables de paye (ex : heures de nuit, dimanches, fériés, etc...) indexer uniquement l'impôt sur le revenu et les charges sociales uniquement sur le salaire de base

@@ -1,1 +1,0 @@
-Présenter un graphique sur le site impot.gouv.fr  (pour chaque secteur financé par l'impot: le % et le montant) lorsqu'on déclare ses revenus

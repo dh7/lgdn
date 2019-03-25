@@ -1,1 +1,0 @@
-RSA, parents isolés(un contrôle plus sévère), allocation chômage plus controlée

@@ -1,1 +1,0 @@
-Disposer d'une synthèse consultable en ligne des débats parlementaires portant sur le vote du budget de l'État. Établir une carte qui permet de visualiser l'affectation des dépenses publiques (incluant le détail département / région / communes / intercommunalité / établissement publics / états) et permettant d'identifier l'impôt, les taxes qui ont permis cette dépense.

@@ -1,1 +1,0 @@
-Suppression de la taxe d'habitation pour tous et revoir le calcul de la taxe foncière en fonction de la superficie de la propriété et non de son emplacement (le mètre carré idem France entière).

@@ -1,1 +1,0 @@
-Une réelle répartition, en veillant à ce qu'il n'y ait pas de "marches d'escalier" (en-dessous de tel chiffre = tel tarif, au dessus = tel autre tarif) mais des TRANSITIONS (courbes de raccordement) de part et d'autre des points-frontières.

@@ -1,1 +1,0 @@
-Mettre en place un site Internet permettant d'accéder aux choix budgétaires de l'état et aux dépenses réelles. Mettre également à disposition du contribuable les conclusions de la cour des comptes qui émet parfois des avis défavorable sur les choix qui ont été faits ou l'utilisation des fonds publiques.

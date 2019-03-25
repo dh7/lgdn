@@ -1,1 +1,0 @@
-- Utiliser des pourcentages, un pourcentage est forcément juste puisqu'il s'adapte sur le montant à imposer.  - Simplifier au maximum, ne pas créer d’exception dans les impôts - Eviter les transferts inutiles entre le payeur et la caisse d'imposition, les caisses d'impositions ne doivent pas "rendre la monnaie", c'est une perte d'efficacité

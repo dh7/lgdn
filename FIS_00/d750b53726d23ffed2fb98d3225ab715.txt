@@ -1,1 +1,0 @@
-Une application étatique pour smathphone ou ordinateur qui matérialise de manière simple et graphique l'affectation de l'impôt récolté sur les différents secteurs. Les conditions d'accès à cette application seraient d'être contribuable ou autre ...L'identifiant pourrait être le numéro d'identification fiscal  de connexion sur le site impot.gouv.

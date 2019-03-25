@@ -1,1 +1,0 @@
-Paiement de l’impôt sur le revenu pour chaque citoyen. Même si cet impôt est symbolique pour les plus pauvres. Calculer cet impôt sur tous les revenus y compris les aides reçues. (RSA, APL, ...).

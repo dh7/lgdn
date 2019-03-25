@@ -1,1 +1,0 @@
-Suppression de la taxe de la communauté de commune pour les ruraux (on paye que pour les gens de la ville).  Suppression de la taxe d'habitation ( Habitation principale) pour tout le monde. Suppression de la taxe de l'audiovisuelle.

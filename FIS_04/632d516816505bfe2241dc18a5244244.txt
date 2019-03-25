@@ -1,1 +1,0 @@
-Je pense surtout au calcul de ces aides qui s'arrêtent brusquement au delà d'un plafond. Alors qu'un calcul dégressif permettrait de répartir plus justement les aides et d'aider plus de monde.

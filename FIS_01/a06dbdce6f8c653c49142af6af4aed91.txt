@@ -1,1 +1,0 @@
-Taxer en fonction des revenus et obligation de dépense, en tenant compte des différences de pouvoir d'achat selon le lieu.

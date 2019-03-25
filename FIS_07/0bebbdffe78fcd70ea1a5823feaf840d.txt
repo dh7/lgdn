@@ -1,1 +1,0 @@
-Revoir le mille feuilles des structures locales afin d’arrêter la gabegie.

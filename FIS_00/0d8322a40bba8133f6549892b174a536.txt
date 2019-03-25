@@ -1,1 +1,0 @@
-Un site internet diffusant en temps réel l'ensemble des dépenses du pays par catégorie de dépenses et par bénéficiaire.

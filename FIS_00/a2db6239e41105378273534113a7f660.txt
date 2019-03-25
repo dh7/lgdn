@@ -1,1 +1,0 @@
-Un site internet qui recense le budget de l'état, avec graphiques, chiffres, analyses indépendantes, dépenses, entrées, etc... Une sorte de bilan comptable simplifié en somme.

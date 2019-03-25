@@ -1,1 +1,0 @@
-Il faudrait une progressivité (pas d'effet de seuil).

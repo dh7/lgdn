@@ -1,1 +1,0 @@
-Simplifier les couches de prélèvements introduites dans le temps (Taxes foncières, d'habitation, sur le revenu, CSG, CRDS, TVA, cotisations, ...) rendre le sens primitif des impôts (contribution de chacun à la hauteur des ses capacités).

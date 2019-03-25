@@ -1,1 +1,0 @@
-Je pense qu'il faut unifier les identifiants des differents services, pour éviter les actions fraduleuses.

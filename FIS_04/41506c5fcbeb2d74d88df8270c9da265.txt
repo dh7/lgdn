@@ -1,1 +1,0 @@
-Ne plus gérer en fonction des revenus N-1 ou N-2 mais s'adapter au réel et donc à l'année N pour l'attribution d'aides sociales (grâce au PAS?). Création d'un grand simulateur permettant à tout un chacun de connaître les aides auxquelles il peut prétendre.

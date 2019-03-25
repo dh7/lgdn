@@ -1,1 +1,0 @@
-à partir du seuil de pauvreté réel taxer de façon logarithmique à  la source (pas d'effet de seuil et lissage du "reste disponible"

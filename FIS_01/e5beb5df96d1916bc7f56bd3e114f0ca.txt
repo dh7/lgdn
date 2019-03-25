@@ -1,1 +1,0 @@
-Rendre les taxes (type TVA) variables en fonctions des revenus, la mise en oeuvre pourrait être facilitée avec le développement d'outils numériques

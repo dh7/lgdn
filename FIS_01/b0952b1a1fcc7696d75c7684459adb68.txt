@@ -1,1 +1,0 @@
-Payer son dû suivant son niveau de salaire (TVA, PV, Amendes). Créer une nouvelle carte ou rajouter sur la carte bleue existante, une puce qui indique de suite le taux de prélèvement sur tous les produits de consommation et autres (liste ci-dessous).

@@ -1,1 +1,0 @@
-Supprimer rapidement les millefeuilles administratifs,  les départements, les communes des villes de plus des 100 000 hab. qui sont toutes des doublons avec les communautés de communes.

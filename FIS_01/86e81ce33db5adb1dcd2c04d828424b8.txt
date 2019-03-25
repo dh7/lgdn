@@ -1,1 +1,0 @@
-Supprimer les niches fiscales DOM-TOM. Supprimer la spécificité de l'imposition de la location meublée (aligner sur location nue). Supprimer les niches fiscales sans impact sur l'emploi. Garder les niches suivantes  : SOFICA, emplois à domicile, TVA sur travaux, éventuellement TVA sur restauration, dépenses de préparation à la retraite (rachat trimestres, PERP), CITE

@@ -1,1 +1,0 @@
-Calculer retraites en fonction du nombre d années travaillées et non en fonction des cotisations, avec surcote pour parents ayant élevé des enfants.

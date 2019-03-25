@@ -1,1 +1,0 @@
-Repenser l'organisation de toutes les structures publiques locales , trop de structures empilées (exemple, le département, la région pourrait s'effacer au profit des métropoles et agglomérations). Garder un échelon local (mairie) est important mais la structure doit s'appuyer sur les ressources administratives des agglomérations par exemple.

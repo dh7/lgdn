@@ -1,1 +1,0 @@
-Dédier une page web reprenant les dépenses et recettes de l'état, par thématique, consultable par tous

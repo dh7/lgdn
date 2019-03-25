@@ -1,1 +1,0 @@
-presenter une affectation par secteur en precisant le montant de la masse salariale, le montant des charges de fonctionnement et le montant affecté a l investissement

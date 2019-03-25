@@ -1,1 +1,0 @@
-Rationaliser, supprimer les doublons, notamment dans la territoriale.

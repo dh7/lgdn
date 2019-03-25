@@ -1,1 +1,0 @@
-Limiter le montant global des aides (tous confondus) afin que ce montant ne puisse pas dépasser la valeur du SMIC

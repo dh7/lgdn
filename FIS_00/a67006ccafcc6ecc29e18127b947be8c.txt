@@ -1,1 +1,0 @@
-Faire diagramme avec pourcentage des dépenses de nos impôts, (de tous les impôts : revenus imposables, TVA, successions....) avec détail pour chaque ministère.

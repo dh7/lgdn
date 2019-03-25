@@ -1,1 +1,0 @@
-mettre une allocation unique qui évolue en fontion du revenu global

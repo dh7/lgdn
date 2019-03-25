@@ -1,1 +1,0 @@
-Remplacer les tranches par une courbe progressive au lieu de sauts injustes quand on change de tranche. L'informatique donne cette possibilité sans compliquer le mécanisme.

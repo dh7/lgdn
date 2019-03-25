@@ -1,1 +1,0 @@
-Gros soucis avec les CAF... les règles d'attribution ne sont pas respectées et changent d'un département à l'autre.

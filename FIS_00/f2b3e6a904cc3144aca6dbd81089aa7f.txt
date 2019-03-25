@@ -1,1 +1,0 @@
-Accès simple par internet aux détails des dépenses de l'état et des collectivités.

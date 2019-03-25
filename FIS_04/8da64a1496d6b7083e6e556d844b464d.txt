@@ -1,1 +1,0 @@
-- APL aux jeunes étudiants donnée sans vérification de la situation financière des parents -RSA : aide à l'accès à une activité professionnelle - de façon générale , vérification de la cohérence des aides (croisement des différents fichiers)  -mise à jour des droits à l’accès aux HLM et rapprochement entre évolution de la composition de la famille et l'attribution du logement

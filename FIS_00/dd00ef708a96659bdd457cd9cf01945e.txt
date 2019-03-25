@@ -1,1 +1,0 @@
-Un site Internet du budget public avec les recettes et les dépenses classées par Ministère/Région/Département/Ville ou toute dépense devra être saisie par l'organisme et visible par tous les citoyens en temps réel.

@@ -1,1 +1,0 @@
-Trop d'allocations sont attendues par les gens, sans rien leur demander en retour

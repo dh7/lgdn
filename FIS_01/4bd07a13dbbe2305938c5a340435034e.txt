@@ -1,1 +1,0 @@
-Moduler la TVA en fonction des revenus des français. (de 15% pour les + pauvres à 25 % pour les riches par exemple.) (mais je ne sais pas comment l'appliquer)

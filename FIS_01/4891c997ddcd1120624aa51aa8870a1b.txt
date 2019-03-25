@@ -1,1 +1,0 @@
-Eviter les effets de seuils et bien faire le calcul des aides données : il ne faut pas qu'un salarié ayant un salaire faible puisse avoir un reste à vivre plus important du fait des aides, de la non imposition qu'un salarié gagnant plus.

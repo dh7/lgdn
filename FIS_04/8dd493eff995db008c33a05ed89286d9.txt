@@ -1,1 +1,0 @@
-Allocations chômage : mettre en place une dégressivité

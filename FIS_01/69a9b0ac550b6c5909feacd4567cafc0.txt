@@ -1,1 +1,0 @@
-Taxer plus les héritages et progressivement -  les petits héritages doivent être très peu taxer et les taxes augmentent exponentiellement selon la valeur de l'heritage chaque héritier ne doit pas pouvoir récupérer plus  de 5 millions d'euros

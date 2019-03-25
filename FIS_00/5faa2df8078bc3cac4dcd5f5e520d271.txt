@@ -1,1 +1,0 @@
-Mettre en place un site web sur lequel serait accessible l'ensemble des factures réglés avec de l'argent publique en précisant le ministère, la direction, le service, le secteur et le bureau à l'origine de la dépense.

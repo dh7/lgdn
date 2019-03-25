@@ -1,1 +1,0 @@
-L'impôt en pourcentage selon le niveau de salaire, à 0 % pour les plus bas et max pour  les plus hauts. Pourrait être basé par exemple sur le coefficient salariale

@@ -1,1 +1,0 @@
-Envoi par e-mail d'un bilan d'utilisation des recettes fiscales de l'année précédente et des prévisions de dépenses de l'année en cours. Représentation graphique des répartitions des recettes fiscales par domaine et mise en avant des principaux "chantiers" en cours (augmentation de budgets ou réduction de budgets).

@@ -1,1 +1,0 @@
-Donner le montant du coût de la formation pour l'éducation en fin d'année. En cas d'hospitalisation, donner le montant des frais engagés par la sécu et mutuelle. Montrer aux citoyens ce que coûtent toutes les dépenses qui sont prises en charge par l'état ou autres.

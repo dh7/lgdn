@@ -1,1 +1,0 @@
-Editer une facture pour chaque utilisation d'un service public facturé aux citoyens (éducation, santé, transport, etc.) avec des lignes indiquant les montants pris en charge par les différentes collectivités (état, région, etc.).

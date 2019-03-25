@@ -1,1 +1,0 @@
-Simplifier pour que l'impôt soit compréhensible. Pas de niches ou autres abattements. Juste une assiette et un taux progressif.

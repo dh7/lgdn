@@ -1,1 +1,0 @@
-Afficher sur tous les bâtiments publics les sommes nécessaires à leur construction, entretien, fonctionnement et leur provenance.

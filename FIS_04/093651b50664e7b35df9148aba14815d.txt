@@ -1,1 +1,0 @@
-controle REEL des arrets de travail de complaisance, et des chomeurs qui ne cherchent pas d'emploi. suppression des aides : RMI / RSA a un bénéficiaire qui refuserait un emploi.

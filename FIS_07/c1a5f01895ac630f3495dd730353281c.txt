@@ -1,1 +1,0 @@
-Revoir les dépenses de représentation de l'état, l'échelon sous préfecture ne me semble pas nécessaire. Diminuer le nombre de strates de gestion locales (région + département + communauté de communes / agglomérations + mairie) afin de les ramener à deux échelons administratifs, communauté de communes et région.

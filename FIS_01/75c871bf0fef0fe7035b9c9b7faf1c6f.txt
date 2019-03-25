@@ -1,1 +1,0 @@
-Casser cet escalier formé par les tranches d'imposition sur les revenus. Créer une formule mathématique pour un lissage des impôts. Pas une droite. Une parabole.

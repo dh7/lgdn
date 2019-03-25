@@ -1,1 +1,0 @@
-Les domaines prioritaires ont deja couverts, pas de renforcement necessaire, juste controller qui recoit les aides.

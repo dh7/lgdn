@@ -1,1 +1,0 @@
-Regrouper les dizaines (centaines ?) aides en une aide globale, gérée au niveau de l'état.

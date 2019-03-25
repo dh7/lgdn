@@ -1,1 +1,0 @@
-- il y en a déjà de supprimé au profit d’internet, mais le problème est l’accès : comment faire quand on a un très mauvais réseau (quelquefois inférieur à 560kb /s). Notre réseau de téléphonie filaire encore utilisé pour distribuer Internet dans la France profonde n’est plus du tout entretenu (poteaux cassés non réparés, lignes vétustes….) et est souvent inopérant.

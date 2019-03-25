@@ -1,1 +1,0 @@
-Chômage évidemment avec une dégressivité en cas de recherche non active. Plus de contrôle. Maladie, avec la condition d'avoir habiter et/ou cotiser pendant un nombre d'années minimum en France.

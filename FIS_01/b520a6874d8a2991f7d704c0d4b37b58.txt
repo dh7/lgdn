@@ -1,1 +1,0 @@
-simplifier les déclarations et le calcul en transférant toutes les particularités locales, sectorielles ou les niches, vers des crédits d'impôt calculés à part

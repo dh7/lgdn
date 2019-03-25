@@ -1,1 +1,0 @@
-Calculer les différents impôts en pourcentage par rapport à la rémunération et non plus par tranche.

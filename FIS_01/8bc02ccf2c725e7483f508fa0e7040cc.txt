@@ -1,1 +1,0 @@
-casseur = payeur , pollueur = payeur  utilisateur = payeur

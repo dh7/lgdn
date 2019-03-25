@@ -1,1 +1,0 @@
-Conditionner le RSA à quelques travaux d'intérêt général.

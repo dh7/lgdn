@@ -1,1 +1,0 @@
-Afficher les dépenses de chaque postes publics. Exemple : Dans les écoles afficher tous les coûts liés à cette école.

@@ -1,1 +1,0 @@
-Éviter au maximum les exceptions dans les dispositifs (ex: valeur des terres non bâties dans l'IFI)

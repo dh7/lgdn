@@ -1,1 +1,0 @@
-Flat tax modulable sur base d'une fonction affine de vos revenus. Supprimer les niches fiscales dont la complexité créer une inégalité d'accès de fait.

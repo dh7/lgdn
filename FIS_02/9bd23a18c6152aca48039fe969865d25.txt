@@ -1,1 +1,0 @@
--indexer l'impot fioul en fonction du prix du pétrole (plus le prix du pétrole est  cher moins il y a de taxe) -la réduction des impots ne me parait pas une priorité c'est surtout la réduction des dépense (optimisation des dépenses qui doit etre à l'honneur)

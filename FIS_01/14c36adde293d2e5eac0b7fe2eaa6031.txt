@@ -1,1 +1,0 @@
-Adapter le montant des amendes aux revenus.

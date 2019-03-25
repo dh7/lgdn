@@ -1,1 +1,0 @@
-affichage des aides attribuées là où elles le sont (routes, local...) quand les gens reçoivent une aide, écrire que cela vient de tel type d’impôts ou de cotisations

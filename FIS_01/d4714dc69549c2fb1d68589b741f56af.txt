@@ -1,1 +1,0 @@
-suppression de la TVA sur les produits de base Augmentation de la TVA ,  avec création d'une TVA spéciale pour les produits de luxe

@@ -1,1 +1,0 @@
-Calculer l'impôt sur le revenu soit par personne individuelle soit par foyer fiscal, pour ne pas faire de différence entre les couples cousins et les couples mariés ou pacsees

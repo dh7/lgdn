@@ -1,1 +1,0 @@
-diminuer les allocations chômage à partir d'un certain montant à définir (3 fois le loyer moyen ?)

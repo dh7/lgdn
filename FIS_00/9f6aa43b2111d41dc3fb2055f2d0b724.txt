@@ -1,1 +1,0 @@
-Afficher le coût des services rendus (journée d'hôpital, année scolaire, transports...) afin de se rendre compte du coût supporté par la collectivité des différents services publics utilisés

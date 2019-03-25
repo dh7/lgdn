@@ -1,1 +1,0 @@
-Bourses CROUS  : différencier le montant de la bourse selon que l'étudiant habite chez ses parents car le domicile familal est proche du lieu d'études ou qu'il soit dans l'obligation de louer un logement, le domicile familial étant trop éloigné du lieu d'études car même avec une aide au logement, les frais sont plus importants.

@@ -1,1 +1,0 @@
-supprimer la taxe d'habitation revoir le calcul de la taxe foncière (indépendante de la commune,département,de la région ...)elle devrait être calculée sur des règles communes à tous et non pas dépendante des politiques communales,

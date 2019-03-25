@@ -1,1 +1,0 @@
-simplifier après inventaire des complexités à faible rendement économique. Et communiquer sur les arguments justifiant les changements, et les conséquences à postériori.

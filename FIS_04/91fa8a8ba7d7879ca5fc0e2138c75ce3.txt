@@ -1,1 +1,0 @@
-Il faut fixer des conditions de ressource. Aujourd'hui on n'a pas besoin de faire d'enfant alors inutile de booster les alloc faim.

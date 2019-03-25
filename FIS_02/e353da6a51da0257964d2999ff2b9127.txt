@@ -1,1 +1,0 @@
-Ajuster les taxes sur les carburants afin de ne pas pénaliser les consommateurs à chaque variation des cours. Supprimer les taxes "sur" les taxes (exemple : facturation de l'électricité où la TVA s'applique également sur les taxes !).

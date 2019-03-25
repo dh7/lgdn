@@ -1,1 +1,0 @@
-Supprimer les tranches d'imposition. Définir un plafond de revenu maximum à partir duquel le pourcentage de taxation maxi sera appliqué. En dessous de ce plafond, appliquer une proportionnalité stricte avec une participation minimal forfaitaire de 1€ par mois.

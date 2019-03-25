@@ -1,1 +1,0 @@
-Supprimer les paliers d'imposition et instaurer un impôt soumis à une courbe linéaire à coefficient directeur fixe. Très Faible pour les bas salaires et élevé pour les hauts salaires. permet de contrôler les fraudes pour éviter le palier supérieur.

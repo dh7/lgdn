@@ -1,1 +1,0 @@
-Rendre les amendes progressives en fonction des revenus. Ce n'est pas la même chose de payer 90 € d'amende si l'on touche 1200 € ou 4000 € par mois. Ou bien créer une "flat amende" : telle infraction 5 % du revenu, telle autre 10 ou 15 %.

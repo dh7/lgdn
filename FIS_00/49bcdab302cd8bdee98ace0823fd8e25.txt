@@ -1,1 +1,0 @@
-Chaque situation devrait connaitre le prix des services 'gratuits' qu'il reçoit de l'état .

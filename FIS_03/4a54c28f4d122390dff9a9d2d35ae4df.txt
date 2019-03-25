@@ -1,1 +1,0 @@
-revoir l'émission de la monnaie scripturale : rendre une partie de cette fonction aux états, plutôt que de la laisser intégralement à la main des banques qui ont un intérêt économique à ce que l'argent soit rare.

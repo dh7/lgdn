@@ -1,1 +1,0 @@
-Il faut obliger chaque Entreprise qui vend un bien dans un pays à posséder au moins une usine qui fabrique ce bien dans ce pays, mais pas fantôme bien sur, il faudra contrôler qu'elle réalise bien des éléments et qu'elle les vend bien dans ce pays.

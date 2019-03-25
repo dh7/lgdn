@@ -1,1 +1,0 @@
-Centraliser (1 guichet et 1 base de données) l'ensemble des aides et cotisations existantes; définir un revenu global réel prenant en compte l'ensemble des revenus et aides et appliquer une imposition progressive sur l'ensemble.

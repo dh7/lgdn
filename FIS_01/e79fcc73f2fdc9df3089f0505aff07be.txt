@@ -1,1 +1,0 @@
-application d'une progressivité ou dégressivité selon les cas de l'imposition des revenus ainsi que celle à la CSG. Il faut éviter les effets de seuil en imposant ou non en dessous ou au dessus de certaines limites

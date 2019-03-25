@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches. Tenir compte de la période d'activité (temps de travail, durée de la carrière).

@@ -1,1 +1,0 @@
-diminuer la tva sur certains produits et l'augmenter sur d'autres ( la restauration par exemple qui n'a pas donné l'effet escompté)

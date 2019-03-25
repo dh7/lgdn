@@ -1,1 +1,0 @@
-Faire comme pour la TVA avec un taux progressif en fonction des revenus.fixer un montant maximum pour grand patron, pour élus et tout les conseillers.(limiter leur nombre)

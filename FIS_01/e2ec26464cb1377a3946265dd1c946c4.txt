@@ -1,1 +1,0 @@
-simplifier Supprimer tous les paliers et remplacer par des fonction mathématiques progressive (aiment a partir sur premier euro et progressivité du taux de prélèvement sans limite haute (taux tendant vers les 100% sans jamais l'atteindre pour les revenus très élevés)

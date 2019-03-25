@@ -1,1 +1,0 @@
-Mise à disposition de l'info via une plateforme Web des montants collectés par les différents impôts (TVA, Taxes, impôts sur le revenu etc ... ) et leur répartition par poste

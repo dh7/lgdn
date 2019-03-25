@@ -1,1 +1,0 @@
-Publier le détail des dépenses de l'état par secteur, notamment en séparant ce qui revient aux secteurs privés (aides, CICE, ...) et publics.

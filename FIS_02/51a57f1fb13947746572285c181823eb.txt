@@ -1,1 +1,0 @@
-- TVA sur les produits de premières necessités.  - Definir l'indemnité kilometrique en fonction de criteres géographique. Augmenter l'indemnité dans les communes avec un accés trés limité aux transports en commun et diminuer l'indemnité pour les autres.

@@ -1,1 +1,0 @@
-Supprimer autant que possible les effets de seuils. Rendre tous les imports/taxes progressifs SANS effet de seuil.

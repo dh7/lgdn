@@ -1,1 +1,0 @@
-Dégressivité en fonction de revenus. Pondération en fonction de la zone de résidence. (prestation de l'état est différente selon les villes et/ ou village)

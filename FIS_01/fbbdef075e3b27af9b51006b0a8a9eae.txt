@@ -1,1 +1,0 @@
-Prendre en compte les impôts indirects (TVA,taxes sur l'énergie,amendes...)

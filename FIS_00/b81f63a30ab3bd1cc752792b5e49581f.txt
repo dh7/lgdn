@@ -1,1 +1,0 @@
-Créer une application actualisée avec l'ensemble des données de l’État. Les impôts, les dépenses réalisés, ... Avec des détails! Ce serait aussi un réel moyen de dialoguer sur différentes idées.

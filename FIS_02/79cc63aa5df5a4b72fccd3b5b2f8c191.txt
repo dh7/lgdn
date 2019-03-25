@@ -1,1 +1,0 @@
-- CSG réduite pour les contribuables exonérés d'impot sur le revenu. - Exonération taxe d'habitation pour tous, refonte de la fiscalité locale.

@@ -1,1 +1,0 @@
-recevoir les détails des dépenses et leur pourcentage par rapport à ce que l'on verse

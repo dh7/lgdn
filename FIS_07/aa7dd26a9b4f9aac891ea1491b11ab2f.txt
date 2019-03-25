@@ -1,1 +1,0 @@
-Le revenu net ne devrait pas prendre en compte les rentrées exceptionnelles (exemple: suite à un héritage). Double punition (imposition et suppression des  bourses pour les étudiants due à un revenu net trop élevé)

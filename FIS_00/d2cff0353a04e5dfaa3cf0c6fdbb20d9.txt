@@ -1,1 +1,0 @@
-- Site unique, donnant les chiffres-clefs synthétisés, les tendances (1 an, 5 ans, ...) et les comparatifs par rapport aux structures de même type en France et en Europe, et ce pour toutes les collectivités, en y intégrant les satellites et sociétés à statut mixte

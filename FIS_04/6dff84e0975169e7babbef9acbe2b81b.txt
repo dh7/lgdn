@@ -1,1 +1,0 @@
-Primes données par la caf. Primes liées aux enfants : 2 enfants = primes au maximum. 1 et 3 enfants = primes diminuées. A partir de 4 plus de prime car choix de vie.

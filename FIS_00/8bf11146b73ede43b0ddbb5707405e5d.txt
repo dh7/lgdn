@@ -1,1 +1,0 @@
-Une communication sur le budget de l'état est nécessaire (dépenses/recettes). Celle-ci pourrait se faire lors de l'envoi des déclarations d'impôts.

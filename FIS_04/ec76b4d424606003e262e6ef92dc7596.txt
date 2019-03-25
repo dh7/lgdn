@@ -1,1 +1,0 @@
-Adapter les aides en fonction des revenus rééls et non-pas de façon automatique sur demande.

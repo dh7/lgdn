@@ -1,1 +1,0 @@
-Supprimer les allocations aux foyers de 4 personnes ayant plus de 4000 euros net par mois. Ou supprimer toutes les allocations à partir du moment où tout le monde bénéficie d'un revenu minimum

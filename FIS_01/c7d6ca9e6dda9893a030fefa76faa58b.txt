@@ -1,1 +1,0 @@
-Le cumul de certaines fonctions ne doit pas permettre de rémunérer plus de 1 salaire, laissé au choix de l'intéressé qui ne peut se défaire de son cumul (on ne peut pas être à plusieurs endroits en même temps).

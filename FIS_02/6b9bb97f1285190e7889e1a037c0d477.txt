@@ -1,1 +1,0 @@
-Toutes les taxes indirectes (taxe véhicules polluants taxe petrole taxe...) et ne garder que irpp/csg ifi et tva

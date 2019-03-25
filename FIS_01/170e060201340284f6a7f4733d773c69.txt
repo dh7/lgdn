@@ -1,1 +1,0 @@
-Plus de tranches pour l'IR afin de lisser les effets de seuil.  Lutter contre le travail "au noir".

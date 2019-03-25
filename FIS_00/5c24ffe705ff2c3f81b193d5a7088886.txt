@@ -1,1 +1,0 @@
-Editer une note qui informe du prix de la prestation effectué pour le bénéficiaire.

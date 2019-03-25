@@ -1,1 +1,0 @@
-pas d'allocations si salaire > 5 SMIC

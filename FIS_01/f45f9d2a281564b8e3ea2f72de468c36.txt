@@ -1,1 +1,0 @@
-Simplifier les taxes. L'impôt à la source/sur les revenues, TVA, impôt sur l'héritage.

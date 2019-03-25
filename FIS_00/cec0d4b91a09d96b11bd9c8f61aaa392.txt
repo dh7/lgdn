@@ -1,1 +1,0 @@
-Annoncer au hall d'accuiel de chaque service public le cout de celui-ci. Exemple a l'hopital, affichez que ce n'est pas parceque l'on debourse rien que les soins sont gratuits. Que la sante coute a chaque citoyen X€ par an a la collectivite.

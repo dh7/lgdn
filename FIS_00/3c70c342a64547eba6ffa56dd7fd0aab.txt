@@ -1,1 +1,0 @@
-Avoir accès au montant des recettes et des dépenses avec du détail sur l'utilisation et pas simplement un pourcentage mais des montants sur le plan national, régional, ... , communal

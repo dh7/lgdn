@@ -1,1 +1,0 @@
-Rsa  pas assez de contrôle, trop de déclaratif. Trop de fraudes qui même si elles sont détectées à posteriori ne permettent pas de recuperer les sommes  verser à tort

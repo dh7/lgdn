@@ -1,1 +1,0 @@
-Accès aux détails des dépenses, au niveau national et par collectivité via un portail web avec des graphiques simples et accessibles à tous.

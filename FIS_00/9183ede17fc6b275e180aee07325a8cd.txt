@@ -1,1 +1,0 @@
-Un accès en ligne à un entrepôt de données structuré de manière à pouvoir descendre dans le détail des sujets choisis.

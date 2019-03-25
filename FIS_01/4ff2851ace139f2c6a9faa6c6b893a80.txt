@@ -1,1 +1,0 @@
-Faire varier la TVA en fonction du prix de l'article : exemple 5% pour des chaussures entre 0 et 25€ 10% entre 26 et 50€ 20% entre 51 et 250€ puis 30% au delà de 256€. Faire varier la TVA sur tous les articles les plus utilisés.

@@ -1,1 +1,0 @@
-- un mail trimestriel sur les répartitions de dépenses du trimestre précédent et de celui à venir - un affichage transparents des résultats de l'état chaque trimestre en ligne

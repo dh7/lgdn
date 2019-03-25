@@ -1,1 +1,0 @@
-- suppression des mini-taxes qui ont un cout de gestion tres eleve par rapport a ce qu'elles rapportent - TVA a 0% pour biens de premiere necessite - Baisser les depenses publiques en priorite. Les besoins seront par consequent moins importants.

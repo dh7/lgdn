@@ -1,1 +1,0 @@
-Supprimer les département et les communes (regroupées en communautés de communes qui deviendraient donc de nouvelles COMMUNES), sans superposition de fonctions aucunes (1 maire par communauté, pas de vice-président de chaque ancienne commune…)

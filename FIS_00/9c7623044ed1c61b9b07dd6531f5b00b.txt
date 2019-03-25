@@ -1,1 +1,0 @@
-Présentez les factures aux citoyens pour les services personnalisés : hopital, école ... avec une ligne "payé par l'impôt" qui met le net à zéro. exemple: 3 jours d'hôpital: 6000 euros; net à payer :0 . Personne ne vous montre cela aujourd'hui.

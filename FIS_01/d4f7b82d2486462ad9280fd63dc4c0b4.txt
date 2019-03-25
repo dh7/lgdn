@@ -1,1 +1,0 @@
-Que chaque citoyen doit payer son impôt sur le revenu en proportion de celui-ci. Cet impôt doit suivre le revenu de façon exponentielle.

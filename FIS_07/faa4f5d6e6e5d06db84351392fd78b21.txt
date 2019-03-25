@@ -1,1 +1,0 @@
-Refonte de la structure des différents prélèvements (impôts, taxes, cotisations...) afin de les rendre plus simples et lisibles en fonction des objectifs collectifs décidés par le Parlement ( sécurité, santé, etc..)

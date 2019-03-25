@@ -1,1 +1,0 @@
-Supprimer les conditions de ressources. Limiter les allocations familiales aux 7 premiers enfants (dégressives à partir du 4e)

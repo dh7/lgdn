@@ -1,1 +1,0 @@
-Un affichage public de la dépense dans chaque administration, mairie, école, association, etc. Respectant un format standard indiquant le montant, les décideurs, l'échéance,etc.

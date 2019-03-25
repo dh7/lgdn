@@ -1,1 +1,0 @@
-Instituer un taux de TVA variable en fonction des revenus et du patrimoine. à mettre en oeuvre via inframatique et reconnaissance des personnes. sans réduire le montant global prélevé, mais en générant une progressivité comme théoriquement sur l'IR

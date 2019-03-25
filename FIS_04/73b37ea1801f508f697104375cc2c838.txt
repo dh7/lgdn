@@ -1,1 +1,0 @@
-Le RSA devrait être limité dans le temps. Il faudrait tenir compte du patrimoine pour son attribution

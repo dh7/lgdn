@@ -1,1 +1,0 @@
-Pas de TVA sur les taxes, et calcul de l'Ir sur ce que j'ai réellement touché

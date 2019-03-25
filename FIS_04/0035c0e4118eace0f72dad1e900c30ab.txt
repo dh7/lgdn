@@ -1,1 +1,0 @@
-Gérer le cumul des aides par foyer (y compris les niches fiscales) et mettre en place un plafond maximum par foyer en fonction des caracteristiques du foyer (nombre de personnes, revenus)

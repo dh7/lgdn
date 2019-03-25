@@ -1,1 +1,0 @@
-Simplifier. Supprimer tous les impots non rentables. Augmenter ceux qui sont rentables, donc augmenter la TVA de 2%.

@@ -1,1 +1,0 @@
-- supprimer les allocations pour les personnes hors CEE - Les allocations délivrées en fonction du nombre d'enfants (polygamie, famille n'habitant pas en France, personne vivant en couple mais se déclarant comme monoparentale, ...) à plafonner peut être - Aide médicale non gratuite hors CEE

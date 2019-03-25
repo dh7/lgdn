@@ -1,1 +1,0 @@
-Diminuer l'effet de seuil, lorsqu'on est juste au dessus d'un seuil: il y a plus d'impôt mais aussi plus de frais de cantine, de garderie, d'assistante maternelle: on peut être alors plus lésé que quelqu'un juste en dessous. Si les seuils sont plus rapprochés, l'écart ne sera pas très significatif

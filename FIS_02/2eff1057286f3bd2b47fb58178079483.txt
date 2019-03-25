@@ -1,1 +1,0 @@
-Supprimer de nombreuses taxes annexes aux déclarations de TVA ainsi qu'aux factures d'eau, de gaz, d'électricité et téléphoniques.

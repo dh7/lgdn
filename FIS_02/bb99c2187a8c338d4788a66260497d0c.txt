@@ -1,1 +1,0 @@
-Pas nécessairement baisser ni augmenter mais rendre plus progressif l'impôt sur le revenu en augmentant le nombre de tranches tous les traitements sont informatisés donc cela ne coûte rien sinon quelques dixièmes de secondes de temps CPU.

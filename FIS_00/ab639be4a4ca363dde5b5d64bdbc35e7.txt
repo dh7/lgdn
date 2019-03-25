@@ -1,1 +1,0 @@
-Supprimer les droits en dessous de 500.000€ par part.

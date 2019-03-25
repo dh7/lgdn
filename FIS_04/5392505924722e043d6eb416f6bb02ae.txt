@@ -1,1 +1,0 @@
-Comme développé précédemment revoir le nombre des allocations bien trop nombreuses en France, revoir les conditions de cumul des allocations

@@ -1,1 +1,0 @@
-lorsque un citoyen change de tranches, appliquer le pourcentage d'augmentation que sur la partie ou il dépasse.

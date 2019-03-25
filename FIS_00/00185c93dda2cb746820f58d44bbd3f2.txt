@@ -1,1 +1,0 @@
-Simplifier le système de prélèvement des impôts et réduire le nombre de taxes. Avoir une meilleure traçabilité de l’impôt et des taxes. Utiliser une monnaie numérique rendant possible la traçabilité de l'argent. Pouvoir calculer la somme totale de toutes les taxes cumulées par année par citoyen.

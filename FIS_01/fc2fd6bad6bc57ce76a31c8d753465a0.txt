@@ -1,1 +1,0 @@
-"Apportionment fiscal": Répartition régionale des taxes collectées au siège (parisien ou autre) en fonction de la présence fiscale des entreprises ou de leur chiffre d'affaire ou de leur masse salariale constatés dans les régions.

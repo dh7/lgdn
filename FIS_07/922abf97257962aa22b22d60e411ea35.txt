@@ -1,1 +1,0 @@
-Il faudrait au niveau de l'état un service ACHAT, comme dans toutes les entreprises, qui soit chargé de négocier les marchés et qui soit indépendant (pourquoi pas rattaché à la cour des comptes)

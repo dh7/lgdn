@@ -1,1 +1,0 @@
-Expliciter en tête du site "impots.gouv.fr" toutes les dépenses et les salaires de la fonction publique des personnes gagnant plus de 10000 euros par mois.

@@ -1,1 +1,0 @@
-Taxer les plus grosses fortunes en appliquant un pourcentage progressif.

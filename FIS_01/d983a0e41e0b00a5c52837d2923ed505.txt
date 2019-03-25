@@ -1,1 +1,0 @@
-éviter les effets de seuil. Il est illogique que l'IFI s'applique à partir de 1,3 MF et se calcule a partir de 0 8 MF.Il serait plus chérent de l'appliquer dès 0.8 MF avec un taux croissant au delà.

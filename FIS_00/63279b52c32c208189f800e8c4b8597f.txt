@@ -1,1 +1,0 @@
-Donner, sur le site impots.gouv, et sous forme de camemberts, une série d'informations : 1) sur la contribution des différents types de prélèvements au budget national ; 2) sur la répartition du budget national entre les différents ministères ; 3) pour chaque ministère, sur la répartition entre les dépenses de fonctionnement et celle d'investissement.  Faire un graphisme simple.

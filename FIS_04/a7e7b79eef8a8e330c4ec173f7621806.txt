@@ -1,1 +1,0 @@
-- Allocation rentrée scolaire : Création de chèques rentrées scolaires seulement lié pour la scolarité. - Aide aux factures d'eau - HLM. Inspection annuelle de conditions de chaque occupant d'un HLM (revenu, foyer fiscal versus type logement, etc)

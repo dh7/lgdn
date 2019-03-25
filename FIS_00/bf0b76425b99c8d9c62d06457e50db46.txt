@@ -1,1 +1,0 @@
-Tableau annuel de dépenses  et recettes pour 1000€ avec 2 colonnes (Etat et collectivités).

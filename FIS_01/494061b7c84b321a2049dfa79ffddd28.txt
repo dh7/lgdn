@@ -1,1 +1,0 @@
-Simplifier les mécanismes pour plus de lisibilité

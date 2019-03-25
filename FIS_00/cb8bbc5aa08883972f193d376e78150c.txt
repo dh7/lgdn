@@ -1,1 +1,0 @@
-Notifier à chaque citoyen le coût des dépenses (santé, éducation, formation....) lorsqu'il bénéficie des prestations dans ces domaines.

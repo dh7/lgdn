@@ -1,1 +1,0 @@
-Limiter l'attribution de certaines aides quand les montants dépensés par les personnes sont < à l'aide (ex : nounous).

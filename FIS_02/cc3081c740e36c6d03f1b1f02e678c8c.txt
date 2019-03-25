@@ -1,1 +1,0 @@
-Ceux des classes moyennes dont le salaire est inférieur à 3000€ seul ou 6000€ en ménage.

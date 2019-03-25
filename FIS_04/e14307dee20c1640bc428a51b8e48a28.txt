@@ -1,1 +1,0 @@
-Supprimer l’effet de seuil : Une mesure est appliquée à 100 % au seuil (ex 1000€) ,  et à zéro au double du seuil (ex 2000€).  Entre les 2 on fait une règle de trois. Prime, seuil salarié…….ce devrait être un principe général.

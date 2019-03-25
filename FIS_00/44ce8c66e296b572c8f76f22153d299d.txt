@@ -1,1 +1,0 @@
-Ne plus  faire des "pie charts" qui expliquent  à quoi servent 100 € d'impôts car cela ne dit rien sur le niveau des impôts Faire des diagrammes de flux qui établissent la correspondance entre les sommes perçues par type d'impôts (TVA, IR,IS ...) et cotisations sociales et les dépenses (Europe, éducation nationale, défense etc...)

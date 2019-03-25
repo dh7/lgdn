@@ -1,1 +1,0 @@
-Augmenter et ne pas tenir compte du salaire du conjoint et si pas de conjoint, 'indexer à la hausse

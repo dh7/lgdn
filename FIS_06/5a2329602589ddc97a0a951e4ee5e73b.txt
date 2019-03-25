@@ -1,1 +1,0 @@
-Commençons par être plus efficace en simplifiant largement l'ensemble du système. La complexité et la confusion cachent trop d'incohérences.

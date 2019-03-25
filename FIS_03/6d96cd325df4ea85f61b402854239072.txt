@@ -1,1 +1,0 @@
-Sutaxer les les salaires supérieurs à 150.000 € du type 55 % au delà de 150.000 €

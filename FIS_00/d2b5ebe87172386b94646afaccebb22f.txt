@@ -1,1 +1,0 @@
-l'envoi d'un courrier ou d'une news letter avec un récapitulatif complet (des graphiques, des camemberts ...) comme ce que peuvent faire actuellement les mairies dans les bulletins communaux. rendre accessible l'information de manière simple et très visuelle. ensuite donner la possibilité de mettre en place un numéro ou tchat si on a des questions à poser.

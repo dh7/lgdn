@@ -1,1 +1,0 @@
-Un site internet où chacun peut voir combien représente les recettes/dépenses de l'état et leurs détails. L'idée est de rendre transparent et accessible ces données et d'arrêter la désinformation. Le site internet permettrait de moduler les recettes/dépenses pour que chacun puisse voir l'impact de la baisse de certains impôts ou l'effet de la suppression d'une allocation, etc.

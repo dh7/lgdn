@@ -1,1 +1,0 @@
-Revoir le calcul des taxes habitation et foncières, mais ne pas les supprimer.

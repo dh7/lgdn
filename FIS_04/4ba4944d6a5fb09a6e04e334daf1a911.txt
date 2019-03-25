@@ -1,1 +1,0 @@
-Allocations chômage - certaines aides familiales en fonction des revenus  - allocation de rentrée scolaire pour tous en fonction des revenus sous forme de bon d'achats pour des fournitures scolaires ou des vêtements + adapter le montant selon le cycle scolaire (les besoins en maternelle ne sont pas les mêmes que pour un étudiant après le bac)

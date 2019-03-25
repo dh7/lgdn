@@ -1,1 +1,0 @@
-Prise en charge de la dépendance : supprimer 2 jours fériés (ex : ascension et pentecôte) en autorisant les salariés à les travailler à leur convenance.

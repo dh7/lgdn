@@ -1,1 +1,0 @@
-supprimer les effets de seuil qui poussent au travail "gris"

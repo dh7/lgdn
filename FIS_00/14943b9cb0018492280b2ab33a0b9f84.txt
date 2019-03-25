@@ -1,1 +1,0 @@
-Le nombre de states administratives peut etre réduite à deux niveaux: le niveau national regroupant Etat et régions et le niveau local regroupant départements et municipalités (com d'aglos, etc).

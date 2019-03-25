@@ -1,1 +1,0 @@
-allocations logement uniquement en fonction des revenus (voir système étudiants)

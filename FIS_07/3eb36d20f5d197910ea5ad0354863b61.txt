@@ -1,1 +1,0 @@
-passer le carburant a un prix fixe ne tenant pas compte de du marché donc moduler les taxes pour avoir un prix fixe

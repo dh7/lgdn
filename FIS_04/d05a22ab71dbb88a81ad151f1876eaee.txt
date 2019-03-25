@@ -1,1 +1,0 @@
-revoir les allocations chômage (dégressivité en fonction du temps)

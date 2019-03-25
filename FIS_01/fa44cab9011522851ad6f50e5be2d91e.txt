@@ -1,1 +1,0 @@
-Supprimer les taxes sur la tva et inversement (facture EDF...). Sur les impôts sur le revenu, considérer comme imposable les revenus RÉELLEMENT perçus  (ex CSG...) et pouvoir déduire du revenu imposable l'impot sur le revenu de l'année n-1 ainsi que les taxes foncières et d'habitation, ce qui éviterait de payer de l’impôt sur l’impôt

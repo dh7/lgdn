@@ -1,1 +1,0 @@
-- suppression de la taxe d’habitation pour TOUS - taxe poubelle differentes pour les famille qui en produisent peu (zero dechet)  - supprimer taxe TV (inutile de nos jours puisque ca passe par le net)

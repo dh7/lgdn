@@ -1,1 +1,0 @@
-Sortir à chaque fin d’exercice un tableau reprenant toutes les dépenses de l’etat Et le diffuser

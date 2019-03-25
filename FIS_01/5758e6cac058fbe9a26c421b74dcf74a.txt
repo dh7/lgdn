@@ -1,1 +1,0 @@
-Moduler les allocations chômage en fonction de l’age. L’employabilite étant directement corrélé. Par exemple, 3 mois de prestation pour les mois de 30 ans, 6 mois pour les moins de 40 ans, 12 mois pour les moins de 50 ans, 2 ans pour les plus de 50 anse

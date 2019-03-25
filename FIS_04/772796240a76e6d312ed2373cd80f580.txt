@@ -1,1 +1,0 @@
-Il faut réduire le nombre d'allocations. Aller vers une allocation unique. Et surtout renforcer les contrôles ! Trop de gens fraudent ! Supprimer l'aide médicale pour les étrangers.

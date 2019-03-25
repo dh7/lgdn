@@ -1,1 +1,0 @@
-Avoir une page sur impot.gouv avec une décomposition de ses impôts par grand poste (éducation, armé, remboursement de la dette....) en pourcentage et en euros. Possibilité d'avoir des sous décomposition de chaque grand poste. Cette page serait proposé automatiquement au moment de la déclaration d'impôt.

@@ -1,1 +1,0 @@
-Ne pas affecter des recettes à des dépenses particulières. L'état doit afficher l'ensemble de ses recettes pour financer l'ensemble de ses dépenses

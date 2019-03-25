@@ -1,1 +1,0 @@
-Pour limiter les effets de seuil dans le calcul de l'impôt il faudrait intégrer toutes les aides perçues dans la déclaration de revenus.  Il faudrait moduler le calcul de l'impôt en fonction de l'accessibilité ou non à des services publics dont la liste serait à établir avec les communes.

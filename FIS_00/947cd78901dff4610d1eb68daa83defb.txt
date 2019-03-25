@@ -1,1 +1,0 @@
-publication claire par histogramme par exemple pour visualiser ou vont les impots et mieux comprendre les grandes orientations. puis au sein de chaque histogramme pouvoir avoir acces aux details.

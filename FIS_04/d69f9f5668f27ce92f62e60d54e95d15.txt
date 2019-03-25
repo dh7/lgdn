@@ -1,1 +1,0 @@
-Les multiples allocations doivent être remplacées par une allocation unique plafonnée à 75% du smic. En revanche, pour les allocations spécifiques de type handicap, individualiser son attribution et ne pas la lier au revenu du foyer.

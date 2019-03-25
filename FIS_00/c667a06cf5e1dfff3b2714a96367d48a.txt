@@ -1,1 +1,0 @@
-Afficher sur le site impots.gouv, des informations très détaillées sur la répartition des impôts et des dépenses.

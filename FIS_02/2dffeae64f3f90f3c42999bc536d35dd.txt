@@ -1,1 +1,0 @@
-Supprimer les frais de gestions liés à la taxe foncière. Dans le calcul du montant imposable des revenus ou des pensions, ne plus prendre en compte la CSG non déductible ainsi que les CRDS et CASA.

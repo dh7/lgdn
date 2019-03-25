@@ -1,1 +1,0 @@
-Publier sur un site l ensemble des recettes publiques ainsi que les dépenses.  Le site doit permettre de descendre de l imputation ka plus générale à la plus détaillée

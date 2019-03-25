@@ -1,1 +1,0 @@
-- Envoyer avec la déclaration d’impôt le détails du budget de l'Etat avec les recettes et les dépenses qui y sont affectées.

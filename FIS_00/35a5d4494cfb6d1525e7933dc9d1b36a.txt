@@ -1,1 +1,0 @@
-mettre à disposition un graphique clair qui montre en % et en montants les dépenses par grande fonction en intégrant toutes les dépenses détaillées (ex: dotation à un EPCI ne veut rien dire il faut détailler aussi entre éducation, urbanisme ...)

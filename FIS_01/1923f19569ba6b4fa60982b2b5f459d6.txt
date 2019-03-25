@@ -1,1 +1,0 @@
-Taxer les produits et services importés en fonction de la distance au lieu de production et du moyen de transport.

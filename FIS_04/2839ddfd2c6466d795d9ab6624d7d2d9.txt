@@ -1,1 +1,0 @@
-Fixer un plafond global par foyer qui tienne compte de l'ensemble des aides (commune, état, région) et subventions

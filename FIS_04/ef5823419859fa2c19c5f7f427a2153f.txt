@@ -1,1 +1,0 @@
-Déjà contrôler que ceux à qui elles sont attribuées ne trichent pas serait pas mal (travail au noir, allocation de parent isolé ... qui ne l'est pas, etc...)

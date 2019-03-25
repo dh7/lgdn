@@ -1,1 +1,0 @@
-- Les allocations familiales qui doivent être indexées inversement proportionnellement sur le revenu du foyer fiscal.

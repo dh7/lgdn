@@ -1,1 +1,0 @@
-indexation des taxes en fonction de la nécessité des produits. (produits de 1ere nécessite = faibles taxes, produits de luxe = fortes taxes)

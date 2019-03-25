@@ -1,1 +1,0 @@
-La suppression des doublons entre administrations centrale et locales. Par exemple, suite à la fusion des régions,  le nombre d’institutions et les coûts n’ont pas été diminué.

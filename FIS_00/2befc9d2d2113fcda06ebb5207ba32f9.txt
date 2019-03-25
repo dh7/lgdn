@@ -1,1 +1,0 @@
-Avoir un état des coûts par contribuable pour toutes les dépenses faites par l'état. Exemple de travaux sur un pont, donner le coût par contribuable.

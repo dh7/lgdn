@@ -1,1 +1,0 @@
-Plus de contrôle des allocataires et suppression des strates dont les départements.

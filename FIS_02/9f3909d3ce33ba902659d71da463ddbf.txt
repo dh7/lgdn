@@ -1,1 +1,0 @@
-- Charges salariales et sociales. - Impôts sur le revenu fixe pour tous les français avec uniquement deux tranches : 10% ou 30%. Quelqu'un qui gagne beaucoup aura 30%, quelqu'un qui gagne peu 10%. Quelqu'un qui gagne très peu : 0%. Cela permettra d'avoir une vision simple de la fiscalité sur les revenus et surtout de libérer le pouvoir d'achat !

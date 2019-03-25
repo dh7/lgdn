@@ -1,1 +1,0 @@
-Afficher le prix de ce que coûte tout ce qui est pris en charge (ex pour les frais d'hôpitaux pris en charge, donner la facture au bénéficiaire pour qu'il réalise la prise en charge réelle)

@@ -1,1 +1,0 @@
-Une règle simple : chacun devrait pouvoir prendre sa fiche de paie et savoir calculer son impôt. Aujourd'hui, c'est devenu impossible du fait de la complexité et nous devons faire confiance à un simulateur. Ce qui renforce l'effet de déconnexion.

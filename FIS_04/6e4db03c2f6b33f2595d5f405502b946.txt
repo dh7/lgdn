@@ -1,1 +1,0 @@
-revoir tout le système d’aide avec des calculs proportionnels aux ressources. calculées à l’instantT.

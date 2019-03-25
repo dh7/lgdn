@@ -1,1 +1,0 @@
-- supprimer tous les petits impôts qui occasionnent des frais de collecte élevés  - TVA

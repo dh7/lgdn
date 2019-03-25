@@ -1,1 +1,0 @@
-Faire un bilan annuel affichant le montant de l’impot récolté poste par poste et en parallèle l’affectation à des dépenses concrètes ( et non par ministère)

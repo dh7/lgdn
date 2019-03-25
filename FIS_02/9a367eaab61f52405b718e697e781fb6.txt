@@ -1,1 +1,0 @@
-- les charges salariales des entreprises afin de pouvoir, soit, augmenter les salaires des employés (et donc les motiver à rester), soit  augmenter le nombre de salariés (et donc lutter contre le taux de chômage). Bien évidemment, il faudrait que ce soit une obligation respectée par les entreprises, sous peine de sanction ou autre. - les allocations chômage

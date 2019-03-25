@@ -1,1 +1,0 @@
-Création d'un site permettant de voir la destination des fonds récoltés par l'impôt, avec diffusion de l'adresse de ce site par mailing (depuis la liste d'adresses mails enregistrées sur le site impôts.gouv par exemple) ou par voie de presse/média.

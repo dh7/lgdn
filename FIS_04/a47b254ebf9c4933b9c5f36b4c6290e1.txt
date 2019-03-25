@@ -1,1 +1,0 @@
-Le RSA ne devrait pas être géré à la campagne au niveau communal . L'absence d'anonymat dans ce cas est une des raisons du fait que de nombreuses personnes y renoncent .

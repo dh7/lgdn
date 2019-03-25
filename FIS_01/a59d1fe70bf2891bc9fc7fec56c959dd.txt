@@ -1,1 +1,0 @@
-TVA = taxe à la valeur ajoutée. Donc supprimer la TVA sur les produits non transformés : fruits, légumes, eau, farine .. et sur les produits de première nécessité : pain, pates, riz .. Il est scandaleux qu'un SDF doive payer la TVA quand il achète un sandwich et une bouteille d'eau

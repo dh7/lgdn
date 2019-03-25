@@ -1,1 +1,0 @@
-- Augmentation de la TVA sur les produits de luxe ( téléphone , bijoux, voiture premium, voyage ) - Baisse de la TVA sur l'artisanat - Baisse du nombre de fonctionnaire dans l'administratif  - Baisse du nombre de Député, Sénateur, ministre  - Donner un budget au commune et contrôler leur dépense  ( pas de subvention pour des médiathèque de village hors de prix )

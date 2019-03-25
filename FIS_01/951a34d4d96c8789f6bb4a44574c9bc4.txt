@@ -1,1 +1,0 @@
-- rendre le calcul de l'impot plus simple et compréhensible : réduire le calcul de l'impôt à un pourcentage  - annuler les niches fiscales : utilités nulles  - un calcul simple simplifierait le prélèvement à la source

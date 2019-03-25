@@ -1,1 +1,0 @@
-Supprimer l'effet de seuil de la SCG des retraités, en ne la prélevant qu'à partir d'une certaine somme, c'est-à-dire avec un système de tranche. Ex: 0% de 0 à 2000 €, 2,5% au-delà.  de cette façon, il y a une totale progressivité, et pas de seuil.

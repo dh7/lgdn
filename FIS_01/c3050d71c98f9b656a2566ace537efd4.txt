@@ -1,1 +1,0 @@
-Simplification des tranches de l'IR. Pas de doubles taxations comme c'est la cas dans les successions (les impôts sont payés pendant une vie puis on retaxe lors du décès)

@@ -1,1 +1,0 @@
-- service audiovisuel public : chaine d'information + diffusion de films de qualité (de type france culture). La majorité des programmes télévisuels ne contribuent pas à l'information citoyenne du public ni à l'élévation de son niveau culturel.

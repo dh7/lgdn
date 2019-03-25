@@ -1,1 +1,0 @@
-- Un graphique représentant les secteur de dépenses et les actions principales financées avec les impôts. Visuel, simple à comprendre, envoyé avec l'avis d'impôt !

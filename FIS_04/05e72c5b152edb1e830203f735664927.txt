@@ -1,1 +1,0 @@
-Revoir les conditions d'attribution des HLM (par exemple, il faut pouvoir vérifier si la personne est déjà par ailleurs propriétaire)

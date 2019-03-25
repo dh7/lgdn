@@ -1,1 +1,0 @@
-Donner accès à une granularité très fine de la dépense publique pour que les citoyens puissent savoir précisément s'ils le souhaitent à quoi est utilisé leur argent. Par exemple, il faut pouvoir dire que pour tel ministère, tel montant est dépensé dans telle commission, sur tel projet, etc. Idem aux autres échelons de l'administration (collectivités territoriales, municipalités)

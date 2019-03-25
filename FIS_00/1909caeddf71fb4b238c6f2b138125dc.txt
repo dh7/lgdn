@@ -1,1 +1,0 @@
-Un rapport simple effectué par chaque ministère chaque semestre (répartition des dépenses, mesures prises, investissements réalisés, projets, etc ). Possibilité pour les citoyens de s’inscrire pour recevoir par mail les rapports de ministères les intéressants.

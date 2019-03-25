@@ -1,1 +1,0 @@
-Donner les montants exacts depensés et ne pas dire que l'on dépense 1 € pour 1000€ dépensés pour une catégorie car si l'on dépense 2 fois plus sur le reste, ce ne sera plus que 0,50€ et si l'on diminue de moitié les autres dépenses sauf celle en cause, ce sera 2 €. En fait, un euro pour 1000€ dépensés peut des dépenses très élevés.

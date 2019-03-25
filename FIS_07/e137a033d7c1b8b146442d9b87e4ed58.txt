@@ -1,1 +1,0 @@
-Limiter les écarts de salaire de 1 à 20 par exemple. Limiter le cumul des mandats.

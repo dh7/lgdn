@@ -1,1 +1,0 @@
-Créer un portail permettant de consulter la ventilation des dépenses par un système de filtres et de critères de consultation

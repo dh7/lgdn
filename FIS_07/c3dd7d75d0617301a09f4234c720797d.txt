@@ -1,1 +1,0 @@
-Le système des tranches pour l'IR n'est pas assez progressif. Mathématiquement c'est pourtant assez simple: trouver la bonne fonction. Pourquoi pas une petite exponentielle?

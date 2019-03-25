@@ -1,1 +1,0 @@
-Surveiller les actes médicaux redondant pour une pathologie. Chaque citoyen a le droit de consulter plusieurs fois mais seule la première est remboursée. Les médicaments ne doivent être remboursés que sur le prix du générique. le reste reste a la charge du patient.

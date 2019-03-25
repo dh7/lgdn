@@ -1,1 +1,0 @@
-Elargir l'assiette de la CSG pour prendre en compte les placements boursiers court terme, et un montant forfaitaire sur chaque transaction boursière (1 € par exemple)

@@ -1,1 +1,0 @@
-Faire fusionner la CSG déductible et on déductible afin de ne pas rajouter la non déductible dans le montant imposable (idem pour la CRDS)

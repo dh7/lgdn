@@ -1,1 +1,0 @@
-Il faut supprimer les seuils Tout doit être linéaire afin de ne pas créer d'injustice selon que l'on est "juste au dessous" ou "juste au dessus" d'un seuil

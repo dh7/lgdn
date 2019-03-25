@@ -1,1 +1,0 @@
-Aucun. L'état a tous les moyens nécessaires mais ne sait pas réaffecter les ressources d'une administration à l'autre : par exemple on peut réaffecter des administratifs de l'éducation nationale à la police et la gendarmerie pour les aider dans les tâches locales administratives (ex: dépôt de plainte)

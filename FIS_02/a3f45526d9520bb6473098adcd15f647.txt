@@ -1,1 +1,0 @@
-- Les taxes (TVA qui touche tous les produits et la CSG qui touche tous les revenus (salaires, retraites, revenus fonciers et immobiliers).

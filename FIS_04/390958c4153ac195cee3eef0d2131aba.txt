@@ -1,1 +1,0 @@
-remplacer toutes les aides par une seule calculée sur la situation de la personne et de ses ayants-droits. revoir le montant à chaque changement de situation. pour l’hôpital, remettre les services d'urgence dans leur véritable mission : l'urgence (renvoyer les autres demandes vers les services ordinaires ou facturer un service sans remboursement sécurité sociale)

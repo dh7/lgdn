@@ -1,1 +1,0 @@
-- supprimer les taxes specifiques a petite assiette comme par exemple: droit mutation, taxe professionnelle, taxe de sejour, eco taxe, taxe habitation, impôt foncier, ordure menagere, taxe sur l electricite - garder les "grosses" taxes comme TVA, impot sur le revenu a large assiette et lisible

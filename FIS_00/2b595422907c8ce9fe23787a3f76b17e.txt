@@ -1,1 +1,0 @@
-un datalake public contenant l'ensemble des données de l'utilisation faites des impôts.  plus globalement pour chaque euros d'impôts, pouvoir dire précisément à quoi il a servi.  transparence des budgets / transparences des livres de comptabilité.

@@ -1,1 +1,0 @@
-Envisager des effets progressifs pour éviter le phénomènes de seuils.

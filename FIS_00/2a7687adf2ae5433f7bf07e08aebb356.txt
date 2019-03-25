@@ -1,1 +1,0 @@
-Une application téléphonique avec des graphiques.

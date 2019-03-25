@@ -1,1 +1,0 @@
-Allocations familiale unique quel que soit le nombre d'enfants et dégressive en fonction des revenus des deux parents, isolés, pacsés ou mariés

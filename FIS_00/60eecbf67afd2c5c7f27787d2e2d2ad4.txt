@@ -1,1 +1,0 @@
-Etablir un site qui détaillerais pour chaque impôts et taxe, le montant collecté et le montant dépensé pour le collecter. Et pour chaque type de dépense la répartition entre  dépenses productives (médecins infirmiers professeurs ...)et les dépenses improductives (administration, rectorat)

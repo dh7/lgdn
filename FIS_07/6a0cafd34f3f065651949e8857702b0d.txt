@@ -1,1 +1,0 @@
-- supprimer les droits de succession pour des capitaux d'épargne qui ont déjà subi des prélèvements au titre de l'impôt sur le revenu: pas 2 fois des prélèvements!

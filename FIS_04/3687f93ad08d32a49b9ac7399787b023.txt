@@ -1,1 +1,0 @@
-Utiliser la méthode du budget base zéro, tout est à revoir après analyse efficacité / coûts.

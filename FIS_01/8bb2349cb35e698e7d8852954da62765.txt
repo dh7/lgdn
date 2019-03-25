@@ -1,1 +1,0 @@
-Suppression de toutes les niches fiscales. Aligner l’impôt sur les sociétés à la moyenne de celui payé par les entreprises du CAC 40. Prendre en compte la pénibilité / le risque / le temps de travail pour établir le taux d'imposition.

@@ -1,1 +1,0 @@
-CAF à zéro au dessus d'un seuil de ressources  (même si cela diminue peu les dépenses, le symbole est important) et plafonnée à 6 enfants

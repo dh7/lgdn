@@ -1,1 +1,0 @@
-supprimer des taxes  qui font doublons ou se contredise. baisser TVA.

@@ -1,1 +1,0 @@
-Information du cout d'education d'un enfant selon le cycle dans lequel il se trouve (primaire, secondaire, supérieur) aux parents d'un enfant selon son age, lors de la prime de rentrée scolaire par ex.

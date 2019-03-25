@@ -1,1 +1,0 @@
-L'ensemble des prélèvements sur le bulletin de salaire pour que le brut soit égal au net. Ainsi la valeur "travail" serait rétablie.

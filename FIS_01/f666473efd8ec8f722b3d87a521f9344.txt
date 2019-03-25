@@ -1,1 +1,0 @@
-- Rendre chaque foyer fiscal imposable en ajoutant une tranche à 2% pour les foyers le plus modestes (<9807€/nbre de parts) - Baisser de 5% le taux de prélèvement sur les tranches à 14, 30 et 41% - Baisser de 5 % les charges salariales et patronales jusqu'à 5 fois le SMIC

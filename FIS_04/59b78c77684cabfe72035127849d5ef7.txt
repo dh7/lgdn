@@ -1,1 +1,0 @@
-Je ne sais pas, mais il faut avant tout éviter les effets de seuil : le max au dessous d'un certain revenu, 0 au dessus. Cela peut conduire à ce que des salariés refusent une augmentation

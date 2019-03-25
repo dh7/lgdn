@@ -1,1 +1,0 @@
-Rechercher la simplification en visant l'allocation unique. Renforcer les contrôles pour déjouer les stratégies visant à percevoir des aides en cascade  .

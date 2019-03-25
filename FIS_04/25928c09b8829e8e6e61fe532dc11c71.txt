@@ -1,1 +1,0 @@
-Généraliser les attributions sous conditions de ressources.  Introduire une progressivité de certaines aides pour éviter les effets de seuils.

@@ -1,1 +1,0 @@
-- Simplifier l'ensemble des prestations à une prestation unique sur condition de ressources - Indiquer, obligatoirement, à toute personne bénéficiant d'un traitement hôpital, d'une prestation "gratuite à priori"  ou ne payant que partiellement, le coût réel total et le coût supporté par la collectivité

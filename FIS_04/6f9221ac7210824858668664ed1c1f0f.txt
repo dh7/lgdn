@@ -1,1 +1,0 @@
-Durée de l'allocation chômage, en particulier si le chômeur n'est pas assez actif dans sa recherche d'emploi.

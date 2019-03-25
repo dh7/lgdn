@@ -1,1 +1,0 @@
-allocation parent isolé à vérifier souvent ...  c'est pas toujours qu'il faut revoir les conditions d'attribution, c'est de contrôler la véracité des informations sur les dossiers

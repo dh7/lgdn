@@ -1,1 +1,0 @@
-- supprimer les aides sociales aux personnes en situation irrégulière  - supprimer ou limiter le remboursement des médicaments de confort  - s'assurer qu'il n'y a pas d'abus en créant un fichier central  - rendre obligatoire le carnet de santé et l'informatiser  - s'assurer que la somme des aides sociales pour une personne donnée n'est pas supérieure à un salaire

@@ -1,1 +1,0 @@
-Pour l'impôt sur le salaire, remplacer les "tranches" par une formule type exponentielle/logarithmique et que tous payent l'impôt sur les revenus, avec un mini à 1€ pour revenu 0€ de revenu ()

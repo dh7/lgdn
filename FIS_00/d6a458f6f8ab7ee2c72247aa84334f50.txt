@@ -1,1 +1,0 @@
-Sur le site impôts.gouv.fr, le citoyen doit voir apparaitre sous forme de graphique la répartition de ce qu'il paie en pourcentage et expliquer cette répartition. Ceci doit apparaitre sur tous les différents sites administratifs. Pour les personnes qui n'ont pas internet, je pense aux personnes agées cela doit apparaitre sur leur feuille d'impôt,  d'allocation ou de retraite

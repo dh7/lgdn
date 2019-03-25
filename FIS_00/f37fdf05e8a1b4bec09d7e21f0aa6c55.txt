@@ -1,1 +1,0 @@
-Péreniser un site internet traçant les dépenses faites par l'état, un peu dans l'esprit de ce que fait celui-ci. Permettre à chaque citoyen de choisir à quel budget est affecté son IR.

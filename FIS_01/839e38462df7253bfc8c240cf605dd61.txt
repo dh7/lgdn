@@ -1,1 +1,0 @@
-retirer le minimum des dépenses vitales et taxer au dessus de celles-ci avec une augmentation selon une équation continue.

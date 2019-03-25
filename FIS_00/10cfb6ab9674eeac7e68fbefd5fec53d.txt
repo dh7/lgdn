@@ -1,1 +1,0 @@
-- Rendre public mois par mois le nombre de fonctionnaires, avec une courbe d'évolution. - Rendre public le salaire de la totalité des élus, avec une courbe d'évolution. - une présentation de l'organigramme total de l’état ( incluant les agences, haute autorité, etc...) d'une manière simple ainsi que leur coût. - le coût des différentes aides.

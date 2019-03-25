@@ -1,1 +1,0 @@
-Faire des mini tranches associées à des taux dont la valeur change au 1/10ème de %. c'est d'autant plus faisable avec le prélèvement à la source

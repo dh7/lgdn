@@ -1,1 +1,0 @@
-Supprimer les 4 paliers dans l'impôt sur les revenus et les remplacer par une fonction continue de type linéaire. Simplifier toutes les aides en une seule qui tiennent compte des situations (familiales, handicap, charges..). Intégrer toutes les aides dans la déclaration des revenus.  Réviser les niches fiscales pour supprimer celles qui ont moins d'impact sur l'économie.

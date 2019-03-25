@@ -1,1 +1,0 @@
-avoir un seul prelevemnt pour tous les cotisations (avec le detail), un seul paiment de l'impot (TVA, impot sur le revenu ...) et une aide qui regroupe tous les aides (APL, RSA, prime a lemploie ...) en fonction du revenue chaqun

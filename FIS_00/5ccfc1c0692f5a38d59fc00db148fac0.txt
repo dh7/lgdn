@@ -1,1 +1,0 @@
-Informations televisuelle graphique permettant de voir les répartitions des impots et dépenses (issues INSEE)

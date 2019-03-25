@@ -1,1 +1,0 @@
-remplacement des différentes aides par une seule qui ne doit pas être supérieure à x% du SMIC. Plus de contrôles avant de donner une aide.

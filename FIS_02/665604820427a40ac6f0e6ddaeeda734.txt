@@ -1,1 +1,0 @@
-Etendre la liste des produits bénéficiant d’un taux de TVA réduit. Remettre en œuvre le principe de la TIPP

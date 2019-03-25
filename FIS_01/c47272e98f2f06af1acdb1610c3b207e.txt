@@ -1,1 +1,0 @@
-Mettre en place un taux de C.S. variable, selon les revenus.

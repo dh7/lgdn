@@ -1,1 +1,0 @@
--CSG ajustée en fonction des revenus déclarés au fisc. -supprimer l'impôt sur l'impôt,c'est à dire la CSG non déductible. -faire payer l'impôt sur le revenu par tous.

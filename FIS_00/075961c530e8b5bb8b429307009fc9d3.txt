@@ -1,1 +1,0 @@
-Donner la distribution des postes d'attribution de chaque impôt.

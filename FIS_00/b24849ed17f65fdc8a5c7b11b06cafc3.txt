@@ -1,1 +1,0 @@
-Afficher en mairie tous les ans divers camemberts présentant les principaux impôts (IR, IS, TVA, successions, taxe foncière..) , bénéficiaire (état, région, commune ...) leur montant, utilisation, répartition (par tranches).

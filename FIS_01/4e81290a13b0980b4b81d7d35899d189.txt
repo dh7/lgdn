@@ -1,1 +1,0 @@
-Simplifier et fusionner l'IR et la CSG, plus progressif et payé par tous. Fin des niches fiscales, plutot des subventions ponctuelles

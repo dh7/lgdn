@@ -1,1 +1,0 @@
-Calculer le montant de la pension sur les 30 ou 32 meilleures années. Cela prend en compte l'allongement de l'espétance de vie, c'est un plus juste reflet de la contribution apportée et c'est plus cohérent avec le développement de la retraite par points. 

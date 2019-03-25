@@ -1,1 +1,0 @@
-Fournir une facture pour chaque acte médical mentionnant : - Le prix total des prestations (Hôpital, chirurgien, pharmacie, généraliste) - La part payée par l'état - Le reste à charge  Ceci pouvant être élargi à d'autres services : Ecole par exemple

@@ -1,1 +1,0 @@
-Supprimer les effets de seuil, les rendre plus progressif. Une petite augmentation peut coûter très chère.

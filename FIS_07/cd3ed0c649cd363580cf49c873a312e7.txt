@@ -1,1 +1,0 @@
-Supprimer les avances sur impôts payées lors des distributions de dividendes . Ce système est trop lourd à gérer et génère trop de procédures administratives ( couteuses ).

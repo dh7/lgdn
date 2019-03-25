@@ -1,1 +1,0 @@
-L'allocation parent isolé. Nous savons tous que dans la plupart des cas, ce n'est pas vrai, le père est présent mais non marié ni déclaré et la mère touche cette allocation à laquelle elle n'a pourtant pas droit.

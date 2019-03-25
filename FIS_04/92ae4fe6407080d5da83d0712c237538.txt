@@ -1,1 +1,0 @@
-Il faut une aide unique en fonction de la taille du foyer et de l'état de santé qui engloberait toute les aides hors retraite et éventuellement chômage. La prise en compte de la taille du foyer ne devrait pas permettre d'accroitre de manière plus que proportionnel les aides versées en cas d'enfants supplémentaires.

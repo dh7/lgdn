@@ -1,1 +1,0 @@
-Faire un bilan comptable complet des projets / dépenses courantes de l'état et le rendre disponible via une API.

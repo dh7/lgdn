@@ -1,1 +1,0 @@
-Calculer l’impôt sur l'année en cours afin d'éviter des déboires quand les ressources changent. Ne pas avoir à payer l'année N-1 quand on a perdu son emploi l'année N!

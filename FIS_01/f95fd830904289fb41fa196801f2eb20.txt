@@ -1,1 +1,0 @@
-Remonter les seuils d'imposition de L'IFI  pour tenir compte de l'envolée des prix au m2. Seuil d'imposition à 3 millions euros.

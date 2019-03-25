@@ -1,1 +1,0 @@
-Un bilan annuel détaillé par exemple pour chaque département avec la répartition financière des impôts collectés (Etat, région, département)

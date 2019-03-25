@@ -1,1 +1,0 @@
-Audit sure les associations qui sont extremement nombreuses et dont certaines recoivent largement des subventions sans etre utiles.

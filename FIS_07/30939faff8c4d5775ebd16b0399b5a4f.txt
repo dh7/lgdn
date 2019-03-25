@@ -1,1 +1,0 @@
-augmenter le minimum vieillesse avec un garde fou sur l"héritage

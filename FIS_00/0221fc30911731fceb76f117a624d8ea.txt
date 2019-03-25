@@ -1,1 +1,0 @@
-Créer un site internet avec mise à jour semestrielle du suivi de toutes les dépenses de l’État par échelon administratif et simulation d'un suivi personnalisé.

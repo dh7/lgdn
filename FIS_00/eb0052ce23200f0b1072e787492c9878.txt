@@ -1,1 +1,0 @@
-créer une application mobile nous alertant en temps réel des différentes dépenses (et recettes ?) de l'Etat et des collectivités territoriales...?

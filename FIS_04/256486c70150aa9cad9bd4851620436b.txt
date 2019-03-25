@@ -1,1 +1,0 @@
-supprimer les allocs quand les parents sont démissionnaires et que les enfants sont pris en charges par l'état

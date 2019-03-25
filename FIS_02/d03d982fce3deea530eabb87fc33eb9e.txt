@@ -1,1 +1,0 @@
-Eliminer la double imposition avec la CSG non déductible. Abaisser le coût du travail

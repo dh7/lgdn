@@ -1,1 +1,0 @@
-Regrouper toutes les redistributions dans une allocation unique.

@@ -1,1 +1,0 @@
-Suppression totale de la taxe d'habitation Refonte du barème de l'imposition sur le revenu :  - 0 à 6000€ : 0% (application de l'imposition minimum de 100€ par an) ; - 6001 à 12000€ : 3% - 12001 à 24000€ : 10% - 24001 à 36000€ : 20% - 36001 à 72000€ : 27% - 72001 à 150000€ : 35% - 150001 à 400000€ : 40% - au delà de 400001 € : 45%.

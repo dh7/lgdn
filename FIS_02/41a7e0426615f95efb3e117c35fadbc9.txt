@@ -1,1 +1,0 @@
-- le calcul de la taxe d'habitation est incohérent, il doit être revu ou supprimé - 75% du total de l'IRPP est acquitté par 10% de la population

@@ -1,1 +1,0 @@
-Supprimer les aides non significatives / aux dépenses engagées (si montant <= à 50%)

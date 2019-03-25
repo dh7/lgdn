@@ -1,1 +1,0 @@
-Maintenant que le prélèvement à la source est en place, rendre plus dynamique l'ajustement du prélèvement . Fusionner CSG, impôt sur le revenu, prime pour l'emploi (au sens impôt négatif). Simplifier la fiscalité en supprimant les niches ou les avantages fiscaux immédiatement compensés par une taxe ailleurs.

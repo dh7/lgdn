@@ -1,1 +1,0 @@
-- Un graphique rendant compte de l'utilisation de chaque impôt sur la feuille d'impôt - Une meilleure lisibilité des fiches de paye (qu'est-ce qui relève de l'impôt, des cotisations, etc...)

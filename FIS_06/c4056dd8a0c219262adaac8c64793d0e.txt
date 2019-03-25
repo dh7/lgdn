@@ -1,1 +1,0 @@
-infrastructure des routes (cela se dégrade d'année en année) et l'état est bien responsable de cette infrastructure

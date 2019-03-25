@@ -1,1 +1,0 @@
-Simplifier et éviter les exceptions qui ne servent que ceux qui ont le temps et la connaissance pour optimiser

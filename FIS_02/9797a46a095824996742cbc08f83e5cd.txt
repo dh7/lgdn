@@ -1,1 +1,0 @@
-Sortir la résidence principale et les SCPI de l'assise de l'IFI ou, mieux encore, supprimer l'IFI.

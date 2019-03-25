@@ -1,1 +1,0 @@
-Il faut surtout éviter les effets de seuil; selon qu’on est 1 € sous le seuil, où un € au dessus du seuil, la différence devient énorme à la fin; exemple: 1€ au dessus du seuil ne doit pas faire perdre au final plus d.un demi -euro (lissage)

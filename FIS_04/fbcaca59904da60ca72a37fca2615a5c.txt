@@ -1,1 +1,0 @@
-Il faudrait surtout s'attacher à éviter les seuils de droit/pas droit  à telle ou telle aide sociale, qui parfois, pour une variation infime d'un paramètre, font tomber plusieurs aides en cascade.

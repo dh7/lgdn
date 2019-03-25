@@ -1,1 +1,0 @@
-moduler la TVA avec des valeurs de 0%, 10%, 20% et 30% avec 0% pour les produites favorisant la transition énergétique( ex: favoriser les légumes de saison par rapport aux autres) et les produits de nécessité absolue. compensée par un taux à 30% sur certains produits "de luxe" (ex tva 33%)

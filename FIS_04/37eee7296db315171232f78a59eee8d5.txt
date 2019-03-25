@@ -1,1 +1,0 @@
-Allocation universelle qui remplace toutes les autres allocations. Il faut impérativement exclure toute administration de l'attribution de cette allocation qui doit être automatique. A partir d'un certain niveau des revenus, le contribuable ne touche pas l'allocation mais bénéficie du crédit d'impôts (confère les propositions de Gaspard König)

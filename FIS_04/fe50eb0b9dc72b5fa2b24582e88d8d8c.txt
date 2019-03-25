@@ -1,1 +1,0 @@
-Consolider et limiter par un seuil l'accumulation des aides toutes origines confondues (sécurité sociale, caf, chomage, ...) La somme de toutes ces aides ne devrait pas excéder ce que perçoit un salarié (1,5 X SMIC ?)

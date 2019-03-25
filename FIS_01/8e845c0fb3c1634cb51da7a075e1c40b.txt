@@ -1,1 +1,0 @@
-- abaisser le montant à partir duquel on est imposable, afin qu'un plus grand nombre soit assujetti à l'impôt  -figer le taux d'imposition des premières tranches - créer une tranche supplémentaire pour les plus gros revenus - augmenter de 5% le taux sur les produits de luxe

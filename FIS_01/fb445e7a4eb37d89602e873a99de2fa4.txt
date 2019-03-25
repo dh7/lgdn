@@ -1,1 +1,0 @@
-Supprimer Imposition par tranche et appliquer une progression lineaire sous forme exponentielle.

@@ -1,1 +1,0 @@
-Réinstaurer la vignette automobile dont le montant serait calculé en fonction de la catégorie et la puissance du véhicule.

@@ -1,1 +1,0 @@
-instaurer un plafond de ressources et fixer un montant dégressif en fonction des revenus

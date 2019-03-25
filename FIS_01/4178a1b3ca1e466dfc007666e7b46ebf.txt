@@ -1,1 +1,0 @@
-Imposer tous les ménages en fonction de leur revenus.Y inclure toutes les aides perçues (alloc,  APL, prime d'activité etc....)

@@ -1,1 +1,0 @@
-Calculer l'âge de la retraite suivant l'espérance de vie par catégorie socio-professionnelle. Les âges de déces et les carrières proffessionnelles sont dans les systèmes informatiques de l'état. Qu'on les utilise.

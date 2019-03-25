@@ -1,1 +1,0 @@
-Rendre plus progressif l'impot avec un calcul mathematic du genre lineaire ou exponentiel. Cela permettrait au classe moyenne d'eviter de toucher ou pas une aide juste parce qu'on est en limite de plafond des ressources. Cela evitetait que les gens arretent de travailler juste par peur de depasser un seuil de revenu

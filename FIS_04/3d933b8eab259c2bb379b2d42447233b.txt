@@ -1,1 +1,0 @@
-revoir le traitement CAF où l'on ne prends pas la situation au moment de la demande mais la situation à N-2 pour traiter un dossier ...absurdité totale !!!

@@ -1,1 +1,0 @@
-Dépoussiérer notre CGI. Le rendre lisible pour les citoyens. Simplifier et limiter au maximum  les cas particuliers.

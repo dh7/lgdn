@@ -1,1 +1,0 @@
-Contrôler que les aides sociales sont effectivement versées aux ayants droit dont le lieu de résidence. à contrôler, est bien validé. Supprimer le versement des retraites aux anciens combattants qui résident à l'étranger qui ne donnent plus signe de vie et dont on confirme le décès.

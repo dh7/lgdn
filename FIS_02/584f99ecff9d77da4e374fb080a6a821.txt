@@ -1,1 +1,0 @@
-Montant CSG progressif en fonction du montant perçu Bonus TVA pour les produits fabriqués en FRANCE (avec contrôle baisse des prix publics)

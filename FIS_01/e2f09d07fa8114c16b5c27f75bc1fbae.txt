@@ -1,1 +1,0 @@
-Supprimer toutes les taxes pour les remplacer par une taxe unique sur les flux financiers.

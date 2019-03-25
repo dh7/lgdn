@@ -1,1 +1,0 @@
-Au niveau du Conseil Général une base de données avec toutes les recettes et dépenses (numérisées)par commune, au niveau des Cours Régionales des Comptes une base de données avec les recettes dépenses par Conseil Général et ainsi de suite. Disponible sur Internet. Modèle suédois.

@@ -1,1 +1,0 @@
-Enlever les tranches d’imposition pour conserver un système progressif (linéaire) en fonction du revenu. Cela éviterait les astuces fiscales / fraudes / travail au noir pour rester dans une tranche inférieure.

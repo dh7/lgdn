@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches d'attribution pour éviter les effets de seuil -par e'x. pour 1000€ de ressources on touche une allocation et pour 1001€ on ne touche plus rien. C'est profondément injuste par rapport aux personnes qui sont dans la nécessité !

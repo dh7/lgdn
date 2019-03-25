@@ -1,1 +1,0 @@
-Lors d'une augmentation générale des salaires dans une société, au lieux d'augmenter tous les salaires en pourcentage, calculer le montant total représenté par le pourcentage d'augmentation sur la masse salariale et diviser cette somme par le nombre de salariés :

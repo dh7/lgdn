@@ -1,1 +1,0 @@
-supprimer les mille feuilles des structures territoriales conserver agglo de commune et régions supprimer départements et communes

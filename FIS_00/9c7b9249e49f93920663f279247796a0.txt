@@ -1,1 +1,0 @@
-Avoir accès, de façon simple (par exemple un site : "Où passent vos impôts" ) à un état de la répartition des dépenses publiques.

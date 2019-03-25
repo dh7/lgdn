@@ -1,1 +1,0 @@
-Moduler l'âge de la retraite en fonction de l'espérance de vie moyenne de la catégorie socio-culturelle avec des exceptions en fonction de l'état de santé des individus.

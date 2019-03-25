@@ -1,1 +1,0 @@
-pas une aide en particulier, mais plutôt le cumul de plusieurs aides, dont l'attribution pourrait être pondérée sur la base d'un fichier centralisé,  permettant d'avoir une vue globale des aides sociales et autres revenus d'un ménage. Ce fichier devrait être sécurisé et accessible seulement à certains fonctionnaires assermentés.

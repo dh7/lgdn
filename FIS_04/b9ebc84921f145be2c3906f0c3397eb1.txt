@@ -1,1 +1,0 @@
-refonte complète de tout ce qui est CAF, RSA, RSI, allocation logement: tout devrait être regroupé sous le même organisme, et pouvoir effectué des contrôles réguliers

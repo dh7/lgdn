@@ -1,1 +1,0 @@
-Il faut encore réduire les strats Région, département, communauté d'agglo ou de commune, il y a un echelon de trop

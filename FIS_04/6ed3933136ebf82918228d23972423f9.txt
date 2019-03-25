@@ -1,1 +1,0 @@
-suppression de la prime d activite, reduction des allocations chomage, suppression des apl

@@ -1,1 +1,0 @@
-Un site internet devrait afficher pour chaque ministère son budget alloué et la liste des dépenses (par gros postes) avec mise à jour en permanence.

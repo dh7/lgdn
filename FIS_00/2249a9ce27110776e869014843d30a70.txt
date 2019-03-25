@@ -1,1 +1,0 @@
-Envoi de l'information de l'utilisation de l’impôt par mail (moindre cout, et facile à mettre en œuvre). Avec un récapitulatif général dans les grandes lignes et un détail très pointu.

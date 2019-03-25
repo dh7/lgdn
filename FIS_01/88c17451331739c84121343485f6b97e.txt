@@ -1,1 +1,0 @@
-Supprimer les effets de seuils des tranches, lorsqu'on est tout en bas d'une tranche on est plus impacté qu'en haut. Pourquoi pas un pourcentage, jusqu'à un certain revenu plafond au delà duquel les impôts sont plus élevés?

@@ -1,1 +1,0 @@
-Un site internet donnant les recettes détaillées et les dépenses détaillées de l'Etat avec mise à jour une fois par mois.

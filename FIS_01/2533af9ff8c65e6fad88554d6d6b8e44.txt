@@ -1,1 +1,0 @@
-Simplifier et rendre plus lisible. Trop d’impots Différents avec des logiques et des modes de calcul parfois contradictoires.

@@ -1,1 +1,0 @@
-Simplifier l'architecture de l'administration, ses directions, ses délégations... permettrait déjà  d'avoir une meilleure lisibilité de l'action publique donc de la fiscalité

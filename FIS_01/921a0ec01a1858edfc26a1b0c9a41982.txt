@@ -1,1 +1,0 @@
-simplifier la déclaration des revenus et revoir le calcul de l'impôt sur le revenu. en appliquant le même calcul  pour tous les foyers  (mariés, concubins, paxés ou célibataire)

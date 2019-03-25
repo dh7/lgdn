@@ -1,1 +1,0 @@
-Reallouer les recettes déjà existantes grâce à une gestion plus efficace des dépenses 

@@ -1,1 +1,0 @@
-Simplifier l'IRPP (trop de niches et de cas particuliers). Adapter la TVA qui est un impôt efficace : en baisse pour les produits de première nécessité et augmenter pour les autres tout en veillant à l'harmonisation avec les taux des pays de l'UE.

@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de l'IR et instaurer une ou plusieurs tranches supérieures à la dernière tranche  de 45%

@@ -1,1 +1,0 @@
-Un impôt assis sur une base très large et trouver le plus grand dénominateur commun d'imposition.

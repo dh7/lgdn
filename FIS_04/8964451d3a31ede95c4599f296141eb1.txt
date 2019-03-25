@@ -1,1 +1,0 @@
-Revoir le système du RSA qui n'incite pas à la reprise d'activités

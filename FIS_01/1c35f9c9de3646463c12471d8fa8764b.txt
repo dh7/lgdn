@@ -1,1 +1,0 @@
-- Limiter la possibilité de permettre à un contribuable de ne pas payer d'impôt lorsqu'il effectue des investissements (immobilier, financier...). On fait tout de même perdre des ressources à l'état en faisant cela alors qu'à terme le contribuable va investir et voir son patrimoine se valoriser. On a comme souvent une privatisation des bénéfices

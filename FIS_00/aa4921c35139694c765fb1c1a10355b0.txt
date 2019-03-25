@@ -1,1 +1,0 @@
-Indiquer sous forme de camembert les différents postes de dépenses lors de l'envoi du montant imposable. Ne pas abuser de termes trop techniques.

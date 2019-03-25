@@ -1,1 +1,0 @@
-Afficher dans les services publiques la répartition de l’impôt pour 1000 Euros perçus.

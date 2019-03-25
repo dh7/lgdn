@@ -1,1 +1,0 @@
-Simplifier simplifier. Concernant les aides (apl, primes d activité ) arretez de vous baser sur les déclarations impots N-2, basez vous sur les revenus en cours plutot ....  et simplifiez le calcul, les regles sont tellement complexes que vous devez développer des simulateurs !!;( qui paye pour ces sites web archi complexes)

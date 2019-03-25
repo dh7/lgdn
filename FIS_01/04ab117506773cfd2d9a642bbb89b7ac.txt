@@ -1,1 +1,0 @@
-Simplifier la fiscalité. Supprimer la non déductibilité de la CSG et de la CRDS, car on paye un impôt sur une taxe, en simplifiant leur calcul (assiette calculée sur 100% des montants au lieu de 98,25%), donc revoir le taux global tenant compte de la suppression de l'abattement.

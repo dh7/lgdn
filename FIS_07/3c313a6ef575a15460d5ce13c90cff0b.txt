@@ -1,1 +1,0 @@
-Simplifier le code des impôts pour une lecture unique. Même les agents fiscaux de la DGFIP doivent interpréter les textes. En France on fait tout très compliqué (les lois qui se superposent, le code du travail illisible, le code des impôts imbuvable). Cela avantage les combines des plus malins au détriment de la justice fiscale.

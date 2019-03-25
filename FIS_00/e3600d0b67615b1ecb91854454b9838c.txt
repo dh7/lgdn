@@ -1,1 +1,0 @@
-Mise en place d'une plate forme avec le détail du budget, de façon simple et compréhensible. Avec un niveau de détail assez fin.

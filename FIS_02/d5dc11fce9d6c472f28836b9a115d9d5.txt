@@ -1,1 +1,0 @@
-Supprimer toutes les petites taxes (celles sur la facture d'énergie, sur l'assurance…).

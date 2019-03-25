@@ -1,1 +1,0 @@
-Communication sur internet de la ventilation sous forme de graphique des dépenses : ventilation globale par ministère puis ventilation par thème et sous-thème au sein des ministères. Destination budgétaire de chaque taxe/impôt. Exemple : que finance la taxe carbone?

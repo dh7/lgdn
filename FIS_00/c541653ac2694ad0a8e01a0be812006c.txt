@@ -1,1 +1,0 @@
-afficher les budgets de l'état sur le site impot.gouv, la provenance des ressources et leur affectation et réactualiser les données au fur et à mesure

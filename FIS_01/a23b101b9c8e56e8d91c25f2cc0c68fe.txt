@@ -1,1 +1,0 @@
-afficher le montant de l'impôt payé par chaque français

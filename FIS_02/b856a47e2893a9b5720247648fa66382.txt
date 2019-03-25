@@ -1,1 +1,0 @@
-CSG,CRDS : supprimer la non-déductibilité actuelle  d'une partie de la CSG. appliquer le même taux de csge t de crds pour tous.

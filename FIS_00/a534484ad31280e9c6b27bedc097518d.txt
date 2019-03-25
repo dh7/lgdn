@@ -1,1 +1,0 @@
-Informer pour chaque impot sur le montant global de l'impot , le montant de son assiette global, et du taux moyen  Informer sur les dépenses et investissements effectués par type de dépenses

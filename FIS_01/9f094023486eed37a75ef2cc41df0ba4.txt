@@ -1,1 +1,0 @@
-- Le prélèvement à la source est une très bonne chose, et permet d'être ajusté par rapport aux revenues de l'année en cours (et non pas N-1). - Appliquer le taux d'imposition aux prorata des revenues. Les plus haut revenues peuvent être taxés à très haut niveau (70% ?) vu que le reste à vivre resterait encore extrêmement élevé.

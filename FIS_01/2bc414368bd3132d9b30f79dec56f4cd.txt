@@ -1,1 +1,0 @@
-Changer le mode de calcul des taxes locales, pour éviter les disparités entre communes, entre départements et entre régions.

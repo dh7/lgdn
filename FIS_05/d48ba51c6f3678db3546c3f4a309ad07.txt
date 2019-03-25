@@ -1,1 +1,0 @@
-Prise en charge des dépenses de santé mal remboursées (lunettes, dentaires, orthopédie, etc...). C' est prévu, mais pas assez rapide. Prise en charge de la vieillesse dans les EHPAD et autres structures de même type.

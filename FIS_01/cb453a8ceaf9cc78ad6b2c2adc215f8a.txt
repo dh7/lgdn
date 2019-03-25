@@ -1,1 +1,0 @@
-- Supprimer les effets de seuil et rendre tous les impôts progressifs - Ajouter des tranches à l'impôt pour le rendre plus juste

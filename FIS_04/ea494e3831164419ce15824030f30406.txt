@@ -1,1 +1,0 @@
-Limiter le rsa dans la durée si l’allocataire ne fait aucun effort

@@ -1,1 +1,0 @@
-Indexer les impôts et les taxes sur un revenu de référence comme le SMIC, le revenu médian ou le RSA afin de lier de manière concrète la taxation et le niveau de vie des citoyens.

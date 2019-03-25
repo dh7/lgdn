@@ -1,1 +1,0 @@
-un seul service devrait gérer l'aide sociale, un seul nom pour celle-ci, attribuée en fonction des besoins des personnes

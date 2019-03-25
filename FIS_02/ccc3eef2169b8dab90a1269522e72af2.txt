@@ -1,1 +1,0 @@
-- suppression taxe d'habitation pour tous, mais garder la taxe des ordures ménagères - peut-être combiner taxe foncière et ISF

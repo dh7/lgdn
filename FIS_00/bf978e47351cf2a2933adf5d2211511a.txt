@@ -1,1 +1,0 @@
-Avoir des indicateurs pour vérifier que les propositions mises en œuvre ont fonctionnées.

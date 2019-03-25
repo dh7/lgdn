@@ -1,1 +1,0 @@
-Affecter une partie de l'impôt à la réalisation d'un objectif (durée définie lors de la mise en place du prélèvement).

@@ -1,1 +1,0 @@
-Modifier le mode de calcul de la pension de retraite en prenant le meilleur des deux revenus (revenu des 25 meilleures années ou revenu sécurité sociale). Le calcul actuel n'est juste que pour ceux qui ont un revenu moyen égal au revenu de base de la sécurité sociale.

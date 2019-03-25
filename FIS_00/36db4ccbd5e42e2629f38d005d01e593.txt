@@ -1,1 +1,0 @@
-Donner un état des dépenses à l'échelle des citoyens, par exemple combien coute la scolarisation d'un élève

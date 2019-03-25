@@ -1,1 +1,0 @@
-Suppression de certains taxes directes qui sont incompatibles avec le minimum vital (produits de base alimentation, transport en commun, chauffage...), pas de taxe d'habitation pour les étudiants Amélioration du remboursement sur les frais réels pour le déplacements domicile/travail, repas travail)

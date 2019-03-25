@@ -1,1 +1,0 @@
-il faut dissocier les recettes des dépenses, mais regarder l'ensemble des recettes et l'ensemble des dépenses de manière indépendantes

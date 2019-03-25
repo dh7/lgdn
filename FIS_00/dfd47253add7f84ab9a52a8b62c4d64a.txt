@@ -1,1 +1,0 @@
-Faire un bulletin d'information comme les conseils départementaux et régionaux qui envoi régulièrement leurs bulletins.

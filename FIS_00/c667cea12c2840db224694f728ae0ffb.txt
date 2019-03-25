@@ -1,1 +1,0 @@
-Simplifier énormément les impots. C'est devenu beaucoup trop compliqué et générateur de couts énormes pour être capables de gérer cette complexité. Pour moi, s'il faut des mécanismes d'information sophistiqués pour les expliquer, c'est qu'il y a un gros problème à la base.

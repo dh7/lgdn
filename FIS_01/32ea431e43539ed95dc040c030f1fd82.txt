@@ -1,1 +1,0 @@
-Supprimer les tranches et les niches fiscales. Formule unique pour l'impôt sur le revenu qui pourrait être IR annuel=exponentielle(salaire mensuel net imposable/1.4-1)-0.155. Avec cet exemple, et dès le premier euro, les 99% des contribuables sont concernées (jusqu'à 6500 €/mois). Pour le 1% restant, forfait à 35% du revenu annuel.

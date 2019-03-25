@@ -1,1 +1,0 @@
-- supprimer la dernière augmentation de la CSG pour tous les salaires (couple /célibataire) inférieurs à 4000 euros. - taxe d'habitation  pour tous les salaires inférieurs à 4000 euros

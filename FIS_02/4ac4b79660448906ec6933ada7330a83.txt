@@ -1,1 +1,0 @@
-Revoir le calcul de la taxe d'habitation. Cela ne veut pas forcément dire le baisser partout, mais s'assurer qu'il est toujours juste en 2019.

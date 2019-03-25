@@ -1,1 +1,0 @@
-- Simplifier la fiscalité autour des revenus générés par l'économie collaborative.  - Envisager un seuil de plafonnement, en d'autres termes une franchise fiscale qui exonérerait d'impôts sur le revenu les 3000 premiers euros générés sur des plateformes d'économie collaborative.

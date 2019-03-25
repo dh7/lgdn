@@ -1,1 +1,0 @@
-Il est nécessaire avant tout de les rendre plus lisibles, pour que ceux qui y ont droits y accèdent simplement. En revanche, un meilleur contrôle des conditions d'attribution est sans doute nécessaire.

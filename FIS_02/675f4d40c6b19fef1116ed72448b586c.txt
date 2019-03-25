@@ -1,1 +1,0 @@
-Suppression TH pour tous et IR pour toutes les classes moyennes  inférieures à 10000 euros

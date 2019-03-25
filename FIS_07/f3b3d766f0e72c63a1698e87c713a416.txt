@@ -1,1 +1,0 @@
-- notre modele fonctionne sur la répartition, pour diminuer ou maitriser les taxes, il faut diminuer cette repartition. - aucun budget ( national ou local) ne devrait pouvoir être voter si il n'est pas soumis en équilibre

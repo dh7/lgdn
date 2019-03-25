@@ -1,1 +1,0 @@
-limiter la multiplicité des consultations médicales pour une même pathologie sauf maladie grave

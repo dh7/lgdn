@@ -1,1 +1,0 @@
-Eviter que l'héritage crée des différences

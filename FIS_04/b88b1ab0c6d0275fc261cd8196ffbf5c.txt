@@ -1,1 +1,0 @@
-Refont de l'ensemble des aides pour une seule aide dont le montant varie selon la situation des personnes (enfants, logement, handicap, charges etc.)

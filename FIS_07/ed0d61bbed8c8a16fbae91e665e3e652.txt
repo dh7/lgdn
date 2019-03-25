@@ -1,1 +1,0 @@
-Faire payer les cotisations chômage, vieillesse, etc pour chaque robot utilisé en fonction du nombre de salarié qu’il remplace.

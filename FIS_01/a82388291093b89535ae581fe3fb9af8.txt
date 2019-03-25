@@ -1,1 +1,0 @@
-Un calcul des impôts simple avec des tranches supplémentaires (au moins deux à 55% et 65%)

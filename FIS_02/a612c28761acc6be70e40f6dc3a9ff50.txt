@@ -1,1 +1,0 @@
-Supprimez la CSG et le CRDS pour les réintégrer dans un modèle général.

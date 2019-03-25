@@ -1,1 +1,0 @@
-Publier la liste des commissions, hauts commissariats et leur cout annuel. Publier la liste des ong subventionnées, et leur cout annuel. Publier la liste des organismes parapublics, et leur cout annuel.

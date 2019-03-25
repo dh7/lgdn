@@ -1,1 +1,0 @@
-Imposer les transactions par durée de détention (plus la durée est longue, plus on diminue le taux d'imposition)

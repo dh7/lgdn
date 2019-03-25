@@ -1,1 +1,0 @@
-Raisonner en ressources globales (prestations incluses) et atténuer les effets du nombre de parts selon les tranches de revenus.

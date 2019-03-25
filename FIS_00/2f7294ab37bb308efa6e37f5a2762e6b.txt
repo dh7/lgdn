@@ -1,1 +1,0 @@
-Un site internet qui détaillerait pour chaque ministère, administration, collectivité locale, le budget voté et les dépenses effectuées tout au long de l'année. Avec tous les documents budgétaires publiés en libre accès.

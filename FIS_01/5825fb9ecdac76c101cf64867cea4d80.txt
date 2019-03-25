@@ -1,1 +1,0 @@
-Supprimer le sentiment de devoir toujours payé (IR, TF, TH, TVA, Taxes en tous genre.....) en ayant un seul impôts calculer en fonctions des plusieurs critères (revenus, famille, habitations....)

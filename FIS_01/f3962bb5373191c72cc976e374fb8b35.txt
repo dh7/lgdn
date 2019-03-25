@@ -1,1 +1,0 @@
-Simplifier le systeme et ne pas annuler une part de l'impot sur la fortune quand en meme temps on demande plus d'argent aux retraiters et etudiants et conducteurs de voitures

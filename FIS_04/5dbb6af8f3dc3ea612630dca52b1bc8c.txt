@@ -1,1 +1,0 @@
-Même type de calcul pour toutes les aides. On supprime les tranches en le remplaçant par un % pour éviter qu’un seuil supprime une aide,  cette dernière deviendra dégressive si le revenu augmente.

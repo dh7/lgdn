@@ -1,1 +1,0 @@
-Publier chaque fin d'année les dépenses de chaque entité: ministère, chambre et sénat, région, département, commune.

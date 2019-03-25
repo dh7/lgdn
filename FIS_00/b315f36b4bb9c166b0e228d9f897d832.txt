@@ -1,1 +1,0 @@
-Pour chaque service public (hôpital public, éducation, transport), éditer une facture avec le cout réel du service et le montant pris en charge par l'état (par exemple le coût d'une année d'école ou de collège lors de l'inscription d'un enfant) pour visualiser le coût réel de chaque service financé par l'impôt.

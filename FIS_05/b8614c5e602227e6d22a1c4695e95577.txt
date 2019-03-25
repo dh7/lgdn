@@ -1,1 +1,0 @@
-La prise en charge des auto-entrepreneurs lors de congés maladie, congés maternité, ... lorsque ceux ci ont cotisé comme salariés avant d'être auto-entrepreneurs. En effet, lors du changement de statut, les années cotisées comme salarié ne sont pas prises en compte alors que celles ci ont été cotisées

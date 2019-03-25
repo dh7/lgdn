@@ -1,1 +1,0 @@
-Calculer les amendes routières en proportion du revenu fiscal de référence du conducteur ou de son foyer.

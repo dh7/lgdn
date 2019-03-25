@@ -1,1 +1,0 @@
-Revoir le calcul de la taxe foncière en fonction d'une valeur locative actualisée et du revenu fiscal de référence des propriétaires.

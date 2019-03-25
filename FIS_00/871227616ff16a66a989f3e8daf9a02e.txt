@@ -1,1 +1,0 @@
-Mettre à la disposition des citoyens et des élus un jeu de simulation permettant de préparer les décisions budgétaires et d'en simuler les effets. Cela permettrait à chacun de prendre conscience, de manière ludique : * du coût de chaque mesure * de ses effets sur l'économie et l'emploi * de la nécessité de faire des choix

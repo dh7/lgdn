@@ -1,1 +1,0 @@
-Apporter une aide conditionnelle aux entreprises et récupérer cette aide en cas de non respect des engagements. Faire payer l'ensemble des soins donnés aux membres des gouvernements étrangers

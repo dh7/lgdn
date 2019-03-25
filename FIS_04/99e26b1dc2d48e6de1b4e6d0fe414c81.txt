@@ -1,1 +1,0 @@
-Toutes, avec création d'un guichet unique de façon à vérifier qu'il n'y a pas de doublon et de connaître le niveau exact de revenu du bénéficiaire.

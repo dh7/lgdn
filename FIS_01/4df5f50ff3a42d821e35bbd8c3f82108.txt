@@ -1,1 +1,0 @@
-Il faudrait supprimer le système de "tranches" et le remplacer par une courbe progressive pour éviter les effets de seuils

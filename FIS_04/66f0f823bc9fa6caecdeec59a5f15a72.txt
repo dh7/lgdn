@@ -1,1 +1,0 @@
-supprimer toutes les aides individuelles et les remplacer par une seule aide personnalisée en fonction de la situation réelle des bénéficiaires

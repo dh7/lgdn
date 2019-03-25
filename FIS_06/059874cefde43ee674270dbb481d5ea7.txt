@@ -1,1 +1,0 @@
-Commençons par essayer de faire plus efficace à prélèvements constants voire diminués.

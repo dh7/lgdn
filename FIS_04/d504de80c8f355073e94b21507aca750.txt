@@ -1,1 +1,0 @@
-Attribuer de manière automatique les aides sociales lorsque la personne est éligible.

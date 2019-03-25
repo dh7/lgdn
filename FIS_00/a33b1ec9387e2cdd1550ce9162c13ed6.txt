@@ -1,1 +1,0 @@
-Simplifier la fiche de paie: Le brut est la base imposable du prélèvement à la source Les charges sociales sont prélevées après. (Comme pour les retraités qui paient leurs mutuelles après impôts contrairement aux salariés)

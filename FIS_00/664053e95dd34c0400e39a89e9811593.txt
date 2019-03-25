@@ -1,1 +1,0 @@
-Montrer ce qui est fait à l'échelle locale (les analyses nationales sont trop globales et abstraites).

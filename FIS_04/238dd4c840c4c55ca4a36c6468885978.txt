@@ -1,1 +1,0 @@
-- examiner en fonction des revenus perçus et dépenses de fonctionnement  liés au minimum pour vivre (au delà du seuil de pauvreté admis) afin de déterminer l'aide qui doit être soit supprimée ou soit diminuée par ex allocations familiales pour certains foyers à haut revenus - éviter que le montant des indemnités perçues n'encouragent pas le retour au travail pour ceux éligibles

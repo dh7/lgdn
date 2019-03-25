@@ -1,1 +1,0 @@
-Suppression de la taxe d'habitation pour tous (pour éviter un gros effet de seuil et régler les problèmes d'équité). TVA

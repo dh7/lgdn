@@ -1,1 +1,0 @@
-Toutes doivent dépendre des conditions de ressources effectives travail et autres. Limiter les allocations familiales à un certain nombres d’enfants où qu’elles soient dégressives au delà de 3.

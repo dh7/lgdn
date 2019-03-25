@@ -1,1 +1,0 @@
-Limiter de 1 à 30 le ratio entre les salaires les plus hauts et les plus bas dans chaque entreprise.

@@ -1,1 +1,0 @@
-Les temps et la démographie ont changé. Ma proposition : rendre le montant des allocations linéaire en fonction du nombre d'enfants et non plus exponentiel comme aujourd'hui. Quelque soit le nombre d'enfants, le montant des allocations familiales serait alors nombre d'enfants * montant de l'allocation familiale pour un enfant. Le 1er enfant ne coûte-t-il pas aussi cher que le 4e?

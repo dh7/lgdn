@@ -1,1 +1,0 @@
-- Supprime l'aide au développement et l'allouer au remboursement de la dette

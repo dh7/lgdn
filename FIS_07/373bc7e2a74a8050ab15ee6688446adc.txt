@@ -1,1 +1,0 @@
-Indexation partielle des retraites et traitement des fonctionnaires jusqu'à une certaine somme. Par exemple 1500 euros net . Si hypothèse d'une inflation annuelle de 2%, un salarié ou retraité 1000€/mois reçoit 1020, s'il gagne 1500 ===> 1030. Au dessus,  +30€ pour tous. =Economie et équité d'une majorition pour la partie "vitale" du revenu sur l'inflation

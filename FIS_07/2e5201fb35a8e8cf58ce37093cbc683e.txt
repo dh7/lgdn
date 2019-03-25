@@ -1,1 +1,0 @@
-Calcul de l'IRPP : On parle d'augmenter le nombre de tranches. Il serait tout de même bien simple de supprimer tous les seuils en appliquant une formule mathématique définissant une courbe qui les inscrive. Il est probable qu'elle aurait un facteur en "racine de e" (exponentiel). Aucune difficulté pour paramétrer le calcul d'un ordinateur.

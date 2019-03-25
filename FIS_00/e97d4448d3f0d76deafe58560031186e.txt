@@ -1,1 +1,0 @@
-Lors de l'envoi des formulaires d'impôts une page pourrait comporter des informations sur la réalisation du dernier budget avec les montants consacrés aux grands postes de dépenses.

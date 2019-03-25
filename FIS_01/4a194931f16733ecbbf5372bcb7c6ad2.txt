@@ -1,1 +1,0 @@
-Calculer l'impots sur le revenu disponible ( salaires ou retraite, aides sociales etc) , afin d'éviter l'effet de seuil entre un niveau salarial  de X€  et un salaire inférieur mais compensé par des aides et aboutissant au même revenu disponible

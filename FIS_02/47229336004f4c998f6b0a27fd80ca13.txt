@@ -1,1 +1,0 @@
-Suppression de la tva appliquée sur les taxes ( électricité, gaz, eau) qui sont les dépenses contraintes.

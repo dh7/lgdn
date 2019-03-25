@@ -1,1 +1,0 @@
-Afficher chaque année le taux absentéisme du personnel de chaque administration, ministère et mairie en séparant les différentes causes : congés payés, maladie, accidents du travail. Pour l'éducation nationale, il faudra un ration respectif pour le corps enseignant et le personnel  d'administration.

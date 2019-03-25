@@ -1,1 +1,0 @@
-envoyer dans chaque foyer fiscal un descriptif simplifié (graphique, camembert et %) des dépense de l'Etat pour ses grandes missions.

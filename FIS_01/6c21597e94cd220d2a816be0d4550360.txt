@@ -1,1 +1,0 @@
-- Imposition dès le 1er euro perçu sur le revenu (salaire mais également allocation), quel que soit le statut. - Suppression du seuil minimum d'imposition (binaire actuellement) mais mise en place d'un taux progressif croissant, en fonction du revenu.

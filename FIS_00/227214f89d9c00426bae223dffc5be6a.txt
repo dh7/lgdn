@@ -1,1 +1,0 @@
-Bilan annuel envoyé individuellement à chaque citoyen par mail (par exemple dans sa zone personnelle impôt.gouv) avec un tableau dépenses-recettes des grandes lignes. Consultation des citoyens plus régulière sur les priorités des dépenses : arbitrer des choix est nécessaire, les citoyens bien informés peuvent le comprendre.

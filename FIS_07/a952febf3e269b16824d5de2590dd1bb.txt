@@ -1,1 +1,0 @@
-Ré-indexer les retraites sur l'indice INSEE afin d'éviter que les retraités s'appauvrissent au fil du temps.

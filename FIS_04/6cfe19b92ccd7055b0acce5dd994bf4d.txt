@@ -1,1 +1,0 @@
-toutes; avoir la même méthode de calcul pour calculer le montant octroyé pour l'ensemble des caisse (allocations familiales, assurance maladie, pôle emploi, retraite, etc.).

@@ -1,1 +1,0 @@
-Globalisation des revenus et aides pour calculer l'impôt. Ensuite on positionne le curseur avec un impôt minimum à payer par tous

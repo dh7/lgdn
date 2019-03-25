@@ -1,1 +1,0 @@
-suppression des abattement pour certaines profession (ex: journaliste) suppression des avantage des sénateurs

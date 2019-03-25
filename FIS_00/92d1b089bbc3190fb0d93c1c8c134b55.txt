@@ -1,1 +1,0 @@
-Lors d'envoi de l'avis d'imposition, il serait utile d'y ajouter  une page avec une synthèse du montant de l'impôt collecté et  son utilisation pour donner de la visibilité aux contribuables

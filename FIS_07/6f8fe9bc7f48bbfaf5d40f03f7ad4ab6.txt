@@ -1,1 +1,0 @@
-il faudrait moduler les aides en tout genre, non pas à partir d'un seuil unique, mais du taux d'imposition pour éviter les effets de seuil et obtenir plus de justice sociale

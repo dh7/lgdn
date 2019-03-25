@@ -1,1 +1,0 @@
-Création d'un site internet permettant de consulter l'ensemble des dépenses publiques et donc l'utilisation des impôts.

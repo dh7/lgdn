@@ -1,1 +1,0 @@
-Publier (de façon lisible) la liste des postes principaux avec leurs montants.

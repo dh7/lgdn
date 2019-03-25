@@ -1,1 +1,0 @@
-Il faut éviter les effets de cascade : Paris donne à la Région qui donne au Département, etc. Cela engendre des coûts de fonctionnement. Que les instances locales lèvent les impôts pour les décisions qui leur appartiennent.

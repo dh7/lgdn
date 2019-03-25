@@ -1,1 +1,0 @@
-Augmenter le nombre de tranche. Passer de 4 à 15 et qu'elles soient plus linéaires dans l'augmentation. Actuellement on passe de 14% à 30 puis 41.

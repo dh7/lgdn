@@ -1,1 +1,0 @@
-Simplifier pour éviter les effets de niche et d'aubaines.

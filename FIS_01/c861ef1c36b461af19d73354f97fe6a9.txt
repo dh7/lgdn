@@ -1,1 +1,0 @@
-Eviter les effets de seuils causés par les tranches d'impositions, faire en sorte qu'elles oient plus progressives.

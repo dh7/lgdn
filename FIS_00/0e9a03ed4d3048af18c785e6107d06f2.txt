@@ -1,1 +1,0 @@
-Chaque ville pourrez afficher sur chaque chantier le coût détaillé.

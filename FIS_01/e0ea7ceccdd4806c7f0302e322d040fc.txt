@@ -1,1 +1,0 @@
-Tenir compte du nombre de personnes dans un foyer et des frais fixes inhérents

@@ -1,1 +1,0 @@
-Moduler les taux de cotisations salariales et patronales selon le secteur d'activité. Ainsi les secteurs huatement concurrentiel (Industrie, etc..) auraient des taux qui rendent le travail en France compétitif et les secteurs sans compétition (service, artisanat, fonction publique, culture) eux seraient plus ponctionné.

@@ -1,1 +1,0 @@
-- Faire renter la taxe d'habitation et la CSG (et la CRDS) dans l'impôt sur le revenu. - augmenter le nombre de tranches d'imposition vers le haut

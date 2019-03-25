@@ -1,1 +1,0 @@
-Il faut vérifier que certaines allocations sont utilisées à bon escient (par exemple l'allocation de rentrée scolaire ne doit pas servir à acheter des jeux vidéo!!)

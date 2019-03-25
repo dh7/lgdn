@@ -1,1 +1,0 @@
-augmenter le seuil de la première tranche, et créer une tranche supplémentaire à 60 %. mais commencer le barème à 0. et inclure toutes les prestations sociales dans le montant imposable. car actuellement payent des impôts et les cantines etc au maximum les gens qui travaillent, même si ils ont des revenus inferieurs à certains qui ne vivent que des prestations sociales

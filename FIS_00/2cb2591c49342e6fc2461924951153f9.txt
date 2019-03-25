@@ -1,1 +1,0 @@
-Diffuser une page avec la répartition des dépenses par grands postes avec possibilité d'ouvrir une arborescence pour avoir de plus en plus de détails

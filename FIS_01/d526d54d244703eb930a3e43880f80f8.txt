@@ -1,1 +1,0 @@
-Ne peut-on pas supprimer les tranches ou les seuils, et faire une progressivité linéaire. Il me semble que les systèmes informatiques doivent rendre ceci possible.

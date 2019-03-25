@@ -1,1 +1,0 @@
-Supprimer les privilèges des politiques 

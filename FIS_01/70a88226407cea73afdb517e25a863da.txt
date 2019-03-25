@@ -1,1 +1,0 @@
-Supprimer les taxes sur les taxes et appliquer la TVA 5.5 sur les produits consommables de nécessité  Exemples: GAZ-taxe intérieure de consommation et consommation 20% TVA. ELECTRICITE-consommation,taxe sur la consommation et contribution au service public 20% TVA. EAU- assainissement et modernisation réseau 10% TVA. IMPOT REVENU- revenu perçu<revenu déclaré,pourquoi?

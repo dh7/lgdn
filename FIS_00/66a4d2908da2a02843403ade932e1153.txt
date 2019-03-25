@@ -1,1 +1,0 @@
-- Informer annuellement chaque citoyen du budget de l'Etat de manière simplifiée (quelles ressources ? quelles dépenses ?) - Informer annuellement chaque citoyen du budget de sa commune (ressources et dépenses) - Proposer aux citoyens d'affecter leurs impôts à un domaine / action en particulier

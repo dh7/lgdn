@@ -1,1 +1,0 @@
-Verifier et contrôler le respect des règles d'attribution.

@@ -1,1 +1,0 @@
-Optimiser les ressources de l'état. Par exemple pour les hôpitaux, laisser en place localement les soignants, médecins mais regrouper les services administratifs.

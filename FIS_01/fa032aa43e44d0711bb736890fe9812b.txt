@@ -1,1 +1,0 @@
-Augmenter le nombre de produits avant une TVA faible ou nulle. Ajouter des tranches pour l'impôt sur le revenu

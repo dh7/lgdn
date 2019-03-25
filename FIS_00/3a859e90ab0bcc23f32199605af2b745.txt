@@ -1,1 +1,0 @@
-Créer un site internet regroupant toutes les entités (commune, département...) pouvant dépenser avec la contribution des impôts en précisant chaque dépenses engagées, qui serait consultable par tous

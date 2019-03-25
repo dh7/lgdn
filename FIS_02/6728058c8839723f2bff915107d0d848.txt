@@ -1,1 +1,0 @@
-Impôt sur le revenu, la TVA, calcul de la taxe foncière pour les propriétaires en fonction des revenus.

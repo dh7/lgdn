@@ -1,1 +1,0 @@
-Eliminer les organismes et commissions dont l'utilité est proche de 0 (ex le CESE et les CESESR). Cela commence par faire un recensement de toutes celles qui existent et de faire un diagnostic de leur utilité

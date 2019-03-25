@@ -1,1 +1,0 @@
-Fusionner toutes les aides (état, région, dep, commune) en une seule (montant selon les ressources)

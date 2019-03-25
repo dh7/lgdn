@@ -1,1 +1,0 @@
-Supprimer les doublons au niveau administratif et ne pas avoir peur de supprimer des dispositifs inutiles ou trop peu utilisés

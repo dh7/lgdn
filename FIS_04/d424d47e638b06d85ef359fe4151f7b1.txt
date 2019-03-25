@@ -1,1 +1,0 @@
-Moduler les allocations familiales en fonction du revenu. Les allocations chômages identiques  pour tout les chômeurs qu'elle que soit leurs revenus précédents, ou tout du moins modulées à la baisse pour les hauts revenus précédents.

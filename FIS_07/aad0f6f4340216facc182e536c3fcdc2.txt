@@ -1,1 +1,0 @@
-- Taxer les entreprises qui pratiquent des écarts de salaire trop importants, au-delà de 40 fois le salaire du dernier décile de l’échelle de salaire. - Taxer les entreprises qui continuent à rémunérer les femmes moins que les hommes à compétences égales

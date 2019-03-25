@@ -1,1 +1,0 @@
-Indexer le traitement des élus à leur assiduité. Un sénateur qui n'est présent qu'à la moitié des séances ne devrait avoir que demi traitement. Rendre transparentes les indemnités parlementaires - certaines devraient être supprimées ( frais d'inhumation, etc. ) -

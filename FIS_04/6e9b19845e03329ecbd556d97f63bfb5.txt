@@ -1,1 +1,0 @@
-regrouper  toutes les aides reçues par une même famille et fixer un plafond en fonction de sa taille

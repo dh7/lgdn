@@ -1,1 +1,0 @@
-Supprimer toutes les taxes et les remplacer par une seule la TVA. Celle-ci serait modulable suivant les achats. Plus basse sur les produits courants et progressive selon la valeur des biens acheté.

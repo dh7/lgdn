@@ -1,1 +1,0 @@
-Une carte fiscale attribuée à chaque ménage qui lui permettra l'application d'une TVA variable selon sa situation. Par exemple: par points ou par code. Il suffirait de la présenter à chaque paiement pour obtenir le taux de TVA correspondante.

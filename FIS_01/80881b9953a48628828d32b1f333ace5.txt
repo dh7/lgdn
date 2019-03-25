@@ -1,1 +1,0 @@
-Taux variable de l’impôt sur le revenir.  Taux variables des différentes imposition (eau, énergie) en fonction de la consommation ( consommation courante ou consommation de loisir). Définir un socle commun type "revenu universel" en deçà duquel la participation demandée à l'individu est modulée.

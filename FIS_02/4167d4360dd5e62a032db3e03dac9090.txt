@@ -1,1 +1,0 @@
-Suppression de la taxe d'habitation pour tous, maintenant qu'elle est initiée.

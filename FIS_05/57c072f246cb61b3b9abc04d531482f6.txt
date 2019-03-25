@@ -1,1 +1,0 @@
-Contrôle demandes attribution des RSA et CMU, et renseignement n° d'adhérent et n° sécurité sociale (sans clé) sur formulaire, pour limiter la fraude.

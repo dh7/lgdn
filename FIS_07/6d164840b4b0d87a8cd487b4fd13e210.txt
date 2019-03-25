@@ -1,1 +1,0 @@
-Mise en place d'une taxe sur les mouvements d'actions, genre taxe Tobin, mais plus light. Par exemple, taxe de 50 cts par mouvements (Achat/vente) quelques soit le prix de l'action a condition que celui-ci soit >10€

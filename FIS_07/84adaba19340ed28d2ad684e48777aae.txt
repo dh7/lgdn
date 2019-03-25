@@ -1,1 +1,0 @@
-Supprimer tous les doublons en terme de collectivités : suppression des départements / suppression des petites communes < à 3000 habitants  Suppression des dépenses de confort non prioritaires dans les communes et intercommunalites  Réduction tres sensible des fonctionnaires d état et de collectivités

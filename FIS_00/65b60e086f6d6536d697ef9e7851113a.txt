@@ -1,1 +1,0 @@
-Recevoir un relevé annuel donnant la liste et le total des sommes payées pour les divers impôts directs (hors TVA) : impôts sur le revenu, taxe foncière, taxe d'habitation, CSG... suivi du rappel du revenu imposable et, à partir de ces deux montants, mentionner le pourcentage d’impôts réglés.

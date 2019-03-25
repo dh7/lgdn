@@ -1,1 +1,0 @@
-Rendre public les dépenses par thème tel que les comptes d'une entreprise par exemple.

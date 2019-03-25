@@ -1,1 +1,0 @@
-- Supprimer les taxes sur les taxes : exemple carburants, électricité. Calculer la TVA avant le cumul des nombreuses taxes. - Appliquer une TIPP fixe sur les carburants.

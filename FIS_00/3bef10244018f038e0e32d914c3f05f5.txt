@@ -1,1 +1,0 @@
-Un site centralisant les informations sur le budget, la loi de finance, les lois de règlement, et surtout, les types de dépenses ministère par ministère, le budget précis de chaque ministère.

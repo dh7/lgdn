@@ -1,1 +1,0 @@
-Reconstruire la grille des impôts sur le revenu, reconstruire le calcul des impôts locaux (taxes foncières et taxe d'habitation) en tenant compte, entre autres, que les personnes veuves n'ont pas choisi de vivre seules et conservent malheureusement des charges fixes qu'elles se trouvent seules pour assumer

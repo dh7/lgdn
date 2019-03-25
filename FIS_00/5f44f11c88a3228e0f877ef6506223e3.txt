@@ -1,1 +1,0 @@
-Afficher les dépenses et recettes des ministères avec les grandes lignes (les grands projets, les grandes sources de revenues)

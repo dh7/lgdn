@@ -1,1 +1,0 @@
-Donner accès aux détails des dépenses de chaque ministère (salaires, frais de fonctionnement, déplacements, réceptions, ...)  et la même chose pour l'Assemblée Nationale , le Sénat et toutes les institutions et Conseils divers.

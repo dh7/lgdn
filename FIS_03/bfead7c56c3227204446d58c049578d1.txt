@@ -1,1 +1,0 @@
-- Supprimer les supplément de retraite attribué aux fonctionnaires terminant leur carrière outre-mer(exemple trop de généraux se prélassent dans les îles du pacifique)

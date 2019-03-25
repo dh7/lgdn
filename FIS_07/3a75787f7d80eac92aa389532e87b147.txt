@@ -1,1 +1,0 @@
-Proportionner l'aide aux entreprises à la valeur ajoutée produite en France. par exemple : une entreprise qui produit 100% français 100% d'aide ; une entreprise qui importe des produits finis 0% d'aide. Aucune aide pour les entreprises qui font l'optimisation fiscale.

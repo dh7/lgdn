@@ -1,1 +1,0 @@
-informer localement du cout du service lorsqu'on s'adresse a un service financé par l'etat ou collectivies

@@ -1,1 +1,0 @@
-Proportionnelle aux revenus et non pas exponentielle, ou au moins avec une pente moins abrupte.

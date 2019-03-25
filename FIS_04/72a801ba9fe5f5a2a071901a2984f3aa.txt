@@ -1,1 +1,0 @@
-Un exemple: l'APL des étudiants doit être attribuée en fonction des revenus des parents.

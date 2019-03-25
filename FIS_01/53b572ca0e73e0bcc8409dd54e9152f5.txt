@@ -1,1 +1,0 @@
-Adapter la fiscalité sur plus de tranches en fonction des ressources.

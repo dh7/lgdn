@@ -1,1 +1,0 @@
-Pourrait-on avoir un jeu de données sur les impôts (nom, domaine d'application, limites...) afin de pouvoir analyser ces derniers et faciliter leur révision ?

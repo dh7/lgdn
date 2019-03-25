@@ -1,1 +1,0 @@
-Fixer chaque annee les pensions en % du dernier salaire. Combine ceci avec l'indexation des pensions a l'inflation. Les personnes partis il y a longtemps en retraite verraient leur pension baisser ce qui permettrait d'augmenter celles des nouveaux entrants. Il faut en plus definir une retraite minimale comme il y a un salaire minimal.

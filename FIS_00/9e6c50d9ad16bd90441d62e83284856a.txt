@@ -1,1 +1,0 @@
-Publier les dépenses de l'etat et leur source de financement dans un formalisme compréhensible sur gouv.fr par exemple

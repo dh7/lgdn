@@ -1,1 +1,0 @@
-Supprimer les effets de seuils entre les tranches - 2 exemples récents : l'augmentation de la csg c'est soit 0 soit 1,7% - la prime défiscalisée.... Les gens qui sont juste au dessus du seuil se sente lésés . on devrait trouver un calcul pour que ce soit plus progressif comme par exemple le calcul fait pour l’impôt sur le revenu ou le pourcentage évolue pour chaque tranche.

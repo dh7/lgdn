@@ -1,1 +1,0 @@
-Donc regrouper taxe d'habitation et redevance et indexer le montant annuel selon la tranche marginale d'impôt sur le revenu. Ainsi les non imposables sont laissés tranquilles (zéro taxe et zéro redevance) et ceux qui ont plus de moyens contribuent proportionnellement à leurs capacités.

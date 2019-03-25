@@ -1,1 +1,0 @@
-suppression de l'IFI, suppression de toutes les taxes qui rapportent moins de 100000 euro par an.

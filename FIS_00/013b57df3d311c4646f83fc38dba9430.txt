@@ -1,1 +1,0 @@
-- Fournir au citoyen un récapitulatif annuel des impôts et taxes payés au niveau national et local (à l'exception de la TVA)

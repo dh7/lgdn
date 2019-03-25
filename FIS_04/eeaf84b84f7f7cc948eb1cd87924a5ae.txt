@@ -1,1 +1,0 @@
-Le problème n'est pas de supprimer l'attribution de telle ou telle aide, mais d'en contrôler l'attribution dans le temps.

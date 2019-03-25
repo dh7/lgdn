@@ -1,1 +1,0 @@
-afficher les jours d' absentéisme à l' entrée de chaque administration et collectivité.

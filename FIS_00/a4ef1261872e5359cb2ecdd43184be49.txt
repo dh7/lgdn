@@ -1,1 +1,0 @@
-Un site d'information par type d'impôt  (IR, IS, TVA, CSG, impot foncier, taxe d'habitation) même si les ressources sont fongibles.

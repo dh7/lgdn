@@ -1,1 +1,0 @@
-- Une plateforme internet permettant de voir en temps réel où va l'argent des français

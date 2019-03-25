@@ -1,1 +1,0 @@
-La rendre plus sélective et plus linéaire (éviter les effets de seuil)

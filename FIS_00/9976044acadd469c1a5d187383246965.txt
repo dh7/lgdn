@@ -1,1 +1,0 @@
-Fournir un tableau de bord en ligne qui résume en une page : l'argent collecté, les dépenses assurées, la gestion de la dette. Comme pour une vision de la saine gestion d'un foyer.

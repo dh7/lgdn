@@ -1,1 +1,0 @@
-- Suppression de l'aide médicalisée d'état - Suppression de l'ATA (allocation temporaire d'attente)

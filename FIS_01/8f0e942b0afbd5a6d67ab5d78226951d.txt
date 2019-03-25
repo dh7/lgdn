@@ -1,1 +1,0 @@
-Prendre en compte le changement de situation familiale à partir du mois où à lieu l'évènement et non au 1er janvier de l'année en cours (ex : actuellement un divorce prononcé en novembre entraine un calcul d'impôt sur le revenu comme célibataire depuis le mois de janvier)

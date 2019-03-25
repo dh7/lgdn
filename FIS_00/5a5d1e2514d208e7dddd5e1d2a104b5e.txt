@@ -1,1 +1,0 @@
-Presenter de maniere plus detaillee l'usage fait des budgets publics a tous les niveaux (administrations et collectivites) via un bilan annuel tel que communique chaque annee avec les impots.

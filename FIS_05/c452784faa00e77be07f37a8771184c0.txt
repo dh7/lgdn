@@ -1,1 +1,0 @@
-Carte vitale avec photo. Faire en sorte qu elle ne serve pas pour plusieurs personnes

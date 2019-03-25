@@ -1,1 +1,0 @@
-A la pharmacie: remettre un ticket de caisse indiquant le prix total du médicament et le montant de la prise en charge sécu.

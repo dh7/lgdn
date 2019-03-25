@@ -1,1 +1,0 @@
-Simplifier les aides et les impôts. Par exemple, impôt sur le revenu avec un taux fixe pour tout le monde de 0.002% du montant brut (pour un salaire brut de 1500€ l'impôt serait de 2%, pour un salaire de 3000€ l'impôt serait de 6%, etc...), ce qui serait beaucoup plus simple pour le calcul du prélèvement à la source (gain de temps et d'argent au niveau de l'administration).

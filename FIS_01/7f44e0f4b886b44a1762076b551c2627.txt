@@ -1,1 +1,0 @@
-Indexer les retraites sur l'inflation sur toutes les retraites inférieures à 10.000 euros/mois et bloquer les retraites supérieures à 20.000 euros/mois

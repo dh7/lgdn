@@ -1,1 +1,0 @@
-Limiter les assedic en fixant un montant maximum et les supprimer en cas de revenus deja acquis superieurs à 30000 euros(artistes,cadres superieurs....)

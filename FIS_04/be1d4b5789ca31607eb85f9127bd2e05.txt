@@ -1,1 +1,0 @@
-Contrôler tous les bénéficiaires d'allocations (sur le modèle de pole emploi, convoquer régulièrement les personnes qui perçoivent des allocations pour s'assurer qu'elles sont légitimes à les percevoir et supprimer l'allocation quand le bénéficiaire ne se présente pas à la convocation)

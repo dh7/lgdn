@@ -1,1 +1,0 @@
-Faire une modulation des taux de TVA suivant les produits ou les services, par exemple Taux de TVA réduit (2,5%) sur les produits de première nécessité Taux de TVA normal (20%) pour la restauration rapide ou classique Taux de TVA augmenté (25 ou 30%) pour les produits de luxe, les services de luxe

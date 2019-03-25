@@ -1,1 +1,0 @@
-Regrouper le maximum d'aides en une allocation unique (gain de gestion).

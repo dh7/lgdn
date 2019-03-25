@@ -1,1 +1,0 @@
-Recenser toutes les aides de chaque citoyen ne payant pas l'impôt et, en fonction des sommes perçues, le soumettre à l'impôt.

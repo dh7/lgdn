@@ -1,1 +1,0 @@
-Les aides ne devraient plus être déclenchées par seuil mais attribuées proportionnellement. Ne plus utiliser la non imposition comme critère.

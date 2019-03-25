@@ -1,1 +1,0 @@
-Supprimer les effets de seuils qui sont trop pénalisant ( effet de couperet )

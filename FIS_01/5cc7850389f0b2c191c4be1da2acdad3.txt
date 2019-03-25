@@ -1,1 +1,0 @@
-Supprimer la Tom et la taxe d habitation et ajuster la taxe foncière en fonction de la valeur du bien. ( 0,5% de la valeur du bien pour un propriétaire occupant, 1% pour un propriétaire non occupant et 2% pour un non résident fiscal français.

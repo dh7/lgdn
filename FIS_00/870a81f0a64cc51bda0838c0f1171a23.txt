@@ -1,1 +1,0 @@
-Un access à l'information par un listing des dépenses regroupées par thème puis plus en détail.

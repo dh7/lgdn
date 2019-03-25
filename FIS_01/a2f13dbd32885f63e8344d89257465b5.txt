@@ -1,1 +1,0 @@
-regrouper les taxes et les aides en fonction des revenus et du patrimoine: trop de taxes et d'aides disparates et ponctuelles

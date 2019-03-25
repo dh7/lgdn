@@ -1,1 +1,0 @@
-Afficher le budget et la part de l'investissements de l'état dans chaque institution (Hôpital, Lycée, etc...) Généraliser la possibilité de choisir l'affectation d'une partie de l'impôt de chacun via un don à une association Informer chaque année chaque citoyen de la ventilation fractionnée par poste budgétaire de son propre IR

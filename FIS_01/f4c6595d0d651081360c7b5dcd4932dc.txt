@@ -1,1 +1,0 @@
-Utiliser pour l'analyse et l'allocation de moyens les médianes et non plus les moyennes.  Celà permettrait de créer des histogrammes des évènements et de distribuer en biseau en  annulant les effets de seuil   Utiliser un outil extrèmement performant la LOI  DE PARETTO qui a comme origine le fait que, en général, 20¨% DES FAITS PRODUISENT 80% DES  RESULTATS

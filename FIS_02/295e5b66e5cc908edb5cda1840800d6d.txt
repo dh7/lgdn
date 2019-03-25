@@ -1,1 +1,0 @@
-Supprimer toutes les taxes sur les revenus ayant un rôle prédestiné et les regrouper dans la TVA. Cela permettrait de taxer les produits importés. Taxer fortement les produits importés qui ne respectent pas les normes Françaises.

@@ -1,1 +1,0 @@
-Supprimer les effets de seuil ie 0 (je n'ai droit à rien) ou 1 (j'y ai droit) pour accompagner les transitions (du chômage vers une activité partielle pour tous), la fin de carrière

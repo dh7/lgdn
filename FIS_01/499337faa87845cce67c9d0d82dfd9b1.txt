@@ -1,1 +1,0 @@
-appliquer une csg progressive en fonction des ressources allocations familiales dégressives en fonction des ressources tranches d'impôt plus progressive

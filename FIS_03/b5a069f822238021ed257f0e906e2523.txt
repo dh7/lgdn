@@ -1,1 +1,0 @@
-Diminuer le train de vie de l'état, des commissions x et y et z, des regions. Bref de tout ce qi est public

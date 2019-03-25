@@ -1,1 +1,0 @@
-Diminuer les doublons entre les différentes administrations (Etat, Regions et Départements) Pourquoi avoir divisé par deux le nombre de cantons et avoir mis deux conseillers par canton au lieu d'un seul?

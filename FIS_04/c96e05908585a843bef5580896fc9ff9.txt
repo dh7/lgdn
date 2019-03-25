@@ -1,1 +1,0 @@
-Simplifier les différentes aides sociales en uniformisant les conditions de ressources et en créant une entité qui ferait office de guichet unique. Concernant les APL pour les étudiants toujours rattachés au foyer fiscal de leurs parents: inclure les revenus des parents dans le calcul des droits aux APL.

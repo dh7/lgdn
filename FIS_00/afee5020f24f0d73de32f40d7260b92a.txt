@@ -1,1 +1,0 @@
-Donner la liste et le montant global de toutes les contributions des différentes catégories de citoyens.

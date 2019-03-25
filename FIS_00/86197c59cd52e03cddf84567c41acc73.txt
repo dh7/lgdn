@@ -1,1 +1,0 @@
-Un tableau de répartition (pour chacun des type d'impôt : revenus, taxe foncière, taxe d'habitation [ça existe toujours pour moi et d'autres], CSG, TVA...), plus complet que ceux qui ont circulé jusqu'à maintenant. Permettant de voir et comprendre la répartition en pourcentages (pour 100 € d'impôt) attribuée à chacun des postes.

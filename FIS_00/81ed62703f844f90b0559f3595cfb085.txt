@@ -1,1 +1,0 @@
-donner le cout des prestation ; par exemple dire quel est le cout reel de l'ecole chaque année, d'un acte medical, etc..

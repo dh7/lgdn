@@ -1,1 +1,0 @@
-limiter les écarts de salaires (entre 1 et 20x le smig) et récupérer tout ce qui dépasse

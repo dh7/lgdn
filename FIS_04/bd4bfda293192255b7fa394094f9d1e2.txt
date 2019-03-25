@@ -1,1 +1,0 @@
-- Conditionner, davantage qu'actuellement, le montant des allocations familiales en fonction des revenus du foyer.  - Prendre en compte les revenus des 2 parents pour l'attribution de l'aide au logement des étudiants, y compris lorsque ceux-ci sont séparés.

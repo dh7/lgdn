@@ -1,1 +1,0 @@
-La mise en place d’un indicateur de performance unique qui s’appliquerait à chaque administration.

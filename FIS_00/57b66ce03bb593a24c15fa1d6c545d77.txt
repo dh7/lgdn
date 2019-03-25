@@ -1,1 +1,0 @@
-Plutôt que d'envoyer une fiche d'impôts avec marqué "Votre impôts = XXX€", envoyer une note du type : "Votre contribution à la défense = XXX€ Votre contribution à l'éducation = XXX€ etc..." Cela permettrait de savoir directement dans quoi va notre argent, de voir d'une année à l'autre s'il y a du changement et de valoriser l'acte de payer des impôts

@@ -1,1 +1,0 @@
-Établir un budget par ministère en indiquant la destination des dépenses et l'origine des ressources et ainsi avoir des budgets équilibrés. Si on veut augmenter une dépense il faut d'abord chercher une ressource et pas l'inverse

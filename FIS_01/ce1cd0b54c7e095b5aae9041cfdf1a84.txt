@@ -1,1 +1,0 @@
-- Prendre en compte les Équivalents Temps Plein dans la détermination du taux de l'IS (base imposable / ETP détermine le taux et pas seulement la base imposable - système similaire à l'IR). - augmenter (malusser) l'IS des sociétés dont la répartition des salaires est non vertueuse (salaire max plus de 10 fois le salaire min ou salaire max plus de 5 fois le salaire median).

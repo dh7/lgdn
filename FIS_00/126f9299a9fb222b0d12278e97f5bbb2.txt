@@ -1,1 +1,0 @@
-faire reconnaître la valeur d'un certain nombre de prestations communément utilisées et valorisées par les utilisateurs (hôpitaux, sauvetages...) en émettant une facture au bénéficiaire indiquant le vrai prix (coût de revient)

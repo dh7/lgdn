@@ -1,1 +1,0 @@
-Attribuée une TVA différente en fonction des revenus (style quotient)

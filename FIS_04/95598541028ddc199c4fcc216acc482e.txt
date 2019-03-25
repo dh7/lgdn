@@ -1,1 +1,0 @@
-Il faudrait que toutes les aides soient compilées dans un même compteur afin de réduire le montant global. L'objectif est de montrer que certains reçoivent plus d'argent que ceux qui travaillent, ce ne devrait pas être permis. Il faut également comptabiliser dans ce compteur l'argent qu'ils ne dépensent pas (Trajet gratuit, cantine moins cher pour les enfants, etc)

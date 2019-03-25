@@ -1,1 +1,0 @@
-Suppression des conditions de ressource du conjoint pour ne prendre en compte que les ressources de la personne handicapé seule

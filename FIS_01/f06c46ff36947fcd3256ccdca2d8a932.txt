@@ -1,1 +1,0 @@
-Supprimer les effets de seuil avec des impositions plus lissées dans leur augmentation par un système de pourcentage beaucoup plus progressif pour l'imposition. Idem pour le versement des prestations sociales.

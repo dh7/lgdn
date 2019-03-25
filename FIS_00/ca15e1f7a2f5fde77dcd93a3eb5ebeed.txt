@@ -1,1 +1,0 @@
-Simplifier feuille de paye a maximum 5 lignes et insérer une info en graphique qui explique ou l'argent va.

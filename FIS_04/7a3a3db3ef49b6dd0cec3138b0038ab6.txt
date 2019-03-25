@@ -1,1 +1,0 @@
-allocations familiales fonction des revenus. (suppression pour les hauts revenus, mais en gardant l'allocation congé parental, favorisant ce congé, pour chacun des parents)

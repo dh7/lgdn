@@ -1,1 +1,0 @@
-simplifier le système plutôt que de multiplier les ajustements (par exemple une allocation universelle...)

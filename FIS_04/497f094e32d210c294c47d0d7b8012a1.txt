@@ -1,1 +1,0 @@
-supprimer les alloc des parents qui ne s'occupent pas de leurs enfants (dégradations faites par des mineurs, absentéisme à l'école.......)

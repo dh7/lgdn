@@ -1,1 +1,0 @@
-Donner le cout réel des investissements et des arbitrages budgétaires et demander un arbitrage sur certains postes à chaque présentation budgétaire annuelle et mettre l'information sur le delta entre prévisionnel et réalisé et les responsabilités de chacun sur des dépassements eventuels

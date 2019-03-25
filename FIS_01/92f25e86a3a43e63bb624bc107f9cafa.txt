@@ -1,1 +1,0 @@
-Fixer un "reste à vivre" minimum qui pourrait être indexé sur le revenu

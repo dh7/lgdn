@@ -1,1 +1,0 @@
-Proportion au lieu de tranches, il faut revoir le calcul car quant on prend 20%de 1 000 000 euro il en reste plus que pour 100 000 euro

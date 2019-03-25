@@ -1,1 +1,0 @@
-Supprimer tous ceux dont la recette est inférieure à 4x le coût des moyens mis en oeuvre pour les collecter

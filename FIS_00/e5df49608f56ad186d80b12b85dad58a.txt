@@ -1,1 +1,0 @@
-Afficher dans chaque service public le cout de celui-ci pour la collectivite car tout a un cout.

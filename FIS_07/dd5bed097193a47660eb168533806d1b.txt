@@ -1,1 +1,0 @@
-Il faut simplifier l'état, revoir les fonctions régaliennes et supprimer peu ou pas utiles

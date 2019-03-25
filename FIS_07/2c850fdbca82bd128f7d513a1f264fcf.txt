@@ -1,1 +1,0 @@
-Il faut séparer la partie collecte pour laquelle aucune déduction, optimisation, etc ne doit être possible, de la partie subvention, qui doit devenir directe (et non plus indirecte comme avec les réductions et crédits d'impôts) afin de faciliter les évaluations des différentes politiques mises en oeuvre

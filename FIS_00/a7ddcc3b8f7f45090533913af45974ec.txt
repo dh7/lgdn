@@ -1,1 +1,0 @@
-Chaque début d'année un tableau synthétique des recettes provenant des impôts et des dépenses correspondantes en pourcentages devraient être affiché sur internet.

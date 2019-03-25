@@ -1,1 +1,0 @@
-Affichez les services publiques avec la mention : "ce service public vous est offert par x% de l'état (IR ou TVA), y% de votre région (Taxe ...), z% de votre département (taxe ...) et a% de votre mairie (taxe d'habitation).

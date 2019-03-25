@@ -1,1 +1,0 @@
-créer un site d'information sur le net où le citoyen pourra consulter l'état des dépenses effectuées et les projet de dépenses pour chaque chapitre de dépenses et par secteur (ville, département, région).

@@ -1,1 +1,0 @@
-Intégrer dans le calcul des impôts à payer pour une entreprise un ratio "bénéfices divisé par le nombre d'employés". une entreprise faisant travailler plus de personnes paierait moins d'impôts qu'une autre qui ferait le même bénéfice avec moins d'employés. De cette façon, l'emploi ne serait plus forcément la variable d'ajustement quand une entreprise veut optimiser sa fiscalité.

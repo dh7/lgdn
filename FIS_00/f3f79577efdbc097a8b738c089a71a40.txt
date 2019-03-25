@@ -1,1 +1,0 @@
-donner un accès total détaillé à l'ensemble des dépenses, y compris les dépenses des politiques. Bien entendu, une version macro est souhaitable pour voir les grandes ligne, mais avec possibilité de "zoomer" sur le détail si souhaité

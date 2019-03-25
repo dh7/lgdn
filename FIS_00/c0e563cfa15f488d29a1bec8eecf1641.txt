@@ -1,1 +1,0 @@
-Un site simple et clair listant les entrées d'argent de l'état, et ses pertes.

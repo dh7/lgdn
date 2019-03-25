@@ -1,1 +1,0 @@
-Enlever le fait que si un étudiant à les APEL, il n'est plus compté dans le foyer fiscal car il est toujours à la charge de sa famille pendant cette période.Plus de moyens pour la santé, l'éducation, les services publics de l'emploi

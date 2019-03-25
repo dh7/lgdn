@@ -1,1 +1,0 @@
-Diminuer les excès engendrés par les communautés de commune (doublon, triplon des services internes de chaque commune)

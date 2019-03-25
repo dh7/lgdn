@@ -1,1 +1,0 @@
-Lister tous les impôts existants, combien ils rapportent, et ou va l'argent.

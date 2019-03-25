@@ -1,1 +1,0 @@
-Simplifier les usines à gaz des impôts. Par exemple, il existe une CSG déductible et une non déductible. Pourquoi ne pas simplifier en ne mettant qu'une CSG déductible? Il existe sûrement des milliers d'exemples. Pourquoi tant de pages dans le Code Fiscal?

@@ -1,1 +1,0 @@
-Faire varier le taux de TVA selon le type de produits (ex : 0% sur ceux de 1ère nécessité & Bio ; 40% sur les produits de luxe) Faire varier le taux de TVA sur les produits importés fonction d'un nouvel indice : l'indice social (retraite, chômage, naissance, etc) de chaque pays pour lutter contre le dumping social

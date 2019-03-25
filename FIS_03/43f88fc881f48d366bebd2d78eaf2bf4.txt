@@ -1,1 +1,0 @@
-Supprimer les collectivités inutiles (Départements, Intercom...) et les comités inutiles. Ne garder que ce qui sert (Mairies, Régions, Etat) et réduire le nombre d'élus.

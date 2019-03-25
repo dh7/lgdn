@@ -1,1 +1,0 @@
-expulser les fichier S et mettre en place des compteurs eau et electricité dans les camps de gitans.

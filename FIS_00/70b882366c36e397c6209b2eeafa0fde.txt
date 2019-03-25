@@ -1,1 +1,0 @@
-Envoi d'un mail chaque fin de mois : "Vous avez payé  x euros d'impots au de mois ...  , c'est x euros pour....  x euros pour.... x euros pour ...."

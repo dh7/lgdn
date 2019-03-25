@@ -1,1 +1,0 @@
-Regrouper les différentes aides sociales existantes (APL, RSA, CMU...) pour ne faire qu'une seule aide.

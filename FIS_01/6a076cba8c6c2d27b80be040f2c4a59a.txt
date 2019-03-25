@@ -1,1 +1,0 @@
-Ajouter des paliers d'imposition en fonction des revenus (tous les revenus) pouvant aller jusqu'à 99.9% pour fixer un plafond maximal en valeur (et non en pourcentage).

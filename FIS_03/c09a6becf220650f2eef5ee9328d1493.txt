@@ -1,1 +1,0 @@
-Adapter les impots en fonctions des revenus 

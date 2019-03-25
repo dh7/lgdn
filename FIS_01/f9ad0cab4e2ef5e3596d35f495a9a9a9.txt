@@ -1,1 +1,0 @@
-Mettre TOUT le monde sous les mêmes règles de base.  Avoir moins de cas d'exceptions qui favorisent un petit nombre.

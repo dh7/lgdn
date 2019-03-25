@@ -1,1 +1,0 @@
-Surtaxer les produits alcoolisés, montant en fonction du taux d’alcool par litre. Taxer davantage les successions et plafonner le droit à héritage

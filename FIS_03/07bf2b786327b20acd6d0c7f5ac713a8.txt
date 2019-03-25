@@ -1,1 +1,0 @@
-Arrêter l'imposition par tranches et la rendre suivant une fonction de puissance non entière (voir plus haut) dans le but de taxer proportionnellement au reste à vivre. 

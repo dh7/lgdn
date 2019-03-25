@@ -1,1 +1,0 @@
-Suppression de tout les impôts et un tva 5% pour tout produits et interdictions de vendre à +x1.5

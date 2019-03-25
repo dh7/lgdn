@@ -1,1 +1,0 @@
-- Augmenter le nombre de tranches - Chaque citoyen doit payer un impôt sur les revenus

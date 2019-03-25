@@ -1,1 +1,0 @@
-Ne plus raisonner en seuils et en plafonds mais en pourcentages de revenus ou de salaires avec de la degraissivité

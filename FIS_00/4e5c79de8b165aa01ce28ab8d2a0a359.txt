@@ -1,1 +1,0 @@
-Afficher dans l’accueil d'une administration le montant de notre contribution à son fonctionnement, et/ou nous informer du coût de notre démarche si elle avait était payante ou gérer par un organisme privé

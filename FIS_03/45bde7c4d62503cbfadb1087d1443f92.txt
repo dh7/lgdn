@@ -1,1 +1,0 @@
-simplifier le systeme actuel en le remplacant par deux contributions maximum afin de faciliter les controles

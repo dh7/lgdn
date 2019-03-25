@@ -1,1 +1,0 @@
-mise en place de ma reforme, en effet la taxe sera affectée d'un coefficient tenant compte de la masse salariale du vendeur par rapport à son chiffre d'affaire. 

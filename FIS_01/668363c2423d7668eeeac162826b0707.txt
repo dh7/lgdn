@@ -1,1 +1,0 @@
-Supprimer tous les effets de seuil qui font que quelques euros au-delà du seuil peuvent se traduire par quelques dizaines d’euros en plus de taxe (exemple la suppression de la taxe d’habitation) ou d’aide en moins. Il doit être possible d’établir des formules de lissage faciles à appliquer.

@@ -1,1 +1,0 @@
-Disposer pour chaque foyer fiscal en fin d'année de la somme des impots et taxes versées  (impots, contributions, charges sociales, patronales) et la somme des participations recues de la part de l'état, des collectivités territoriales (ecole, sante, sécurité...) et les aides sociales. Ceci a pour objectif de mieux montrer l'intérêt de l'impôt et la contribution de chacun

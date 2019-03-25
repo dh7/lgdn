@@ -1,1 +1,0 @@
-- Supprimer toutes les niches fiscales et intégrer dans le revenu toutes les aides touchées (APL, RSA, Allocations familiales, participation du CE de l'entreprise, etc.... - Revoir les plafonds de l'imposition. - Simplifier les formulaires administratifs

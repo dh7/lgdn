@@ -1,1 +1,0 @@
-Simplifier le systeme des aides pour que les attributions soient plus efficaces. On rend le systeme transparent, simple et presque automatique, les agents chassent la fraude et accompagnent rellement les gens dans le besoin au lieu de faire l’administratif

@@ -1,1 +1,0 @@
-- Faire une liaison directe entre les impots et les aides perçus par chaque contribuable. - Créer un dossier unique utilisable par chaque travailleur social et percepteur des impots.. Cependant, ce dossier unique doit être extrêmement sécurisée (journalisation des connexions, des donnees vues et extraite (imprim écran, copié collé....)

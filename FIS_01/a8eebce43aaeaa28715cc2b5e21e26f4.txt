@@ -1,1 +1,0 @@
-- Simplifier les tranches d'IR - Significativement élargir la base de l'IR - même symboliquement (sommes modestes) il faudrait qu'une majorité de Français contribuent

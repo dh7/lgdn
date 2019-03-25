@@ -1,1 +1,0 @@
-Il fait revoir l'ensemble des allocations. Regrouper leur versement dans un seul service permettrait un meilleur contrôle de l’ensemble des aides versées pour chaque allocataire et éviter des potentiels erreurs et/ou doublons.

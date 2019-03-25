@@ -1,1 +1,0 @@
-Création d'un site internet regroupant l'ensemble des entrées et des sorties financières par thèmes. Site intuitif. Exemple: page d'accueil = nos finances : éducation, santé, sécurité ... Chaque mot clé renvoi à une fiche descriptive des budgets en "temps réel" (= délai trimestriel). Dans le cadre Européen faire la même chose en autant de langues pratiquées.

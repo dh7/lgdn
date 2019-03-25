@@ -1,1 +1,0 @@
-Lors du calcul de l'impôt sur le revenu, plafonner le nombre de part à 4. Ce qui correspond à une famille de 3 enfants.

@@ -1,1 +1,0 @@
-Generaliser le prélèvement a la source, plus de tranches. Sur les actifs 1% de 500 à 1200 euros de revenus, 3% de 1201 a 2500, 5% de 2501 à 3500, 8% de 3501 a 5000, 10% de 5001 à 10000, 15% 10001 a 30000, 20% max à partir de 30001.Pas d impôt pour les retraites inférieures à 2500 euros. Au delà on reprend les % des tranches des actifs divisés par 2.

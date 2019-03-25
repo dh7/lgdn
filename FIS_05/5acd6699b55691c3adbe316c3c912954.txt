@@ -1,1 +1,0 @@
-classe moyenne avec plus de simplification et de lisibilité,

@@ -1,1 +1,0 @@
-Réduire ou supprimer les effets de seuil en calculant par proportion et si besoin par tranche à partir du montant décidé. Exemple: pour un impôt de x% appliqué à partir de 100 eur, on prend x% sur la fraction supérieure à 100 eur au lieu d'un montant fixe

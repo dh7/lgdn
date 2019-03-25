@@ -1,1 +1,0 @@
-Créer un site internet montrant l'exécution cutuon du budget de l'Etat en temps réel (% d'exécution, répartition,...) car nous sommes tous l'État et devront donc savoir comment vont nos finances

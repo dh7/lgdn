@@ -1,1 +1,0 @@
-Généraliser le simulateur de Piketty (pour une révolution fiscale): que chacun puisse voir ce que paye quelqu'un dans une situation de patrimoine et de revenu donnée.

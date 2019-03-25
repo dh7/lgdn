@@ -1,1 +1,0 @@
-Arreter avec les barèmes de ressources pour des aides plus justes : Par exemple, si les barèmes d'une aide sociale sont - de 1000 euros de revenus = 100 euros d'aides - de 800 euros de revenus = 200 euros d'aides Si on touche 850 euros, cela n'est juste, on aura au final 950 euros alors qu'une personne qui touche, par exemple, 780 € de revenus aura au final 980 € avec l'aide.

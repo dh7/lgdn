@@ -1,1 +1,0 @@
-- Présenter au citoyen un rapport annuel simplifié montrant les recettes et les coûts  par type. - Etre plus précis sur  la répartition des recettes (décomposer en différents item : TVA, IRPP, CSG CRDS etc..) et sur leur affectation "réelle" au niveau des dépenses (pour éviter les transferts d'un poste à l'autre).

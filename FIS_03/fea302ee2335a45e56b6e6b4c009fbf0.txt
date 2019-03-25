@@ -1,1 +1,0 @@
-Jouer sur la durée d'activité en compensant pour les arrêts liés à la famille. L'age de départ ne peut être le critère car à 60 ans par exemple est de 24 ans pour les hommes cadres mais de 19,6 ans poour un ouvrier. Il serait donc juste, toujours par exemple que l'ouvrier puisse partir 4 ans plus tôt.

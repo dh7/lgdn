@@ -1,1 +1,0 @@
-Toute allocation devrait être sous conditions de ressources.

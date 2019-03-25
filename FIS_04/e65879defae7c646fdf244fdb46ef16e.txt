@@ -1,1 +1,0 @@
-Vérifier bien les situations au cas par cas dans un aspect global.

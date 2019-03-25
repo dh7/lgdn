@@ -1,1 +1,0 @@
-Limiter les déductions fiscales dues aux niches fiscales à la tranche d'impôt inférieure. Ainsi par exemple quelqu'un se trouvant à la tranche d'impôt sur le revenu des 45% ne pourra descendre sous 41%, quelqu'un se trouvant à la tranche des 41% ne pourra descendre sous les 30%, et quelqu'un se trouvant à la tranche des 30% ne pourra descendre sous les 14%.

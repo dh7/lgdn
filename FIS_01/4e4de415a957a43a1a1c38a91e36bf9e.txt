@@ -1,1 +1,0 @@
-- supprimer les seuils pour les aides et les impôts et les rendre entièrement progressifs. (les seuils pénalisent toujours ceux qui sont aux limites.) - comptabiliser et imposer toutes les aides et allocations diverses au même titre que les revenus.

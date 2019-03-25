@@ -1,1 +1,0 @@
-- Conditionner la nationalité française au paiement des impôts en France (ou le delta entre les impôts payés à l'étranger et ce qui devrait être payé en France, comme c'est fait aux USA)

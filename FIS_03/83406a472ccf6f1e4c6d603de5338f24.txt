@@ -1,1 +1,0 @@
-Calculer le montant de la retraite sur le temps de cotisation (le nombre de trimestre/mois/ans) et plus sur le montant de ses cotisations.  Sur le même principe que ce qui est fait actuellement pour la sécurité sociale : si je gagne beaucoup, je cotise beaucoup mais j'ai les même soins que tous le monde.

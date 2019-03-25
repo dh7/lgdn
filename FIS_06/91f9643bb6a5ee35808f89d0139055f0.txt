@@ -1,1 +1,0 @@
-Gestion de la surpopulation, avec un contrôle des naissances et du solde migratoire. Un enfant ne devrait naître que si ses parents ont les moyens financiers et affectifs de le mener à une vie heureuse.

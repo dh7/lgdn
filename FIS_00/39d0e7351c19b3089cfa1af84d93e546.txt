@@ -1,1 +1,0 @@
-envoyer par mail le budget de l'état et ses emplois

@@ -1,1 +1,0 @@
-Le controle doit permettre de savoir a un jour J les aides versees a tort, trop longtemps, sur fausse declaration a condition que des fichiers croisés permettent d 'analyser la situation du demandeur

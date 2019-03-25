@@ -1,1 +1,0 @@
-- simplifier le code fiscal trop complexe et incompréhensible - diminuer le nombre de taxe pour éviter de payer pour tout et n'importe quoi en créant l'impression d'être juste une vache à lait - supprimer l'impot sur le revenu et le remplacer par une ''CSG'' simplifier sur l'ensemble des revenus de toutes natures

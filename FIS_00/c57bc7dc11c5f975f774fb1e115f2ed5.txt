@@ -1,1 +1,0 @@
-Préciser dans un programme scolaire obligatoire simple comment fonctionnent les recettes et dépenses du pays et ce que coûtent les services publics. Afficher dans certains services publics (par exemple les écoles) le coût annuel par bénéficiaire (élève par exemple). A la fin de chaque cycle d'étude, remettre à l'élève et à sa famille, le coût de ces études.

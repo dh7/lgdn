@@ -1,1 +1,0 @@
-Plus c'est simple mieux c'est. Une fois revenus enregistrés, le citoyen doit voir en ligne son montant d'impôts. A chaque opération (ajout d'enfants, investissements, dons, ...) il doit voir le montant de son impôt changer.

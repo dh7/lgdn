@@ -1,1 +1,0 @@
-Identifier le rôle que l'on veut pour l'état, et donc son périmètre d'intervention. Limiter les dépenses à ces domaines

@@ -1,1 +1,0 @@
-dans la déclaration rsi urssaf , ne plus  declarer les frais d'envois comme benefices ex: je vend un produit 5€ ,frais d'envoi 24,30€ = 29,30€ et je paye des charges sur 29,30€ ,resultat j'ai vendu a perte . incroyable mais vrai

@@ -1,1 +1,0 @@
-Limiter le découpage sur l'utilisation des impôts fonciers entre la commune / le département / la région et l'état. Donner par exemple 50 % pour la commune et 50% pour la région et non x découpages et x milles feuilles administratifs.

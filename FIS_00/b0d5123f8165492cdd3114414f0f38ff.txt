@@ -1,1 +1,0 @@
-- un site Internet présentant toutes les recettes/dépenses de l'Etat, comme un bilan comptable mais en plus détaillé. - un fois l'an, chaque foyer français pourrait recevoir un document avec ce qu'il a reçu de l'Etat (remboursements Sécurité Sociale, aides...).

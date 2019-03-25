@@ -1,1 +1,0 @@
-Diminuer le nombre de parts des enfants dans le calcul du quotient familial, et supprimer les allocations familiales quand le gain d'IR dû au quotient familial devient supérieur aux montants des allocations familiales (avec un effet biseau éventuellement).

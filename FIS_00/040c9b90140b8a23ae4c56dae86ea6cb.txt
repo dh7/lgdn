@@ -1,1 +1,0 @@
-Simplifier, unifier toutes les aides et en général simplifier les modes de gestion des ressources publiques.

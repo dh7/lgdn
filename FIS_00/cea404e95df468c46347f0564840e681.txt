@@ -1,1 +1,0 @@
-limiter la communication à quelques données, toujours les mêmes, plutôt que de noyer le public sous des masses de chiffres et des discours sur les objectifs du type "faire ensorte que..."

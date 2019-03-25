@@ -1,1 +1,0 @@
-Bien refacturer les interventions (pompier, gendarmerie) lorsqu'il s'agit d'un acte délibéré ou d'une imprudence avérée de la personne ou par le responsable d'un sinistre La CPAM doit être indemnisée à 100% des frais occasionnés par un accident

@@ -1,1 +1,0 @@
-- donner les prestations familiales à toutes les familles, proportionnellement au nombre d'enfants (avec un maximum de 5 par ex), et sans conditions de ressources (sauf foyer très aisé > 7.500 €)

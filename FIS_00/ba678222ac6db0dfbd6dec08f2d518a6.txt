@@ -1,1 +1,0 @@
-Un site web ou toutes les dépenses de l’État sont énumérées dans un tableau "recettes", "dépenses" avec pour chaque lignes un lien expliquant les détails de cette dépense ou recette. . Avec l’impôt a la source il devra être mis a jour chaque mois. Et de grâce une présentation simple pas élaborée par un énarque.

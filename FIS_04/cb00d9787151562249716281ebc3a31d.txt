@@ -1,1 +1,0 @@
-Supprimer les allocations aux parents qui n'ont plus leurs enfants à charge (enfants placés), que les allocations soient en proportion des revenus et plafonnés par foyer. Allocation max à 4 enfants par exemple.

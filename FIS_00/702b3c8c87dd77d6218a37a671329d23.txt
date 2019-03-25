@@ -1,1 +1,0 @@
-Lors de la déclaration d'impôts, recevoir un récapitulatif qui répartit les montants de notre impôt propre (ex: sur 100€ d'impôt payé, x€ pour les retraites, y€ pour la santé, z€ pour la justice, etc.)

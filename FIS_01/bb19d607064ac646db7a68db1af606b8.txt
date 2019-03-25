@@ -1,1 +1,0 @@
-impots proportionnels en fonction des revenus avec un talon et un taux fixe d'imposition. Par exemple 0% d'impots sur le revenus jusqu'à la valeur du SMIC, puis 20% sur tous les revenus supérieurs (valeur du taux à définir). Il y aura vraiment une égalité sur l'impots.

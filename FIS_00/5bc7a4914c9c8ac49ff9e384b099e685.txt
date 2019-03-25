@@ -1,1 +1,0 @@
-Il faut bâtir un site d'information global sur les dépenses publiques, donner les paramètres d'analyse et produire les résultats mensuellement par natures de dépenses.

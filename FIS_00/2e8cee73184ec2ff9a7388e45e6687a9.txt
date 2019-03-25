@@ -1,1 +1,0 @@
-Envoyer par email un rapport succinct sur l’utilisation des impôts et des taxes.

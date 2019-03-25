@@ -1,1 +1,0 @@
-Supprimer la CSG et le RDS qui n'ont pas été créés pour perdurer. Supprimer la TVA sur les produits de première nécessité. Revoir la liste de ces produits de 1ere nécessité.

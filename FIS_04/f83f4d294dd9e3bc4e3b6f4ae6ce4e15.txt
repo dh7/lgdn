@@ -1,1 +1,0 @@
-Il faudrait que les CAF soient dégressifs en fonction du nombre d'enfants. C'est le premier qui coute le plus chère et avant d'avoir 3 enfants, il faut en avoir 1.

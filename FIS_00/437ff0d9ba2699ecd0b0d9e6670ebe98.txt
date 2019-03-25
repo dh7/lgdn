@@ -1,1 +1,0 @@
-Donner le montant des budgets par ministère, et détailler l'utilisation qui en sera faite

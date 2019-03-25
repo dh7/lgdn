@@ -1,1 +1,0 @@
-Afficher une répartition claire du budget par département et par catégorie (Sécurité, Santé, Education, Transport, Energie, Logement, Administration)

@@ -1,1 +1,0 @@
-Créer un site internet vulgarisé dans lequel chaque citoyen pourrait visualiser l'utilisation qui est faite de l'impôt qu'il paye. L'état ne se justifie pas suffisamment auprès des citoyens de l'utilisation qu'il fait de leur argent, et de la manière dont ils en bénéficient par la suite.

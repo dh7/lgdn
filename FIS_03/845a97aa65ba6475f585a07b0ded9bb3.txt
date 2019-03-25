@@ -1,1 +1,0 @@
-Simplifier toutes les dépenses sociales. Trop d'aides illisibles, les personnes sont perdues, trop d'administratif... le mille feuille des dépenses sociales sont à revoir avec une limite haute (comme le bouclier fiscal). On coche des cases, ça calcule automatiquement les aides possibles en une fois.

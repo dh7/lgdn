@@ -1,1 +1,0 @@
-Regrouper les aides en une seule qui serait calculée par rapport aux revenus avec un barème. Que cette aide sociale soit soumise au calcul de l'impôt sur le revenu.

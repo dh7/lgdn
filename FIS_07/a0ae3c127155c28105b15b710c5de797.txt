@@ -1,1 +1,0 @@
-simplifier le mode de calcul des impôts, supprimer les impôts obsolètes ou ridicules ou de niche, qui prennent beaucoup de temps à gérer aux actifs, et donc d'argent à tout le monde, contribuables comme administration fiscale

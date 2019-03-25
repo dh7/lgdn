@@ -1,1 +1,0 @@
-Supprimer toutes les petites taxes illisibles. Ne conserver que des impôts simples et à large assiette.

@@ -1,1 +1,0 @@
-- Supprimer la CSG non déductible qui est un impôt sur un impôt déjà payer en terme de CSG - Suppression TVA appliquée sur les taxes comme par exemple la TICGN, TCFE, CSPE, CTA.......car là encore ce sont des taxes sur des taxes qui pèsent sur le pouvoir d'achat des français.

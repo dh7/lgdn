@@ -1,1 +1,0 @@
-Les associations produisent des charts montrant comment les montants récoltés en don sont répartis entre les différents postes de dépense. Cela a sûrement un côté un peu simpliste mais serait une bonne base pour comprendre comment les impôts sont utilisés.

@@ -1,1 +1,0 @@
-simplifier et unifier vers un guichet unique pour toutes les aides / supprimer des effets de seuil en instaurant plus de proportionnalité et de pourcentage dans les modes de calcul

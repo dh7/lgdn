@@ -1,1 +1,0 @@
-Envoyer la facture à titre d'information d'une hospitalisation, d'une intervention de pompiers, de gendarmes, de police avec les coups rééls pour l'état.

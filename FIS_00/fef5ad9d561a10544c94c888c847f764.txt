@@ -1,1 +1,0 @@
-Créer une application internet ludique pour mieux faire comprendre l’impôt et son usage. Dans chaque établissement public, afficher des indicateurs simples à comprendre et qui permettraient à chaque citoyen de juger de la qualité de l’usage des dotations.

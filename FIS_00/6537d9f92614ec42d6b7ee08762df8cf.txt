@@ -1,1 +1,0 @@
-Créer un site présentant un synthèse moins détaillée que les études INSEE, budgets, cour des comptes, etc. mais suffisamment précise et avec un découpage stable dans le temps

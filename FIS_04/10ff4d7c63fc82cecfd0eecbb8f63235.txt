@@ -1,1 +1,0 @@
-Supprimer toutes les allocations au-delà d'un certain niveau des revenus (exemple : salaire > SMIC x 3), supprimer les allocations familiales au-delà de 3 enfants par foyer.

@@ -1,1 +1,0 @@
-mettre à disposition des citoyens un tableau synthétique avec une colonne "Ressources" (détail de chaque  impôt avec les montants perçus) et et une colonne "Emplois" (affectations des impôts avec les montants).

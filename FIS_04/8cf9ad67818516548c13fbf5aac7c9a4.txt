@@ -1,1 +1,0 @@
-cf ci-avant : une seule allocation regroupant toutes les aides sociales actuelle en fonction des revenus et nbre d'enfants (mais en degressif) ==> mieux distribuer et avec plus de discernement

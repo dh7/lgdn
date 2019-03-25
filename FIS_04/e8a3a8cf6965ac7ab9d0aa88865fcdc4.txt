@@ -1,1 +1,0 @@
-Chômage dans le temps et suppression des allocations si refus de plus de trois offres.

@@ -1,1 +1,0 @@
-Il faut éviter les effets de seuils en créant systématiquement des biseaux (interpolation linéaire entre deux modes).

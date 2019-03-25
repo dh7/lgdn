@@ -1,1 +1,0 @@
-Simplifier en supprimant des niches fiscales, et des calculs comme pour la CSG imposable ou non  Net imposable par rapport à net perçu ( CSG Impôt sur l'Impôt .)

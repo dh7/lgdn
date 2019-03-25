@@ -1,1 +1,0 @@
-Supprimer toutes les primes d'allocations pour les foyers aux revenus aisés (Alloc familiales, prime de rentrée des classes etc..)

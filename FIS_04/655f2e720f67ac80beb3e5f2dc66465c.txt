@@ -1,1 +1,0 @@
-Conditionner certaines aides aux revenus (ex : pas d'allocations chomages supérieures à 2 SMIC, pas d'APL pour mineurs avec parents aux hauts revenus...)

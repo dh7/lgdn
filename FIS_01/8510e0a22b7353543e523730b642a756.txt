@@ -1,1 +1,0 @@
-1/Nettoyage du nombre de taxes et de lois. Suppression des taxes obsolètes et absurdes.  2/Lorsqu'un impôt, une taxe ou une loi est adoptée, évaluer postérieurement son efficacité. Le but a t'il été atteint ? 3/Supprimer les effets de seuil. Progressivité dans tout (tranches d'impôts, décisions, décrets, fiscalité des entreprises... )

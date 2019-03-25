@@ -1,1 +1,0 @@
-Simplifier les règles, vérifier régulièrement et de manière transparente le taux d'imposition global de chaque classe de la population.

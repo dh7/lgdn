@@ -1,1 +1,0 @@
-supprimer les effets de seuils en les remplaçant par les "Courbes a pôles" et la carte vitale pour éviter aux citoyen et entreprises de rester au deca des seuils (exemple pas assez ETI car  les sarl restent au deçà des  50 salaries,  beaucoup moins de chomeurs)

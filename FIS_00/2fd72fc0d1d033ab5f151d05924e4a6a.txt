@@ -1,1 +1,0 @@
-A chaque type de recette, flécher les dépenses qu' elles permettent de financer.

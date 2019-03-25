@@ -1,1 +1,0 @@
-Une refonte complète de notre code des impôts, à réécrire en remettant en cause toutes les exceptions, supprimer le quotient familial (la grande injustice actuelle) et attribuer une allocation par enfant

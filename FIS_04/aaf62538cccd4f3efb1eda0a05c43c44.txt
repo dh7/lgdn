@@ -1,1 +1,0 @@
-- Allocations familiales (ex. prime de naissance, allocation parent isolé, allocation d'aide au logement) - Assurance maladie (CMU, aide médicale de l'état, transport médical et autres dépenses de ce genre, etc.)

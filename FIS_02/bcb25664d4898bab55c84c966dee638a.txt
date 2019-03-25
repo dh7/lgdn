@@ -1,1 +1,0 @@
-Supprimer la RDS et supprimer la CSG non déductible pour tout intégrer dans une csg standard

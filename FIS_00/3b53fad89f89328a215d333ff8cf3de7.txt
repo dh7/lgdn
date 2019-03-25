@@ -1,1 +1,0 @@
-mettre à disposition un site simple qui permette de voir la répartition des dépenses de l'état. Le monde avait fait une ébauche de cela

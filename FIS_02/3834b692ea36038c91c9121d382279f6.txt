@@ -1,1 +1,0 @@
-. supprimer la TVA sur les taxes additionnelles sur la consommation (eau, électricité, carburant, etc);  . créer un taux réduit pour les produits frais (fruits et légumes);

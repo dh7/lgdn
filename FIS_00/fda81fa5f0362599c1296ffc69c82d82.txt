@@ -1,1 +1,0 @@
-Un tableau avec les différents postes de dépenses et leur part dans le budget.Présenter l’endettement sous forme d’un ratio actif/passif.

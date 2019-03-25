@@ -1,1 +1,0 @@
-Convertir un impôt (IR ou CSG ?) en impôt par répartition. Le montant total est calculé pour atteindre l'objectif d'équilibre budgétaire voté en loi de finance, actualisé des produits et charges réellement constatées, puis réparti sur l'ensemble des contributeurs. Ainsi aucune loi ne pourra plus passer sans un réel débat sur ses impacts financiers.

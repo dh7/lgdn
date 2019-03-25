@@ -1,1 +1,0 @@
-une seule instance pour toutes les allocations et toutes les aides.

@@ -1,1 +1,0 @@
-Tracer l'impôt sur des dépenses, informer sur comment est evalué le montant de la dépense avant nouvelle taxe ou nouvel impôt.

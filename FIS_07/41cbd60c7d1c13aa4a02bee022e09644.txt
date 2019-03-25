@@ -1,1 +1,0 @@
-Il faut mettre fin aux effets de seuil, imposable / non imposable, en calculant un coefficient d'éligibilité aux aide. Exemple, pour un impôt sur le revenu de 500€ avoir le droit à 75% de l'aide qu'aurait eu le non imposable.

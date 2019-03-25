@@ -1,1 +1,0 @@
-développer un système de taxe des produits en fonction de leurs niveaux de nécessité (produit de première nécessité ou produit de confort) de leur impact environnemental (fabrication, transport, qualité, . . .)

@@ -1,1 +1,0 @@
-supprimer les effets de seuil: plutôt que de déclencher le paiement d'un impôt à partir de x €, appliquer un pourcentage un peu supérieur, puis exonérer les x premiers euros. Par exemple, l'idée de supprimer la TH pour 80% de contribuables seulement me révolte. Elle créée une minorité qui n'a le droit que de payer.

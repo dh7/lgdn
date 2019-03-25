@@ -1,1 +1,0 @@
-tva = 0% sur fruits, légumes non transformés  -  compenser par TVA + sur articles luxe

@@ -1,1 +1,0 @@
-On doit pouvoir visualiser les dépenses effectuées à partir des impôts et taxes nationaux et les dépenses effectuées avec les impôts et taxes locaux. D'autre part il existe des entreprises collectrices de taxes telles que les fournisseurs d'électricité et d'eau dont les contributions vont alimenter certains budgets qui relèvent du domaine public.

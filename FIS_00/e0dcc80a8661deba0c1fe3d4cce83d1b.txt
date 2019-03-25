@@ -1,1 +1,0 @@
-Donner toutes les dépenses de l'état qui n'ont servies à rien. construction abandonnées, routes inutiles etc... on a aujourd'hui les dépenses par grands domaines mais pas suffisamment de transparence.

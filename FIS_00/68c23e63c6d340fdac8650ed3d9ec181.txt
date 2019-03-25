@@ -1,1 +1,0 @@
-Facturer virtuellement tous les services (école, santé, utilisation des routes)lorsque le citoyen utilise un service pour qu'il se rende compte du cout de celui-ci

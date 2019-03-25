@@ -1,1 +1,0 @@
-Supprimer le millefeuille, un seul vecteur qui reprend toutes les aides locales, regionales, publique et privées avec un seul organisme centralisateur et un plafonnement. (on ne paie pas 2 fois sur le même objet)

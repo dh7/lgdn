@@ -1,1 +1,0 @@
-Supprimer COMPLETEMENT une strate entre commune, département, région, état. Coordonner l'ensemble des fonctions de l'état par exemple pour le développement économique : CCI, Chbre des métiers, Commune, Département et région ont des services identiques ????

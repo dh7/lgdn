@@ -1,1 +1,0 @@
-Contrôler les dépenses des ministères, des députés, des sénateurs et des grands commis de l'état.

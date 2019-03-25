@@ -1,1 +1,0 @@
-taxe locales, suppression des doublons locaux: suppression des départements si communauté d'aglo, fusionnement des mairies sous l'aglo transfert des responsabilité du département au régions

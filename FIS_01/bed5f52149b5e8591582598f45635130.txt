@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de la TVA (actuellement, 5% et 20%, je crois) Ne pas aller au-delà d'une taxation de 50% pour la dernière tranche de l'IR Lutter (et afficher les résultats de la lutte) contre l'évasion fiscale Limiter "l'optimisation fiscale" des grands groupes

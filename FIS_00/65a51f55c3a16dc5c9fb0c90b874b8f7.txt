@@ -1,1 +1,0 @@
-Obtenir le coût de certaines structures  (Ecoles, hôpitaux, etc) avec le fonctionnement d'une part et les investissements d'autre part.

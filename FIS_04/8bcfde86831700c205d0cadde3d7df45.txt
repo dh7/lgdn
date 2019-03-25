@@ -1,1 +1,0 @@
-Éliminer les effets de seuil par un calcul progressif sur l'ensemble des prestations

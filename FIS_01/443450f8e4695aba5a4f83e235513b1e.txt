@@ -1,1 +1,0 @@
-- Taxer les entreprises plus sur leur chiffre d'affaire et moins sur leurs bénéfices, de façon à éviter l'évasion des bénéfices - Rendre les amendes routières proportionnelles au revenu du conducteur - Appliquer un taux plat pour l'impot sur le revenu pour tous - pas de niches - pas de complexité

@@ -1,1 +1,0 @@
-Allocation familiales = fonction (revenus du foyer). Parents ne jouant pas leurs roles doivent voir les allocations aller sur un compte bloqué qui leur sera accessible moyennant certaines conditions

@@ -1,1 +1,0 @@
-indexation des retraites en valeur identique pour chaque retraité.En retraite aucun retraité ne mérite d'avoir une indexation supérieure à un autre.(masse salariale des retraites x taux d'indexation divisé par le nombre de retraites) la somme obtenue est ajoutée à chaque retraite .REINDEXER les retraites à cter de 01/01/2020

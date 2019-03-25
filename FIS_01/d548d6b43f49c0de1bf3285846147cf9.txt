@@ -1,1 +1,0 @@
-Différencier le taux le TVA suivant les produits. Taux faible pour les produits de première nécessité (EDF, Gaz, carburants, produits alimentaires...) Taux moyen pour l'habillement, l'électro ménager, équipement de la maison ... Taux fort pour les produits de luxe (bijoux, parfums, voitures prix supérieur à 75 000 euros, bateaux...)

@@ -1,1 +1,0 @@
-fixer un salaire minimum et un salaire maximum pour tous les français.

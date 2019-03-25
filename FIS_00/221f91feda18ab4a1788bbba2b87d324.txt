@@ -1,1 +1,0 @@
-Donner le coût des actions demandés à l'état : le coût d'une opération chirurgicale à la sortie de l'hopital, le coût de remèdes remboursés, le coût de l'année d'un enfant dans son collège ou lycée

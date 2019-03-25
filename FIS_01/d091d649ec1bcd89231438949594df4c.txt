@@ -1,1 +1,0 @@
-Tenir compte des inégalités locales (le SMIC ne représente pas la même chose quand il faut payer un loyer à St Etienne ou à Grenoble !)

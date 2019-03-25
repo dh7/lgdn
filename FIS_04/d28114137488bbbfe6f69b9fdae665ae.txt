@@ -1,1 +1,0 @@
-Toutes les aides qui arrivent par les systèmes à tiroir. Ex telle aide obtenue permet d'accéder à telle autre aide qui a son tour ouvre l'accès a telle autre aide ....etc . Il faut apporter l'aide en fonction d'une situation globale et non d'une combinaison administrative.

@@ -1,1 +1,0 @@
-Mettre en place un tableau de bord "en ligne" de suivi du budget ainsi qu'un forum et un service FAQ permettant au citoyen d'obtenir des informations à la demande.

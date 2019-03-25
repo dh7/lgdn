@@ -1,1 +1,0 @@
-croiser les fichiers afin de vérifier qu'une personne ne touche pas d'attribution en double. exemple RSA et bourse d'étude. pareil dans l'autre sens vérifier que les personnes ont tout ce que à quoi elles ont droit.

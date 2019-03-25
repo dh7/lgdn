@@ -1,1 +1,0 @@
-Montrer l'évolution des dépenses publiques d'une année sur l'autre, en incluant la partie liée à la dette. Pour les dépenses sociales, les mettre en relation avec l'évolution de la population (nb d'actifs/retraités/mineurs/personnes avec un handicap ou sans-emploi...)

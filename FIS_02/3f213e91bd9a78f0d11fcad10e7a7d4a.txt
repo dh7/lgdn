@@ -1,1 +1,0 @@
-Indexer l'impôts sur les revenues en fonction du coût de la vie du lieu d'habitation. (coût du logement..)

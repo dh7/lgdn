@@ -1,1 +1,0 @@
-Adapter les taux de TVA selon l'utilité sociale et l'importation ou non du produit ou de la prestation.

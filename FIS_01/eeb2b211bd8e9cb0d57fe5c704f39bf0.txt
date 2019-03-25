@@ -1,1 +1,0 @@
-Avoir une tranche minimum qui correspondent avec le cout réel d'imposer une personne (exemple si le coût d'imposition est de 60€, impôt dès 61€) et inversement une tranche haute supplémentaire sans jamais arriver à un impôt confiscatoire.

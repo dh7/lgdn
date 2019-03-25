@@ -1,1 +1,0 @@
-Plus de transparence dans les taxes, afficher sur les produits concernés la répartition des taxes.

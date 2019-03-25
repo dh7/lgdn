@@ -1,1 +1,0 @@
-Taxer en fonction des ressources au réel.  Sur les taxes foncières par exemple, les propriétaires qui ont contracté un prêt payent le même montant que ceux qui l'ont entièrement remboursé. Or la réalité économique de ces 2 situations ne sont pas du tout les mêmes et il faut le prendre en compte.

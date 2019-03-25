@@ -1,1 +1,0 @@
-supprimer toutes les taxes ou niches qui ne sont pas efficaces (rapport coût/gain) ou qui n'ont pas d'impact sur les priorités (emploi, santé, ....)

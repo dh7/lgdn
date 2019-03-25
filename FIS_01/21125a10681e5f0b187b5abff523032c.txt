@@ -1,1 +1,0 @@
-- regroupement et transfert des taxes et aides spécifiques vers l'impôt (positif et négatif) - ajout d'une tranche supplémentaire sur les impôts sur les revenus et redistribuer les bénéfices vers les premiers déciles de niveau de vie et les investissements sur la réduction du CO2

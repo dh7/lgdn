@@ -1,1 +1,0 @@
-Il faut automatiser l'attribution du RSA pour ne plus avoir de personnes ayant droit au RSA mais ne l'obtenant pas.

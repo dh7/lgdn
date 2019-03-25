@@ -1,1 +1,0 @@
-Mieux gérer les dossiers et ne pas envoyer les courriers de relance automatique alors que le problème est déjà règlé

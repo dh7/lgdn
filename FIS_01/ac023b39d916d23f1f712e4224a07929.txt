@@ -1,1 +1,0 @@
-Pour l'IR, le prélèvement à la source devrait être efficace; pour le reste...pas d'idée à ce jour

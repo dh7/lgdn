@@ -1,1 +1,0 @@
-Affichage d'un graphique clair concernant la redistribution des impôts et la collectes de celles-ci. Qui paie quoi?Lisibilité des impôts sur les grandes entreprise et les grands groupes (Ex : Total, les Gafa, ....etc)

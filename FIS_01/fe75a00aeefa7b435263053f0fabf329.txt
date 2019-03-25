@@ -1,1 +1,0 @@
-rendre les règles plus simples en limitant le nombre d'exceptions

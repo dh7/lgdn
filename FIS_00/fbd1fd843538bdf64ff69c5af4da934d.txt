@@ -1,1 +1,0 @@
-Organiser un accès public aux données chiffrées de l'administration, toutes les données sauf les données individuelles. Mêmes facilités de recherche que l'administration

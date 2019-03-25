@@ -1,1 +1,0 @@
-Site internet dédié au suivi des dépenses et recettes de l'état avec possibilité de laisser un commentaire.

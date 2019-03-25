@@ -1,1 +1,0 @@
-Mettre en place un pourcentage d'imposition et non une tranche d'imposition. Le pourcentage s'appliquerait à tous les revenus perçus, que ce soit foncier, salaire, retraite, allocations chômage, aide au logement, etc.

@@ -1,1 +1,0 @@
-Toutes et les recalculer en "temps réel" et non en fonction des années N-1 qui rendent des situations aberrantes  (comme par exemple pour les APL) . Par ailleurs sur certaines aides imposer en compensation des "heures civiques" pour pouvoir en bénéficier.

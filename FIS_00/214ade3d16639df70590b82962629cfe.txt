@@ -1,1 +1,0 @@
-Des tableaux de synthèse en Mds euros de toutes les dépenses et toutes les recettes. (et pas en % ou partiaux)

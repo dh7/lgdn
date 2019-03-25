@@ -1,1 +1,0 @@
-- diminuer le nombre de documents administratifs à remplir pour accéder aux aides.  - calculer les aides de la CAF sur la situation actuelle

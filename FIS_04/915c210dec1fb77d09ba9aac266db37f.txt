@@ -1,1 +1,0 @@
-Plafonner et limiter dans le temps les allocations chomage D'une manière générale renforcer les contrôles du bien fondé des allocations.

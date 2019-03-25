@@ -1,1 +1,0 @@
-Peut être utiliser des fonctions mathématiques pour définir les taux d'imposition : cela supprime le problème des tranches.  Évidemment avec un moyen clair et rapide de connaître son taux en fonction de ses revenus ou autre (à la fois numérique et physique évidemment)

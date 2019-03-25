@@ -1,1 +1,0 @@
-Redéfinir une taxe locale unique basée sur les revenus, la localisation, et la valeur de l'habitation.

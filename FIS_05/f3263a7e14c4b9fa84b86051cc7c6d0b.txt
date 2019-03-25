@@ -1,1 +1,0 @@
-- Indexer les pensions de retraite sur l'inflation.  - revoir les taux d'imposition des personnes seules même sans enfant qui paient proportionnellement beaucoup d'impôts, qui ne sont pas aidées et qui paient toutes leurs charges avec un seul salaire. - mieux aider les personnes âgées dependantes hébergées dans des maisons de retraites (ou Ehpad) ou celles qui restent à domicile.

@@ -1,1 +1,0 @@
-intégrer toutes les aides et alloc dans la présentation du revenu et déterminer le revenu disponible réel (après déduction de tous les impots)

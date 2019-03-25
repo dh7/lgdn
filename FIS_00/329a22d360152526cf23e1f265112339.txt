@@ -1,1 +1,0 @@
-une bulletin: éditer au niveau local permettant de voir le retour précis de l'utilisation de l'impôt par poste de dépense et la localisation de la dépense (national/local)

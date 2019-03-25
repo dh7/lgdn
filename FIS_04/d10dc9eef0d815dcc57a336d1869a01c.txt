@@ -1,1 +1,0 @@
-Le calcul de prime d'activite devrait se faire automatiquement par rapport aux revenus declares,aider les travailleurs a temps partiel et les travailleurs qui sont a temps plein qui sont au smic

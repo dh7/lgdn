@@ -1,1 +1,0 @@
-connaitre la répartition par commune des impots payés par ses habitants. Combien les habitants d'une commune ont versé à l'état, et quel montant a été redistribué à cette meme commune.

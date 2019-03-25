@@ -1,1 +1,0 @@
-Lettre électronique permettant de visualiser en absolue et en % la contribution des différents impôts pour chaque mission de l'état.

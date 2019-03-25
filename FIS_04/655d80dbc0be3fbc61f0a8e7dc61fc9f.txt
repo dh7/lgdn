@@ -1,1 +1,0 @@
-Le rsa devrait être conditionné à une activité.

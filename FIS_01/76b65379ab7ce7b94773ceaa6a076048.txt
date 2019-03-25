@@ -1,1 +1,0 @@
-Supprimer lES effets d aubaine des proprietaires  sur les loyers puisqu ils calculent les loyers en fonction des apl sservies

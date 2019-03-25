@@ -1,1 +1,0 @@
-le calcul pour les APL  devrait se faire comme pour le prélèvement à la source, pas par une déclaration des revenus tous les trois mois car ce décalage peut tomber sur un mois ou vous avez un salaire plus bas alors que 3 mois avant le salaire était légèrement supérieur donc pas d'aide.

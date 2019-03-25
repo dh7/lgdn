@@ -1,1 +1,0 @@
-Info distinguant les dépenses financées par des impôts non fléchés et les dépenses financées par des impôts fléchés avec pour chaque catégorie le montant des dépenses et le montant des impôts collectés.

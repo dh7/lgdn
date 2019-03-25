@@ -1,1 +1,0 @@
-Il faudrait lisser les effets de seuils: Si une aide est de 500€ et que nos revenus dépassent de 100€ actuellement on ne la touche pas: on devrait toucher 400€ (c'est souvent ce qui touche la classe moyenne!)

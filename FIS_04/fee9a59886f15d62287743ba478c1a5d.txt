@@ -1,1 +1,0 @@
-Allocation parent isolé : il semble qu’un certain nombre de parents isolés ne soient isolés que sur les formulaires … Il faut donc trouver un moyen simple et efficace de contrôler ce point

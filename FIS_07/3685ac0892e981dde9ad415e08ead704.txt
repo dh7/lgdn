@@ -1,1 +1,0 @@
-Fixer le montant des amendes et contraventions en fonction des revenus.

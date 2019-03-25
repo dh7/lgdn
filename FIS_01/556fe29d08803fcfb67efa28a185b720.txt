@@ -1,1 +1,0 @@
-supprimer les tranches pour éviter l'effet de seuil

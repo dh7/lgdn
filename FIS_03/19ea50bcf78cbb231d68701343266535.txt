@@ -1,1 +1,0 @@
-revoir l'organisation de l'état et supprimer les doublons ou triplons des différentes strates 

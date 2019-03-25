@@ -1,1 +1,0 @@
-Eliminer toutes les aides qui peuvent être remplacées par un montant fixe distribué à tous automatiquement et "universellement" et ne conserver de spécifique que ce qui l'est réellement (handicap, etc), cf. philosophie du Liber.

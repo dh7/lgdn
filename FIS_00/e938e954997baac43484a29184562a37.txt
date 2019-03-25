@@ -1,1 +1,0 @@
-A partir d'un site dédié permettre à chacun de connaître les budgets votés et suivre mensuellement l'évolution des dépenses avec explication des écarts lorsque des dérives existent.

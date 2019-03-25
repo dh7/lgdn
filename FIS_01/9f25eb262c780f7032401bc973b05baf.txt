@@ -1,1 +1,0 @@
-payer un impot en pourcentage et non pas en tranche. car une personne dans la partie basse de la tranche paie autant d'impot que la personne dans la partie haute de sa tranche et c'est injuste. donc plus de tranche juste un pourcentage. par exemple tout le monde paie 5% d’impôts.

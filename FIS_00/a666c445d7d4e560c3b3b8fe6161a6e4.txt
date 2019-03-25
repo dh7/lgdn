@@ -1,1 +1,0 @@
-Produire un bilan annuel simplifié, rappelant a chacun le sommes des revenus, des prestations sociales payees, recues, ainsi que les impots payés et leur utilisation en euros . Chacun verrait ainsi ce qu il paye pour les différents services qu il recoit

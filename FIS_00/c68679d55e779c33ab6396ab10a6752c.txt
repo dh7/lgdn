@@ -1,1 +1,0 @@
-Affichage devant les mairies et envoi de mail avec la liste des dépenses prises en charge par l'Etat et par les collectivités territoriales

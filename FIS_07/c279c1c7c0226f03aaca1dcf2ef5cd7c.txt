@@ -1,1 +1,0 @@
-- Versement automatique des aides quand on y a droit.  - Lutter contre l'évasion fiscale.

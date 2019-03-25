@@ -1,1 +1,0 @@
-Revoir le calcul de l'INSEE concernant l'inflation (le panier de la "ménagère") et rendre son calcul transparent.

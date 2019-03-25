@@ -1,1 +1,0 @@
-déjà simplifier l'imposition. après créer un site internet dédié pour visualiser le montant des impôts  et des taxes prélevé. La section dédié sur impot.gouv est un bon début mais on ne voit pas le détail commune par commune ou on ne voit pas la part des taxes, la part qui est redistribué aux régions.

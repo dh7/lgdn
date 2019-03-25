@@ -1,1 +1,0 @@
-Créer de nouveau taux de TVA en fonction des produits achetés (ex: moins de TVA sur les produits alimentaires, de première nécessité...)

@@ -1,1 +1,0 @@
-Fixer un seuil maximum du nombre d 'enfants( 3 max) au delà du quel montant des allocation familiales sera gelé. Travail utilité publique pour les bénéficiaires du RSA

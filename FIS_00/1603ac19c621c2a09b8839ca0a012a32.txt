@@ -1,1 +1,0 @@
-Pour chaque villes afficher clairement les dépenses de l'année et leurs coût

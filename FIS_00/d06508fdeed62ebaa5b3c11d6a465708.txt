@@ -1,1 +1,0 @@
-Faire simplement un camembert où figurent les tranches de l’impôt et leur attribution. Il doit être envoyé à tous.

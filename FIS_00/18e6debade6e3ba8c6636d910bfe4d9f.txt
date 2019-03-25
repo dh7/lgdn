@@ -1,1 +1,0 @@
-"Regrouper" et renommer les taxes en fonction de leur utilité et avec des termes simple afin d'indiquer a quoi elles elles servent et non plus sur quoi elles sont imposés (ex: toute les taxes "écologiques" peuvent être regroupées sous la terminologie de "taxe de la transition écologique")

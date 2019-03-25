@@ -1,1 +1,0 @@
-Rendre public de façon accessible et intelligible un compte-rendu des recettes et des dépenses engagées, avec pour celles-ci un moyen de s'assurer que ces dépenses l'ont été au bon montant

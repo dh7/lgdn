@@ -1,1 +1,0 @@
-Afficher à l'entrée de tous les services d'état, leur coût. Par exemple à l'entrée de l'ecole indiquer le prix de chaque heure de cours payé par l'état. Indiquer le coût d'une déposition dans un commissariat. Supprimer le tiers payant sauf pour les très pauvres

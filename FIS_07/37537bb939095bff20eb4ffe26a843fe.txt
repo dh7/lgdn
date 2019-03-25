@@ -1,1 +1,0 @@
-moduler la tva en fonction de la provenance des produits : on augmente la taxe lorsque l'échange se fait transnational: pour une "douane" dans les livres de compte plutôt qu'aux frontières !

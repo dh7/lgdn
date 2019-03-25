@@ -1,1 +1,0 @@
-revoir les tranches d'imposition et en ajouter : augmenter le % d'impots pour les revenusImposables de plus de 50000€, et exonerer les citoyens ayant un RI de moins de 25000€

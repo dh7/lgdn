@@ -1,1 +1,0 @@
-Avant de revoir les conditions faire en sorte qu'elles soient bien attribuées et donc contrôler.

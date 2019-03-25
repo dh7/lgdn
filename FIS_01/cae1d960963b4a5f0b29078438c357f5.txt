@@ -1,1 +1,0 @@
-simplifier le calcul des impots et integrer les aides sociales dans base de calcul. supprimer la tva sur les produits alimentaires non transformés.

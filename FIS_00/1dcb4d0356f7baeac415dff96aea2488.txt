@@ -1,1 +1,0 @@
-Simplifier le calcul des impôts, et réduire le nombre d'impôts pour facilité la compréhension. Lors du paiement de chaque impôt, joindre une note explicative synthétique sur les principales utilisation de chaque impôt.

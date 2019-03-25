@@ -1,1 +1,0 @@
-Faire en sorte de supprimer la taxation à la TVA de sommes qui sont déjà des taxes ou des impôts. C'est le cas actuellement pour l'énergie (carburants, gaz, électricité)où ces produits sont soumis à une fiscalité spécifique (TICSPP, CSPE, etc)sur laquelle on surajoute la TVA. Il faut supprimer ça.

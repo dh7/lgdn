@@ -1,1 +1,0 @@
-- contrôles indépendants des lobbies en cas d'alertes, de pétitions et protection des lanceurs d'alerte. restitution transparente à l'ensemble de la population pour lutter contre les fake news - aider à la re-industrialisation locale de la France

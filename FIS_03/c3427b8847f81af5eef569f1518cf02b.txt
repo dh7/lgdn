@@ -1,1 +1,0 @@
-Suppression des multiples salaires par le cumul de plusieurs fonctions et mandats simultanément.

@@ -1,1 +1,0 @@
-Contrôler conditions attribution allocations chômage, allocations familiales et allocations rentrée scolaire. En ce qui concerne allocations rentrée scolaire mieux donner aux études secondaires et supérieures

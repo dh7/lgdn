@@ -1,1 +1,0 @@
-Progressivité de la TVA (restituer un pourcentage de la TVA en fonction des revenus, comme pour la prime d'activité)

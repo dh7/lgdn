@@ -1,1 +1,0 @@
-en cas de prélèvement sur compte bancaire, mettre dans le champ info, la raison, ex prélèvement pour impôt foncier de "adresse"

@@ -1,1 +1,0 @@
-Donner une date de validité et vérifier effectivement si l'attribution se justifie toujours

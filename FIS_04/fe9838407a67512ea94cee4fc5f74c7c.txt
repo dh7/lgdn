@@ -1,1 +1,0 @@
-Simplifier pour rendre plus cohérents les minima d'un retraité, d'un handicapé, d'un malade... ILs ne sont pas identiques, a fortiori en fonction du patrimoine et de l'état de santé...Mais essayer de les rapprocher et afficher les totaux ou regrouper ces différentes prestations

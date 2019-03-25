@@ -1,1 +1,0 @@
-La calculer en fonction du montant qui reste a disposition du contribuable apres imposition equivalent a un smic.

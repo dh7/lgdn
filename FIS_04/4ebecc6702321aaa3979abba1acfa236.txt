@@ -1,1 +1,0 @@
-Le RSA devrait être conditionné à une activité, même faible, auprès d'administrations ou d'associations mais pas auprès d'opérateurs privés.

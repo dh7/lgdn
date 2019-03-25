@@ -1,1 +1,0 @@
-suppression de la CSG CRDS pour les revenus d' assurance vie , produits fonciers et retraite s'ils sont l'unique source de revenus et qu'ils sont inférieurs à 13. 000 euros par an.

@@ -1,1 +1,0 @@
-Rendre visible sur la facture à payer le coût avec et sans impôts (ex santé : envoyer la facturation réelle aux usagers avec la part prise en charge) Envoyer à chaque citoyen un bilan annuel de combien il a payé en impôts et combien il a profité à travers les impôts

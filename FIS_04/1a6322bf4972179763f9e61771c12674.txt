@@ -1,1 +1,0 @@
-- Contrôle plus rigoureux pour les chômeur ne répondant pas aux offres d'emplois. - Alignement des retraite du publique sur celles du privé. - Jour de carence pour les fonctionnaires. - Fusion des différents régimes de retraite

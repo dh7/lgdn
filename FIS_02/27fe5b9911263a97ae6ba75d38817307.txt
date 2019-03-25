@@ -1,1 +1,0 @@
-Supprimer les droits d’enregistrement sur les transactions

@@ -1,1 +1,0 @@
-Aide médicale d'état en préservant uniquement une aide d'urgence, CMU et RSA. Les distributions de ces aides doivent être plus contrôlées

@@ -1,1 +1,0 @@
-clarifier les étages d'usage des impôts (commune, interco, département, région, Etat, Europe) y compris dotations de l'Etat (=impôt) redescendant vers les collectivités locales

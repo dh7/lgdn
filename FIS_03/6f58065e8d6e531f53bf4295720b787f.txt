@@ -1,1 +1,0 @@
-un fonctionnement public plus efficace; moins de doublons. moins de controlleurs et d'administratifs.

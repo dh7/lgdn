@@ -1,1 +1,0 @@
-Analysant ma facture EDF, je constate que plusieurs taxes et contributions me sont facturées ( TCFE, CSPE et CTA)  et en plus ces taxes sont soumises à 20% de TVA ( 5,5% pour la CTA). TVA signifiant Taxe à la valeur ajoutée,  les taxes et contributions ne sont nullement une valeur ajoutée , donc je pense qu’elles ne devraient pas être soumises à la TVA.

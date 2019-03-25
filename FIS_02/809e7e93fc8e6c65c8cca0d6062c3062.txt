@@ -1,1 +1,0 @@
-CSG pour les retraités ayant une pension inférieure à 3000€ et non pas 2000€.

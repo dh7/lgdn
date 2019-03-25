@@ -1,1 +1,0 @@
-Suspendre l'allocation chômage si pas de recherche d'emploi. Limiter l'allocation familiale de 1 à 3 enfants

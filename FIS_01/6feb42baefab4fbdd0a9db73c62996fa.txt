@@ -1,1 +1,0 @@
-Simplification et suppression des exceptions. Chacun est soumis a une seule et unique règle de calcul, quelques soit sa situation.

@@ -1,1 +1,0 @@
-appliquer réellement les impots de façon à corriger le décrochage entre le taux d'imposition réel et taux d'imposition théorique en fonction des revenus/capitaux (baisse du taux effectif d'imposition pour les grands revenus dans le cadre d'optimisation fiscale)

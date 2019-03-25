@@ -1,1 +1,0 @@
-- Créer un site internet accessible aux particuliers et consultable dans les mairies. - Ce site donnerait en détail la répartition et l'affectation des impôts prélevés. - Ce site devra être soumis au contrôle de la Cour des comptes.

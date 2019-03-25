@@ -1,1 +1,0 @@
-Limiter toutes les aides sociales dans le temps avec une dégressivité significative chaque année

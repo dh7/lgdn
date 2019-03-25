@@ -1,1 +1,0 @@
-Taxe sur les transactions boursieres supérieures à un certain seuil.

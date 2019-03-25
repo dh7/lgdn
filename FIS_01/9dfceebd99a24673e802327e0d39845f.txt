@@ -1,1 +1,0 @@
-- arrêter les petites mesurettes (coûteuses au niveau de la mise en oeuvre) - impôt proportionnel au revenu, avec exonération aux bas revenus et avec imposition forte aux revenus sup. à 1 M€/an

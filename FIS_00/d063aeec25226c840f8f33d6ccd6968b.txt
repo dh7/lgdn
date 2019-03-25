@@ -1,1 +1,0 @@
-Transparence, transparence, transparence. Je rêve d'un site internet sur lequel je peux voir les données historiques et en temps réel des dépenses du gouvernement. Toutes le budget. Pas seulement la partie politiquement correcte. Idéalement avec une API ouverte à tous pour le développement d'application indépendante.

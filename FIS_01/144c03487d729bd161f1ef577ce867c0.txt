@@ -1,1 +1,0 @@
-Prendre en compte les aides sociales en les ajoutant au revenu (ex : logement social 500 euros ,le voisin qui ne beneficie pas d'aide sociale paye 1500 euros) les 1000 euros d'aide doivent être intégrés dans les calcules.

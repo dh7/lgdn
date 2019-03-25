@@ -1,1 +1,0 @@
-La base de calcul doit se faire sur l'année N et non sur l'année N-2

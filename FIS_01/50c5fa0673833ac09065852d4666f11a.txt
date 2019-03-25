@@ -1,1 +1,0 @@
-- simplifier les impôts pour n'attribuer qu'un taux d'imposition global par personne (comme dans certains pays anglo-saxons), - taxer autant le capital que le travail (voire même plus pour mieux aider les citoyens sans matelas financiers), - un impôt juste et équitable qui taxe aussi les grandes fortunes

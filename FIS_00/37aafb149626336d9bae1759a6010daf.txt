@@ -1,1 +1,0 @@
-Un feuillet personnalisé sur l'avis d'imposition avec "vous avez payé x euros dont z euros ont été affectés à l'éducation, y euros à l'action sociale.........etc", les pourcentages n'étant pas parlants.

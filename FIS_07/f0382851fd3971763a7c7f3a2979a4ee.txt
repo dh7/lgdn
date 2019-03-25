@@ -1,1 +1,0 @@
-Lorsqu'un impôt est créé, nous voulons avoir la preuve que l'intégralité de cet impôt est bien utilisée pour la raison concernée (ex. pour la taxe carbone).

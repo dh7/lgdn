@@ -1,1 +1,0 @@
-Revoir les taux de progressivité pour mieux étaler la charge, qui actuellement portent trop sur les foyers à revenus moyens

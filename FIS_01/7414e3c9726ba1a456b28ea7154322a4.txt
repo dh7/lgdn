@@ -1,1 +1,0 @@
-Impot unique regroupant tous les impots. Plus grande progressivité de l'impot. multiplier le nombre de tranches pour que tout le monde soit justement imposé.

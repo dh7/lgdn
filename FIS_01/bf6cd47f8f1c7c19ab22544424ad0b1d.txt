@@ -1,1 +1,0 @@
-Taxer en fonction du nombre d'individus. Une famille de 5 personnes doit être plus imposée qu'une famille de quatre personnes.

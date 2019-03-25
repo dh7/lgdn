@@ -1,1 +1,0 @@
-Toutes en mettant des contreparties et avec la possibilité de ne pas les octroyer automatiquement si les contreparties ne sont pas respectées.

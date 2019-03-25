@@ -1,1 +1,0 @@
-Il faudrait mettre en place un salaire minimum et un salaire maximum. Si certains perçoivent plus que le maximum cela devrait être reversé à l'état comme si c'était un don. Mise en place de la taxe tobin.

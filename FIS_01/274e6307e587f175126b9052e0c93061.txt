@@ -1,1 +1,0 @@
-Les amendes forfaitaire doivent êtres indexée sur les tranche d'imposition.

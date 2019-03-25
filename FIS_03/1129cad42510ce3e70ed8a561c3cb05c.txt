@@ -1,1 +1,0 @@
-supprimer les abattement liés à certaines professions, supprimer les 10% d'abattement pour ceux qui travaillent dans la ville où ils résident, supprimer les niches fiscales

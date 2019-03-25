@@ -1,1 +1,0 @@
-- avoir un impot de base car chacun utilise les services publics  - moduler la TVA en contrepartie sur 5 niveaux: produits de base, produits nécessaires, .. produits de luxe

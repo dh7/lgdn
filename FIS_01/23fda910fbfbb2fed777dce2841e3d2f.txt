@@ -1,1 +1,0 @@
-Supprimer la csg dans tous les cas où elle est cumulée avec un autre Impot: Impot sur les revenus fonciers, Impot sur les plus values

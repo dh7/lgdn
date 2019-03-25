@@ -1,1 +1,0 @@
-Un site .gouv.fr avec les dépenses en temps réel de chaque ministère et de l’Élysée

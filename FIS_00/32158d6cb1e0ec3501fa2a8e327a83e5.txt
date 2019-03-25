@@ -1,1 +1,0 @@
-Bilan chiffré par ministère pour savoir qui fait quoi et ce que cela coûte + bilan de la répartition globale dans un graphique simple avec des mots compréhensibles + pouvoir consulter le bilan des ministères comme on consulte le bilan d’une entreprise + communiquer sur l’existence de ces documents

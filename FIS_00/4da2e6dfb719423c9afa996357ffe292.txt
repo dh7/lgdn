@@ -1,1 +1,0 @@
-A chaque Trimestre civil, envoyer une représentation simplifiée des dépenses réalisées comparées au budget initial sous forme de Camembert, par Ministère et par Direction.

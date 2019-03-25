@@ -1,1 +1,0 @@
-Simplifier les interfaces informatiques de organismes tels que insee. Par exemple, j'ai essaye de trouver le nombre de personnes qui cotisaient à la secu versus l'ensemble de ceux qui en beneficiaient toute categorie confondue. Je n'ai pas trouve en 3H

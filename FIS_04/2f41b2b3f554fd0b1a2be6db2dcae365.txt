@@ -1,1 +1,0 @@
-Le RSA ne doit pas être donné sans contreparties et leur utilité doit etre vérifiée.

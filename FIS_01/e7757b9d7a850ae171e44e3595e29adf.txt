@@ -1,1 +1,0 @@
-Moduler les taux de la CSG et la CRDS. <B>Suppression pour les foyers non imposables</B> et augmentation modérée par paliers progressifs (par tranche de 50 000 € sur les revenus de 150 000 € à 600 000 € par an).  <BR><I>Bercy saura faire... <I>

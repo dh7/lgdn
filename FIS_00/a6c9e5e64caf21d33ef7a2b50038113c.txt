@@ -1,1 +1,0 @@
-Des données en libre accès sur Internet. La hiérarchisation de ces données est très importante pour permettre la clarté de l'information. Une vue synthétique au niveau Etat et la possibilité de descendre dans les détails.

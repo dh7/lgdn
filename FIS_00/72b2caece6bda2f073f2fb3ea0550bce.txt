@@ -1,1 +1,0 @@
-Afficher dans les lieux publics (mairie, poste, maison ou bus du citoyen) les graphe de répartition des impots collectés (IR, ISF, TVA, CSG, ...) et des budgets (chomage, éducation, armée,...)

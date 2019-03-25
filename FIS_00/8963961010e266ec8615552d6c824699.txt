@@ -1,1 +1,0 @@
-par définition, la TVA concerne la fabrication d'un produit ou d'un service, qui crée sa valeur ou sa transformation, qui leur ajoute de la valeur. Les différentes autres taxes telles que la TICGN, la CSPE, les taxes locales... n'ajoutent aucune valeur, Il convient donc de supprimer l'application de la TVA sur les taxes ! (Taxer les taxes, il fallait le faire!)

@@ -1,1 +1,0 @@
-Une application donnant en temps réel l'info sur qui paye l'impôt concerné, qui ne le paye pas (et pour quelle raison), et à quoi exactement il est alloué.

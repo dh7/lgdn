@@ -1,1 +1,0 @@
-Le probleme est surtout de ne pas en creer de nouveaux et de ne pas modifier les assiettes.Tous les services recherchent tous les jours a augmenter leurs ressources.

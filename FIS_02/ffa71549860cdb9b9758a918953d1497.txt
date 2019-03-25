@@ -1,1 +1,0 @@
-supprimer l'IFI et ne pas restaurer l'ISF

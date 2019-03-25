@@ -1,1 +1,0 @@
-Suppression de taxes parafiscales inefficaces dont le rendement doit être évalué, non seulement sur un plan financier (recettes moins coûts de recouvrement), mais également sur l'impact sur l'économie (par exemple taxe francisation des navires entrainant l'immatriculation à un registre étranger, ....)

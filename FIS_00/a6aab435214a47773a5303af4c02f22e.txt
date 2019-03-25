@@ -1,1 +1,0 @@
-Créer un indicateur sur le revenu moyen par fonctionnaire et par catégorie en fonction des ministères.

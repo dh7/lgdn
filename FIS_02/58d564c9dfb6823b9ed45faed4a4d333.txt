@@ -1,1 +1,0 @@
-Supprimer la CSG et la CRDS qui devaient être temporaires.

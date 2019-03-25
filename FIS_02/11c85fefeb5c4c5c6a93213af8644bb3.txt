@@ -1,1 +1,0 @@
-Je propose une nouvelle "grille" et des nouveaux taux d'imposition intermédiaires 12000	15000	7% 15000	30000	12% 30000	42000	20 % 42000	48000	25 % 48000	72617	30% 		41% 		45%

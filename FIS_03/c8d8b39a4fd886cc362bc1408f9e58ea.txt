@@ -1,1 +1,0 @@
-supprimer l'administration d'un échelon territorial (département?) et le nombre de commune. 

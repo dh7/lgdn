@@ -1,1 +1,0 @@
-- Informer sur les coûts réels des prestations (éducation, santé, sécurité...) intelligible pour le citoyen : Coût d'une année solaire, coût du traitement d'un cancer du poumon, coût d'une intervention pour éteindre un feu de poubelle...   - Réaliser un récapitulatif par ménage sur l'écart entre la somme des contributions et l'ensemble des bénéfices reçus.

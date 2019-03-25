@@ -1,1 +1,0 @@
-Allocation familiale en fonction des revenus, nulle pour les gros salaires, et non évolutive au dessus de trois enfants

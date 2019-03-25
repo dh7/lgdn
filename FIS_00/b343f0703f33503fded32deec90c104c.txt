@@ -1,1 +1,0 @@
-- Simplifier les taxes et les impots (moins de taxes et de niches fiscales) - Rendre la fiche de paie comprehensible et en 5 lignes maximums. - Organiser un rapport simplifie et une assemblée annuel a destination des citoyens pour rendre des comptes (comme le font les entreprises)

@@ -1,1 +1,0 @@
-Aménager la TVA en fonction de la provenance des produits, biens et services Exemple : 5% sur ce qui est produit en France, 20% pour ce qui est produit en Europe hors France, 60% sur ce qui est produit Hors Europe

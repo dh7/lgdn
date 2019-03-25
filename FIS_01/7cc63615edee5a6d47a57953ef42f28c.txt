@@ -1,1 +1,0 @@
-Augmenter la part des impôts progressifs en y intégrant toutes les" flat taxes" existantes. Par exemple Gain après impôt = Plafond x(1-epuissace(gain net avant impôt/gain de référence))

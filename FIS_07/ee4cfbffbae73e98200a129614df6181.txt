@@ -1,1 +1,0 @@
-* prise en compte des années d'étude validées après le bac dans le calcul du nombre d'annuités réalisées (afin de limiter la décote). * maintien d'une retraite par répartition

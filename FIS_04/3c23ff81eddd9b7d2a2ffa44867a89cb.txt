@@ -1,1 +1,0 @@
-faire des fichiers centralisés des demandes pour éviter les multiples aides et les fraudes. Croiser les données venant de services d'etats différents.

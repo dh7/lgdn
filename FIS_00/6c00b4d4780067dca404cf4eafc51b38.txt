@@ -1,1 +1,0 @@
-- Créer par exemple un site numérique dédié à la pédagogie sur l'utilisation des différents impôts, - Organiser une communication annuelle par: Le 1er ministre pour l'etat,  Le maire pour les impôts de proximité , Le président de region pour les dépenses du ressort de la region.

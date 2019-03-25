@@ -1,1 +1,0 @@
-toutes : arrêter d'avoir des systèmes par pallier, et des cumuls à gauche, à droite -> simplifier le nombre d'aides possibles en ayant une vision globale, et linéariser (ex : à 1e près, on peut perdre des milliers d'euros car on sort d'un pallier)

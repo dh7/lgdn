@@ -1,1 +1,0 @@
-RSA à augmenter si pas d'activité et à moduler d e manière dégressive.

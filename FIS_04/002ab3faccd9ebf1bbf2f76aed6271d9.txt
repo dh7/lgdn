@@ -1,1 +1,0 @@
-Les aides sociales doivent être regroupées dans un même fichier pour une meilleure lisibilité, et ne doivent pas dissuader le citoyen de rechercher un emploi. Donc leur somme ne doit pas atteindre celle qui seraient atteinte si la personne occupait un emploi.

@@ -1,1 +1,0 @@
-Diminuer les allocations pour les personnes ne travaillent pas

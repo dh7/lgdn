@@ -1,1 +1,0 @@
-Taxer les compagnies pétrolières au jour le jour, sur l'écart de prix entre les pompes et le prix du baril (moins la marge naturellement, et également les taxes de l'état) Ainsi si le baril passe de 76$ a 45, le prix baissera à la pompe.

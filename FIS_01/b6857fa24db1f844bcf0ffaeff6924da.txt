@@ -1,1 +1,0 @@
-Interdire de construire un budget déficitaire si l'état n'a pas de réserve.

@@ -1,1 +1,0 @@
-- Suppression des aides sociales en cas de condamnation judiciaire (type de condamnation à définir), il n'est pas logique d'être solidaire envers les personnes qui perturbent l'ordre public et/ou le quotidien des concitoyens

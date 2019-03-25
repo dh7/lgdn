@@ -1,1 +1,0 @@
-Simplifier de façon drastique le code général des impôts. Serait-ce plus juste ou efficace, je ne sais pas, mais au moins ce serait simple.

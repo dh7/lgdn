@@ -1,1 +1,0 @@
-- Suppression des allocations familiales à partir de 3 enfants. Si on a une famille nombreuse c'est qu'on peut les assumer, ce n'est pas pour toucher des aides.

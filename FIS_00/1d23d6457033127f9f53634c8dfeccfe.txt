@@ -1,1 +1,0 @@
-Un tableau simple communiquant l’utilisation des impôts et leurs sources, diffusé chaque année. Donner systématiquement le pourcentage de foyers ou personnes imposables, préciser quelle part est redistribuée en dépenses sociales.

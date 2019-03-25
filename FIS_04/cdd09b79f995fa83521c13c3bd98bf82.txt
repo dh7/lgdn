@@ -1,1 +1,0 @@
-- RSA: instaurer une contrepartie en fonction de l'état de santé de chacun. - Calculer les allocations afin que l'ensemble des allocations reçues par une personne ne soit pas supérieur au SMIC.

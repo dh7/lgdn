@@ -1,1 +1,0 @@
-Supprimer les tranches d'impôt sur le revenu pour éviter les effets de seuils. On pourrait passer au taux unique (proportionnel) ou, si on veut conserver la progressivité, remplacer les tranches par une courbe si c'est faisable.

@@ -1,1 +1,0 @@
-La CMU, le FSL, les aide de la CAF, surtout regrouper les fichiers des différents organismes d'attribution afin de ne pas faire de doublon avec toutes les allocations.

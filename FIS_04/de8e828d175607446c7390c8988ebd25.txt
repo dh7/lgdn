@@ -1,1 +1,0 @@
-Augmentation du RSA et de l'AAH, pour les porter a une valeur proche du SMIC

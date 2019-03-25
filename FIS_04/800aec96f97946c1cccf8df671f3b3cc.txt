@@ -1,1 +1,0 @@
-Toutes: selon que vous etes au dessus ou en dessous d'un plafond la différence de traitement peut etre importante. Ne me faites pas croire qu'on ne peut pas pondre un algorithme qui résolve les problèmes de calculs y compris le celui de l'impot

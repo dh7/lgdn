@@ -1,1 +1,0 @@
-Simplifier la fiscalité en supprimant un certains nombre de taxes peu significatives et dont on ignore l'utilité.

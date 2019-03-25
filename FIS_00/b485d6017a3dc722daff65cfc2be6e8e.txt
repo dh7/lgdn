@@ -1,1 +1,0 @@
-Un site internet avec un compteur détaillé en direct qui rend compte des entrées et des sorties. Un compte de résultat qui indique précisément la source des recettes et les dépenses faites par nature de recette pour tous impots et taxes locaux et nationaux

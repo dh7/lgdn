@@ -1,1 +1,0 @@
-plus de contrôle dans l'attribution des allocations et simplification du système,  revoir les conditions d'indemnité de chômage

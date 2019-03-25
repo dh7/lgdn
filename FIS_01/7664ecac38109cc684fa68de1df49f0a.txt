@@ -1,1 +1,0 @@
-Revoir le calcul de l'impôt sur le revenu. Le taux d'imposition d'un célibataire sans enfant sont trop élevés, sachant qu'il est seul à payer l'ensemble des charges (loyer, électricité, internet...)

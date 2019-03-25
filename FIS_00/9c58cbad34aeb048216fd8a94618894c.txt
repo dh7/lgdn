@@ -1,1 +1,0 @@
-Fournir le détail de la répartition et de l' attribution des différents impôts : IR , ISF , IFI , TVA , taxes diverses .... sous forme de tableau consultable sur le site impot.gouv.fr par exemple, et qui  concerne toutes les dépenses de l'Etat.

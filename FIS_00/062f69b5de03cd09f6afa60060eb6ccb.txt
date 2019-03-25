@@ -1,1 +1,0 @@
-Créer un onglet dans le déclaration d'impôt en ligne où le citoyen peut consulter la ventilation des dépenses et recettes de l'état mais aussi de sa région, département et ville d'origine.

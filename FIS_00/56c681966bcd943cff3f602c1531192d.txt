@@ -1,1 +1,0 @@
-Annuellemnt, diffuser un document montrant pour chaque ligne de buget de l'année à venir indiquer le pourcentage et le type de l'impôt permettant de le financer. Idem pour le bilan de l'année n-1 pour voir l'écart entre l'annoncé et le réél.

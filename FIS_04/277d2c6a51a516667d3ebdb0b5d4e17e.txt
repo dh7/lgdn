@@ -1,1 +1,0 @@
-- Chaque allocation implique une responsabilité: ex allocation chomage doit nécessiter une vraie recherche d'emploi (a vérifier et sanctionner dans le cas contraire)

@@ -1,1 +1,0 @@
-augmenter le rayon géographique à 100km aller du domicile pour une proposition acceptable d'emploi

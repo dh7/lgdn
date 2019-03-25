@@ -1,1 +1,0 @@
-Indiquer à chaque inscription d'enfant à l'école combien coûte l'année. Indiquer le coût d'une hospitalisation. Faire cela à chaque prestation.

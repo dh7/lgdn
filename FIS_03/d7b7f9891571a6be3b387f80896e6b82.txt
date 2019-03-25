@@ -1,1 +1,0 @@
-Créer une retraite couple où le calcul serait fait sur la moyenne d'age et le nombre de trimestres cotisés du couple marié, pacsé, ..

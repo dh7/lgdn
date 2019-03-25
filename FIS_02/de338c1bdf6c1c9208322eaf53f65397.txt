@@ -1,1 +1,0 @@
-- Taux de TVA pour les biens de "première nécessité" à redéfinir - Taxe d'habitation

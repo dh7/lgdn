@@ -1,1 +1,0 @@
-Supprimer les tranches pour n'avoir qu'un barème par % du revenu. Revoir les réductions d'impôts/parts selon un barème mis à jour (couple vs célibataire, enfants etc...)

@@ -1,1 +1,0 @@
-Externalisation du suivi des chômeurs avec obligation de recevoir et conseiller le chômeur au moins 3 fois par mois.

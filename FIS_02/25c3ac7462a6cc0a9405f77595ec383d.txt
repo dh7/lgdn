@@ -1,1 +1,0 @@
-- CSG : annuler la dernière augmentation pour tous les revenus inférieurs à 4000 euros (couple et célibataire) - diminuer de façon significative la taxe d'habitation pour tous les revenus inférieurs à 4000 euros (couple ou célibataire)

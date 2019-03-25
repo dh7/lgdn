@@ -1,1 +1,0 @@
-Taxer uniquement les flux (revenus) et non le stock (capital).

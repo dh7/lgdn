@@ -1,1 +1,0 @@
-Appliquer un quotient sur les allocations familiales en fonction des revenus du foyer. Un foyer avec 3 enfants et fort revenu a droit aujourd'hui à un foyer à 3 enfants mais dont les revenus sont moindres.

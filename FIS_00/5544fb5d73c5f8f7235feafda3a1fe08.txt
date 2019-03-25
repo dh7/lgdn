@@ -1,1 +1,0 @@
-1) Au moment de la déclaration de revenus, l’ad Fiscale devrait communiquer la répartition de l’utilisation des impôts (impôt sur le revenir, taxe foncière, pelèvements sociaux sur salaires, CSG, carburants, IFI) par catégorie de dépense. 2) montrer la répartition géographique des dépenses

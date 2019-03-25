@@ -1,1 +1,0 @@
-Supprimer les niches fiscales et certaine allocation Impôt sur le revenu personnel suivant une loi continue (sigmoïde) et plus des paliers. Puis une redistribution suivant le nombre d'enfant à charge.

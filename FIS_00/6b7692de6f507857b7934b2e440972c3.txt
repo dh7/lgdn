@@ -1,1 +1,0 @@
-- diffuser régulièrement la répartition par thèmes des recettes et dépenses de l'Etat (et Collectivités) - informer annuellement chacun de ses dépenses prises en charge par l'Etat (et Collectivités) et de ses allocations reçues

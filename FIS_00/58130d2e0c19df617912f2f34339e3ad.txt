@@ -1,1 +1,0 @@
-Mettre en place un bulletin semestriel diffusé à tous détaillant les details de chaque budget de l'état.

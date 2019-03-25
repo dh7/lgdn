@@ -1,1 +1,0 @@
-Introduire de la dégressivité dans les aides en fonction de l'augmentation des revenus (et non pas avec seuil tout ou rien comme actuellement).

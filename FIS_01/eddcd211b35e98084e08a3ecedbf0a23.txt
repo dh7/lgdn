@@ -1,1 +1,0 @@
-Créer un algorithme qui permette une réelle égalité et arrêter avec les tranches d'impositions.

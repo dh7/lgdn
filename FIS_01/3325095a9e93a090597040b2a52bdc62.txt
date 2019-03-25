@@ -1,1 +1,0 @@
-Plus juste: retirer le système de palier pour aller vers un système continu avec par example une courbe de saturation exponentielle, ou une courbe de Langmuir. En tout cas une courbe continue, connue de tous. Plus efficace: le prélèvement à la source est une bonne idée.

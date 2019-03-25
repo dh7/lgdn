@@ -1,1 +1,0 @@
-ne plus calculé les prélevements sociaux que sur la masse salariale mais sur le chiffre d'affaire: l'idée étant de faire payer les robots.

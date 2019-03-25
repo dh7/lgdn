@@ -1,1 +1,0 @@
-- personnes sous tutelle : ponctionne les plus fortunés pour aider les plus faibles. - attribution des bons de VSL : selon les ressources

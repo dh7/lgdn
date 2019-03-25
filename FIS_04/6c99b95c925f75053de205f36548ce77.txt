@@ -1,1 +1,0 @@
-plafonnement du montant en valeur absolue de toutes les aides cumulées. Les aides doivent rester des aides et ne pas être un revenu à proprement parler.

@@ -1,1 +1,0 @@
-Il faut toutes les revoir et creer une seule caisse qui les gère afin de controler les cumuls

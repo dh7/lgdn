@@ -1,1 +1,0 @@
-envoyer les données essentielles sur les boites à lettres des citoyens (push / pull).

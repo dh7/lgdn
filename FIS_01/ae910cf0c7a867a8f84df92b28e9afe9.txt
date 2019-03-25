@@ -1,1 +1,0 @@
-Taxer plus lourdement les héritages important (> 2 Millions d'Euros) avec une progression exponentielle, afin de limiter la reproduction des inégalités de patrimoine. A appliquer aussi sur les transferts d'entreprise aux héritiers, en étalant le paiement de l'impôt dans le temps avec une part pouvant varier en fonction des résultats de l'entreprise

@@ -1,1 +1,0 @@
-Créer une taxe prélevée sur les opérations de cartes de crédit bancaire, dont Paypal, etc..., sans qu'elle soit récupérable sur les commerçants.

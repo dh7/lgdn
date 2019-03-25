@@ -1,1 +1,0 @@
-regrouper  toutes les aides en une seule calculée sur le revenu vs la situation familiale uniquement ( nb d.enfants, handicap, prime à l.activite)

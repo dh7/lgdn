@@ -1,1 +1,0 @@
-La rendre plus transparente differenciant 2 taxes : sur les produits de base et une autre sur les produits 'nice to have' avec un indexation sur leur impact ecologique

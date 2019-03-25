@@ -1,1 +1,0 @@
-indexer les impots sur l'inflation sauf si celui-ci depasse un certain pourcentage.

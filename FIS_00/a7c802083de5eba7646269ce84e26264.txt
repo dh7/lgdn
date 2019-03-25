@@ -1,1 +1,0 @@
-Informer via un site la répartition des recettes fiscales dans le budget de l'état de manière détaillé (sous forme de pourcentage par exemple)

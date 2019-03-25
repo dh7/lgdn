@@ -1,1 +1,0 @@
-Faire en sortie que le taux d'imposition global et effectif (et non seul l'impot sur le revenu) soit progressif. C'est à dire en prenant en compte toutes les sources d'impots (revenu, fortune, tva, csg, deduction/reduction fisclae, etc).

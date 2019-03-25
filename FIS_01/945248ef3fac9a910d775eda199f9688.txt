@@ -1,1 +1,0 @@
-le nombre d'impots differents avec un rendement negatif en raison du cout de sa collecte et sa complexite nuit à l'acceptation de l'impot

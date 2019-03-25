@@ -1,1 +1,0 @@
-envoyer à chaque solde des comptes budgétaires un bilan de l'année écoulée récapitulant recettes de l'état, dépenses, déficit, niveau d'endettement, montant du remboursement de la dette,.. ne pas associer cette information à l'envoi de la déclaration d'impots, car passera inaperçue.

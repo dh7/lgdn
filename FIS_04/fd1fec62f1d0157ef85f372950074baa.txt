@@ -1,1 +1,0 @@
-simplifier l'ensemble du mécanisme pour notamment en réduire les coûts de gestion et en avoir une lisibilité.

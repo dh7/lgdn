@@ -1,1 +1,0 @@
-Bien vérifier que l'allocation "parent isolé" est bien appliquée.

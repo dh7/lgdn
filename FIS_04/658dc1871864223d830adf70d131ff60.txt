@@ -1,1 +1,0 @@
-RSA, APL, supprimer l'AME. Remplacer toutes ces aides par une aide unique, plus simple à gérer pour l'administration

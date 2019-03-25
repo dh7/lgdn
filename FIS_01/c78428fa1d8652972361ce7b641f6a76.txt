@@ -1,1 +1,0 @@
-il faudrait pouvoir affecter les recettes à des dépenses précises (à ce jour il est interdit d'affecter un impot à un sujet précis)

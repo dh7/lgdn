@@ -1,1 +1,0 @@
-les aides doivent être progressivement décroissante en fonction du montant des sommes perçues. Supprimer les pensions de reversions pour les couples divorcés

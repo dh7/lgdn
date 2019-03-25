@@ -1,1 +1,0 @@
-création d'un site internet dédié afin de visualiser les budgets affectés aux différent ministères et les dépenses engagées dans l'année. Éventuellement l'étendre aux régions, départements et mairie

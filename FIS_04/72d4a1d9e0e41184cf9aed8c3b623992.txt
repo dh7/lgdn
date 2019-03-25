@@ -1,1 +1,0 @@
-Les allocations de types "parents isolés" qui peuvent facilement être falsifiées

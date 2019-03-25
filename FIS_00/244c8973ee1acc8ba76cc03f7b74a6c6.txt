@@ -1,1 +1,0 @@
-Faire apparaître sur la feuille d'impôts la contribution en % à chaque ministère (éducation, écologie, défense, ...).

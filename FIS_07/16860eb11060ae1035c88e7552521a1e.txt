@@ -1,1 +1,0 @@
-Opérer le fusion de l'IR avec la CSG, de façon à montrer que personne n'échappe à l'impôt.

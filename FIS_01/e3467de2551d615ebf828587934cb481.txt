@@ -1,1 +1,0 @@
-Se baser sur le patrimoine total de chaque foyer (Salaires, Patrimoine Mobilier et Patrimoine Immobilier) et à partir ce patrimoine, avoir une pondération sur salaire et Patrimoine et imposition en proportionnalité

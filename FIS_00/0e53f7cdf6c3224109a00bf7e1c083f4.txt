@@ -1,1 +1,0 @@
-Transmettre un courriel / courrier à chaque contribuable (y compris les non imposables) avec synthèse des impôts perçus par l'état (montants impôts directs/indirects/sociétés/tva/particuliers/...) et synthèse de leur Répartition / Utilisation. Formaliser la notion de redistribution (des plus riches vers les moins riches).

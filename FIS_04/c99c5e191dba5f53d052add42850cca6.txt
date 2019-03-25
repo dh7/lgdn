@@ -1,1 +1,0 @@
-Revoir l'intégralité du système d'aide en le simplifiant au maximum. Pourquoi ne pas prévoir une allocation globale et maximale attribuée à chaque famille et calculée en fonction de sa composition.

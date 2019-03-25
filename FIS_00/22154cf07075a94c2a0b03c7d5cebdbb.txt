@@ -1,1 +1,0 @@
-Établir une liste des dépense auquel seront affecter les impôts (avec quel impôts pour chaque dépenses) accessible sur le site des impôts et consultable par tous. Et bien sûr respecter cette liste.

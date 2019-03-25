@@ -1,1 +1,0 @@
-rendre public un organigramme en détail pour toutes les fonctions, avec le nombre de personnes avec les postes occupés.

@@ -1,1 +1,0 @@
-Revoir le mille feuille administratif au niveau local. il y a trop de structures inefficaces et faisant doublons qui "coûtent un pognon de dingue". Un certain nombre de taches doivent être externalisées. Est-il nécessaire qu'un jardinier s'occupant d'espaces verts ait le statut de fonctionnaire ?

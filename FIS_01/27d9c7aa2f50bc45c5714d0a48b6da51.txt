@@ -1,1 +1,0 @@
-supprimer la fiscalite local comme la taxe fonciere pour ceux qui touche une retraite de moins 1000 euros

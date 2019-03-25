@@ -1,1 +1,0 @@
-Il faut simplifier, réduire les lois qui ne créent pas de valeur et consomment des ressources.

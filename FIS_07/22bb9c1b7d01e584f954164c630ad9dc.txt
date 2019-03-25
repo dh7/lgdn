@@ -1,1 +1,0 @@
-Diminuons les couches administratives : état, région, département, communauté d'agglomération et pour finir commune. Ça se marche un peu pas mal sur les pieds

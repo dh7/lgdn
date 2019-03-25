@@ -1,1 +1,0 @@
-Mettre en place une vignette pour tous les camions circulant en France y compris les étrangers, et déduire son montant de la taxe à l'essieu payés par les véhicules immatriculés en France.

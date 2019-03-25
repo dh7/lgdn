@@ -1,1 +1,0 @@
-- publier un rapport annuel qui reprend toutes les recettes par type d'impôt et les dépenses corrélées à chaque type de prélèvement - faire des points d'étape au cours de l'année sur ces éléments (recettes et dépenses) - faire la même chose au niveau des collectivités locales

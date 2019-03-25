@@ -1,1 +1,0 @@
-Aménager les taxes foncières et taxes d'habitation en fonction du nombre de personnes vivant dans le logement. Créer un abattement pour les personnes seules qui ont les mêmes charges fixes que contribuables mariés ou vivant en couple. ( charges, loyers, assurances , électricité, chauffage, dépenses d'entretien du logement, taxe audiovisuel )

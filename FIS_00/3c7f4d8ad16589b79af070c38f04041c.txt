@@ -1,1 +1,0 @@
-un rapport simple mais détaillé sous forme de KPI avec graphique ( objectif, réalisé ) avec à chaque fois le montant par citoyen en €

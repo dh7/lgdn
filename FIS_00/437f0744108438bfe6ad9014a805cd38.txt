@@ -1,1 +1,0 @@
-Construire un tableau de bord, mis à jour annuellement, pour le suivi des dépenses diffusé largement. Par ex : - le tableau de la page 2 - l'évolution des consommations des énergies en France - l'évolution des surfaces cultivées en bio - pour tous les objectifs de réduction, mettre en place un indicateur suivi annuellement

@@ -1,1 +1,0 @@
-Simplifier les allocations distribuées et réduire en conséquence le nombre d’agents de la CAF (d’au moins 20%). Supprimer l’allocation de rentrée scolaire et donner gratuitement à la place les fournitures scolaires ou livres scolaires aux élèves

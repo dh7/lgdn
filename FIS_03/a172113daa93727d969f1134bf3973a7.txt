@@ -1,1 +1,0 @@
-Gérer le budget de l'état correctement : on ne doit pas dépenser plus que ce que l'on a. 

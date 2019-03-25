@@ -1,1 +1,0 @@
-Ajuster le prélèvement en fonction des ressources réelles de la personne imposable.

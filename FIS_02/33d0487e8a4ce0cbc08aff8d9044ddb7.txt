@@ -1,1 +1,0 @@
--impot sur les successions qui sont des impots qui taxent des montants sur lesquels l'impôt a deja été prélevé.  -IS -IR

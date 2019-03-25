@@ -1,1 +1,0 @@
-Ajouter un questionnaire à la déclaration de revenus grâce auquel le contribuable pourrait indiquer pour quel budget les impôts doivent être utilisés en priorité. En particulier pour les impôts locaux on pourrait mettre en place une grille de dépenses où il suffirait de cocher celle(s) qu’on estime prioritaires(s).

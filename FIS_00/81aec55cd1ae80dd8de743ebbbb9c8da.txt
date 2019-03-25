@@ -1,1 +1,0 @@
-Créer un espace dédié sur le site impots.gouv.fr qui expose de façon pédagogique les différents impôts, leur moyen de prélèvement, leur récolte, leur pourcentage par rapport à la somme récoltée par l'imposition totale et leur attribution pour le fonctionnement de la vie publique.

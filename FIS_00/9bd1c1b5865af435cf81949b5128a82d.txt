@@ -1,1 +1,0 @@
-Un site internet simplifié avec la liste des dépenses publiques et un questionnaires pour demander la priorisation selon les citoyens de ces dépenses.

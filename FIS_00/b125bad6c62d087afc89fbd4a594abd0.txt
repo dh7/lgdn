@@ -1,1 +1,0 @@
-- rappeler le nombre de foyers qui payent l'impôt et ceux qui ne le payent pas - préciser les principales actions qui ont été  réalisées grâce à l'impôt de l'année précédente.

@@ -1,1 +1,0 @@
-Simplifier les prélèvements et en les regroupant pour baisser les coûts de gestion Avoir de vrais bases de données sur la relation entre taux d'impositions, salaires et aides

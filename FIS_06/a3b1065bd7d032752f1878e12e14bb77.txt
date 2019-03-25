@@ -1,1 +1,0 @@
-Remplacer la taxe d'habitation par une conso de chaque citoyen par rapport à son habitat. De la consommation du logement en devra en déduire une conso par occupant et par jour en analysant les paramètres supercie, nombre d'occupants, nombre de jours de  présence. Seul les logements inoccupés et les occupants les plus energivores seraient taxés.

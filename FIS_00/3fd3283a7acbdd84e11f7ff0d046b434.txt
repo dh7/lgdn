@@ -1,1 +1,0 @@
-Diffuser avec l'avis d'imposition la répartition par grands postes de nos impôts,  avec un niveau de détail de 3 à 4 postes par ministère, puis avoir accès sur le site impot.gouv.fr ou sur un site dédié aux détails avec une résolution de l'ordre de 10 à 100M€ selon les postes.

@@ -1,1 +1,0 @@
-- Diminuer un peu les allocations chômages des très hauts revenus

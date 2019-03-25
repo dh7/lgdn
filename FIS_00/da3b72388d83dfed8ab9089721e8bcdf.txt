@@ -1,1 +1,0 @@
-Un bulletin annuel envoyé par mail avec les sommes dépensés par chaque ministère avec une liste détaillé non exhaustive.

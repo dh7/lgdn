@@ -1,1 +1,0 @@
-La création d'un label "financement par les impôts" avec un code de couleur selon le pourcentage de ce financement car certains financements sont public/privé.

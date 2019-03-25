@@ -1,1 +1,0 @@
-Intégrer l'ensemble des allocations ainsi que les prestations conditionnelles (basée sur les revenus / impôts) dans l'assiette fiscale servant au calcul IR.

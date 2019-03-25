@@ -1,1 +1,0 @@
-Lorsque je vais sur un site marchand, j'aimerai savoir si celui ci paye des impôts en France ou n'en paye pas. Ceci afin d'orienter mes choix.

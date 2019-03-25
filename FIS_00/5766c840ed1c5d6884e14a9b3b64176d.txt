@@ -1,1 +1,0 @@
-Communiquer graphiquement la répartition des ressources et des dépenses dans le budget de l'état.

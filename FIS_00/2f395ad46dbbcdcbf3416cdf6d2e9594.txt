@@ -1,1 +1,0 @@
-Récapitulatif de la dépense d'éducation liée aux enfants sur l'avis d'imposition. Récapitulatif de la dépense moyenne liée aux services publics par foyer fiscal sur l'avis d'imposition. Ne pas mettre des infos moyennes mais les personnaliser selon la composition du foyer fiscal (facile vu le traitement informatique).

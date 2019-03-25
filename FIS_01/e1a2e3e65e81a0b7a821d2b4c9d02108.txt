@@ -1,1 +1,0 @@
-Créer des tranches de salaire et leur appliquer un taux d’imposition. Cela donne de la visibilité (quand je changerai de tranche, combien je parait. La formuler actuelle est trop complexe pour anticiper d’une hausse de salaire et leur conséquences.

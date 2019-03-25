@@ -1,1 +1,0 @@
-- Suppression de la taxe d'habitation pour tous (résidences principales). - Instauration d'une TVA variable en fonction du type de produit et de la proximité de production. Pas de taxation des produits de première nécessité et compensation par une surtaxe des produits de luxe.

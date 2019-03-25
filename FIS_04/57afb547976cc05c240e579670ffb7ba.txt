@@ -1,1 +1,0 @@
-contrôles plus sévères sur toutes les attributions

@@ -1,1 +1,0 @@
-Aide au logement pour les personnes en Ehpad : récupérer le montant des aides sur l’actif des successions à partir d’un certain seuil à définir.

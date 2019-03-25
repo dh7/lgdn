@@ -1,1 +1,0 @@
-Un site retraçant toutes les dépenses de l'état.

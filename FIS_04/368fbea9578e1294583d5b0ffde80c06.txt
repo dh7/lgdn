@@ -1,1 +1,0 @@
-Simplement créer des plafonds non pas à la sélection mais à l'attribution. Exemple: allocation chômage: jamais moins de 1000 € et jamais plus de 1500. Décence minimale et incitation au travail.

@@ -1,1 +1,0 @@
-Instaurer un  plafond global et moduler les cotisations en fonction des revenus globaux perçus par les ménages (dégressivité)

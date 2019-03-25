@@ -1,1 +1,0 @@
-supprimer les effets de seuil; revoir les coefficients familiaux pour tenir compte du fait qu'une personne isolée a des charges fixes (loyer, abonnements divers) à peu près identiques à un couple et n'a pourtant qu'une seule part!

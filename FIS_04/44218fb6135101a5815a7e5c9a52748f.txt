@@ -1,1 +1,0 @@
-Par exemple les allocations parents isolés alors qu'on sait très bien qu'il y a deux parents mais le père n'est pas déclaré. Un exemple parmi d'autre.

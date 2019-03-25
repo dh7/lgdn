@@ -1,1 +1,0 @@
-L’administration des Impôts connaissant le montant collecté doit pouvoir distribuer l’information relative à l’utilisation de ces impôts, lors de l’envoi des déclarations

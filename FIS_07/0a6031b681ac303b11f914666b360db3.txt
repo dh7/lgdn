@@ -1,1 +1,0 @@
-Plafonner le montant maximal d'aides allouées par foyer (pas plus qu'un smic).

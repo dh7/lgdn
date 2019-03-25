@@ -1,1 +1,0 @@
-Il faut supprimer la TVA sur les taxes (exemple facture EDF), arrêter de créer des taxes, essentialiser les taxes (supprimer celles qui ne coûtent quasiment aussi cher à récolter que les sommes récoltées.

@@ -1,1 +1,0 @@
-Donner un récapitulatif PAR AN et PAR FAMILLE de toutes les aides et/ou prestations prises en charge par l'état, région, département....   A chaque hospitalisation, fournir le coût réel de l'intervention et des journées d'hospitalisation au patient. Même chose à la pharmacie.

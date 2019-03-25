@@ -1,1 +1,0 @@
-Je ne pense pas qu' on puisse le rendre juste. Pour la rendre efficace il faut moins de complexite et augmenter les contrôles.

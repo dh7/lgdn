@@ -1,1 +1,0 @@
-ne plus faire de tranches pour les impôts sur le revenu mais une courbe de proportionnalité ce qui éviterait les effets de seuils. courbe type exp (x). les déclarations sur le net permettant le calcul de l'impôt lors de la déclaration. Plafonnement plus important des abattements pour niche fiscales (5 000 €)

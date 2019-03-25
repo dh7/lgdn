@@ -1,1 +1,0 @@
-Vérification accrue des "tricheurs" aux allocations et aux fausses cartes (séjour, vital, etc...)

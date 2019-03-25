@@ -1,1 +1,0 @@
-imposer seulement le schema: commune, région, France et supprimer tous les intermédiaires qui coutent très cher

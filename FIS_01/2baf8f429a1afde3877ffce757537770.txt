@@ -1,1 +1,0 @@
-Linéariser totalement le taux d'imposition. Ne plus avoir d'effet de seuils avec des taux d'impositions qui changent brutalement. Ne plus plus raisonner en année fiscales mais faire un calcul en intégrant les revenus sur une fenêtre temporelle avec un facteur d'oubli.

@@ -1,1 +1,0 @@
-Simplifier  le calcul de l'impôt et des cotisations sociales  Rapprocher les tranches  et  augmenter leur nombre sans dépasser un certain plafond  Limiter le nombre de niches fiscales en supprimant celles qui ne servent à rien

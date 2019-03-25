@@ -1,1 +1,0 @@
-la CAF ne doit plus être calculée sur N-2 mais sur l'année précédente seulement, sinon cette aide est totalement déconnectée de la réalité actuelle vécue par le demandeur

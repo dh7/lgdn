@@ -1,1 +1,0 @@
-Informations données sur le montant des médicaments lors de chaque délivrance en pharmacie, informations sur les dépenses de santé lors de la sortie du patient de l’hôpital ou de la clinique (coût de l'intervention et du séjour), information sur le coût de l'éducation (en fonction de l'année d'étude) sur le coût de l'entretien des routes., etc

@@ -1,1 +1,0 @@
-Versement unique des aides et allocations: creation d'une structure unique de versement des aides et de centralisation des demandes qui resteront a la charge des differents organismes existants Creation d'un versement unique qui ne peut depasser au total 80% du Smic par adulte

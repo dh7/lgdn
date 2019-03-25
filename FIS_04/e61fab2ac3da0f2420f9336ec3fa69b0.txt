@@ -1,1 +1,0 @@
-Supprimer toutes les allocations et aides existantes (familiales, logement, RSA, activité,  CICE, etc...) et les remplacer par une allocation unique calculée et versée par l'administration fiscale.

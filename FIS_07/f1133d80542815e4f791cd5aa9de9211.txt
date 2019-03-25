@@ -1,1 +1,0 @@
-Réécrire le code général des impôts de manière lisible, et en maintenir la lisibilité au fil des évolutions législatives.

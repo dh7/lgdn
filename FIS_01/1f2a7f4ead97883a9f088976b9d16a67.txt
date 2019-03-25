@@ -1,1 +1,0 @@
-Supprimer l'abattements selon le  degré de parenté. Mettre le même taux pour tous qu'ont n'est un lien de parenté ou pas .5% soit la TVA actuelle serait la bonne moyenne .

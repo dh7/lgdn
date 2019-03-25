@@ -1,1 +1,0 @@
-Si c'est sous conditions de ressources ça s'autosupprimera

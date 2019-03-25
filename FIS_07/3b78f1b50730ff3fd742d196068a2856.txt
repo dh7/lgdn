@@ -1,1 +1,0 @@
-Supprimer des échelons territoriaux  afin de réduire les dépenses et donc les impôts  :  - Regrouper obligatoirement les communes (ex: plus aucune commune de moins de 1.000 habitants)  - Création obligatoire d'agglomérations en regroupant toutes les communes mitoyennes dès que la taille de 100.00 habitants est atteinte  - Suppression des départements

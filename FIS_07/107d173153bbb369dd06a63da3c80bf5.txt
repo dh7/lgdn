@@ -1,1 +1,0 @@
-Supprimer les départements pour optimiser les ressources/éviter les doublons

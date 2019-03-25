@@ -1,1 +1,0 @@
-Créer un onglet spécifique, mis à jour régulièrement (2 fois/an)  dans l'espace personnel de chaque contribuable sur le site  "Impots.gouv.fr" en indiquant, en montant et en pourcentage du total : 1/ le prévisionnel N+1 des dépenses 2/ le réel N 3/ comparé au prévisionnel N.

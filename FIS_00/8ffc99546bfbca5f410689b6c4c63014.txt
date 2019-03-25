@@ -1,1 +1,0 @@
-- Associer à chaque prélèvement une notice d'information sur son rôle, son affectation - Bilan comptable simplifié des dépenses et recettes de l'Etat

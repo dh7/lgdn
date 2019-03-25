@@ -1,1 +1,0 @@
-- Quelle part de la population paye des impôts - Quel est le montant des impôts payés - Quel est le montant du crédit d'impôt total remboursés aux ménages - Quelles sont les dépenses faites par poste (sécurité sociale, écoles, hôpitaux, etc.) classées par ordre décroissant - Face à chacune des dépenses quel est le budget prévu pour l'année suivante

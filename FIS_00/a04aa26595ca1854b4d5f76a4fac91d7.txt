@@ -1,1 +1,0 @@
-Fléchage systématique des taxes créées (ex: taxe carbone) vers leur destination finale.

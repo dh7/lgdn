@@ -1,1 +1,0 @@
-Faire converger les données de l'ensemble des acteurs (gouvernement, banque, prestations) à l'intérieur d'une blockchain gouvernementale (avec données onchain et données offchain) Ainsi vous auriez un KYC (Know Your Contribuable)

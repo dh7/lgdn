@@ -1,1 +1,0 @@
-supprimer l'IR car il est impossible à réformer vu sa complexité;

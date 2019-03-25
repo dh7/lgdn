@@ -1,1 +1,0 @@
-Supprimer les demi-parts par enfant et donner à chaque citoyen une somme x (la somme des réductions d'impôt divisée par le nombre d'enfant à charge) par enfant à charge.

@@ -1,1 +1,0 @@
-pour toutes les aides, supprimer celles qui sont attribuées aux foyers qui n'en ont pas besoin. Ex : dans un couple, l'un ne pourrait plus toucher le chômage ou les allocs familiales lorsque l'autre gagne x fois le SMIC (x à déterminer)

@@ -1,1 +1,0 @@
-Pour que les utilisateurs se rendent compte du prix des prestations santé ou scolaire dont ils bénéficient, fournir une facture pour toute prestation, même si le reste à payer est à 0.

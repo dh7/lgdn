@@ -1,1 +1,0 @@
-simplifier le mode de calcul de l’impôt sur le revenu, beaucoup trop complexe à comprendre

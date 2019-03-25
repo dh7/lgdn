@@ -1,1 +1,0 @@
-Simplifier tout le système pour qu'il soit transparent et compréhensible. C'est l'énorme complexité qui rend le système incompréhensible. On ne peut pas expliquer à un citoyen ou vont ses euros comme on ne peut pas expliquer de la même façon à un autre citoyen la provenance des euros de sont RSA.

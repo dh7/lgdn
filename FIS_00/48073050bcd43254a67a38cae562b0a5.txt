@@ -1,1 +1,0 @@
-faire un tableau simple avec les noms des projets et les dépenses associées. Chaque citoyen doit pouvoir consulter le détail de ces dépense s'il le souhaite. Nommer les acteurs qui ont piloté ces projets pour qu'on puisse identifier ceux qui ont su dépenser l'argent public avec raison et méthode.

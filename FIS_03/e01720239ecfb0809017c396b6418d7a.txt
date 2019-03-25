@@ -1,1 +1,0 @@
-fixer un montant maximal (toutes prestations confondues) et pour toutes les prestations (retraite, chômage)

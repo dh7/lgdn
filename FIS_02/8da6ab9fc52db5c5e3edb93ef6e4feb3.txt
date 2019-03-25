@@ -1,1 +1,0 @@
-TF, et CSG ... fusionner les IR et CSG avec des taxes locales pour tous

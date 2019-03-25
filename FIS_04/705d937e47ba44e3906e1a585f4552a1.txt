@@ -1,1 +1,0 @@
-Simplifier l'attribution des allocations  EX: ALS, ALS, APL. Une seule aide APL, même conditions d'attribution pour tous

@@ -1,1 +1,0 @@
-créer une carte type la carte vitale, sur laquelle serait enregistré la tranche d'imposition utilisée pour chaque paiement, et qui permettrait ainsi de calculer le taux de TVA pour chaque achat de produit ou service en fonction du niveau de revenus pour les particuliers. Augmenter le taux de TVA pour les entreprises et le diminuer pour les particuliers.

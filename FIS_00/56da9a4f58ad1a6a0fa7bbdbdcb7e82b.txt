@@ -1,1 +1,0 @@
-Lors de la declaration des revenus sur internet, afficher un camembert avec la repartition des depenses de l annee n-1 par grad poste. Proposer plus de détails par 1 clic sur le poste choisi

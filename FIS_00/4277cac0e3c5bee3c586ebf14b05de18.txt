@@ -1,1 +1,0 @@
-Regrouper les appellations :par ex : impôts pour d’État, impôts pour le département , impôts pour la communes puis dans ces groupes, définir les attributions par domaines ( éducation, voirie ...), documents qui serait à disposition du citoyen sur sa demande auprès de sa mairie.

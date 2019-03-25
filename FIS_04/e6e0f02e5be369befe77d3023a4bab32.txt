@@ -1,1 +1,0 @@
-Il faut contrôler si les attributions sont faites correctement, détecter les fraudes, il faut investir lourdement dans le bigdata pour avoir les outils de vérification et de contrôle, améliorer l'interconnexion et l'échange de données entre systèmes d'information des services publics.

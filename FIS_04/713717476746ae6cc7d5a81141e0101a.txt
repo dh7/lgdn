@@ -1,1 +1,0 @@
-Revoir les conditions d’allocations chômage qui peuvent prendre en compte la rémunération du dernier jour de travail en France (cas de personnes ayant travaillé à l’étranger, qui reviennent en France, se font embaucher quelques jours moyennant un salaire de complaisance élevé et ensuite perçoivent le chômage sur cette base)

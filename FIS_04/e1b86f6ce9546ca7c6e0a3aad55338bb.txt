@@ -1,1 +1,0 @@
-Donner une allocation familiale à partir du premier enfant.  Mais ne  plus en donner  à partir du 3° enfant.

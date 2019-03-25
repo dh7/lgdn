@@ -1,1 +1,0 @@
-Créer un site internet pour publier chaque année le montant total des impôts perçus, le nombre de foyer imposable, le nombre réel de foyer ayant payer des impôts, le nombre de foyer qui n'est  pas imposable. Établissement d'une liste sur l'affectation et la répartition générale de ces recettes.

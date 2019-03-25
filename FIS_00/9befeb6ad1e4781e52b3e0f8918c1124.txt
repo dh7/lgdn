@@ -1,1 +1,0 @@
-Création de quelques ratios de gestion par ministère comme par exemple nombre d'enseignants dans les classes sur le total des effectifs de l'éducation nationale et comparer ces ratios avec d'autres pays européens.

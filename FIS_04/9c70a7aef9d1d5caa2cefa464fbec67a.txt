@@ -1,1 +1,0 @@
-Il faut d'abord simplifier les aides puis les regrouper au sein d'une seule instance de gestion. Cela facilitera ensuite la suppression de certaines aide ou la mutualisation entre plusieurs

@@ -1,1 +1,0 @@
-Calculer le coût réel personnalisé et le coût pris en charge par l'état grâce aux impôts (exemple : fournir une facture pour l'inscription à l'école, avec le montant de "l'avoir" correspondant aux impôts versés. Et fournir un bilan annuel des impôts et taxes versés et des prestations et services reçus.

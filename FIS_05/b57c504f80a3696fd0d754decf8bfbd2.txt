@@ -1,1 +1,0 @@
-- Réindexer le montant des pensions de retraite sur le taux d’inflation.

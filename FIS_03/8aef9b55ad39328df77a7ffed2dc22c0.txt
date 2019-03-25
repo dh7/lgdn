@@ -1,1 +1,0 @@
-regrouper les aides sociales en une seule et calcul de cette aide en fonction du lieu de résidence.

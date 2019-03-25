@@ -1,1 +1,0 @@
-simplifier les taux pour éviter un trop grand nombre d'effets de seuils, intégrer tous les revenus dans le calcul de l'impôt ( salaire, pensions, et toutes les aides sociales qui viennent compléter les salaires...), élargir l'assiette du calcul à tous les ressortissants habitants en France

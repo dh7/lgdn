@@ -1,1 +1,0 @@
-1. Il faut rendre le système LISIBLE par tous. 2. Il faut simplifier la collecte. 3. Il faut séparer la fonction de payeur de celle de répartiteur de l’impôt.

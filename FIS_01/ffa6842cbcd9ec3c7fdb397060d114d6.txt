@@ -1,1 +1,0 @@
-Fiscalisation des aides de l’etat afin de rendre l’impot identique pour un même revenu dont aides reçues.  Il n’est pas logique que deux smics avec 500 euros aide aux logements ou autres ne soient pas imposables alors que revenu de foyer de environs 2900 euros le sera.

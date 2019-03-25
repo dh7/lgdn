@@ -1,1 +1,0 @@
-Donner la répartition des dépenses (% et euros) correspondant à l'impot versé. Comme une feuille d'imposition, mais sous la forme d'une feuille d'utilisation des impots. Eventuellement avec dépendes nationales, régionales, départementales, communales (et coillectivités territoriales). Indiquer ce qui n'a pu être financé et ce qui a été gaspillé aussi.

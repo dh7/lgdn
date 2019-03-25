@@ -1,1 +1,0 @@
-Mettre en place des plateformes comme celle-ci, où tout sera présenté de manière simple et claire. Prévoir une possibilité d'interaction avec la plateforme avec des boutons interactifs comme "je soutiens", "je ne soutien pas", et "autre" (ou "j'ai une proposition" avec les même boutons).

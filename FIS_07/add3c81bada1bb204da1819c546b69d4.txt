@@ -1,1 +1,0 @@
-Moduler l'augmentation de la CSG en fonction de chaque retraite et non sur la base du foyer fiscal jusqu'à un certain seuil, par exemple 50000€. Pour une retraite de - de 1200€ pas d'augmentation de la CSG indépendamment du niveau de revenu du foyer fiscal sauf si celui ci dépasse un seuil à déterminer.

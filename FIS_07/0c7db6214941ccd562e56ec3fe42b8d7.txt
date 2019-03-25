@@ -1,1 +1,0 @@
-1- supprimer la TVA sur les taxes : ex factures EDF, eau,...  2- supprimer les impôts sur les impôts: exemple la facturation de l'établissement des feuilles d’impôts locaux par le fisc à un prix exhorbitant

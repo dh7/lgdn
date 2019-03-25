@@ -1,1 +1,0 @@
-Avoir des taux de taxes en fonction du produit qui est ou pas de première nécessité. exemple un bateau de tourisme devra avoir un taux plus important qu'une voiture traditionnel.

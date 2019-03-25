@@ -1,1 +1,0 @@
-Supprimer les redondances ! Chaque strate défend son pré carré sans se soucier de savoir qui est le plus efficace pour gérer tel secteur. Là encore se pose la question de conserver autant de "feuilles" dans le "mille feuilles administratif".

@@ -1,1 +1,0 @@
-prélever à la base un pourcentage unique sur tous les revenus au dessus d'un minimum  par personne. Exemple 5% sur tous les revenus à partir de 1000 euros par personne pour un foyer + éventuellement 500 euros par enfant ou personne à charge.

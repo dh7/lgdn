@@ -1,1 +1,0 @@
-- Email lors de l'appel au paiement ou à la confirmation du paiement - Lettre avec les programmes des candidats au moment des élections

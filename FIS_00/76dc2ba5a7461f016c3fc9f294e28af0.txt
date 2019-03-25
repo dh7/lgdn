@@ -1,1 +1,0 @@
-Faire comme EDF ou les banques, envoyer un récapitulatif des dépenses par types de postes. Le mieux serait un site en ligne avec une arborescence dynamique ou il serait possible de cliquer sur les postes pour avoir plus de détails. Le dépenses liées au fonctionnement du gouvernement doivent être très détaillées.

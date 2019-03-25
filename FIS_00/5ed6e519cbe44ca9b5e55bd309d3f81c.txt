@@ -1,1 +1,0 @@
-Un interface web et dynamique sur les recettes, dépenses, actifs et dettes de l'état, collectivité... Possibilité de passer d'une vision consolidée à une vision détaillée par région et administration. Traçabilité en ligne des dépenses de fonctionnement et des frais de représentation des élus et des fonctionnaires (ou simili)

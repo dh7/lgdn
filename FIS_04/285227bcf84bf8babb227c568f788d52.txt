@@ -1,1 +1,0 @@
-Instaurer un minimum et un maximum d'allocation chômage. Instaurer un minimum et maximum des versements retraites.

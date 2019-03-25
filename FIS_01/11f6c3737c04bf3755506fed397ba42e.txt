@@ -1,1 +1,0 @@
-suppression d'un trop grand nombre de taxes indirectes ( espace vert, construction, acquisition, vente....)

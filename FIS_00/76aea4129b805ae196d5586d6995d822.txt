@@ -1,1 +1,0 @@
-Affichage sur le site gouvernemental des montants totaux des diverses taxes, et de leur répartition aux dépenses publiques.

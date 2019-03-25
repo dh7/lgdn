@@ -1,1 +1,0 @@
-- RSA (montant plus élevés mais ne plus l'attribuer à n'importe qui) - stopper l'allocation temporaire d'attente - L'ATA ne doit être délivré qu'aux citoyens français - ne plus attribuer la CMU aux non citoyens français

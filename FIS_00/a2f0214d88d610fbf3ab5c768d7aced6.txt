@@ -1,1 +1,0 @@
-Pas de palier en escalier mais des participations linéaires avec des pentes différentes (y=ax+b par palier).

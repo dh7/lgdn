@@ -1,1 +1,0 @@
-Limitation de l héritage à 2 millions par enfants ; le solde revenant à 100 % a l état

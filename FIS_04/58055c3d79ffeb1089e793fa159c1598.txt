@@ -1,1 +1,0 @@
-RSA : il ne faut pas le supprimer, mais revoir la manière dont il est appliqué et contrôlé (un vrai contrôle, pas seulement du type administratif avec la croix dans la bonne case...) : il ne faut pas passer à l'extrême en disant que tout le monde abuse (ce n'est pas le cas), mais il y a de vrais abus, alors qu'a côté certains ne perçoivent rien

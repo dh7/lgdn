@@ -1,1 +1,0 @@
-- sur chaque réalisation immobilière rappeler le cout de la construction - imaginer une information nominative pour chacun, lui rappelant combien il coute à la société en utilisant les services ou infrastructures publics (sur le modèle du calcul comparatif du bilan carbone lors d'un voyage)

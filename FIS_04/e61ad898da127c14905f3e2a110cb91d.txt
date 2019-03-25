@@ -1,1 +1,0 @@
-contrôle affiné des aides sociales regroupées par personne sur un logiciel central, pour éviter la fraude. Vérifier l'attribution des cartes Vitale qui sont parfois utilisées pour plusieurs personnes.  Contrôle et suppression du versement des pensions versées à un membre de la famille du retraité décédé qui vit à l'étranger.

@@ -1,1 +1,0 @@
-revoir  toutes les niches fiscales  de l'impot sur le revenu a partir d'un certain montant de revenu global ( certaines permettent de diminuer l'impot sur le revenu et generer des gains suite a des investissements) calculer l'impot sur le revenu avec une echelle logarithmique

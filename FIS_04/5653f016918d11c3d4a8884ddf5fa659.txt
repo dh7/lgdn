@@ -1,1 +1,0 @@
-Les allocations chômage. Limite du maximum de versement en fonction des anciens revenus, avec le choix de répartitions des versements sur la durée ou sur le montant versé.

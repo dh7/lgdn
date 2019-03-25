@@ -1,1 +1,0 @@
-Plafonner les impôts directs. Le cumul des impôts directs doit être pris en compte. CSG, impôt sur le revenu, taxe d'habitation, le cumul ne doit pas dépasser un certain seuil a définir.

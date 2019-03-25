@@ -1,1 +1,0 @@
-Indexer la TVA sur le revenu fiscal. Exemple : Pas de TVA sur les produits de 1ière nécessités, l'énergie et le transport pour les foyers fiscaux < 1 smic - TVA 5, 1 0 et 20% pour les foyers fiscaux > 1 smic et < 5 smic - Au delà d'un foyer fiscal > 5 smic, TVA 5 - 10 et 20% augmentées de 2% par tranche de 1 smic supplémentaire

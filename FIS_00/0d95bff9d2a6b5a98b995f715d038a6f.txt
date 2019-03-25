@@ -1,1 +1,0 @@
-Faire un tableau de bord annuel de l'utilisation des impôts (simple) accessible lors de la déclaration en ligne des revenus pour l'IRPP ou l'IS et/ou lors de l'envoi de l'avis d'imposition. Visible avant la première page de déclaration

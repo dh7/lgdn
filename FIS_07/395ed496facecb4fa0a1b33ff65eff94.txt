@@ -1,1 +1,0 @@
-Faire un bilan du nombre d’arrêt Maladie par médecin. Tout le monde connaît des médecins qui arrêtent facilement

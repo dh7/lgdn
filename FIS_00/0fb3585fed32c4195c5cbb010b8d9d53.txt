@@ -1,1 +1,0 @@
-Afficher en pourcentage à quoi ont servis chaque impôt.

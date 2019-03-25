@@ -1,1 +1,0 @@
-rsa  Lors de la création de l'aide RMI il y avait insertion et toutes personnes qui ne signait pas une convention avec la personne référente pour l instruction du dossier pouvait voir son RMI supprimé c était à la création du RMI  mais le RSA désormais est payé alors que certaines personnes ne signent aucune convention d insertion

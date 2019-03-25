@@ -1,1 +1,0 @@
-Chiffrer et publier le coût unitaire par foyer fiscal pour chaque nature de dépense. En particulier, le faire pour toute dépense nouvelle

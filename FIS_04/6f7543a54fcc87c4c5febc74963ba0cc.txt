@@ -1,1 +1,0 @@
-Faire un guichet UNIQUE de prestations sociales de façon à considérer toutes les aides pour un même foyer. Plus lisible, plus transparent

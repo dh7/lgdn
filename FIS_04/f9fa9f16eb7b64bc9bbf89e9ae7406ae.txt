@@ -1,1 +1,0 @@
-Augmenter les contrôles pour éviter de donner à tort certaines aides sociales.  Ne pas attribuer des aides sociales pour des personnes ne vivant pas dans notre pays.

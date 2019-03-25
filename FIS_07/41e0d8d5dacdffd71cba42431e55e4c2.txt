@@ -1,1 +1,0 @@
-Veiller à éviter l'empilement des fonctions notamment dans les regroupements d'administrations

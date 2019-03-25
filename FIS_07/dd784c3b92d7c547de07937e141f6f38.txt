@@ -1,1 +1,0 @@
-Indexer les retraites sur l’inflation. ( à minima pour les petites retraites inférieure à 2000€ ou 3000€ , au delà de ces montants , appliquer un coefficient réducteur proportionnel au revenus.)

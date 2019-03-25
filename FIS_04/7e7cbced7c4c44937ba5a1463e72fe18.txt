@@ -1,1 +1,0 @@
-APL : prendre le revenu de référence l'année N et non N-2 avec régularisation éventuelle. Ceci est valable pour toute aide sociale.

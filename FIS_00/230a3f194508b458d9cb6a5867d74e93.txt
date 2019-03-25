@@ -1,1 +1,0 @@
-Simplifier les budgets. Afficher la comptabilité en temps réel de l'Etat via le site Internet officiel des finances publics, sur le même site que celui où nous payons nos impôts impots.gouv.fr, par exemple.

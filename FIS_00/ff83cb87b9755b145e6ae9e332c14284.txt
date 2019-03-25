@@ -1,1 +1,0 @@
-Création d'un espace sur impôts.gouv avec accès aux documents présentant le détail des dépenses financières par année (aussi détaillé que possible)

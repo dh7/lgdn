@@ -1,1 +1,0 @@
-Les effets de seuil ont toujours un effet pervers. Prévoir des allocations diminuant quand les revenus augmentent en pondérant l'un par l'autre.

@@ -1,1 +1,0 @@
-Attribuer les allocations pour les enfants en fonction des revenus.

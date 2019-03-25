@@ -1,1 +1,0 @@
-créer un site donnant accès à la ventilation des dépenses de l'Etat par thèmes, mais également dans le même cadre et par thèmes les recettes. L'information doit être simple et synthétisée.

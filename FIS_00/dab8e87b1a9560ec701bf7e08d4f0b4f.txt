@@ -1,1 +1,0 @@
-Afficher les prix de tous les service publics : avec le prix payé par le consommateur, la part prise en compte par les cotisations sociales  et taxes sur le travail, la part issue de l'impôt.

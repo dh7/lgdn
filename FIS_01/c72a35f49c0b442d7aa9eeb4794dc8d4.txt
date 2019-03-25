@@ -1,1 +1,0 @@
-TVA ajustable en fonction des produits, produits de base peu de tva, produits de "luxe" tva plus grande

@@ -1,1 +1,0 @@
-regrouper la gestion des aides et les verser en une fois afin d'avoir un regard simple sur ce que touche ou pas une famille.

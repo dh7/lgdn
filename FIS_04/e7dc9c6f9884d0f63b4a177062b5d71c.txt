@@ -1,1 +1,0 @@
-Limiter les allocations pour les enfants, nous sommes trop nombreux sur la planète.

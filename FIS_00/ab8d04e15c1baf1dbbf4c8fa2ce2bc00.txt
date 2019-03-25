@@ -1,1 +1,0 @@
-Indiquer un montant d’impôt et un pourcentage des dépenses et contributions alouées ou perçues:  -Voici votre montant d’impôt, avec le pourcentage aloué à chaque dépense ou contribution publique. -Vous ne payez pas d’impôt: mais voici ce dont vous bénéficiez de la part de ceux qui en paye.

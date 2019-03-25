@@ -1,1 +1,0 @@
-Afficher le montant de l'impots que paye chaque citoyen sur une commune

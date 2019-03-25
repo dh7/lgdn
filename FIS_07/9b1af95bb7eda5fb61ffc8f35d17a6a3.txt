@@ -1,1 +1,0 @@
-Faire afficher la marge de chaque distributeur et intermédiaire afin que l'acheteur, quel qu'il soit puisse savoir si cette dernière lui paraît accéessoire

@@ -1,1 +1,0 @@
-Afficher les assiettes d'imposition sous forme de diagramme.

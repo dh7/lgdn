@@ -1,1 +1,0 @@
-Mettre en place un portail Internet afin que chacun puisse choisir comment doit être dépensé l'impôt qu'il a versé. L'idée serait que la dépense d'une partie de l’impôt (50% par exemple) soit décidée par le pouvoir politique et que l'autre partie soit répartie par le contribuable

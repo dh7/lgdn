@@ -1,1 +1,0 @@
-Supprimer les trop nombreuses commissions inutiles (ex : CNDP)

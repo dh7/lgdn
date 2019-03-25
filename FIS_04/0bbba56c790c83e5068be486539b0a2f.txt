@@ -1,1 +1,0 @@
-Éviter (ou supprimer) les seuils d'attributions. Diminuer progressivement les aides quand les ressources (cumulées) augmentent.

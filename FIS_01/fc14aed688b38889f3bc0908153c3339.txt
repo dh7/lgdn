@@ -1,1 +1,0 @@
-Il faut créer un statut dans l'IR pour les parents divorcés. S'il n'a pas la garde de ses enfants un parent repasse en part entière (célibataire sans enfant) alors qu'il n'a pas forcément choisi cette situation et qu'il a bien des enfants. Et cela peut modifier du simple au double son impôt, ce qui n'est pas juste.

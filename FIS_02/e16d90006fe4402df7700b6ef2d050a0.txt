@@ -1,1 +1,0 @@
-supprimer la CSG sur les petites épargnes en instaurant un montant d'épargne au delà duquel la CSG est applicable.

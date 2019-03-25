@@ -1,1 +1,0 @@
-Controle sur les demandes et sur la bonne utilisation (NB: aucune confiance dans le contrôle des entités departementales), externalisation des entités de contrôle.

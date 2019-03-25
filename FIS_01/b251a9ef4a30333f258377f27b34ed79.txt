@@ -1,1 +1,0 @@
-- comptabiliser les aides reçues dans le calcul du revenu du foyer - avoir un taux fixe d'imposition identique pour tous quelque soit son revenu.

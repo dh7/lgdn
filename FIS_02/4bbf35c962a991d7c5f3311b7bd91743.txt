@@ -1,1 +1,0 @@
-Mettre en place une progressivité de l’IS si elle n’existe pas déjà.

@@ -1,1 +1,0 @@
-En plus des montants totaux, il faudrait plus de transparence dans l'information aux 2 niveaux suivants :  PERCEPTION: Montant perçu au titre de chaque taxe et de chaque impôt.  REDISTRIBUTION: Montant redistribué ventilé par type de bénéficiaire. Cette information pourrait être faite au moment par exemple des déclarations d'impôts sur le revenu.

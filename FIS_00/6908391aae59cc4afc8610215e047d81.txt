@@ -1,1 +1,0 @@
-Affichage des chiffres suivant les catégories pour que l'on se rende compte des budgets et des dépenses de l'état

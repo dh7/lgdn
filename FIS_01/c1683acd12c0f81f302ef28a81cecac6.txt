@@ -1,1 +1,0 @@
-Le système de tranches pose le problème de seuil : un pourcentage serait plus judicieux

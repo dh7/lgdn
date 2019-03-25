@@ -1,1 +1,0 @@
-Indexer les retraites sur l'indice INSEE et PLAFONNER LES RETRAITES ( par exemple : la plus haute retraite ne peut pas dépasser 6 x la plus basse ).

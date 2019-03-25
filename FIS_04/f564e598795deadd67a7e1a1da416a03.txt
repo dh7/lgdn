@@ -1,1 +1,0 @@
-Faire que les aides à la famille sont versées en fonction des ressources disponibles (ie: revenus - dépenses contraintes) et pas uniquement en fonction des revenus.

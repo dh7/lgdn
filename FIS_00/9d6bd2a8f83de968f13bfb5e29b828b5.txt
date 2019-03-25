@@ -1,1 +1,0 @@
-Envoie d'un courrier d'audit pour chaque contributeur.

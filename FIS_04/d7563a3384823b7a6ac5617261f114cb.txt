@@ -1,1 +1,0 @@
-Les aides qui sont données de façon systématiques peuvent générer des abus. Un système de surveillance efficace doit permettre d'éviter de distribuer des aides induements.

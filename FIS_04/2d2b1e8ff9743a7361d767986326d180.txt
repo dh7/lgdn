@@ -1,1 +1,0 @@
-Limiter dans le temps la perception du RSA. Comme le chômage doit être temporaire.

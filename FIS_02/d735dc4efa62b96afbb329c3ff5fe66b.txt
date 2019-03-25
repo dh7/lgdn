@@ -1,1 +1,0 @@
-c'est surtout lisser l'IR en faisant beaucoup plus de tranches (cf ci-dessus)

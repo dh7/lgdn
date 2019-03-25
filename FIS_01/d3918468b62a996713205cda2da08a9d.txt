@@ -1,1 +1,0 @@
-Introduire une composante prenant en compte le rapport "bénéfices " sur "nombre d'employés" dans le calcul de l'impôt sur les sociétés afin d'inciter à l'emploi

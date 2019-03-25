@@ -1,1 +1,0 @@
-Taxe les les plus valus immobilière, revision des taxes d'habitation et foncière pour prendre en compte les surfaces et les nombres d'occupant. Augmenter l'IR en pouvant déduire les frais liés au logement (frais locatif, remboursement prêt,...)

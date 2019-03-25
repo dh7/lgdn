@@ -1,1 +1,0 @@
-Empêcher la PMA pour toutes qui crée délibérément des orphelins de père ; avec une prise en charge par la sécurité sociale des dépenses induites

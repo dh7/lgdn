@@ -1,1 +1,0 @@
-Les contrôles sur le RSA doivent être beaucoup plus stricts (travail au noir par exemple), et, comme dit ci-dessus, les aides doivent être systématiquement assorties de contreparties.

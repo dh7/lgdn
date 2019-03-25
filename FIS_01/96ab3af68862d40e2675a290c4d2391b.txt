@@ -1,1 +1,0 @@
-Faire payer (le moins possible) chaque citoyen en fonction de ses revenus, en supprimant les effets pallier mais en établissant un algorithme de lissage ,(facile à l'ère de l'informatique)  pour avoir une fiscalité juste et efficace

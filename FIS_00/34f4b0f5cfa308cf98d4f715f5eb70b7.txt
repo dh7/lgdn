@@ -1,1 +1,0 @@
-Faire un site dédié pour communiquer sur toutes les entrées et les dépenses de notre état. Il faudrait que ce dernier soit accessible à tous les citoyens dans des "maisons de services public" réparties sur l'ensemble du territoire y-compris en zone rurale éloignées.

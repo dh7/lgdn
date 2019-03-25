@@ -1,1 +1,0 @@
-Supprimer l'impôt (TVA, taxes, etc) et le remplacer par de la cotisation en fonction du revenu.

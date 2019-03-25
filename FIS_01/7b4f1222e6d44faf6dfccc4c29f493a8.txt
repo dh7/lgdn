@@ -1,1 +1,0 @@
-taxer les transactions financières de manière plus intelligentes et en particulier les transaction intraday. une taxe fixe sur chaque transaction (1 ct par exemple) serait une manière de réguler aussi le trading haute fréquence

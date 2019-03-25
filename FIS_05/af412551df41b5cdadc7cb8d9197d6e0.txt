@@ -1,1 +1,0 @@
-Limiter la logique d’allocation à vie afin de permettre la remise en question et l’adaptation. Pour que la protection sociale soit efficace il faut qu’elle soit temporaire et qu’elle offre des outils pour s’adapter.

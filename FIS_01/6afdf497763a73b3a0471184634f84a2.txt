@@ -1,1 +1,0 @@
-supprimer le prélèvement CSG pour les retraites quand celle ci sont inférieures au coût d'un EPHAD (au mois)

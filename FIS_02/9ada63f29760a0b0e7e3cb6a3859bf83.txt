@@ -1,1 +1,0 @@
-La CSG qui ne devrait pas s'appliquer sur revenus mais seulement sur des transactions.

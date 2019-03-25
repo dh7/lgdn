@@ -1,1 +1,0 @@
-Subordonner le calcul des Allocations Familiales au ration revenu/nombre d'enfant comme devrait être l'effet du Quotient Familial. Si tel est déjà les cas c'est que quelque chose ne fonctionne pas.

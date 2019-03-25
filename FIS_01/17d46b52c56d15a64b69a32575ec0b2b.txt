@@ -1,1 +1,0 @@
-Supprimer les seuils d'impositions et calculer les impôts à partir d'une fonction mathématique du genre : Impôt = a x log (revenus) + b x exp (revenus).

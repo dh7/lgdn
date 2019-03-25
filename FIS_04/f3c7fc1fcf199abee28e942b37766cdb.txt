@@ -1,1 +1,0 @@
-il faut que les aides soient fonction de vos revenus actuel et non N-1 voir N-2 ou pire sans condition de revenu

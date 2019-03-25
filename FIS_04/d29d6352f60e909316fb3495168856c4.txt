@@ -1,1 +1,0 @@
-Allocations chômage, et RSA doivent être plus limités dans le temps pour inciter à la réinsertion.

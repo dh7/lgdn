@@ -1,1 +1,0 @@
-- prendre en compte la totalité des aides reçues en plus du salaire sur le montant total de l'impôt sur le revenu   - prendre en compte les dépenses vitales obligatoires ( loyer, eau, gaz, tel, assurances ...) sur le calcul de l'impôt  - prendre en compte qu'un célibataire n'a que son seul salaire pour payer toutes ses obligations

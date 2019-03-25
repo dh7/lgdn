@@ -1,1 +1,0 @@
-Aucune, il suffit de mettre en oeuvre les requêtes ci dessus 

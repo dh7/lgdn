@@ -1,2 +1,0 @@
-Mise en place d’un écart de salaires maximum dans chaque entreprise de 1 à 50 fois le salaire minimum entre la moyenne du plus petit décile et le plus haut salaire. Respect d’un minimum médian dans l’entreprise de 2 fois le salaire minimum.
-Instauration d’un quota d’apprentis et de CDD pour les entreprises -> obligation d’un seuil minimum d’apprentis et maximum de CDD (à définir)

@@ -1,1 +1,0 @@
-Rendre le RSA accessible aux étudiants uniquement sur ressource.

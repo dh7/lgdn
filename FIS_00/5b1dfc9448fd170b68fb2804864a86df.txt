@@ -1,1 +1,0 @@
-Plus de transparence sur les sommes utilisées (le but, les montants...) . Consultations via un site web dédié.

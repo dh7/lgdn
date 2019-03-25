@@ -1,1 +1,0 @@
-Toute, un algorythme devrait pouvoir déterminer un montant d'aide maximum en fonction de la situation professionnelle de la personne et de son foyer.

@@ -1,1 +1,0 @@
-Allocations familliales ne doivent plus etre automatiques mais sous conditions de ressources.

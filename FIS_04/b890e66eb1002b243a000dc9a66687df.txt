@@ -1,1 +1,0 @@
-Baisser les allocs pour ceux qui ne travaillent pas.

@@ -1,1 +1,0 @@
-Interdir les cdd de moins d’une semaine. Mettre en place une dégressivité  des charges sociales en fonction de l’ancienneté des salariés

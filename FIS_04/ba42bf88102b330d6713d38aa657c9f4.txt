@@ -1,1 +1,0 @@
-RSA, allocations chômage qu'il faut rendre dégressive au bout de 3 mois.

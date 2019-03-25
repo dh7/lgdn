@@ -1,1 +1,0 @@
-Contrôler les dépenses lier à la CMU, Exemple: plusieurs visites médicales le même jour ou plusieurs fois dans la semaine (prêt de la Carte Vital ?). Faire payé la franchise médicale ( prélèvement sur le RAS ou autres aides sociales) comme pour les autres assurés qui cotise, eux.

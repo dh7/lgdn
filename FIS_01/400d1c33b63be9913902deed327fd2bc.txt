@@ -1,1 +1,0 @@
-Toutes les aides devraient être linéaires décroissantes et non fonctionner par une logique de pallier. C'est de la folie de faire le calcul, qu'en travaillant plus, on puisse perdre de l'argent.

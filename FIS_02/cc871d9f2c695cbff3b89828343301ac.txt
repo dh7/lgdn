@@ -1,1 +1,0 @@
-Supprimer tous les impôts qui rapportent peu. Par souci de simplification et d'efficacité, ne conserver que les impôts qui apportent une contribution sensible aux recettes de l'état.

@@ -1,1 +1,0 @@
-Un site internet dédié à l'usage de l'argent public avec un suivi des dépenses en temps réel (ou au plus proche du temps réel). Bien différencier les dépenses de l'état et celles des différentes collectivités. Bien mettre en parallèle les recettes (avec leurs sources) et les dépenses.

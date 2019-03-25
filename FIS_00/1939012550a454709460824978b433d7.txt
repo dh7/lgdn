@@ -1,1 +1,0 @@
-Transparence sur les dépenses de chaque service, jusqu'à l'euro près. Affichage de l'évolution du budget par usager pour mesurer l'efficacité réelle de chaque ministère Affichage annuel de toutes les subventions et de tous les impôts payés par foyer (état, région, département, ville, etc.)

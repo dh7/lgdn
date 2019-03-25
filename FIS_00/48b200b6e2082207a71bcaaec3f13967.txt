@@ -1,1 +1,0 @@
-générer des graphiques LISIBLES de la répartition des impôts pour chaque type d'impôt et au final la répartition générale

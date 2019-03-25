@@ -1,1 +1,0 @@
-Afficher le coût de chaque collectivité par habitant (commune, Cdc, département, région,...) vis à vis d’une moyenne national

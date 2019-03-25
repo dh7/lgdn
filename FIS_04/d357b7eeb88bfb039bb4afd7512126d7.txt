@@ -1,1 +1,0 @@
-allocations chomage : pas d'allocation si refus de plus de 2 offres ''valables'' ou démission précoce après acceptation d'une offre valable

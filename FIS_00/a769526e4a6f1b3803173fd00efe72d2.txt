@@ -1,1 +1,0 @@
-Créer un tableau montrant à la fois les recettes et dépenses de l'état. Un premier tableau donnant les lignes principales et des sous-tableaux détaillant chaque ligne. Les élus et volontaires devront ensuite descendre auprés de la population pour expliquer ces tableaux, répondre aux questions, expliciter la notion de budget et démystifier le fameux "tableur EXCEL".

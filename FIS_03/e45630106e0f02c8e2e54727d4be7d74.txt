@@ -1,1 +1,0 @@
-De la même manière, rendre les allocations progressives sans seuils sauf le minimum

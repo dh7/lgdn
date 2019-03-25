@@ -1,1 +1,0 @@
-La TVA. Trois taux : 5, 15 et 25 %. le taux normal est 15 % . Là encore mettre un effet de seuil : Chaussures à moins de 100 euros = 15 % de tva. au dessus de 100 euros = 15 % pour les 100 premiers euros et 25 % pour la partie supérieure à 100 E. idem pour tous les produits et services. En dessous du prix médian : 15 %. La part au dessus du prix médian est taxée à 25 % !

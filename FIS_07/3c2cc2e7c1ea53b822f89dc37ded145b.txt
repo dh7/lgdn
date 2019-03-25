@@ -1,1 +1,0 @@
-Amélioré pôle emploi en sous traitant le placement des chômeurs par les agences d'intérim

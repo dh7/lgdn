@@ -1,1 +1,0 @@
-Vérifier le nombre de cartes vitales frauduleuses en circulation .

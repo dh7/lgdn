@@ -1,1 +1,0 @@
-il faudrait établir un tableau précis de l'utilisation de chacune des taxes auxquelles sont soumis les citoyens en reprenant par catégorie de taxe (TVA, CSG, CRDS, taxe foncière, taxe d'habitation…) et en présentant le pourcentage attribué à chaque cause et en précisant qui est gestionnaire de l'utilisation de la taxe

@@ -1,1 +1,0 @@
-Aucune en particulier. Veiller à mieux gérer avec l'arrêt des différentes couches (commune, département, région, état).

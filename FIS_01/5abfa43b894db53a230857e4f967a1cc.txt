@@ -1,1 +1,0 @@
-Adapter la TVA en fonction des produits de consommation. Diminuée sur l’alimentaire et augmentée sur les grosses voitures (>130 ch)  par exemple.

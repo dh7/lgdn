@@ -1,1 +1,0 @@
-Calcul des revenus par foyer ( y compris cohabitation non pacsés, non mariés) avec une obligation de déclarer le nombre de personnes par foyer (avec un calcul au temps de présence réel comme la taxe foncière).  Suppression des aides sociales en dehors de la sécurité sociale et de l'aide aux personnes en dessous du seuil de pauvreté (foyer).

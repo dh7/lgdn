@@ -1,1 +1,0 @@
-supprimer les taxes qui ne correspondent plus à l'objet initial ou qui ont un rendement insignifiant.

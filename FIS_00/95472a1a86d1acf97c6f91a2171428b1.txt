@@ -1,1 +1,0 @@
-Rappeler aux parents combien coute une année de scolarité de leurs enfants, envoyer le bilan financier d'une hospitalisation, afficher le cout des travaux d'infrastructures.... en un mot rendre visibles les dépenses !

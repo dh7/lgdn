@@ -1,1 +1,0 @@
-Le RSA et l'AAH doivent être calculés par personne bénéficiaire et non pas par foyer, ce qui rend la personne bénéficiaire potentiellement encore plus dépendante du conjoint.

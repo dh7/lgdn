@@ -1,1 +1,0 @@
-Afficher à l'accueil des Administrations et sur leur site les grandes catégories de dépenses (les totaux, pas le détail) du budget de la Direction locale : loyer budgétaire, chauffage et fluides, matériel et mobilier, personnel et charges, form pro, transport et déplacements, montant des interventions réalisées, aides attribuées).

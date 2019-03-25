@@ -1,1 +1,0 @@
-Simplifier les règles pour les rendre compréhensibles pour tous et facile à mettre en oeuvre

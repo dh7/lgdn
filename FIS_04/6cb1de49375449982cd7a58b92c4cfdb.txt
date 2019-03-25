@@ -1,1 +1,0 @@
-Allocations familiales en fonction des revenus. Exclusion à partir de 100 000 euros nets par an pour un foyer fiscal.

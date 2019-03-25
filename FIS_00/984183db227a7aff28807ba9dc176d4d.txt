@@ -1,1 +1,0 @@
-Enlever la résidence principale dans l'IFI et lors d'une succession.

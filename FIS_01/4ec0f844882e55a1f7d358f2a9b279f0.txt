@@ -1,1 +1,0 @@
-Permettre la déclaration séparée pour un couple ( ou prendre en compte la décote lorsqu' elle existe pour un déclarant).

@@ -1,1 +1,0 @@
-Supprimer un échelon administratif de collectivités locales, au choix: communes, département, commune de commune, canton, syndicat de communes, régions pour supprimer les doublons.

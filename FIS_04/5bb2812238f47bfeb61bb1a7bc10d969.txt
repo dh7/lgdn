@@ -1,1 +1,0 @@
-Contrôler pour supprimer  certains abus manifestes   du RSA, des ASSEDIC..

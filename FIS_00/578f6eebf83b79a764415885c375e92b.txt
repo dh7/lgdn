@@ -1,1 +1,0 @@
-Afficher les pourcentages des dépenses pour les actions d'ordre public (Police, Justice,défense) , les dépenses de santé (sécurité sociale couverture santé, Hôpitaux, ...), dépenses d'éducation , dépenses sociales (aides fournies, travailleurs sociaux, Samu social, CADA, associations d'aides aux démunis, APL  ...)

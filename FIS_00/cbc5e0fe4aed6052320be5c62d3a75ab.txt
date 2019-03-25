@@ -1,1 +1,0 @@
-Un suivi rigoureux des dépenses de l'état accessible aux français par le biais d'Internet. Il semble nécessaire de savoir ce que coutent les services publics. Pas de gros tableaux illisibles, mais des fonctions avec en face des chiffres (mensuels, annuels???)

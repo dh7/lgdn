@@ -1,1 +1,0 @@
-Adapter la TVA aux revenus des personnes. Defiscalises l.heritage jusqu.a un seuil Max en fonction des revenus.

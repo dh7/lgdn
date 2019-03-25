@@ -1,1 +1,0 @@
-- plafonner les cumuls - assurer la linéarité (pas d'effet de seuil qui fait qu'on peut avoir intérêt à ne pas retravailler) - les aides de conforts (par ex  santé certaines prescriptions genre anxiolitiques )

@@ -1,1 +1,0 @@
-Un vrai site web qui montre les dépenses de l'état dans le détail avec vue comparative avec le budget. Pouvoir évaluer la répartition des dépenses  par rapport aux impôts/taxes/prélèvements (ex: fiscalité écologique / dépenses pour la transition écologique).

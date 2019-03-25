@@ -1,1 +1,0 @@
-Mise en place d'une transparence totale via une base de données accessible à tous sur internet qui affichent toutes les dépenses publiques.

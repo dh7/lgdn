@@ -1,1 +1,0 @@
-pas plus de 2 allocations cumulables

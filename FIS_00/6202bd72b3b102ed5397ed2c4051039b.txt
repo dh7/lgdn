@@ -1,1 +1,0 @@
-Mettre en ligne un site avec un simulateur en fonction des revenus, des biens mobiliers afficher les  impôts résultants et avoir en interaction un diagramme indiquant par pourcentage comment ils sont utilisés. Chaque tranche de ce diagramme serait légendée avec le détail de l’utilisation. Idem pour les impôts locaux, les taxes professionnelles.

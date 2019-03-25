@@ -1,1 +1,0 @@
-Allocations familiales, APL: doivent être dégressives en fonction du quotient familial.

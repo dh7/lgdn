@@ -1,1 +1,0 @@
-suppression des impots fixes (taxe fonciere, habitation, TVA sur produits de nécessité), que chacun contribue en fonction de ses revenus

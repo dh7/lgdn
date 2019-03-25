@@ -1,1 +1,0 @@
-Moduler le taux de TVA des biens alimentaires en fonction des besoins vitaux et de leur qualité nutritionnelle : EX TVA des produits non transformés à 0% (Legume, Fuit, Viande, Lait, Oeuf...) jusqu'a 25% pour les produits ultra transformés ou mauvais pour la santé (Alcool, Plat Préparé, SODA...)

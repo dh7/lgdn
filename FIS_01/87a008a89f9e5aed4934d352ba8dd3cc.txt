@@ -1,1 +1,0 @@
-- Tout calculer par rapport aux réels revenus des citoyens (tout compris - retraites, salaires, aides sociales, revenus mobiliers, patrimoine..).  - Harmoniser toutes les prestations sociales (par exemple la pension d'invalidité avec FSI est récupérable sur succession alors que l'AAH ne l'est pas..)

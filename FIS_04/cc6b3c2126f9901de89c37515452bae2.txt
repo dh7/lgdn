@@ -1,1 +1,0 @@
-Simplifier l’acces Aux aides les rendant automatiques en fonction de ce qui est déclaré sur la déclaration de revenus et de la situation ( célibataire marié naissance décès...)

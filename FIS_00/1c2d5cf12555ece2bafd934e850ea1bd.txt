@@ -1,1 +1,0 @@
-Une plateforme internet publique permettant de voir où va notre argent en détail. D'abord dégrossi par region, département, commune et par item: "éducation,  santé,  politique etc."

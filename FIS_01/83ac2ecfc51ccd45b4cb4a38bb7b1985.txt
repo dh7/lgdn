@@ -1,1 +1,0 @@
-Adapter le taux de la TVA en fonction des revenus de chaque citoyen, en mettant en route une carte TVA nominative . Cela permettra, aux petits revenus, de retrouver un peu plus de pouvoir d'achat.

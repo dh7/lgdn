@@ -1,1 +1,0 @@
-Ne plus calculer l'impot par tranches, mais de manière proportionnelle. De le même manière, les aides devraient être attribuées de façon proportionnelle et pas avec un système de plafond.  Il se peut parfois qu'on n'ait pas d'aide car on dépasse le plafond de quelques euros.

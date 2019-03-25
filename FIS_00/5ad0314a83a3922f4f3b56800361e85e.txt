@@ -1,1 +1,0 @@
-une information simple sur : - le montant collecté en fonction des types d'impôts et taxes: impôts revenu/société/IFI/tva/carburants/tabacs etc... - les dépenses sur les différents postes (état et collectivité confondues) le ratio côut de fonctionnement/ sur budget total par poste: les citoyens doivent connaitre l'efficacité de l'impôt collecté

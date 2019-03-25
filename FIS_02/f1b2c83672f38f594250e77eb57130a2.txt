@@ -1,1 +1,0 @@
-regrouper tous les prélèvements (CSG,CRDS,etc.) sous un seul et même taux répondant au principe évoqué plus haut.

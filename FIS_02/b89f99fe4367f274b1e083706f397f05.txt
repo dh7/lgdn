@@ -1,1 +1,0 @@
-- Revoir les différents taux de TVA en élargissant l'assiette des produits taxés à 5% et en créant un taux de 40% pour les produits de luxe - Revoir les taxes foncières en baissant celles des résidences principales et celles concernant l'outil de travail en augmentant les autres

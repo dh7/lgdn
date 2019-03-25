@@ -1,1 +1,0 @@
-un impôt non plus par tranche mais progressif suivant une loi mathématique simple (courbe type exp)

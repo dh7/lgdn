@@ -1,1 +1,0 @@
-CAF pour les enfants en fonction des revenus.  Plus de contrôles pour l'attribution des aides. (RSA, femmes déclarées seules mais toujours enceintes, etc)

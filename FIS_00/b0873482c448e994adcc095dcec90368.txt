@@ -1,1 +1,0 @@
-Éditer un document dans lequel seraient répertoriés le montant des différents impôts collectés (revenus, tva, taxe carburants etc) et face à chaque montant, lister les postes de dépense

@@ -1,1 +1,0 @@
-Diffuser annuellement les divers pourcentages d'utilisation (grandes lignes) mais aussi indiquer de la même manière la provenance des ressources.

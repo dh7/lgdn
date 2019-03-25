@@ -1,1 +1,0 @@
-Simplifier les aides pour qu' elles soient plus lisibles. Mieux contrôler les arrêts maladie / l absentéisme de convenance.

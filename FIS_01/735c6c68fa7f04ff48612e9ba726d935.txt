@@ -1,1 +1,0 @@
-Remplacer les tranches d’impôt par un système proportionnelle avec une progression dans le taux non linéaire. les ordinateurs savent très bien effectuer ce genre de calcul l'art étant de donner les bons éléments pour la progression

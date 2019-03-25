@@ -1,1 +1,0 @@
-Augmenter le nombre d'échelons dans l'imposition afin d'avoir une imposition au plus près des situations individuelles et d'éviter des effets de seuils trop brutaux.

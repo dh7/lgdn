@@ -1,1 +1,0 @@
-Moduler l’impot en fonction de la taille des sociétés (en fonction des paliers existants moins de 10, moins de 50...)

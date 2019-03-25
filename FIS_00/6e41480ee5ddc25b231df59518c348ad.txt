@@ -1,1 +1,0 @@
-communication d'un graphique avec les différents dépenses et recettes de l'état

@@ -1,1 +1,0 @@
-Faire figurer sur chaque document administratif le coût pour l'état (exemple : coût d'une heure de classe par élève sur le releve de notes de chaque eleve)

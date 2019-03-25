@@ -1,1 +1,0 @@
-Indexation des allocations familiales en fonction des revenus, augmentation pour les petits et moyens revenus < 3000 €/mois, baisse pour les gros revenus > 5000 €/mois.

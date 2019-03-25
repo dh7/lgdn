@@ -1,1 +1,0 @@
-Pour simplifier il faut supprimer toutes les taxes et ne garder que les impôts directs et TVa.

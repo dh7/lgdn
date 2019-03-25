@@ -1,1 +1,0 @@
-Supprimer le barème par tranche de l'IRPP et calculer l'impôt dû en fonction de son patrimoine, de ses revenus et en déduire les crédits contractés (relance de la consommation). Appliquer un impôt à tous les foyers fiscaux, même une contribution symbolique.

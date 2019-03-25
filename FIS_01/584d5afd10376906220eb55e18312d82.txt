@@ -1,1 +1,0 @@
-Introduire plus de progressivité dans l'IR

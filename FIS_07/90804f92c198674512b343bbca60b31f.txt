@@ -1,1 +1,0 @@
-Ramener les dépenses au niveau des recettes pour ne pas charger davantage les génération futures. Réduire le coût des administration et représentations nationales et territoriales

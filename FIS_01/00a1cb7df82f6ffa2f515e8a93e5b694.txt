@@ -1,1 +1,0 @@
-Casser le system d’échelons. Un seul taux pour tous avec des abattements (Les mêmes pour tous pour les premiers millers d’euros perçus). Par example 5% sur les x premier millers puis 20% sur les x suivant et 30% sur les x restant.

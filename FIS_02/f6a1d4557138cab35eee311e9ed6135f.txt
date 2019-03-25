@@ -1,1 +1,0 @@
-- Impôt sur le revenu. - Baisse des charges patronales (si cette baisse permet automatiquement une augmentation de salaire). - Baisse de la TVA.

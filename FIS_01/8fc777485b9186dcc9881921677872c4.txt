@@ -1,1 +1,0 @@
-TVA et autre taxe, calculés en fonction du coefficient fiscal de chaque citoyen.

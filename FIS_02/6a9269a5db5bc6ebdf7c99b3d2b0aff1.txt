@@ -1,1 +1,0 @@
-Revoir les différents stades en fonction des revenus pour chaque impot.

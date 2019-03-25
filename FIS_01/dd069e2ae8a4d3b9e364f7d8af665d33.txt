@@ -1,1 +1,0 @@
-- Modifier le système de tranche/palier - Créer des tarifs sociaux de l'énergie et de l'eau en fonction de la surface d'un logement et non pas en fonction du nombre d'occupants 6 ne pas faire payer une taxe sur le Grand Paris aux personnes non concernées

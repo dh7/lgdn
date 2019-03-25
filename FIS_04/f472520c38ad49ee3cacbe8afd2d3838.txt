@@ -1,1 +1,0 @@
-vérifier les déclarations de couples dits "séparés": la plupart du temps il ne s'agit pas de parent isolé mais d'une fausse déclaration

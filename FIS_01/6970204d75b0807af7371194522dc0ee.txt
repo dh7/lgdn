@@ -1,1 +1,0 @@
-La justice voudrait que chacun paie l’impot sur le revenu. La fonction impot=f(revenus) serait de la forme hyperbolique,

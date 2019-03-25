@@ -1,1 +1,0 @@
-Le calcul des plafonds de revenus pour les calculs d’aides sociales devraient prendre en compte la zone d’habitation (même zones que pour les plafonnnement de loyers dans les dispositifs de défiscalisation) : le reste à vivre après dépense de logement n’est pas le même en région parisienne et dans une petite agglomération.

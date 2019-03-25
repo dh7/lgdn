@@ -1,1 +1,0 @@
-Mettre en application une retraite en fonction de temps de travail (validation de tous les jours travaillés)

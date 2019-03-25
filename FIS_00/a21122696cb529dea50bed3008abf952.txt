@@ -1,1 +1,0 @@
-- Un site web transparence.gouv.fr qui explique en détails comment sont utilisés les impots - une communication proactive de l'état vers ceux qui paient l'impot, sur l'utilisation des

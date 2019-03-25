@@ -1,1 +1,0 @@
-Supprimer TOUTES les taxes à l'exception de la TVA et de l'impôt sur le revenu.

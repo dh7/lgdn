@@ -1,1 +1,0 @@
-Créer une base de données accessible à tous répertoriant par type, par classe de contributeur et par montant, les prélèvements opérés par l’État et ses subdivisions. Publier une synthèse accessible à tous des postes budgétaires avec les éléments justificatifs, et les économies réalisées ou les dérives constatées.

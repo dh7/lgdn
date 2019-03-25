@@ -1,1 +1,0 @@
-rajouter des tranches d'imposition  pour l'impôts revenus et créer des tranches d'imposition pour l'impôt taxe foncière et habitation en fonction des salaires et non simplement de la surface et lieu.

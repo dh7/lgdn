@@ -1,1 +1,0 @@
-Refondre le tout hors santé. aujourd'hui le montant global divisé par le nombre de famille concerné vous donne l'aide minimal. Une grille familiale avec des coefficients selon : personne seule, avec/sans travail,avec/sans enfants (âge), avec/sans parents.....couple....etc Détermination de l'aide  et surtout contrôle

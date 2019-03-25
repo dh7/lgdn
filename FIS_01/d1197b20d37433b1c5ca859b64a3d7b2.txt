@@ -1,1 +1,0 @@
-Retirer de la base de calcul de l’impôt sur le revenu le montant payé l année précédente ( on paye sur un revenu fictif puisque parti en impôt)

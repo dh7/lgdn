@@ -1,1 +1,0 @@
-Un site internet dédié avec dashboard de suivi des recettes et dépenses sur 3 ans. Un suivi du budget de l'état clair et transparent. Après tout il s'agit avant tout de notre argent, donc le suivre au même titre que notre compte en banque serait important.

@@ -1,1 +1,0 @@
-Centraliser sur un site web les budgets des dépenses publiques sur lequel les citoyens pourraient faire des requêtes pour les consulter. Il pourrait aussi noter/évaluer la pertinence des dépenses.

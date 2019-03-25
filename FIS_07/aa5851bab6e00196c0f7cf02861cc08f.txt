@@ -1,1 +1,0 @@
-Faire apparaitre le cout d’une hospitalisation ou d’un examen afin de responsabiliser le bénéficiaire

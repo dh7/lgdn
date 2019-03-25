@@ -1,1 +1,0 @@
-Selon le niveau de bénéfice d'une entreprise et la façon dont y sont répartis les salaires, on peut en déduire par des outils statistiques mathématiques le degré de "redistribution du bénéfice".  Ce résultat devrait être utilisé pour moduler l'imposition de l'entreprise, via des bonus ou à contrario des pénalités.

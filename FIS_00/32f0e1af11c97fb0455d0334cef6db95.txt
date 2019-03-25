@@ -1,1 +1,0 @@
-Afficher dans tous les services publiques les coûts de ces services par exemple le coût d'un lycéen, le coût d'une journée aux urgences etc ..

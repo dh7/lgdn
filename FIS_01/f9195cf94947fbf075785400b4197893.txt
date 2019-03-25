@@ -1,1 +1,0 @@
-La simplifier, limiter les effets de palier et s’appuyer plus sur des mécanismes de proportionnelle.

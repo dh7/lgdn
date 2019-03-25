@@ -1,1 +1,0 @@
-- allocations chômage et RSA : suppression en cas de refus de 2 emplois "réalistes"proposés par les Services de Pôle Emploi et de refus de reconversion. - "Chasse"aux ayants- droits "fictifs"

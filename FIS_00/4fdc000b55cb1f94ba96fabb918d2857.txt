@@ -1,1 +1,0 @@
-Rendre consultable un graphique détaillant poste par poste la répartition des dépenses.

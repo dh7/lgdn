@@ -1,1 +1,0 @@
-fractionner les tranches d'imposition. Passer de 5 tranche à 14 ou 15

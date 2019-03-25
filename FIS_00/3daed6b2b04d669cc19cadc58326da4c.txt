@@ -1,1 +1,0 @@
-- y associer les transferts de fond entre état, régions, départements et communes - déterminer le prévisionnel avec le réalisé - intégrer les recettes (leurs provenances réelles et leurs rendements) avec les dépenses.

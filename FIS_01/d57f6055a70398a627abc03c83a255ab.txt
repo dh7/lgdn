@@ -1,1 +1,0 @@
-Il faudrait la rendre totalement transparente pour permettre de l'ajuster au mieux.

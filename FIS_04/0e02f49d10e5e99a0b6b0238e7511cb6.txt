@@ -1,1 +1,0 @@
-remonter l'allocation pour le 1er enfant, limiter celles pour les familles de plus de 4 enfants. Ne plus verser d'allocation logement ou autres allocations aux personnes qui disposent de revenus plus que correctes > 3000 euros et qui restent en logement social

@@ -1,1 +1,0 @@
-Avoir un minimum et un maximum par foyer et tenir compte de la taille de la famille et du poids des déchets

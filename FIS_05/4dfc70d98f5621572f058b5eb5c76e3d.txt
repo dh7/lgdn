@@ -1,1 +1,0 @@
-augmenter le nbre de medecins et limiter les depassements d'honoraires

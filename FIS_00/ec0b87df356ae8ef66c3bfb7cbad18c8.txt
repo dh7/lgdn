@@ -1,1 +1,0 @@
-Par foyer, faire la somme des aides de l etat. Verifier que les aides soient coherentes par foyer.

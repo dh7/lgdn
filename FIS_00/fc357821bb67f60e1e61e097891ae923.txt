@@ -1,1 +1,0 @@
-Creation d'un site internet d'information, presentant les budgets detailles a chaque niveau de l'etat a la commune.

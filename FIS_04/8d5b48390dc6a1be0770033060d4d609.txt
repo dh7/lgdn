@@ -1,1 +1,0 @@
-Supprimer la notion de seuil d'attribution et rendre les aides sociales fonction du taux d'imposition du ménage.

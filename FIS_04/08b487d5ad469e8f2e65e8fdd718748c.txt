@@ -1,1 +1,0 @@
-Diminuer le nombre d'aides sociales vers une aide sociale unique avec plusieurs paramètre pour en déterminer le montant.

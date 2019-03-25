@@ -1,1 +1,0 @@
-Toutes les taxes (sur certaines factures, il y a plus de lignes de taxes que de lignes d'achat : garder la TVA et l'impôt sur le revenu. Arrêter, chaque fois qu'une nouvelle idée sort d'y coller une taxe!

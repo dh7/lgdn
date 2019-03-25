@@ -1,1 +1,0 @@
-revoir les versements pour l'AAH. Au départ c'est un allocation personnalisée cela veut dire que ça concerne que  la personne qui reçoit l'allocation et non la famille.

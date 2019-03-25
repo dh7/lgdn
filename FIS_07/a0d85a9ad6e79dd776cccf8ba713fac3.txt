@@ -1,1 +1,0 @@
-une simplification de de système Kafkaïen. Supprimer nombre de petites taxes qui coûtent plus qu'elles ne rapportent

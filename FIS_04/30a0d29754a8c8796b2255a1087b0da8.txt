@@ -1,1 +1,0 @@
-Faire l'addition de l'ensemble des aides perçues par une personne et faire la comparaison avec un travail au smic. Si la somme perçue est identique ou supérieure au smic, un prélèvement devrait s'opérer ou la personne devrait contribuer à la vie de la société bénévolement et de façon obligatoire.

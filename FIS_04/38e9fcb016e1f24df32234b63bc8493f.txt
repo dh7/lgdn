@@ -1,1 +1,0 @@
-Le modèle de coefficient d'attribution doit être repensé pour éviter les effets de seuil. Si je suis échelon 0, je ne paye rien. C'est quitte ou double.

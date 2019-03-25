@@ -1,1 +1,0 @@
-Supprimer la multiplication des aides et les regrouper en une seule par foyer fiscal  Supprimer les aides détournées de leur utilisation (allocation Rentrée Scolaire) ou liées à des choix personnels ( Aide parent isolés)

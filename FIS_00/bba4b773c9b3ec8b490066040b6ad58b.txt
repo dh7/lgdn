@@ -1,1 +1,0 @@
-Sectoriser les depenses, en dégageant pour chaque ministère  les affectations, les emprunts, la charge de la dette, les dépense des masse salariales, les depenses liées a la sous-traitance et les dépenses d'investissement.

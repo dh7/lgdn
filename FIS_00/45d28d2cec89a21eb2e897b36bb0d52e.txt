@@ -1,1 +1,0 @@
-Afficher sur le relevé d'impôts le retour des aides versées par l'intermédiaire du prélèvement de l'impôt sur le revenu.

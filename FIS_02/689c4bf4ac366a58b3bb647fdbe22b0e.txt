@@ -1,1 +1,0 @@
-Mettre une CSG uniforme sans condition de ressource, ou la supprimer purement et simplement.

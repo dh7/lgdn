@@ -1,1 +1,0 @@
-Simplifier l impôt, envoyer des notices explicatives plus simples. Afficher systématiquement le montant lié à tout impôt (tva, salaires...). Préciser sur les bulletins de salaire ainsi que les avis d impôts à quel(s) poste(s) sera consacre l argent prélevé.

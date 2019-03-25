@@ -1,1 +1,0 @@
-Créer un site permettant aux citoyens de visualiser les principales orientations budgétaires et leurs évolutions.

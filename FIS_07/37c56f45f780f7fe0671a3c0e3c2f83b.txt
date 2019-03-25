@@ -1,1 +1,0 @@
--	Suppression de la taxe d’habitation pour des revenus inférieurs à 36000 € par an pour une personne seule (3000 € par mois) et 60000 € pour un couple (5000 € par mois), ce qui correspondrait plus à la réalité de la définition des « plus riches » alors que le seuil de revenus défini actuellement lui ne correspond pas aux « plus riches ».

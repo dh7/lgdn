@@ -1,1 +1,0 @@
-- Indiquer quelles sommes ont été collectées et quelles sommes seront dépensées (crédit vs débit) - Indiquer la répartition de chaque source pour l'impôt collecté - Indiquer la répartition de chaque secteur pour l'argent redistribué

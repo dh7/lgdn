@@ -1,1 +1,0 @@
-Instaurer la progressivité sur tous les prélèvements. Supprimer le système de tranches pour éviter les effets de seuil. Taux de TVA différent en fonction de paliers de consommation (notamment énergies et eau).

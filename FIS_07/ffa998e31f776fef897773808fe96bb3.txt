@@ -1,1 +1,0 @@
-- TVA : supprimer le taux de TVA à 5,5 pour ne laisser que 3 taux, les produits de première nécessité se voyant appliquer le taux de 2,1% réservé jusque là aux publications. - revoir la liste des produits bénéficiant de ce taux réduit, en excluant de cet avantage les produits nocifs pour la santé (sucré, salé excessivement)

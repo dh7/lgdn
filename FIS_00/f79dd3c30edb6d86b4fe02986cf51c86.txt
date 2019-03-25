@@ -1,1 +1,0 @@
-Les recettes de chaque impôt doivent pouvoir être attribuées à un ou plusieurs postes de dépenses prédéfinis et inscrit dans la loi. Tout prélèvements de sommes destinées à des utilisations autres que ceux pour lequel l'impôt a été levé sera interdit.

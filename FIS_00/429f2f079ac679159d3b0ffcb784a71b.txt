@@ -1,1 +1,0 @@
-arreter de croiser les bénéficiaires des impots (commune, EPCI, Agence de l'eau, Département, Région, Etat, etc.). 1 impôt = 1 bénéficiaire = 1 secteur d'utilisation. Par exemple : carte grise = Etat = transports, taxe foncière = commune =  urbanisme,

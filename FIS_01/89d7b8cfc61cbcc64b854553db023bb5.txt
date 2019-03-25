@@ -1,1 +1,0 @@
-un pourcentage qui monte de fonction des revenus avec une formule simple du type y=x^2

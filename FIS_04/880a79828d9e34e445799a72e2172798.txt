@@ -1,1 +1,0 @@
-- Remplacer la jungle des aides existantes par un système simplifié et transparent. - Verser automatiquement ces aides à ceux qui y ont droit (sans être obligé d'en faire la demande explicite).

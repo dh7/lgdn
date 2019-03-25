@@ -1,1 +1,0 @@
-Un site internet qui reprend en temps reel la repartition du budget et des depenses de l’etat. Ce site doit mentionne la balance (fonds alloues et depenses effectues). Il n’est pas normal que le deficit soit une possibilite

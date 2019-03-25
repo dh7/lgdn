@@ -1,1 +1,0 @@
-Comparer le train de vie des bénéficiaires avec leurs déclarations de revenus.

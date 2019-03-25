@@ -1,1 +1,0 @@
-Avoir une meilleure gestion en diminuant le nombre de couches administratives (commune, collectivité de commune, département, région, état, ...) et en responsabilisant chaque couche sur des domaines spécifiques, non partagés.

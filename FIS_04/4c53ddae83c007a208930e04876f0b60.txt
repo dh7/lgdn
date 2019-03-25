@@ -1,1 +1,0 @@
--RSA  -APL -Allocations familiales -Bourses scolaires  Fixer un plafond pour les aides, par exemple, que le total de toutes les aides cumulées ne dépasse pas les 800 euros. Ainsi, cela éviterait les situations où des personnes ne travaillant pas gagnent plus que des personnes travaillant.

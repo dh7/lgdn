@@ -1,1 +1,0 @@
-- Rendre obligatoire l'impôts aux expatriés ( vrai et faux ). Toutes personnes titulaire  de la nationalité française se doit de payer des impôts en France quelque soit son lieu de résidence.  Un différentiel entre les impôts payé dans le pays de résidence et l'impôts payable en France serait dû. Cette solution permettrait de minimiser l'intérêt de l'évasion fiscale.

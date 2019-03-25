@@ -1,1 +1,0 @@
-Simplifier pour éviter les usine à gaz type CICE.

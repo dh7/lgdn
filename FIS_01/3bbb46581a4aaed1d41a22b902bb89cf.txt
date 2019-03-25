@@ -1,1 +1,0 @@
-simplifier les tranches d'imposition sur les revenus en 1) les limitant a 3 max 2) en rabaissant la tranche la plus elevee a 30/35% 3) creer une echelle plus lisse de type 10%, 20%, 30% 4)eliminer les impots deguises de type csg (qui devait etre temporaire) etc

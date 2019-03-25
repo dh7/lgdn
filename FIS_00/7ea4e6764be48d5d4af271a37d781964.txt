@@ -1,1 +1,0 @@
-Supprimer la référence du déficit/PIB et le remplacer par Dépenses/Recettes fiscales de l'année etajouter  Somme des déficits/Recettes annuelles. Indiquer le refinancement annuel de la dette échue.

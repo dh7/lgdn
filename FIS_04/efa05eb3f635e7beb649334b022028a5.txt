@@ -1,1 +1,0 @@
-remplacer les allocations chomage par un emploi aidé.  Ainsi le chomeur (après 3 mois de recherches infructueuses) reçoit une rémunération correspondant à un travail effectif, à disposition de sa commune (selon ses capacités). Cela ne couterait pas plus cher au pays, et rendrait de grand services

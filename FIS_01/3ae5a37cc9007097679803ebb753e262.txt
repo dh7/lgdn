@@ -1,1 +1,0 @@
-Taxer de manière proportionnelle en fonction des revenus, supprimer la TVA ou la baisser sur les produits alimentaires.

@@ -1,1 +1,0 @@
-Il faut surtout les simplifier pour n'en n'avoir qu'une ou deux liées à un niveau de ressource.  Cela sera plus lisible, plus simple à mettre en œuvre (donc moins onéreux) et moins suspicieux.

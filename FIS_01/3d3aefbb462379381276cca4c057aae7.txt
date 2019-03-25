@@ -1,1 +1,0 @@
-supprimer toutes les taxes et tous les impôts qui rapportent peu et ne garder que la TVA et l'IRPP en simplifiant les taux et les tranches

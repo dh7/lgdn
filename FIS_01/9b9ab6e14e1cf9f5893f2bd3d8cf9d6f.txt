@@ -1,1 +1,0 @@
-Supprimer les grilles et instaurer un montant progressif. Le prélèvement à la source est une bonne chose, à voir pour l'efficacité.

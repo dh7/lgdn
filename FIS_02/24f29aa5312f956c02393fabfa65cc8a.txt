@@ -1,1 +1,0 @@
-- Baisse des cotisations de 5% sur les salaires < 1200€ net (+50€/mois) → coût 1,6 milliards € - Baisse des cotisations de 2,5% sur les salaires entre 1200 et 1600€ (+35€/mois) → coût 3,15 milliards € - Baisse des cotisations de 1% sur les salaires entre 1600 et 2000€ (+18€/mois) → coût 1,25 milliards € - Baisse des cotisations patronales sur les CDI → coût 6 milliards €/an

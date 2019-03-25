@@ -1,1 +1,0 @@
-prendre en compte le restant à vivre en fonction du coût de la vie.

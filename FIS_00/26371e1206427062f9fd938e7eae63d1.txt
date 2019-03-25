@@ -1,1 +1,0 @@
-Simplifier les fiches de paies en regropant toutes les lignes sous l’appellation "Charges destinées à la protections sociale et à la retraite des salariés"

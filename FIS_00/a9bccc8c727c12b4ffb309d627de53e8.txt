@@ -1,1 +1,0 @@
-Dans le cadre de cette TVA plus juste, afficher les prix HT et TTC avant et après la variation de TVA.

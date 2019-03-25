@@ -1,1 +1,0 @@
-Définir un revenu minimum pour chaque foyer en fonction du nombre de personnes et de leur âge et selon le total des salaires du mois, ajuster l'aide en conséquence.

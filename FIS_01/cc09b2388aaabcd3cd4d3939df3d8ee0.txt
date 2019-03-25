@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches. Aujourd'hui les taux sont de 0%, 14, 30, 41 et 45. Il faudrait une plus grande progressivité : 0, 5, 10, 15, 20, 25, 30, 35, 40, 45 %

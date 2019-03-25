@@ -1,1 +1,0 @@
-Calquer les portail des Auto Entrepreneur pour permettre aux Entrepreneur individuel de déclarer mensuellement leur CA, TVA afin de permettre un calcul en temps réel des impôts.( et autres charges)

@@ -1,1 +1,0 @@
-Contrôler le cumul des aides sociales afin d'éviter que les les prestations ne dépassent pas le salaire de ceux qui n'ont droit à aucune aide

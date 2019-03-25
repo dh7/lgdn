@@ -1,1 +1,0 @@
-- application mobile sur laquelle chaque citoyen pourrait aller consulter l'état des finances publiques; - transmettre des données sur les finances publiques lors des déclarations d'impôts

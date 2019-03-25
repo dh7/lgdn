@@ -1,1 +1,0 @@
-Limiter les revenus dans une fourchette allant de 1 à 10, c'est-à-dire que le salaire horaire maximum serait de 10 fois le salaire horaire minimum.

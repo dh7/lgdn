@@ -1,1 +1,0 @@
-revoir le système globalement car celui-ci n'était pas conçu pour avoir plus inactif que d'actif (aujourd'hui 1 génératon comtribue pour deux voir trois avec l'augmentation de l'espérance de vie)

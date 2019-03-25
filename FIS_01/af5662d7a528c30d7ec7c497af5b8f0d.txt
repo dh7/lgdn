@@ -1,1 +1,0 @@
-- Simplifier à l'extrême l'impôt sur le revenu dans un premier temps, pour tout le code des impôts (la France est l'un des pays où il est le plus complexe) - Pour l'impôt sur le revenu, avoir un pourcentage d'imposition commun à tous, et pour tous les revenus perçus (aides de l'état comprises).

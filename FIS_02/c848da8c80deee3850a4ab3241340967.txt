@@ -1,1 +1,0 @@
-Calculer la TVA sur seulement le prix de base et non pas sur un prix auquel s'applique diverses taxes . Aujourd'hui on paie une taxe sur des taxes et à chaque intermédiaire ,les prix deviennent ainsi très élevés.

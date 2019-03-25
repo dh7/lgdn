@@ -1,1 +1,0 @@
-Un taux de CSG progressif peut être calculé à partir du taux de prélèvement à la source : par ex IR 2% donne csg 4%.  Cela évite les effets de seuil

@@ -1,1 +1,0 @@
-TVA réduite pour les produits en circuits courts (code barre obligatoire + logiciel de caisse) basée sur la distance entre le producteur et le consommateur final.

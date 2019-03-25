@@ -1,1 +1,0 @@
-Payer les fonctionnaires en fonction de leur compétence (fonctionnaires des assemblées surpayés alors que d'autre fonctionnaires sont sous payés). Supprimer les commissions, postes, services inutiles.

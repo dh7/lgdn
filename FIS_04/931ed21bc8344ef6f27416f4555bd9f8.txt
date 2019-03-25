@@ -1,1 +1,0 @@
-Fixer des seuils de revenu et de patrimoine au delà desquels ces allocations ne sont pas attribuées (allocations familiales, chômage etc....)

@@ -1,1 +1,0 @@
-globaliser les aides et les affecter selon situation fiscale déclarée (base prélèvement à la source), remboursement des médicaments: ne rembourser que sur la base des génériques, ceux qui n'en veulent pas doivent payer le complément

@@ -1,1 +1,0 @@
-Mieux distinguer les assignations des budgets par rapport aux taxes. Par exemple la taxe carbone doit rentrer dans le budget ecologie. On a l'impression que tous les impôts et taxes rentrent dans un grand panier obscur.

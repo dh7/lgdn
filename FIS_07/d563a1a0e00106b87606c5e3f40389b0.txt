@@ -1,1 +1,0 @@
-supprimer les statuts qui ne paient pas d'impot (fonctionnaires européens ou en DOM, ...)

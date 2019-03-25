@@ -1,1 +1,0 @@
-- augmenter le taux d'imposition de la tranche la plus élevée. Actuellement 0-14%-30%-41%-45%, passer à des taux un peu plus marqués comme 0-14%-30%-41%-55%

@@ -1,1 +1,0 @@
-Supprimer les taxes qui s'appliquent elles-mêmes à d'autres taxes. Faire que les PME ne soient pas imposées à un taux supérieur à celui appliqué aux grandes entreprises.

@@ -1,1 +1,0 @@
-envoyer par courrier le détail synthétique du budget chaque année.

@@ -1,1 +1,0 @@
-Pour les dépenses prises en charge et payées directement aux fournisseurs (ex: médicaments/Pharmaciens/SS ) afficher , faire figurer le coût ou le montant de la part pris en charge par l'Organisme.

@@ -1,1 +1,0 @@
-Afficher les salaires des élus, primes et avantages, y compris montant de la retraite en partant du plus haut responsable du pays jusqu'au député. Afficher le montant investit dans les travaux.

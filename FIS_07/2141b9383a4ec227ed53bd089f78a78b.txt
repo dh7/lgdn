@@ -1,1 +1,0 @@
-une meilleur organisation entre les services pour éviter des doublons : éviter que plusieurs services soient concernés sur le même sujet; cette situation aboutie à de la confusion et un alourdissement du traitement des sujets abordés.

@@ -1,1 +1,0 @@
-- créer un pôle dédié aux fraudes, aux allocations, me paraît important, les sommes récupérées pourraient ainsi être répercutées aux collectivités locales. De plus, faire en sorte que les doublons de demandes d'allocations soient impossibles en centralisant les données de  la CAF sur un serveur unique et partagé. - diminuer la TVA sur les produits de premières nécessités

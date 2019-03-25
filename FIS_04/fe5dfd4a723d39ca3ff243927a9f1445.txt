@@ -1,1 +1,0 @@
-Il faut une seule aide globale en fonction de la composition du foyer et des paramètres de vie (Revenus, nb personnes à charge, nature et montant des charges, handicap, support aux parents ou malades, en emploi ou en recherche active, en formation, trajets...)

@@ -1,1 +1,0 @@
-faire apparaitre un bilan impôts versés / services publics utilisés; donner une ventilation en fonction des services effectivement utilisés par le foyer fiscal (estimation à partir d'analyses big data); exhiber le solde du transfert de solidarité à la collectivité

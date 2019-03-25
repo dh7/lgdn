@@ -1,1 +1,0 @@
-Mise en place d'un outil statistique "en temps réel" (approximatif) de la répartition des dépenses accessible en ligne, des économies et efforts réalisées pour éviter le gâchis (par chaque instance, chaque élu national). Cela comme il existe ce genre de données dans d'autres domaines.

@@ -1,1 +1,0 @@
-Prendre en compte plus d'éléments pour les différents calculs, comme l'éloignement géographique, la présence ou non de transport en commun (par exemple Ardèche : pas de trains, peu de cars et/ou bus, peu de travail à "proximité", souvent 2 voitures sont indispensables par foyer)

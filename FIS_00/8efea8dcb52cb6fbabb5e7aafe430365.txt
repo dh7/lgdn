@@ -1,1 +1,0 @@
-Afficher le coût de chaque service public, administration, dépense (comme cela est fait pour les travaux routiers).

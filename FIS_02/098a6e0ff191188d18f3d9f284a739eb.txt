@@ -1,1 +1,0 @@
-supprimer la non déductibilité d'une partie de la CSG. c'est un impot retenu a la source donc nous n'avons pas a payer de l'IR dessus, celà correspond a un doublement de l'impot.

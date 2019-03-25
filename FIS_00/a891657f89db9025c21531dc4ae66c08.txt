@@ -1,1 +1,0 @@
-Envoyer à tous un résumé du budget recettes/dépenses de chaque collectivité (pas seulement l'état!) avec l'avis d'imposition.

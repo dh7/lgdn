@@ -1,1 +1,0 @@
-Développer une plateforme WEB présentant les ventilations (dépenses, recettes) du budget de l'état, des collectivités en temps réel

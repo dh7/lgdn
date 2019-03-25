@@ -1,1 +1,0 @@
-TVA accrue sur les produits de luxe, et application d'un effet de seuil avec effet multiplicateur au-delà d'achats d'objets ou produits identiques et de même nature à partir d'un nombre à déterminer au-delà de deux objets.

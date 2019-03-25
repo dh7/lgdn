@@ -1,1 +1,0 @@
-Faire des informations concernant les répartitions des dépenses au niveau de l'état mais aussi des régions, des départements, des communautés d'agglomération et enfin des communes.

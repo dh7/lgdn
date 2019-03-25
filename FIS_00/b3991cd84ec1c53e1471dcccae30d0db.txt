@@ -1,1 +1,0 @@
-Envoyer un courrier électronique d'information chiffrée à chaque citoyen.

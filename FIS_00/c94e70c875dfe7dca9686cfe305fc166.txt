@@ -1,1 +1,0 @@
-Simplifier les impôts  Donner la possibilité de choisir une priorité pour une fraction de son impot Créer un rapport public simple d’acces

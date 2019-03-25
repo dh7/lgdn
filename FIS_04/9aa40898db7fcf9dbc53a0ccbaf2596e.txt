@@ -1,1 +1,0 @@
-Supprimer les effets de seuil en rendant les aides réellement progressives en fonction des revenus

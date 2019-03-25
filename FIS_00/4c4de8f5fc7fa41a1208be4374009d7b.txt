@@ -1,1 +1,0 @@
-un grand jeu avec curseurs (nombre et salaire d'employers/fonctionnaires, niveau des retraites, taux de remboursement des soins, % TVA, ....)  que l'on pourrait déplacer, afin d'équilibrer un budget, à l'échelle d'une mairie, ou de l'état.

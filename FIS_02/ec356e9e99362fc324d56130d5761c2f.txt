@@ -1,1 +1,0 @@
-IRPP pour les dépenses régaliennes avec un taux unique. TVA ou assimilée très modulable (faible pour dépenses de base, élevées pour le surplus) pour la redistribution

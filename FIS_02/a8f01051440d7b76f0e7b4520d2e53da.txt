@@ -1,1 +1,0 @@
-1. Calculer un % de collecte de l'impôt (coût pour collecter l'impôt / montant collecté) et voir les impôts dont le recouvrement est difficile et/ou l'Etat perd de l'argent et en déduire les impôts à baisser ou supprimer. 2. Voir la base impactée par une baisse d'impôt et cibler les impôts touchant une base importante (ex. TVA).

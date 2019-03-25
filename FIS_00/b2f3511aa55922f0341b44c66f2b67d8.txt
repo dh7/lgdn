@@ -1,1 +1,0 @@
-Créer un site internet pour montrer le budget et les réalisations durant l'année. Montrer les écarts et les expliquer aux français.

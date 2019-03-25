@@ -1,1 +1,0 @@
-Appliquer un taux d'imposition aux entreprise en fonction du secteur d'activité. Les artisans et l'industire devraient bénificier d'un taux d'impossition réduit, les entreprises du web et de la finance devraient être plus taxé, tout comme les grand groupe.

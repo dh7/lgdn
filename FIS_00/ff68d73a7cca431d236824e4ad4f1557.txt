@@ -1,1 +1,0 @@
-A partir des grosses masses que vous avez montrées, avoir une fonction zoom qui permette d'accéder, progressivement, aux chapitres, sous-chapitres budgétaires, ce,  jusqu' à la ligne budgétaire, mais exemption du détail pour les Armées, sauf gendarmerie.

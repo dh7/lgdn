@@ -1,1 +1,0 @@
-Instaurer des correctifs pour éviter l'effet couperet des plafonds de ressources. ex :CSG retraite :pour un RFR de 1 € de plus on se retrouve avec 589€ de moins /an (34636 X 1,7%= 589  - 34635X0=0) même principe T d'habitation,APL etc.

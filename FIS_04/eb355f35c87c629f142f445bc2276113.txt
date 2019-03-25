@@ -1,1 +1,0 @@
-pour les alloc de parents isolés, attention à la polygamie ... (il n'y a pas que pour cette alloc du reste). La clé réside dans le contrôle encore et toujours.

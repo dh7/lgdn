@@ -1,1 +1,0 @@
-1 - Taxe Habitation, 2 - Impôt foncier, 3 - Impôt sur le revenu, 4 - Impôt sur les successions, 5 - La myriade de taxes sur les factures EDF

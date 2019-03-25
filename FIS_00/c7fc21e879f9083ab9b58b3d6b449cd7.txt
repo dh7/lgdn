@@ -1,1 +1,0 @@
-Donner les pourcentages du budget consacré aux différents postes de dépenses. Montrer la différence entre fonctionnement et investissement.  Sortir l'investissement du déficit.  Montrer la différence entre budget de l'etat et budget social de la nation

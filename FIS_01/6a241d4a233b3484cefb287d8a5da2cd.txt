@@ -1,1 +1,0 @@
-Calculer l'impôt sur le revenu sur tous les revenus (salaires, prestations sociales, rentes, dividendes...) Recalculer les tranches d'imposition pour tenir compte de ce changement et augmenter le nombre de tranches. Plafonner les niches fiscales à 5000 €, limiter leur nombre et supprimer toutes celles qui n'ont pas d'impact direct sur l'économie.

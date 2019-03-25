@@ -1,1 +1,0 @@
-Impot sur le revenu des classes moyenne et basse (les rares qui paient l'impot sur le revenu): cette categorie retournera l'argent economise dans l'economie - notamment les personnes avec une seule part, qui paye plus que leur part de l'impot!

@@ -1,1 +1,0 @@
-Toutes, un foyer quel qu'il soit, réclamant des aides sociales doit présenter son bilan (revenus, charges, frais de transport, nombre de personnes, d'enfants...) en connaissance il recevra si nécessaire une ALLOCATION UNIQUE . Simplification, maîtrise des dépenses, révision régulière, avec quelques algorithmes bien conçus l'allocation unique doit être possible.

@@ -1,1 +1,0 @@
-Supprimer les départements Supprimer le sénat Réduire le nombre de parlementaire Lors d'un cumul de mandat, ne verser que le salaire du mandat le plus intéressant. Réduire le nombre de fonctionnaire gérant l'impôt en maximisant l'utilisation de moyens 2.0 voir 3.0.

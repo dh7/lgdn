@@ -1,1 +1,0 @@
-La dépendance, mais il faut surtout penser à ce désengager de certaines autres ( RSA, APL etc)

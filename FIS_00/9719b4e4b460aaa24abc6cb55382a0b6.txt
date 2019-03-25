@@ -1,1 +1,0 @@
-informer par un tableau les différentes dépenses de l'état et les différentes recettes de l'état. Donner l'estimation des différentes fraudes (fraudes fiscales, à la sécu, à l'assedic, ...) et les sommes récupérées sur ces différentes fraudes

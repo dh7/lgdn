@@ -1,1 +1,0 @@
-Supprimer la part de la csg qui doit être déclarée dans le calcul de l'impot sur le revenu. Un enfant de cp peut comprendre que l'on ne peut pas prendre de l'argent qui a déjà été prélevé.

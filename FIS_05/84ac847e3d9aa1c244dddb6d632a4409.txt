@@ -1,1 +1,0 @@
-aucune, il faut juste mieux organiser les choses, moins de structure qui se court-circuite

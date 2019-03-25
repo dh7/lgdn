@@ -1,1 +1,0 @@
-Faire un site internet où il y a toutes les informations visuelles (courbes, camemberts,...) Diffusion de ces données aux journaux téléviser de grande écoute, en page d'accueil du site des impôts.

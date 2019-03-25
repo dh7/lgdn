@@ -1,1 +1,0 @@
-Fixer un plafond d'aides globales par foyer afin d'éviter tous les abus: les aides totales ne doivent jamais dépasser les revenus d'un foyer qui travaille au SMIC

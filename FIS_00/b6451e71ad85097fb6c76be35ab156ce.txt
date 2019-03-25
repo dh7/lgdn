@@ -1,1 +1,0 @@
-Cette info existe au niveau local. Au niveau de l'état, présenter un état des dépenses par thème et par bénéficiaire, et non par ministère. Cette distinction pourrait être utilisée dès les discussion budgétaires.

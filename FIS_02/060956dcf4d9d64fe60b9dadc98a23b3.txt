@@ -1,1 +1,0 @@
-- Créer en fonction du revenu et du patrimoine, une limite au prélèvements et taxes. Un bouclier fiscal protégeant les citoyens les moins fortunés.

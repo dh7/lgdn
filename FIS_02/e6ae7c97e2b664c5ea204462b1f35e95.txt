@@ -1,1 +1,0 @@
-Baisser les impôts sur les revenus en décortiquant,1 par 1 les revenus sur la même feuille d’impôts.EXEMPLE:à calculer sur:les retraites,Salaires,les intérêts des placements livret A,Autres,etc et déterminer une Tranche=1-Très basse,2-Basse,3-Très moyenne,4-Moyenne,5-Très dépassée,6-Beaucoup dépassée,7-Haut,8-Très haut,9-Énorme,10-,Très énorme

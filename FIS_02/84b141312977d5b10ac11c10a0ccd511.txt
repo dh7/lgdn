@@ -1,1 +1,0 @@
-généralisation de la suppression de la taxe d'habitation. Interdiction de créer de nouveaux impôts ou de nouvelles taxes.

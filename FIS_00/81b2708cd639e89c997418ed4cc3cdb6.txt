@@ -1,1 +1,0 @@
-Lister toutes les dépenses faites avec l'argent de nos impôts, taxes, etc. Avec le pourcentage d'attribution (Et/ou la somme.) En n'omettant rien.

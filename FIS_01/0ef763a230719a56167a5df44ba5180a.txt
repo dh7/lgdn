@@ -1,1 +1,0 @@
-Supprimer la cours des comptes si elle ne sert à rien et n'est pas écoutée.

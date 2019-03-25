@@ -1,1 +1,0 @@
-- Classer les impots et taxes par destination (une catégorie d'impôt ecologie, une defense, une vie de l'état et fonctionnaire..) + Une commission par type d'impot avec des politiques majorité et opposition + spécialiste civil + citoyen lambda pour rendre des comptes tous les ans sur les recettes et leurs utilisations

@@ -1,1 +1,0 @@
-Communiquer sur la destination des fonds, lister les actions réalisées, lister les actions n'ayant pas pu être réalisées.

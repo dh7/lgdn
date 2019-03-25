@@ -1,1 +1,0 @@
-Faire connaitre quelle dépense avec quelle recettes. On ne connait que le montant des revenus par impots et le montant des dépenses par poste. simplification des différents imots

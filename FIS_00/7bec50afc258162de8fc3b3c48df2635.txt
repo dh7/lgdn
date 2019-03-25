@@ -1,1 +1,0 @@
-Tout simplement un site internet et des visualisations de données bien faits et clairs. Demander à titre consultatif lors de la déclaration d'impôt à répartir sa contribution sur les différents postes de dépense en les rappelant ainsi que leur montant actuel, fournissant un moyen d'information à la fois pour le citoyen et pour l'Etat (un grand sondage annuel).

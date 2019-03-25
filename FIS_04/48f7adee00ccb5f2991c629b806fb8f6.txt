@@ -1,1 +1,0 @@
-La CAF devrait travailler systématiquement avec la base de donnée de l'administration fiscale afin de définir le montant des aides sans faire confiance à la déclaration de l'ayant-droit.

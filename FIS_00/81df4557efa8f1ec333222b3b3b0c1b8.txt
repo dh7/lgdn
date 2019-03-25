@@ -1,1 +1,0 @@
-donner plus de chiffres : exemple  : éditer une facture lorsqu'une pharmacie délivre des médicaments avec le coût des produits achetés.

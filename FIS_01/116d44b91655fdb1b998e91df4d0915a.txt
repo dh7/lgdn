@@ -1,1 +1,0 @@
-Supprimer les tranches, avoir un taux d'imposition qui augmente linéairement en fonction de ses revenus (avec un plancher et un plafond)

@@ -1,1 +1,0 @@
-La simplifier, supprimer un maximum d'exceptions.

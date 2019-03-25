@@ -1,1 +1,0 @@
-demander une contrepartie service et controler plus fortement les arrêts travails conforts et travail non déclaré au dela d'une certaine tolérance de mieux vivre

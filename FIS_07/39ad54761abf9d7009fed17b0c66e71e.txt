@@ -1,1 +1,0 @@
-Augmenter tous les SMIC pas en fonction du salaire du conjoint pour toucher la prime.

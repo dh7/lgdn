@@ -1,1 +1,0 @@
-toutes les taxes y compris la Csg/Rds, ne garder que la tva en créant des nouveaux taux

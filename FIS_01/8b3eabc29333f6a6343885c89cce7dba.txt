@@ -1,1 +1,0 @@
-Supprimer les tranches d'impôts et les remplacer par une formule unique à la progression exponentielle. Reste à définir le coefficient.

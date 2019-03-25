@@ -1,1 +1,0 @@
-Dans chaque tranche d'impôt, calculer l'impôt par rapport à un pourcentage du revenu de chacun. Mettre en place un revenu universel.

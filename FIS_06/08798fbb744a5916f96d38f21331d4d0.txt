@@ -1,1 +1,0 @@
-Service hospitalier (manque de médecins) Revoir le système de répartition entre les cliniques et les hôpitaux. Diminuer le profit des cliniques. Revoir la répartition des pathologies entre les cliniques et l'hôpital

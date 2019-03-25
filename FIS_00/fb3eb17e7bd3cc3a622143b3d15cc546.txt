@@ -1,1 +1,0 @@
-Afficher la part de l'impot qui finance chaque service sur chaque point d'accès web des sites de l'état

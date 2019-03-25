@@ -1,1 +1,0 @@
-supprimer les échelons et rendre dégressifs et progressifs

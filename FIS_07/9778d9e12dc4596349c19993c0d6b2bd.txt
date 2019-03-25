@@ -1,1 +1,0 @@
-moduler les taxes sur les produits "alimentaires" en fonction le leur toxicité ( tabac, alcool, nutella, produits transformés avec additifs...)

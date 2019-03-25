@@ -1,1 +1,0 @@
-supprimer partout les effets de seuils

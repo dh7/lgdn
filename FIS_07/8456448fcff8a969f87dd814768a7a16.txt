@@ -1,1 +1,0 @@
-L'impôt est injuste car il est calculé sur la base de paliers (les tranches). Il faut que l'impôt soit calculé de manière exponentielle en lissant les tranches. De plus, chaque citoyen doit payer un impôt, même minime, pour qu'il se sente élément d'un groupe solidaire = ceux qui paie l'impôt pour bénéficier des services publics régaliens.

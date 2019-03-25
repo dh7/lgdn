@@ -1,1 +1,0 @@
-Prendre en compte l'inflation lors de la vente d'un bien, pour le calcul de la taxe sur la plus-value, ajouter l'inflation à la valeur d'achat, CAR L'INFLATION N'EST PAS UNE PLUS-VALUE

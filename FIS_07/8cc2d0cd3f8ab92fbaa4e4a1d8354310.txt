@@ -1,1 +1,0 @@
-- Transparence sur les dépenses de l'état d'une manière simplifiée.

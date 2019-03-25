@@ -1,1 +1,0 @@
-Suppression de la taxe d'habitation pour tous les français. Pour le calcul de la taxe des ordures ménagères ne pas tenir compte de la valeur locative de la maison mais prendre en compte le nombre de personnes vivant sous le même toit, le poids et ramassage à proximité.

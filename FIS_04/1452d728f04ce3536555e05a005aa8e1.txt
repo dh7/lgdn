@@ -1,1 +1,0 @@
-Prévoir un traitement unique des dossiers qui prennent en compte l'ensemble des prestations sociales (logement, perte d'emploi, allocations....)

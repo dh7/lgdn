@@ -1,1 +1,0 @@
-Oui : Supprimer les départements qui ont des compétences redondantes avec les communes et / ou les régions

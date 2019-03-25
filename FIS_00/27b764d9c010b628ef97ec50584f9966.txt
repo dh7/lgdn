@@ -1,1 +1,0 @@
-Mise à disposition sur internet de la répartition des dépenses par commune, département, région.  Benchmark avec les autres communes, départements, régions + Comparatif France vs autres pays de l'UE.

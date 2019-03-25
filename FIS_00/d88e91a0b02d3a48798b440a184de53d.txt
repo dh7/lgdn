@@ -1,1 +1,0 @@
-Le site impots.gouv.fr pourrait avoir une section qui détaillerait l'utilisation des impôts, par politique (santé, development durable, éducation,...). On pourrait aussi y voir des projets phares pour chaque politique.

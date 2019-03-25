@@ -1,1 +1,0 @@
-- Limiter la durée du versement de l'assurance chômage et réduire les montants perçus (diminution progressive, plafonnement)

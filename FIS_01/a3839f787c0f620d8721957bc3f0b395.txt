@@ -1,1 +1,0 @@
-Taxer de façon progressive les actes des sociétés qui réalisent des augmentations de capital . Depuis la dernière loi de finances, les droits d’enregistrement ont été supprimés pour toutes les augmentations de capital. Déterminer un pourcentage de taxation en fonction du capital final entre 2 et 3%.

@@ -1,1 +1,0 @@
-Exprimer en pourcentage les parts utilisées. Donner les budgets détaillés pour chaque domaine de dépense et à quel objectif il correspond.

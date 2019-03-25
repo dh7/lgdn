@@ -1,1 +1,0 @@
-Paiement d'un impôt par tous en fonction de son revenu réel.

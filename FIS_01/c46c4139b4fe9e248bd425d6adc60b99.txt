@@ -1,1 +1,0 @@
-simplifier les assiettes et les règles d'imposition, supprimer progressivement les cas particuliers. rendre visible l'impact de redistribution de l'impôt à ceux qui en bénéficient en affichant le taux moyen. étendre l'IR à tous avec un d'impôt minimum symbolique. l'ISF est un impôt spoliateur, contreproductif, et injuste quand les rendements sont inférieurs à l'inflation

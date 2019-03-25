@@ -1,1 +1,0 @@
-moduler le temps de travail selon l'age: 20 à 40 ans : 40h ; 40 à 55 ans : 35h : après 55 ans : 30h

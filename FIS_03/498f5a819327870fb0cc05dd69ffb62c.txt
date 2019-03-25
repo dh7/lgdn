@@ -1,1 +1,0 @@
-Prendre le nombre de trimestres travaillés comme date de départ avec bonus et malus pour regler les ecarts

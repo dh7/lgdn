@@ -1,1 +1,0 @@
-Exercer un contrôle plus strict de toutes les allocations, en particulier celles du chômage

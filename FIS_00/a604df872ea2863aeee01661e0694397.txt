@@ -1,1 +1,0 @@
-pour chaque citoyen , transmettre un état récapitulatif individualisé des dépenses de l'état par domaine avec un historique de 5 ans (à partir de la  date de prise de fonction du président)

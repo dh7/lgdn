@@ -1,1 +1,0 @@
-Distribuer une meilleure allocation pour un premier enfant, et en revanche diminuer les allocations familiales après le deuxième enfant.

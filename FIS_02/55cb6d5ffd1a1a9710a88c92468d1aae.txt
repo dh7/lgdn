@@ -1,1 +1,0 @@
-suppression de la CSG sur les salaires et retraites inférieurs à 1500 euros suppression du coefficient de solidarité

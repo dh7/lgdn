@@ -1,1 +1,0 @@
-Diminuer le nombre d’heures de cours au collège  Inclure dans l’algorithme qui calcule l’allocation pôle emploi de ne pas gagner plus avec les cotisations sociales que en travaillant (si le salaire est supérieur au smic)

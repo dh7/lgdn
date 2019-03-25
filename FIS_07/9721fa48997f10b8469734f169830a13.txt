@@ -1,1 +1,0 @@
-Lors de vente d'une société nous devons prévoir un pourcentage ( 10% par exemple ) du montant de la transaction pour redistribuer aux salariés en fonction de leur ancienneté. La valeur d'une société dépend  bien sur du management  mais également de la qualité du travail des salariés.

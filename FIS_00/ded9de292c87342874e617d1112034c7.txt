@@ -1,1 +1,0 @@
-Un tableau sur lequel partiraient des 3 fonctions (Etat, Collec locales, Social, des flèches indiquant les parties importantes des affectations (fonctionnement, prestations etc...)avec le pourcentage par rapport au total.

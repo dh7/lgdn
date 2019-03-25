@@ -1,1 +1,0 @@
-Produire une synthèse (en ligne) sur les recettes et les dépenses de l'État par catégories avec possibilité de parcourir par sous-catégories. Faire la même chose par collectivités territoriales.

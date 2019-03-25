@@ -1,1 +1,0 @@
-il faut une seule source d'allocation qui regroupe toutes les attributions, afin de pouvoir comparer les sommes percues avec les gens qui ont un salaire, en comptant les faveurs.

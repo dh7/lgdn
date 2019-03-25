@@ -1,1 +1,0 @@
-commencer à diminuer l'allocation chômage, dans certains cas (comme des zones géographiques avec un faible taux de chômage), au bout de 12 mois.

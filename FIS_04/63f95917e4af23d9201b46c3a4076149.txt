@@ -1,1 +1,0 @@
-Ces aides sont beaucoup trop nombreuses, on devrait en regrouper plusieurs en calculant leur montant en fonction des ressources du ménage par unité de consommation. On sait par exemple que l'APL est un facteur d'inflation des loyers, l'inclure donc dans une aide à la personne plus globale.

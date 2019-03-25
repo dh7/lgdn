@@ -1,1 +1,0 @@
-Avec la déclaration sur internet, il faudrait supprimer la logique toujours basée sur les anciens formulaires.  C'est un peu lourd et une fois la déclaration terminée, on se retrouve sur le site avec plusieurs formulaires et parfois une seule case remplie par formulaire.

@@ -1,1 +1,0 @@
-informer les utilisateurs du coût des prestations qu'ils reçoivent. On peut indiquer par exemple le coût d'une année scolaire pour un élève.

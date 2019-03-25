@@ -1,1 +1,0 @@
-Envoyer un récapitulatif sous forme graphique par mail.

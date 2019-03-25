@@ -1,1 +1,0 @@
-graduer les contraventions en fonction de sa fiscalité. ex: un automobiliste qui reçoit une amende pour excès de vitesse, normalement, il est censé payé 68 euro hors majoration.  Mais si ce automobiliste déclare 5000 euro de revenue alors, il ne peux pas réglé la même somme qu'une personne qui touche que le SMIC. Il doit être a un taux supérieur.

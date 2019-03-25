@@ -1,1 +1,0 @@
-Le calcul de l'impôt sur le revenu est basé sur sur des tranches. Un calcul du taux d'imposition fait avec un taux plus progressif, type courbe linéaire, permettrait d'éviter ces effets de seuil qui décourage de gagner un peu plus puisque l'on risque de gagner moins si l'on change de tranche

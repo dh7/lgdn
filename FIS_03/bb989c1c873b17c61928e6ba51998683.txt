@@ -1,1 +1,0 @@
-Revoir certains privilèges qui devraient n'avoir plus court

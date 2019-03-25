@@ -1,1 +1,0 @@
-Chômage : calcul dégressif non pas dans le temps mais par palier de salaires. Aujourd'hui 57% pour tous (sauf tous petits salaires). Pourquoi ne pas faire 57% jusqu'à plafond 1 (exemple 2,5K€ /mois) puis 47 % jusqu'à plafond 2 (exemple 3,5 K€), et 37% au dessus. Une modération pourrait être apportée en fonction du nombre de personnes à charge.

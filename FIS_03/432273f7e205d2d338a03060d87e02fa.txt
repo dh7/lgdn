@@ -1,1 +1,0 @@
-Fiscalisation des gains aux jeux à partir d'un montant plancher (ex. 1% pour 10000 euros de gain) et avec une progressivité en fonction du montant du gain.

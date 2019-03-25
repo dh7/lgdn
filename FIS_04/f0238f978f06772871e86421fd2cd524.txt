@@ -1,1 +1,0 @@
-Etre plus rigoureux dans les contrôles pour l'attribution du RSA.

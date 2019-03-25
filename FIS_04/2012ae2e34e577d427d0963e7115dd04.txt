@@ -1,1 +1,0 @@
-Rendre les allocations familiales dégressives en fonction du nombre d'enfants. En effet les contraintes financières liées à la première naissance sont beaucoup plus importantes que pour les naissances suivantes.

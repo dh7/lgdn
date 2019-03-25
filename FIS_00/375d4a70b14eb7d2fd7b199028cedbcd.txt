@@ -1,1 +1,0 @@
-Afficher en permanence les différents montants des impôts et leur utilisation respective ainsi que la dette de la France.

@@ -1,1 +1,0 @@
-Moins privilèges, des structure de contrôle pour éviter le copinage entre élus et les entreprises.

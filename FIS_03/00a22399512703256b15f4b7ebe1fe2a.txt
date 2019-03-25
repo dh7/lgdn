@@ -1,1 +1,0 @@
-Arrêter de verser des allocations à ceux qui n'en ont pas besoin, créer une allocation unique par foyer.

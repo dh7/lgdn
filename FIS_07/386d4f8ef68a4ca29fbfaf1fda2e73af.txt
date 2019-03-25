@@ -1,1 +1,0 @@
-- Dans une entreprise le salaire le plus élevé ne peut pas être 20 fois supérieur au salaire le plus bas. - Le livret A devrait être revaloriser au cout de l'inflation

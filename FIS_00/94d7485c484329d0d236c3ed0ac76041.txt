@@ -1,1 +1,0 @@
-Graphiques dynamiques sur un site web  permettant de sélectionner soit un impôt pour que s'affichent les dépenses qu'il finance, soit sélectionner une dépense(ou un groupe de dépenses) pour que s'affichent les impôts qui la financent.  Genre de cube décisionnel.

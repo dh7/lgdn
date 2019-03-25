@@ -1,1 +1,0 @@
-C'est l'ensemble des allocations qui doit être revu. Il faudrait regrouper son versement dans un seul service pour permettre un meilleur contrôle et des potentiels doublons.

@@ -1,1 +1,0 @@
-Des graphiques visuels sur les dépenses principales, les sources et l'entité qui dépensent (Etat et quel Ministère, collectivité, Hopitaux, Sécu), la différence entre dépenses de fonctionnement et d'investissement (et lister les projets d'investissement soutenus)

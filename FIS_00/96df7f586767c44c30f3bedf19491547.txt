@@ -1,1 +1,0 @@
-Envoyer le détail des dépenses faites par administration Région, département, Commune, état.

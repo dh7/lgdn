@@ -1,1 +1,0 @@
-Tout d'abord, ne pas vouloir tout traiter tous les cas par des règles universelles, qui deviennent tellement complexes qu'elles favorisent les abus, gérer les cas un peu complexes au cas par cas.

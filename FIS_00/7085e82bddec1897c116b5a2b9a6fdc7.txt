@@ -1,1 +1,0 @@
-Le calcul du taux de prelèvement à la source est calculé sur le revenu fiscal APRES déductions et abattements. Il est appliqué par les organismes payeurs sur le revenu fiscal AVANT abattement.Cette aberration mathematique fait trop payer de PAS. I IL faut calculer le taux de PAS sur le revenu fiscal AVANT abattement

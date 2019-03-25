@@ -1,1 +1,0 @@
-Un site où l'on pourrait voir quelles sont les dépenses de l'état en € et la proportion que cela représente par rapport à l'ensemble des dépenses de l'état

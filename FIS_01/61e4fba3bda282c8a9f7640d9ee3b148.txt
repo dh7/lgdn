@@ -1,1 +1,0 @@
-simplifier et égaliser les impôts a forte variabilité locale (ex: les taxes locales qui varient très injustement d'une commune à l'autre).

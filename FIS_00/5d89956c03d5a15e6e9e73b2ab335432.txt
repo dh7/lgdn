@@ -1,1 +1,0 @@
-Lister les dépenses publiques, pour les exclure ou les limiter en fonction de leur pertinence à l’intérêt général

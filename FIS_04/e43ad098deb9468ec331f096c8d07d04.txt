@@ -1,1 +1,0 @@
-Il conviendrait surtout de fixer une limite de temps à l'aide sociale, afin qu'elle ne deviennent pas une zone difficile à quitter de peur de la perdre (effet de bord).

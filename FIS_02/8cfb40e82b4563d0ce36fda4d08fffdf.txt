@@ -1,1 +1,0 @@
-TVA : revoir complètement son fonctionnement (adapter en fonction des revenus). Cotisation sociales.

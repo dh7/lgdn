@@ -1,1 +1,0 @@
-regrouper tous les impots pour ne garder que 2 impots : la TVA et les revenus ( salaire et  aides )

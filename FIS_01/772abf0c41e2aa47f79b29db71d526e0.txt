@@ -1,1 +1,0 @@
-Suppression de toutes les niches Fiscales. Interdiction pour les sociétés ayant l'état pour actionnaire de mettre leur holding aux Pays-Bas afin de faire de l'optimisation Fiscale. Pour les sociétés marchandes étrangères, si non imposées en France sur les bénéfices, imposition sur le chiffre d'affaire généré en France. Chasse effective aux fraudes fiscales.

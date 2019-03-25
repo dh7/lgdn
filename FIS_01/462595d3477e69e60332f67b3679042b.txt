@@ -1,1 +1,0 @@
-Le principe du prélèvement à la source est une très bonne solution. Hors celui ci devrait etre effectué pour tout type d’impôts et devrait par informatique s’adapter systématiquement en fonction des revenus, s’ils augmentent ou baissent. Mais pas de « non imposable »

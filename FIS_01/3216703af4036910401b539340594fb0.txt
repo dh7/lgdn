@@ -1,1 +1,0 @@
-Calculer l'IS avec un taux progressif de la même manière que l'IR. Le taux d'impôt serait calculé à partir des bénéfices divisé par le nombre de salariés en équivalent temps plein. Cela peut être vu comme une alternative à la taxe robots, les entreprises faisant beaucoup de bénéfices par employé grâce à l'automatisation du travail paieraient plus d'impôts.

@@ -1,1 +1,0 @@
-Calcul de l'impôt. Le calcul par tranches est injuste. L'effet de seuil est particulièrement choquant pour des revenus modestes taxés à 30%. La progressivité serait plus juste. Il faut pouvoir corriger l'excès de sa progression. A l'aide d'un coefficient régressif? Nous avons d'excellents mathématiciens qui trouveront la solution.

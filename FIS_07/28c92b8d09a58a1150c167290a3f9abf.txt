@@ -1,1 +1,0 @@
-le système LAPI permet de lire les plaques d'immatriculations. Il faut en placer aux frontières afin de contrôler tous les véhicules entrants et sortants. La barrière ne s'ouvre que si toutes les infractions concernant le véhicules sont réglées .  Les étrangers roulent en toute impunité alors que le français "moyen" est matraqué.

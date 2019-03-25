@@ -1,1 +1,0 @@
-créer une application mobile ou un site Internet dans lequel on a accès aux chiffres des dépenses/recettes de l'Etat, mais aussi communes par communes, départements, régions

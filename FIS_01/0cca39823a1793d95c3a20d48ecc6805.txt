@@ -1,1 +1,0 @@
-- Plus grande progresssivite de l’IR (creation de nouvelle tranche d’imposition) avec un abaissement du 1er seuil d’imposition - prendre en compte le salaire net pour la base imposable (retrait de la csg) - elargisement des produits eligibles a la tva appliquée sur les produits de premiers necessite

@@ -1,1 +1,0 @@
-Payer ses impôts suivant ses revenus avec des abattements en fonction de la famille.

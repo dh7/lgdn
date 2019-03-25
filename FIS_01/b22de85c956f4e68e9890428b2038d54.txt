@@ -1,1 +1,0 @@
-Supprimer les tranches d'impôts sur le revenus et payer selon une courbe exponentielle. Imputer la taxe des ordures ménagères à la taxe d'habitation et non à la taxe foncière. Calculer la taxe foncière et la CFE avec un dégrèvement selon les revenus et les bénéfices comme la taxe d'habitation.

@@ -1,1 +1,0 @@
-- Permettre à chaque citoyen de choisir où vont leurs impôts. Cela peut se faire via impots.gouv.fr lors de la déclaration de revenus : sélectionner 3 secteurs dans lesquels on veut que l'argent aille

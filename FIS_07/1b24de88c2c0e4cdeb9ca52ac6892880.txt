@@ -1,1 +1,0 @@
-suppression de toutes les tenues d'apparat des fonctionnaires militaires, polices, pompiers, garde rapprochée.... ne conserver que les tenues de travail ayant une fonction avec la tâche.

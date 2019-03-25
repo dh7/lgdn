@@ -1,1 +1,0 @@
-Arrêter de les attribuer sans vérification du bien fondé.

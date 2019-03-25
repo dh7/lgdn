@@ -1,1 +1,0 @@
-Affichage permanent de l’avancement des grands projets programmés et les coûts y afférents !

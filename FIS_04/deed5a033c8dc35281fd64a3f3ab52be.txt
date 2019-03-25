@@ -1,1 +1,0 @@
-Ce sont les contrôles qui doivent être accrus. Il n'est par exemple pas normal que deux salariés vivant physiquement ensemble mais déclarant deux adresses différentes bénéficient de l'allocation parents isolés.

@@ -1,1 +1,0 @@
-multiplier le nombre de tranches afin d'éviter l'effet palier et imposer l'ensemble des revenus même les revenus sociaux ( allocations familiales, prime de rentrée scolaire...)

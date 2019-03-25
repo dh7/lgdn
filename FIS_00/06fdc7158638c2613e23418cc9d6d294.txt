@@ -1,1 +1,0 @@
-Chaque impôt doit avoir une finalité. Chaque impôt prélevé doit afficher sur la feuille de prélèvement la répartition de l'attribution des postes receveurs.

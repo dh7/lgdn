@@ -1,1 +1,0 @@
-Les notions de TVA sur Débit et TVA sur Encaissement sont totalement inutiles et ne servent qu'à rendre si complexe leur gestion que même les comptables se trompent. Je vous propose de supprimer cette différence et de ne garder que le principe de la TVA payable par l'entreprise le mois qui suit son identification et récupérable par le client avec le même décalage.

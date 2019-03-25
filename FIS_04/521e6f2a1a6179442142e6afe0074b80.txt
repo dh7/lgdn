@@ -1,1 +1,0 @@
-Il faut enlever les effets de seuil et les moduler car cela entraîne des risques de fraude : j’ai déjà entendu je ne veux pas être déclaré pour tout car sinon je perds mes allocs ou ma prime  Il faut s’assurer que la prime de rentrée sert bien aux enfants

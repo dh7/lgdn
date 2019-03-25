@@ -1,1 +1,0 @@
-instaurer un calcul d'impôt directement proportionnel aux revenus, pour sortir du système de tranches, avec une courbe exponentielle pour une contribution d'autant plus forte que les revenus sont élevés

@@ -1,1 +1,0 @@
-RSA devrait être conditionné à du travail d'intéret général et de la formation

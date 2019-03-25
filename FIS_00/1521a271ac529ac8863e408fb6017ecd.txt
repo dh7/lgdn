@@ -1,1 +1,0 @@
-Chaque citoyen pourrait disposer d'un compteur par lequel il a accès à la quote part redistribuée détaillée qui lui est allouée. Cela aiderait par la suite à réaliser des arbitrages auxquels les citoyens seraient associés.

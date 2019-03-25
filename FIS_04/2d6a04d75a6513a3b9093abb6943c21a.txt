@@ -1,1 +1,0 @@
-Aides sociales calculées en fonction des revenus du foyer fiscal. C'est le cas des retraites ( CSG) et pourquoi pas le cas des revenus des actifs en compensation de la suppresion des contributions aux cotisations maladies et chômage.

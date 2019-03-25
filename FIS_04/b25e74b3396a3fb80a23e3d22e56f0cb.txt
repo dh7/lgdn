@@ -1,1 +1,0 @@
-Je ne sais pas, mais il faut parvenir à une sorte de menu lisant les éléments pris en compte et annonçant le total à percevoir.

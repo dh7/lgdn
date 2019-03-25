@@ -1,1 +1,0 @@
-Avoir des tableaux clairs avec d'un côté les revenus et de l'autre les dépenses montrant ou vont les impôts collectés. Ce tableau devrait être facilement accessible avec la visualisation des détails.

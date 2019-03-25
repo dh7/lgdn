@@ -1,1 +1,0 @@
-Communiquer de manière simple sur le bilan des dépenses et des recettes de l'état, et le publier sur le site de l'administration fiscale. Dans ce bilan, présenter l'évolution des dépenses sur une période de 5 ans, en expliquant le pourquoi de la baisse ou de l'augmentation des budget par thème (action sociale, justice, armée et police, éducation, écologie, ...)

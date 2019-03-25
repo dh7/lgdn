@@ -1,1 +1,0 @@
-supprimer les allocations en cas d'abandon de poste

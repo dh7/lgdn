@@ -1,1 +1,0 @@
-Stopper d'indexer le budget d'une année sur l'année écoulée, les sommes non utilisées devant être inscrites et servir au financement des nouveau budget.

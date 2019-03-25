@@ -1,1 +1,0 @@
-Le calcul du taux d’imposition sur les bénéfice doit etre calculé suivant le nombre de salariés de l'entreprise et les grilles salariales

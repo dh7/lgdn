@@ -1,1 +1,0 @@
-Allocations logements, les propriétaires calculent les loyers en fonction du montant des allocations percues.

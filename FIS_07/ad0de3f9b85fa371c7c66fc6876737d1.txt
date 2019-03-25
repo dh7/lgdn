@@ -1,1 +1,0 @@
-Simplifier la gestion des artisans employant 3 salariés ou moins pour réduire leurs coûts de gestion. Favoriser la mutualisation des frais de gestion entre plusieurs artisans.

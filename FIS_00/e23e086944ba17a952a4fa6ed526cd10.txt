@@ -1,1 +1,0 @@
-Créer un site dépendant du Ministère des Finances qui récapitule la répartition annuelle de toutes les dépenses publiques que chacun d'entre nous pourra consulter facilement.

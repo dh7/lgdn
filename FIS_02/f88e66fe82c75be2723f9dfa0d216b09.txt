@@ -1,1 +1,0 @@
-supprimer toutes les taxes et ne conserver qu'un impôt sur le revenu payé par tous

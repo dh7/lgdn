@@ -1,1 +1,0 @@
-Guichet informatique unique où chaque citoyen pourrait déposer une question, un recours, une proposition... de manière simple (donc accessible à tous) quel que soit le service concerné. La réponse lui sera retournée, selon les circonstances, selon les modalités adaptées à la situation (y compris par un agent à domicile selon la situation).

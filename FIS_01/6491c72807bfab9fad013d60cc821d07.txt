@@ -1,1 +1,0 @@
-Une refonte du calcul de l'impôt où le taux d'imposition est clair, non alambiqué, juste.

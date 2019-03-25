@@ -1,1 +1,0 @@
-Supprimer tous les impôts et toutes les taxes lorsque les coûts de recouvrement sont trop élevés.

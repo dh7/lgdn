@@ -1,1 +1,0 @@
-Un organisme pour controler les dépenses et invalider les excès par rapport à un programme  voter. L'état doit être gérer comme une entreprise et rendre des comptes.

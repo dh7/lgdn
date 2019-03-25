@@ -1,1 +1,0 @@
-tous ceux qui ne procure pas un rendement de collecte intéressante : collecte / (coût de déclaration + coût de collecte + coût de vérification) > 10

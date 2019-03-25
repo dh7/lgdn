@@ -1,1 +1,0 @@
-Suppression des niches fiscales. Calcul des impôts et des aides sociales en fonction des revenus de l'ensemble des membre de la famille (parents, enfants indépendamment de la situation maritale) de l'année.

@@ -1,1 +1,0 @@
-- chômage : vérifier que les personnes cherchent bien du travail (nombre de CV envoyés) et durée de protection moins longue

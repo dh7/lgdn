@@ -1,1 +1,0 @@
-loi qui interdit que le plus haut salaire d'une entreprise soit supérieure à 10 fois le plus petit salaire de la même entreprise. Valable pour la fonction publique

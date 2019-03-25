@@ -1,1 +1,0 @@
-augmenter le nombres de tranches jusqu'à dix en commençant par 5% pour tous et 60 % pour les plus riches

@@ -1,1 +1,0 @@
-Représentation simple et graphique de type "où vont 1000 euros d´impots" sur la fiche de paie.

@@ -1,1 +1,0 @@
-un tableau annuel comportant toutes les lignes de recettes et dépenses avec leur montant et l'évolution  + obs ex: le taleau du diagnostic un peu + éclaté   montrer en observations l'évolution, les difficultés et leurs causes.

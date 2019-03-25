@@ -1,1 +1,0 @@
-indexer toutes les retraites sur l'inflation mais limiter l'indexation quand la pension est supérieure à 3 fois le SMIC Exemple si inflation = 1.5% toutes les pensions sont revalorisées de 1.5% mais à partir de 4000 € l'augmentation est plafonnée à 60 euros mensuel

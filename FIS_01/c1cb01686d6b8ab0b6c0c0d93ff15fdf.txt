@@ -1,1 +1,0 @@
-Simplifier pour rendre lisible, la baisser progressivement

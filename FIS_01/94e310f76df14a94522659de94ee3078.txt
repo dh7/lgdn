@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches sur l'IR pour le rendre plus progressif et ainsi adoucir l'effet palier entre chaque tranche

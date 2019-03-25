@@ -1,1 +1,0 @@
-augmenter les tranches et réaliser un réequilabrage par un CALCUL EXPONENTIEL selon les revenus non plus calculé au pourcentage mais au MILLIEME. Instaurer des plafonds de redistribution

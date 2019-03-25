@@ -1,1 +1,0 @@
-limiter le nombre de niche fiscale utilisable pour chaque contribuable en % du revenu (le même pour tous les gens, le même pour toutes les entreprises)

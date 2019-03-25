@@ -1,1 +1,0 @@
-presenter une resume du budget  par grand chapitre sans entrer dans le detail, un peu comme le font les structures publiques ( compte financier )

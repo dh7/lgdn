@@ -1,1 +1,0 @@
-Lorsque nous recevons notre document pour déclaration d'impots, il serait bon d'avoir le budget de l'année précédente : revenus total des revenus de l'état, dépenses publiques. Déficits, évolution des déficits d'une année à l'autre.

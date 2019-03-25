@@ -1,1 +1,0 @@
-Alloc chômage. Dégressivité RSA en fonction ardeur à recherche emploi.

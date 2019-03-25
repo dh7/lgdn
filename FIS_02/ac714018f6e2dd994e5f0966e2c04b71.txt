@@ -1,1 +1,0 @@
-Supprimer les tranches d'impôt et leurs dérives (les sauts de tranche) par un calcul mathématique continu de l'impôt. La TVA sur certains produits de première nécessité. La CSG sur les retraites moyennes

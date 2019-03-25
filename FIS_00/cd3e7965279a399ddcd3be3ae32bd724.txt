@@ -1,1 +1,0 @@
-Diffuser régulièrement les dépenses correspondantes à x € d'impôts (exemple : pour 1000 €)

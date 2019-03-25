@@ -1,1 +1,0 @@
-Décomposer le poste "dépenses" des différents budgets (Etat, collectivités locales) selon les investissements, les moyens de fonctionnement (salaires, entretien, ...) et les donations/allocations sociales diverses; effectuer régulièrement un audit sur l'utilité des. dépenses (et comparaison par rapport au justificatif éventuel présenté lors de la création de ces dépenses)

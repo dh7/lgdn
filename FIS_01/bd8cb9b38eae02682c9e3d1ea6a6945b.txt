@@ -1,1 +1,0 @@
-simplifier les modes de déclaration pour plus de transparence.

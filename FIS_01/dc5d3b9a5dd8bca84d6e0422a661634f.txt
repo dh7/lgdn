@@ -1,1 +1,0 @@
-Créer une carte TVA, enregistrée aux Impôts, grâce à laquelle chaque citoyen paierait une TVA en fonction de ses revenus (par rapport à la déclaration de revenus) pour toutes les dépenses de la vie courante. : alimentation, carburant, et autres produits nécessaires

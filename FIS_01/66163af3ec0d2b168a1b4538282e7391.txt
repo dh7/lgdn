@@ -1,1 +1,0 @@
-pris en compte des remboursements de prêt immobilier (résidence principale) ou loyers - au moins pour une partie - dans le calcul de l'impôt

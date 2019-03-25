@@ -1,1 +1,0 @@
-Un tableau de bord indiquant la repartion des impôts,  les montant et le nombre de personnes concernées.

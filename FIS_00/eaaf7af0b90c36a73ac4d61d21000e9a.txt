@@ -1,1 +1,0 @@
-Avoir un site qui montre où vont les dépenses de l'état et des collectivités locales : en gros à quoi sert notre impôts. Egalement, faire une simulation pour indiquer les conséquences de diminuer ou supprimer tel impôts ou telle taxe - le ratio bénéfice risque est-il acceptable au moins pendant une période donnée.

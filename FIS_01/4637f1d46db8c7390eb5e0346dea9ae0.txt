@@ -1,1 +1,0 @@
-Réformer le CGI en le simplifiant.  Imposer tous les foyers, même les foyers les plus modestes avec une contribution symbolique (exemple 20€)

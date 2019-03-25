@@ -1,1 +1,0 @@
-L'état est un mauvais gestionnaire, une fois que la bonne gestion sera opérationnelle cette question n'aura plus lieu d'être !

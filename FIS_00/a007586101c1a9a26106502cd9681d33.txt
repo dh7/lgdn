@@ -1,1 +1,0 @@
-Simplifier le systeme pour le rendre plus lisible. Un côté + (allocations, déductions) et un côté - (IR, CSG, ...).

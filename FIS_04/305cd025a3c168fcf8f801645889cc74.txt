@@ -1,1 +1,0 @@
-Regrouper toutes les allocations en 1 seule, et calculer directement par les services fiscaux, pour chaque citoyen, puisque, qu il connaissent déja le nombre de personne d une famillee, les enfants, etc

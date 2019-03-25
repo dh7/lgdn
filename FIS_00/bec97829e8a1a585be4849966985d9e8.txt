@@ -1,1 +1,0 @@
-une lettre contenant la répartition des impots  (état, région , commune , citoyen ) et par postes ( fonctionnement état , éducation armée...en pourcentage

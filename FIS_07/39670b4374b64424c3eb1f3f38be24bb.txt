@@ -1,1 +1,0 @@
-Pourquoi ne pas fusionner la CSG non déductible avec la CSG déductible, cette distinction n'a aucun sens

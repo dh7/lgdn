@@ -1,1 +1,0 @@
-Supprimer les allocation familiales si un enfant de la famille est délinquant.

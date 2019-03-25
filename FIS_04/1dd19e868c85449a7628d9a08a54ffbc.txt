@@ -1,1 +1,0 @@
-Supprimer tout effet de seuil en rendant proportionnelle aux revenus toute aide. Considérer le capital détenu.

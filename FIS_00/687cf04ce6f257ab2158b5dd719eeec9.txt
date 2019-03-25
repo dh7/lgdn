@@ -1,1 +1,0 @@
-Faire un site web qui présenterait les dépenses de l'état de façon claire en comparant les dépenses faites / dépenses prévues, l'évolution des dépenses par domaine (éducation, justice, armée, ...).

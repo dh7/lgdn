@@ -1,1 +1,0 @@
-RSA et allocations quand il n'y a pas de réelle recherche de travail. Mais pas de généralité car il y a beaucoup de zones sinistrées où les propositions d'emplois sont limitées.

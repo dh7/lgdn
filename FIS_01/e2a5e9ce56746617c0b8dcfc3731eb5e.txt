@@ -1,1 +1,0 @@
-Etablir un revenu minimal et un revenu maximal. Dans tous les cas, revenu s'entend comme somme de tous les revenus, salaires et autres. Supprimer toutes les niches fiscales.

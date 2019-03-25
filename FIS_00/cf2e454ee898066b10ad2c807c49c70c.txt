@@ -1,1 +1,0 @@
-Mettre en place un rapport qui définirait combien un citoyen coûte à l'état (positif ou négatif) à titre privé. Cela permettrait deux choses : que les gens se rendent compte de l'aide de l'état français pour chacune de ces personnes et cela donnerait une métrique pour faire un calcul moyen.

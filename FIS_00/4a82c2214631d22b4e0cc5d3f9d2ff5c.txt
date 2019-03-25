@@ -1,1 +1,0 @@
-Il faudrait disposer d'un rapport annuel constitué de quelques synthèses graphiques, mais également pouvoir accéder aux données numériques, et pouvoir les exploiter sous formes de tableaux et graphiques configurables par thèmes, par périodes temporelles, origines de la collecte (tranches fiscales, part de la population, citoyenneté), postes de dépense.

@@ -1,1 +1,0 @@
-Regroupement des allocations dans une allocation unique dégressive en fonction des revenus et qui permet de garantir qu’il est interessant de travailler

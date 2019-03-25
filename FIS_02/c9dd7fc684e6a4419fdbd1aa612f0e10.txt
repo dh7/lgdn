@@ -1,1 +1,0 @@
-La CSG, ou au moins la rendre déductible en totalité.

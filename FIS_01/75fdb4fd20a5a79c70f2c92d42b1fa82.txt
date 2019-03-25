@@ -1,1 +1,0 @@
-Indexer le montant des amendes sur le nombre de cheveaux fiscaux.

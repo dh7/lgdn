@@ -1,1 +1,0 @@
-Analyser le ratio temps de travail / salaire perçu avant de taxer Taxer de manière proportionnée et non par tranche pour limiter les effets de seuil. Faire en sorte que les demandeurs d'emplois indemnisés depuis plus de 6 mois contribuent également par le biais d'un service civil/civique de quelques heures au service de la collectivité

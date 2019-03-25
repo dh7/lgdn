@@ -1,1 +1,0 @@
-Par exemple pour minorer les effets de seuil et être plus juste : par exemple pour la CSG : toutes les sommes inférieures au salaire minimum seront exonérées du 1er taux, puis les sommes entre le salaire minimum et 2000 € paient le 1er taux, puis les sommes entre 2000€ et 4000€ paient le 2ème taux, et l'ont crée un 3ème taux pour toute les sommes supérieures à 4000€

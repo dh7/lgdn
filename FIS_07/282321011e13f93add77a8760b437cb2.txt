@@ -1,1 +1,0 @@
-Adapter au plus près la grille d’imposition (IR) en multipliant les tranches.

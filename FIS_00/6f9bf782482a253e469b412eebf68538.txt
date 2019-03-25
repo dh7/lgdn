@@ -1,1 +1,0 @@
-- Envoyer un courrier postal et un mail, chaque année, lorsque le budget de l'État est voté, pour donner tous les détails, avec des mots simples, de l'utilisation des impôts, avec tous les chiffres à l'appui.

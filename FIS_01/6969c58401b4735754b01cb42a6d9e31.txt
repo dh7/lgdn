@@ -1,1 +1,0 @@
-Calculer l'impôt sur un pourcentage fixe des revenus ou du chiffre d'affaire des entreprises, mais sans raisonner par "tranches". Rétablir l'I.S.F.

@@ -1,1 +1,0 @@
-Des agents indépendants pour contrôler le budget "Recette et Dépenses" de chaque ministère pour apporter des réponses d'économie adéquates.

@@ -1,1 +1,0 @@
-Publier les comptes de l'état avec divers niveaux de détails, et toujours les présenter par finalité de la dépense.

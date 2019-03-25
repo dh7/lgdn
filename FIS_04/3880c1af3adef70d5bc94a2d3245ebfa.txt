@@ -1,1 +1,0 @@
-- Le RSA. Demander une contre-partie aux bénéficiaires

@@ -1,1 +1,0 @@
-Limiter le plafond pour chaque domaine d'allocation (famille, habitation, emploi) suivant des critères à définir : par exemple,  composition de la famille pour les allocations Famille et Habitation

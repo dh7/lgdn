@@ -1,1 +1,0 @@
-Le calcul en pourcentage n'est pas forcément pertinent,  exemple 10% d'imposition sur un revenu de 6000 euros ça vous laisse un disponible de 5400 euros,   un taux de 5% sur 3000, ça laisse 2850 euros ,   on est quand même beaucoup moins à l'aise avec 2850 euros que 5400.

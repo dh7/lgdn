@@ -1,1 +1,0 @@
-au niveau local il ne devrait y avoir qu'un seul impot local et non 2( taxe fonciere + taxe d'habitation )

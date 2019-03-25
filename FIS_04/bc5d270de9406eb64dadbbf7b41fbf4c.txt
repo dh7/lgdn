@@ -1,1 +1,0 @@
-allocation parent isolé, l'allocation rentrée des classes, le RSA

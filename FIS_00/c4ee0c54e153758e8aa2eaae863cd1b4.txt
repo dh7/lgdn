@@ -1,1 +1,0 @@
-Conditionner le salaire en fonction du travail fourni. Notamment pour la présence à l'assemblée. Absentéisme à une séance = séance non payée

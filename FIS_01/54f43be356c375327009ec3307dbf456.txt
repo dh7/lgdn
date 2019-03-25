@@ -1,1 +1,0 @@
-- Faire payer l'impôt par les citoyens en fonction de leurs revenus. Les tranches du barème de l'impôt doivent être étudiées de façon à ce que les plus hauts revenus contribuent beaucoup plus que les autres. - Lutter contre la fraude fiscale en affectant plus de personnel du service des Impôts à cette traque.

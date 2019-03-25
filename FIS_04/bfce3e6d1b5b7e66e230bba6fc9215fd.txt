@@ -1,1 +1,0 @@
-Vérifier au cas par cas la condition réelle de tout bénéficiaire et additionner l'ensemble des aides qu'il perçoit et des ressources qu'il détient. Bilan exhaustif des ressources et des charges pour établir la pertinence de l'aide

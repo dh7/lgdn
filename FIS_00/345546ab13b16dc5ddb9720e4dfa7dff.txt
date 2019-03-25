@@ -1,1 +1,0 @@
-recenser les personnes sans accès internet et leur envoyer automatiquement par courrier toutes les informations utiles et nécessaires pour toutes les opérations fiscales (paiement, prélèvement, utilisation générale et ciblée)

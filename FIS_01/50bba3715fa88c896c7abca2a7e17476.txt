@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches d'impots. passer de 6 tranches à 15. afin que ce soit plus progressif.

@@ -1,1 +1,0 @@
-Il faut que les aides distribuées suivant les conditions de ressources soient progressives. Plus de paliers mais une limite haute et basse et entre les 2 une distribution linéaire.

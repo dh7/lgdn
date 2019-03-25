@@ -1,1 +1,0 @@
-Une application type arbre de décision qui permette de savoir exactement ce à quoi on a droit au cas par cas. Simplification des règles et démarches vis à vis de la fiscalité des entreprises, notamment les PMEs.

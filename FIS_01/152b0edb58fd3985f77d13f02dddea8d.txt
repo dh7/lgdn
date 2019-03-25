@@ -1,1 +1,0 @@
-arrter que l'etat se gave sur l'essence-prendre en compte le RFR pour le calcul des TH et TF. revoir l'isf en fonction des revenus et non en fonction des biens immobiliers agricoles

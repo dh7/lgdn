@@ -1,1 +1,0 @@
-suppression des allocations familiales au delà d'un certain seuil de revenus avec le correctif du nombre d'enfants.

@@ -1,1 +1,0 @@
-Deux fois par an, une émission sur une chaîne publique doit présenter le budget de l'État en présentant de manière ludique (et non sous forme de propagande) où vont les impôts collectés. Créer une application ludique pour le citoyen qui permet de voir pour chaque impôt ou chaque taxe à quoi il va servir (en donnant des exemples concrets : financement des écoles, des hôpitaux,...)

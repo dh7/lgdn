@@ -1,1 +1,0 @@
-Un rapport donnant le montant exact de la répartition de l'impôt de chaque citoyen. Exemple : je paye 1000€ d'impôt, 500€ vont à l'éducation nationnale, 500€ vont aux routes et transport.

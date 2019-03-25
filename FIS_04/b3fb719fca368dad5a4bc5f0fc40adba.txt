@@ -1,1 +1,0 @@
-•	Apl - Eviter que le montant APL soit supérieur au loyer réel.

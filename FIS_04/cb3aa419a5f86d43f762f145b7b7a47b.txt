@@ -1,1 +1,0 @@
-- prestations chômage : les limiter en montant = 1 smic par exemple  - prestations familiales :  limitées à 3 enfants maxi + suppression totale au delà d'un seuil de revenus mensuels

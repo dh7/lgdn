@@ -1,1 +1,0 @@
-supprimer au maximum les effets de seuil en utilisant un barême proportionnel : ex. CSG augmentée au dessus de 2000€ de revenus, IFI au dessus de 1 300 0000€, taxe d'habitation supprimée en-deça d'un certain revenu, aides particulières données aux personnes non imposables. Compter toutes les aides dans le revenu imposable.

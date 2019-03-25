@@ -1,1 +1,0 @@
-- Information plus régulière sur l'affectation des ressources - Mise en place et communication d'un site internet donnant ces informations avec graphiques, historiques et interactives

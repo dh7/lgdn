@@ -1,1 +1,0 @@
-Traquer tous les empilements d'impôt sur l'impôt (Ex 1: le supplément de CSG sur les retraites des salariés, s'applique aussi à une CSG non récupérable déjà prise en compte! Ex 2: un maire n'augmente pas le % des impôts locaux, mais ils augmentent car le parlement a voté l'application de l'inflation à l'assiette de l'impôt)

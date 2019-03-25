@@ -1,1 +1,0 @@
-Adapter des taux cohérents, principalement au statut du foyer, avec un suivi de l'évolution de ce dernier, pour être en phase avec les besoins, par ex: un décès dans un couple, adapter le revenue fiscal immédiatement.

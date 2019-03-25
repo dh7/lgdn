@@ -1,1 +1,0 @@
-Mettre à disposition sur un site officiel des graphiques indiquants: La sommes de impôts récoltés par catégories. La sommes des dépenses par catégories. La sommes des charges sociales payées par chaque secteurs (privé, fonctionnaire, SNCF, armée, SNCF, EDF  ect) La répartition des dépenses sociales par secteur ( privé, fonctionnaire, SNCF, armée, EDF  etc)

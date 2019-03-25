@@ -1,1 +1,0 @@
-Les services d 'état pourraient fournir un état des recettes et dépenses sous forme de graphique simple compréhensible par tous. (en réalité une ventilation recette/dépense "sans tabou" avec les coûts de fonctionnement de l'administration de l'état français). Dans les déclarations d'impôts il faut inclure toutes les aides perçues par les contribuables.

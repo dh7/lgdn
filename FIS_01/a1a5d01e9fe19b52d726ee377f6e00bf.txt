@@ -1,1 +1,0 @@
-la règle du passage à la retraite doit être une règle OU avec 2 paramètres: soit on a validé le bon nombre de trimestre, soit on a l'àge minimum requis (62 ans)  ...cette règle ne doit pas être une règle ET entre ces 2 paramètres

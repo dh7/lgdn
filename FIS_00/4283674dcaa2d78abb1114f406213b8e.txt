@@ -1,1 +1,0 @@
-Attribuer une taxe par niveau de collectivités. Flécher la destination de certaines taxes

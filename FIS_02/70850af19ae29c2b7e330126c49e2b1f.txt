@@ -1,1 +1,0 @@
-Serait-il possible d'ajuster la TVA aux ressources ? Les personnes dont le revenu serait inférieur ou égal au SMIG ne paieraient pas la TVA. Cette dernière serait augmentée en fonction des ressources qui pourraient être connues à partir de la carte bleue, par exemple, en indiquant grâce à la puce le niveau de tranche d'imposition.

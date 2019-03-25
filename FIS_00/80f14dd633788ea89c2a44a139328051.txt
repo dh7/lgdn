@@ -1,1 +1,0 @@
-Un site pourrait donner le détail des dépenses par domaine, par batiment public,  par ville

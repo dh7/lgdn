@@ -1,1 +1,0 @@
-un portail unique listant les taux et dépenses de fonctionnements investissements du pays versus les taux et dépenses de la redistribution. Remarque : ne pas considérer  les retraites du publique et les traitements salaires des fonctionnaires  comme de la redistribution mais bien du fonctionnement

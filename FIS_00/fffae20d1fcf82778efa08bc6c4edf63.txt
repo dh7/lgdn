@@ -1,1 +1,0 @@
-transformer la comptabilité public vers celles des entreprises (bilan/compte de résultats et engagements hors bilans)  avec des systèmes analytiques puissants

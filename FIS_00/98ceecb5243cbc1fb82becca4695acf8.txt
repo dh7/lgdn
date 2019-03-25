@@ -1,1 +1,0 @@
-Pour chaque service utilisé (hôpital, école...) indiquer le coût pour l'état et la part supportée par l'impôt et celle de la personne concernée. Exemple la visite chez le médecin coûte tant à l'état, a été payée par l'impôt à telle hauteur et personne qui en a bénéficié a payé effectivement  tant...rien n'est gratuit et beaucoup le croient

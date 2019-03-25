@@ -1,1 +1,0 @@
-Envoyer un mail annuel détaillant l'utilisation faite par l'état des impots, pour l'année précédente et celle à venir.

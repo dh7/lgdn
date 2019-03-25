@@ -1,1 +1,0 @@
-Rendre les allocations chômage dégressives et conditionnées au non-refus de plus de 2 propositions d'emploi.

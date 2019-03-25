@@ -1,1 +1,0 @@
-enlever les tranches et adapter l'impôts sur le revenu en pourcentage progressif selon le revenu.dans l'état actuel quelqu'un qui a un revenu supérieur de 1 euro d'une tranche aura un revenu net après déduction des impôts inférieur a celui qui est juste en-dessous du seuil.

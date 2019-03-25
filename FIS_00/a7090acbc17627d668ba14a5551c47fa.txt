@@ -1,1 +1,0 @@
-Mise en place d'un site internet par le ministère des finance donnant l'évolution chaque trimestre des dépenses pour chaque affectation.

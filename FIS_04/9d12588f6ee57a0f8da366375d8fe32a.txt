@@ -1,1 +1,0 @@
-suppression des allocations CAF au delà de 50000 € de revenu annuel

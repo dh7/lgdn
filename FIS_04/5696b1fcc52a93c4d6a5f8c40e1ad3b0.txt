@@ -1,1 +1,0 @@
-simplifier les conditions  d'attribution pour éviter les superpositions et rendre lisible la distribution des aides

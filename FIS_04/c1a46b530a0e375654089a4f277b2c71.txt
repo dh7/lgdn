@@ -1,1 +1,0 @@
-Calculez cette attribution sur la base d'un reste à vivre indexé sur le lieu de résidence plutôt que d'un revenu

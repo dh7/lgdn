@@ -1,1 +1,0 @@
-Supprimer les niches et instaurer un taux d’imposition variable en fonction des origines du revenu et non en fonction de tranches

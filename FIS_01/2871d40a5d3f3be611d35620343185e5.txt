@@ -1,1 +1,0 @@
-Simplifier : moins d'exceptions sur l'IR et augmenter le poids de la TVA ou CSG

@@ -1,1 +1,0 @@
-limiter le nombre des taxes et impôts. dire  pour chaque taxes et impôts à quoi il sert.

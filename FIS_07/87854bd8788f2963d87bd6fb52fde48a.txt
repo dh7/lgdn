@@ -1,1 +1,0 @@
-Supprimer les retraites de la colonne "Dépenses" pour les transferer dans la colonne "Dettes". Ma retraite n'est pas une aide sociale mais le remboursement de mes cotisations retraites.

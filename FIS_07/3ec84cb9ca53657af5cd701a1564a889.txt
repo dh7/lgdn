@@ -1,1 +1,0 @@
-- Remplacer la CSG non déductible par la CSG classique. Il n’y a qu’en France on l’ont paye un impôt sur un impôt.  - Création de nouvelles tranches intermédiaires d’impôsition sur le revenu

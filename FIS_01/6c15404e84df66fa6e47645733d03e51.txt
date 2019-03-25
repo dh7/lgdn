@@ -1,1 +1,0 @@
-Afficher les salaires de manière anonyme et par catégorie dans toutes les structure d’entreprises ou de services

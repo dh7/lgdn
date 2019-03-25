@@ -1,1 +1,0 @@
-Pour compensation, diminuer le train de vie de l'état et des politiques.

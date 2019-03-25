@@ -1,1 +1,0 @@
-Laisser la latitude au travailleur de choisir l'âge et la durée de son travail sous forme de bonus/malus.

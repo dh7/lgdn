@@ -1,1 +1,0 @@
-Simplifier le calcul de l'impôt sur le revenu pour le rendre plus lisible, en supprimant notamment la notion de foyer fiscal. Supprimer les taxes GEMAPI et TSE, ces compétences pouvant être financées par contributions budgétaires des collectivités locales (sur leur budget général)

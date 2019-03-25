@@ -1,1 +1,0 @@
-Il faudrait principalement limiter la fraude en interconnectant toutes les bases de données au niveau national (etat civil, caf, urssaf, etc)

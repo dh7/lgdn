@@ -1,1 +1,0 @@
-Limiter les salaires des présidents (nation, parlement, région, département), des ministres et de leurs conceillers, et limitation du nombre des personnels payés par la Nation affectés à ces dirigeant.

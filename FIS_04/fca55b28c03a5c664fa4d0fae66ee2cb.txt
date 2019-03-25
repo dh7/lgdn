@@ -1,1 +1,0 @@
-Simplifier le système d'aides pour ne pas les multiplier

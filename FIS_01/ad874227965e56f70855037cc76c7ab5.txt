@@ -1,1 +1,0 @@
-Prise en compte du lieu de vie (ville où l'immobilier et le coût de la vie sont chers : il reste beaucoup moins de revenus à disposition)

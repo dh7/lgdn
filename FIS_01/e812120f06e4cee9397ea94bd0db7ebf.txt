@@ -1,1 +1,0 @@
-Ajout des nouvelles tranches pour baisser les contributions des tranches dites moyennes (qui ne le sont plus en réalité car ce sont les plus sollicitées proportionnellement)

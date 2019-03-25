@@ -1,1 +1,0 @@
-Créer sur le site impot gouv, dans l'espace particulier du contribuable, une rubrique utilisation de l’impôt afin que chaque contribuable sache comment est réparti tous les impôts qu'il paie (revenu, foncier, taxe d'habitation).

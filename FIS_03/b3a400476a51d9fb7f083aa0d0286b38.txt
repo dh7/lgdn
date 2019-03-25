@@ -1,1 +1,0 @@
-supprimer les logements et voitures de fonction dans l'administration et mieux gérer le budget de l'etat

@@ -1,1 +1,0 @@
-simplifier et arrêter d'empiler les aides : selon le revenu du foyer : une seule aide qui doit couvrir par un complément l'écart avec un seuil de pauvreté à redéfinir

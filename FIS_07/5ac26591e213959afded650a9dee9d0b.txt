@@ -1,1 +1,0 @@
-Afficher chaque année la répartition des impôts payés par décile et communiquer sur cette répartition afin de mieux apprécier l'équité ou la non équité de notre système fiscal.

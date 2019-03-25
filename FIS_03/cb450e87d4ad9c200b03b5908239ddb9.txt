@@ -1,1 +1,0 @@
-Réorganiser le fonctionnement des services pour éviter les doublons

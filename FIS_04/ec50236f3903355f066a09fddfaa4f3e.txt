@@ -1,1 +1,0 @@
-occupation des logements Hlm en fonction du nombre de personne . 1 personne= 1 studio, 2 pers= 1 F2, 3 pers= 1 F3 etc... et réévaluer annuellement et faire déménager si diminution du nombre de personnes

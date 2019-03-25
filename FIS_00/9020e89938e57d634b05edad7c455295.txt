@@ -1,1 +1,0 @@
-ne plus donner le message qu'une taxe couvrira une dépense, alors que c'est l'ensemble des taxes qui sont réparties sut toutes les dépenses

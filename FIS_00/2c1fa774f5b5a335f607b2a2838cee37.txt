@@ -1,1 +1,0 @@
-sur le site de l'impôt sur les revenus, créer un espace "information" qui sera enrichi au fil de l'eau sur l'utilisation de notre impôt. Donc personne ne pourra pas se plaindre de ne pas comprendre à quoi ça sert

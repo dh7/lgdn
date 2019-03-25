@@ -1,1 +1,0 @@
-suppression du millefeuille administratif et des doublons associés etat-région-département-canton-communauté de commune-commune, une vraie aberration état- région-communauté de commune serait suffisant

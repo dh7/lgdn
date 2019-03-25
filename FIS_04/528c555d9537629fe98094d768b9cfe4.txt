@@ -1,1 +1,0 @@
-Chômage, analyser la sitation géographique du chômeur. Limiter le montant maximal du chômage. Un cadre sup’ n’a pas forcément besoin de milliers d’euros quand il est au chômage

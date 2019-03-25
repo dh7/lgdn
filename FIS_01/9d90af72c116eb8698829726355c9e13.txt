@@ -1,1 +1,0 @@
-Par ministère, afficher quelles sont les dépenses et besoins actuelles et à venir, et quelles sont les recettes reçues et programmées.

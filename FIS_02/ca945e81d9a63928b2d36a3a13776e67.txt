@@ -1,1 +1,0 @@
-La TVA doit être modulée en fonction des produits. Les produits de première nécessité (pain, lait, viandes, légumes, …) doivent avoir un taux de TVA nul. Les produits de luxe (bijoux, voitures de sport, …) doivent avoir un taux de TVA forts (en augmentation par rapport à aujourd’hui).

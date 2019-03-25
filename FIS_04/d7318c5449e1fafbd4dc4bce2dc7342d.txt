@@ -1,1 +1,0 @@
-Regrouper la gestion des attributions d'aides sociales afin d'éviter d'une part les fraudes et d'autre part que certains  soient oubliés. Eviter les disparités qui existent actuellement selon le département et la région où on habite

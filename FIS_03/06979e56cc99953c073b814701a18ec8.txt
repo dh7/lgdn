@@ -1,1 +1,0 @@
-moduler l'âge de départ en retraite en fonction de l'espérance de vie à l'âge du départ (reculer si l'espérance augmente, avancer si elle recule) Exclure dans le calcul les décès du au tabac, à l'alcool ou autres drogues.

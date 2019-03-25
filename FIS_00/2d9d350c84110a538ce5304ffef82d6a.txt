@@ -1,1 +1,0 @@
-affecter les taxes/impôts à des dépenses dédiées, qui ont une logique (ex : la taxe sur le tabac va à la sécurité sociale) ; cela donne un sens à la taxe, mieux comprise, et permet d'expliquer les variations quand elles se produisent.

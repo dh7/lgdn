@@ -1,1 +1,0 @@
-un tableau de bord "loupe" très simple et identique sur la page d'ouverture des sites de chaque ministère qui donnerait à l'instant "T" le budget, l'état des engagements dans trois ou quatre grands domaines et le reste à faire.

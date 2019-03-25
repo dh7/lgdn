@@ -1,1 +1,0 @@
-Un site internet avec un récapitulatif synthétisé des dépenses liées aux recettes des impôts (par type d’impôt)

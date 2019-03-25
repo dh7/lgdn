@@ -1,1 +1,0 @@
-Eviter la taxation de valeurs ayant déjà été taxées. Laisser la TVA être l'unique taxe s'appliquant au revenu disponible après impôt.

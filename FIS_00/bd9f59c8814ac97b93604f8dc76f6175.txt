@@ -1,1 +1,0 @@
-Envoyer un tableau détaillant les postes de dépenses  à ceux qui paient des impôts (avec  les documents pour la déclarations annuelle des revenus). Ce tableau doit aussi comporter  une analyse de l’évolution des dépenses sur 3 ans.

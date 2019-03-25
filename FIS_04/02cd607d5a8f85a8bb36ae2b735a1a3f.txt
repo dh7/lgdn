@@ -1,1 +1,0 @@
-Plus de contrôle sur le RSA  Suppression des allocations famlliales quand la famille au complet ne réside pas en FRANCE

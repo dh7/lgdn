@@ -1,1 +1,0 @@
-Il faut créer une seule allocation, qui sera plus simple à gérer et à donner, et qui entrainerai une économie de gestion.

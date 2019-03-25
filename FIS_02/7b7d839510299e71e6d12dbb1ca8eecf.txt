@@ -1,1 +1,0 @@
-Supprimer la taxe d'habitation.  Calculer la taxe foncière sur la surface de terrain utilisée par le logement, ceci afin de limiter l’expansion des zones construites et pour préserver les terres agricoles. Supprimer la CSG.

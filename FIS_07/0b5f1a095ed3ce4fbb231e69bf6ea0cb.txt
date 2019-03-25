@@ -1,1 +1,0 @@
-Externalisation des services externaliable avec contrôle de l'état

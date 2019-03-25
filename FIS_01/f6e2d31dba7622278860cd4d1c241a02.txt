@@ -1,1 +1,0 @@
-Supprimer les exceptions trop nombreuses, SIMPLIFIER le mode calcul, réduire le nombre de taxes en les normalisant. Tous les citoyens devraient payer une somme même très minime d'impôts directs.

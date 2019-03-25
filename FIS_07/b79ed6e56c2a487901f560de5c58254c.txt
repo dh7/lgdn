@@ -1,1 +1,0 @@
-Supprimer toutes les taxes. Ne garder que l'IR, la TVA, l'impôt sur les sociétés et la taxe foncière

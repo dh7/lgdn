@@ -1,1 +1,0 @@
-Corriger les dérives liées aux niches fiscales et déductions d'impots qui permettent aux tranches aisées de payer moins d'impots. Généralement, accentuer les impots indexés sur la situation (ex. Impot sur le revenu) plutot que les impots comme la TVA qui pèsent davantage sur les personnes les plus pauvres

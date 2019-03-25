@@ -1,1 +1,0 @@
-Communication via le site impots.gouv.fr des différents types d'impôts et de leur utilisation précise, avec la part attribuée à chaque domaine. Possibilité de choisir des domaines préférentiels pour l'utilisation de nos impôts (ou d'exclure certains domaines selon nos souhaits)

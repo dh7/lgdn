@@ -1,1 +1,0 @@
-Toutes les aides et les regrouper en une seule pour une meilleure lisibilité et une optimisation des services "distributeur" qui gèrent ces aides (communes- CCAS, département, état)

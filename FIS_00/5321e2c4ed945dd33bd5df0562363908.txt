@@ -1,1 +1,0 @@
-bilan du budget avec un tableau reprenant les recettes et les dépenses où va l'argent public

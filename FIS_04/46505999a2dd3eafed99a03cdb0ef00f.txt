@@ -1,1 +1,0 @@
-Regrouper les differentes aides sociales en une seule et dont le montant payé serait déterminé  sur la base du profil de chacun avec un poids à chaque composant du profil (revenu, niveau de formation, handicap, age, etc )

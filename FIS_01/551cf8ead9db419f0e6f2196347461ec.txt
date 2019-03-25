@@ -1,1 +1,0 @@
-Supprimer la TVA pour les produits de 1ere necessité  (en controlant les prix) et retablir un taux pour les produits de luxe

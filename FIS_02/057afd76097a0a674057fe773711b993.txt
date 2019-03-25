@@ -1,1 +1,0 @@
-Supprimer tout prélèvement dont le coût de collecte est supérieur à 90% de la somme collectée.

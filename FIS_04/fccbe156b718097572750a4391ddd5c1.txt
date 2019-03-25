@@ -1,1 +1,0 @@
-Le  RSA de base qui devrait faire l'objet d'un contrôle pour vérifier que le bénéficiaire  recherche réellement un emploi ou une formation

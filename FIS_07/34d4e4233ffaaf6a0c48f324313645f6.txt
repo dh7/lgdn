@@ -1,1 +1,0 @@
-- fiscalisation de toutes les aides sociales - suppression de certaines niches fiscales (pas de la classe moyenne notamment les employés à domicilie par exemple) - suppression de l’exonération d’impôt pour les 7500 premiers euros des journalistes - refonte du système d'imposition actuel : individualisé l'impôt

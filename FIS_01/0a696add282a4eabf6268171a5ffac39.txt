@@ -1,1 +1,0 @@
-Créer au moins 3 niveaux de TVA : une TVA réduite pour une liste de produits de 1ere nécessité (pain, lait, beurre, oeuf, farine, poulet), une TVA normale, et une TVA forte pour les produits de luxe (smartphone, voiture de luxe, bijouterie, etc)

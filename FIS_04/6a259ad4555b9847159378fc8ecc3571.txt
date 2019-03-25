@@ -1,1 +1,0 @@
-Simplifier les attributions avec un guichet unique pour l’ensemble des aides.

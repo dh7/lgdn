@@ -1,1 +1,0 @@
-Revoir le calcul de la CSG qui devrait s'ajuster  avec les revenus déclarés des contribuables et non pas d'un montant forfaitaire comme elle l'est depuis sa création..

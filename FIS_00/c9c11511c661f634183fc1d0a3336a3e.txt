@@ -1,1 +1,0 @@
-joindre aux feuilles d'impôt un récapitulatif des dépenses de l'état expliquant à quoi servent nos impôts. Publier en open data les dépenses versus recettes de l'état / communes / région / département ; les recettes par type d'impôt et taxes. le coût de recouvrement de ces impôts.

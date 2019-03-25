@@ -1,1 +1,0 @@
-Faire un barème pour la flat taxe qui est au même pourcentage qu'elle soit importante ou pas.

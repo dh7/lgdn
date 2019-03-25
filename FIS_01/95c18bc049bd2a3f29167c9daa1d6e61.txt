@@ -1,1 +1,0 @@
-augmenter le nombre de tranches pour réduire les écarts, actuellement trop importants, entre les contribuables se situant au bas d'une tranche et ceux qui se situent en haut

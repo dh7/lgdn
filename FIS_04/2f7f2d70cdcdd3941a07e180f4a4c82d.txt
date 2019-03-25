@@ -1,1 +1,0 @@
-En ce qui concerne le RSA, le problème n'est pas dans l'attribution. Il s'agit plutôt de contrôler (voire de supprimer si besoin) cette aide lorsque le projet co-construit et défini dans le contrat d'insertion n'est pas suivi par le bénéficiaire.

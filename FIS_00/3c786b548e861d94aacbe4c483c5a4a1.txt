@@ -1,1 +1,0 @@
-Le site www.impots.gouv.fr devrait donner accès au détail des budgets affectés à chaque type de dépense, et au nombre de personnes concernées. Par exemple coût de l'éducation primaire, nombre d'établissements, d'enseignants et d'élèves. La même chose devrait être disponible à tous les niveaux - National, Régional, Départemental, communal, à partir de ce même portail.

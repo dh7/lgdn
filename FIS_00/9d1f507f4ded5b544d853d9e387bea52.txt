@@ -1,1 +1,0 @@
-un site web simple qui essaye de montrer par type d impot (revenu, tva, csg) sont objectif, mis a jor 2 fois par an et pour le budget par exemple. Pour les grands travaux, mieux indique la source des financements... quand on dit finance par etat a hauteur de xxx millions, preciser la source.

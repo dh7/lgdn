@@ -1,1 +1,0 @@
-Il faut surtout simplifier le mécanisme d'attribution & mieux contrôler les éventuels abus (attribution d'aide sociale sans droits)

@@ -1,1 +1,0 @@
-Par exemple : A partir d'un certain revenu, supprimer les allocations familiales tant que les enfants sont dans le primaire et secondaire, mais les ré-attribuer quand les enfant poursuivent des études supérieures.

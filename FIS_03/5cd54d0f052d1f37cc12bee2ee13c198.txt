@@ -1,1 +1,0 @@
-on ne supprime pas les aides lorque l on retrouve un travail mais on la diminue cela pendant un temps donne avent de la supprimer 

@@ -1,1 +1,0 @@
-Taxer le survol du territoire français en fonction du type d avion et du nombre de km au dessus de la France. C’est une façon simple de créer une taxe au kérosène.

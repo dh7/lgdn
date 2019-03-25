@@ -1,1 +1,0 @@
-Un site internet permettant de consulter les affectations des recettes fiscales aux différents niveaux d'imposition (national, régional, départemental,  communal)

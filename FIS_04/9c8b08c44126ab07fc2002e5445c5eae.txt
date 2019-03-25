@@ -1,1 +1,0 @@
-Prise en compte des aides sur l'année N et non pas N-2, quelque soit les aides.

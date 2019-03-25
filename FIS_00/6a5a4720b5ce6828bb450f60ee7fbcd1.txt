@@ -1,1 +1,0 @@
-Mise en ligne d'un tableau de bord (comme les entreprises) avec trois grands blocs: dépenses de fonctionnements, de personnel, d’investissement, avec un détail joint sur demande

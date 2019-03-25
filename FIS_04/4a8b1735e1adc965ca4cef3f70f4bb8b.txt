@@ -1,1 +1,0 @@
-Un montant basé sur un nombre maximum d'enfants par la CAF (ex : 3 enfants, et pas plus)

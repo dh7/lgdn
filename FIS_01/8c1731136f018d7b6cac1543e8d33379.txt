@@ -1,1 +1,0 @@
-Ré augmenter le nombre de tranches d impositions. Mettre 20 tranches d impositions avec une augmentation exponentiel. La diminution de tranche à fait exploser l imposition des foyers modestes les ramenant vers le bas.

@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches d'imposition en baissant les premières, ou appliquer une fonction exponentielle à partir d'un certain revenu.

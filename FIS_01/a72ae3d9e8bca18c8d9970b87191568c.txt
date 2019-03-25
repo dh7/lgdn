@@ -1,1 +1,0 @@
-un tarif dégressif en fonction des revenus et  prendre réellement en compte la composition familiale (adultes et enfants) : nombre de personne à charge pour un adulte

@@ -1,1 +1,0 @@
-Le tableau donné dans la partie "diagnostic" est un bon début; il faudrait pouvoir aller plus dans le détail. Les informations abondantes données dans gouv.fr et service-public.fr sont très intéressantes mais il faudrait améliorer leur accès  (une organisation style wiki et un vrai moteur de recherche).

@@ -1,1 +1,0 @@
-Créer un serveur permettant de communiquer avec le peuple via des pages d'informations et de projets.  Etablir un tableau budgétaire de la situation financière et des projets de la France. Créer un tableau reprenant les options et investissements de l'état. Communiquer via les médias non spécialisés et grand public avec des émissions fiables aux informations vérifiées.

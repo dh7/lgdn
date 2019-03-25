@@ -1,1 +1,0 @@
-5 % est  le taux maximum. Aussi la région peut moduler ce taux de 0à 5 %

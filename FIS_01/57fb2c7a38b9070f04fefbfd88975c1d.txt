@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches d impots sur le revenu pour éviter le 0 impots et avoir des écarts moins importants d'une tranche à la suivante (aujourd'hui après le TMI à 14% on passe directement à 30%)

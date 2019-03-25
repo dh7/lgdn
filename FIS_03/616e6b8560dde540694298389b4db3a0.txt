@@ -1,1 +1,0 @@
-Réduire le train de vie de l'état en contrôlant strictement les appels d'offres et les réponses retenues

@@ -1,1 +1,0 @@
-Créer un site public permettant d'accéder aux chiffres des recettes par catégorie et aux chiffres des dépenses par catégorie.

@@ -1,1 +1,0 @@
-De manière générale, éviter les effets de seuil qui peuvent rendre l'inactivité plus rentable que l'emploi. Avec des fonctions à 2 paramètres (seuil + paramètre d'étalement) au lieu d'un seul (seuil simple), chacun pourrait quand même facilement connaître son pourcentage de prestation via une application smartphone dédiée.

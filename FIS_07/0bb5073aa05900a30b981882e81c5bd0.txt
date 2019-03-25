@@ -1,1 +1,0 @@
-Créer un solde annuel de remboursement par la sécu pouvant varier suivant les personnes. Permet de limiter les dépenses non nécessaires et mieux rembourser les autres dépenses

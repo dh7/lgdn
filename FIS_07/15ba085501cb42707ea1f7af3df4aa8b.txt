@@ -1,1 +1,0 @@
-Réforme de la DGF et de la DSR, avec prise en compte de la superficie de la commune et kilométrages de chemins communaux et de réseaux eau potable.

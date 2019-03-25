@@ -1,1 +1,0 @@
-Un système de calcul simple avec un % progressif. Tout le monde paie quel que soit le revenu.

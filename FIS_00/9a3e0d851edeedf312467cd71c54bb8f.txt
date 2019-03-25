@@ -1,1 +1,0 @@
-bien communiquer le montant des dépenses sur des bases simples. exemple: communiquer systématiquement le cout d'une intervention à l'hôpital pour que l'on prenne conscience de son coût.

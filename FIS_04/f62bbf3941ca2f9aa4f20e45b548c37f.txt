@@ -1,1 +1,0 @@
-- faire un fichier national des personnes recevant le RSA, pour éviter qu'une même personne le perçoive dans deux départements différents  -l'allocation logement ne devrait pas pouvoir dépasser le loyer (Actuellement possible en milieu rural où les loyers sont très faibles)

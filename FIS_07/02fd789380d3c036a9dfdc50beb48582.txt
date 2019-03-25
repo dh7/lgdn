@@ -1,1 +1,0 @@
-La gestion du budget me paraît aussi à revoir.  Sur 2 points - les queues de budget dépensées pour garder la même ligne l'année suivante : comment résoudre cette absurdité que de dépenser du budget inutilement - les lignes ne se compensent pas. Une action d'un côté pourrait réduire significativement un coût de l'autre mais ce n'est pas le même budget

@@ -1,1 +1,0 @@
-A notre niveau, on ne connait que le montant des budgets par ministère et autres; il faudrait pouvoir avoir accès à un rapport détaillé le plus simple possible d'une part et un accès à tous les détails de chaque ligne de dépense budgétaire d'autre part pour mieux savoir où vont nos impots.

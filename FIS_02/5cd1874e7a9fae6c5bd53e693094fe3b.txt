@@ -1,1 +1,0 @@
-- supprimer les impôts doubles, tels que CSG non déductibles ou la TVA sur les taxes d'EDF, car cela revient à payer un impôt sur un impôt.

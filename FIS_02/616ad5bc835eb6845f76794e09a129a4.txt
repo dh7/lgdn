@@ -1,1 +1,0 @@
-supprimer la CSG pour tous les salaires et retraites inférieur a 2000 euros net .

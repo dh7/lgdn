@@ -1,1 +1,0 @@
-taxer les machines qui ont générés et gérent de la mise au chômage. La machine doit aider l'homme pour que le travail soit moins pénible (donc moins générateur de dépenses de santé) et non le remplacer pour en faire un chômeur qui n'a pas d'argent et donc n'est plus un acteur économique qui soutient le "commerce"

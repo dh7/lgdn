@@ -1,1 +1,0 @@
-Flécher les taxes et impôts. Afficher systématiquement le niveau de taxes sur les étiquettes de prix. Contraindre toutes les entreprises ayant des activités en France a publier le montant des taxes et impôts qu'elles paient chaque année.

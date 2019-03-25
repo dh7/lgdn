@@ -1,1 +1,0 @@
-Allocation logement et attribution des logements hlm quand les familles ont diminue de taille (ex une famille de 5 personnes qui n’est plus qu’un couple et qui garde le logement attribué initialement au détriment de nouvelles familles.

@@ -1,1 +1,0 @@
-Enlever du salaire les  contributions prélevées (CSG et CRDS) et qui sont ré intégrées dans le montant imposable (il est écrit NON DEDUCTIBLE DE L'IMPOT SUR LE REVENU). Il est anormal de payer de l’impôt sur une somme d'argent que nous n'avons pas touché dans notre salaire.

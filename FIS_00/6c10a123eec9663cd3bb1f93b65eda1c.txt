@@ -1,1 +1,0 @@
-Envoie d'un courrier annuel à chacun (au moment de la déclaration d'impôts) sur comment nos impôts ont été utilisés sur l'année écoulée sous forme de graphiques exel (camenberts , tableaux ou autres..)

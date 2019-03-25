@@ -1,1 +1,0 @@
-Simplifier les conditions et les démarches, de sorte à les rendre plus lisibles

@@ -1,1 +1,0 @@
-Faire des taux d'impositions intelligent , ex : une personne qui travaille le soir qui reçoit une prime car elle travaille du soir ne devrait pas être taxer sur la prime du soir et de même pour le travaille de nuit etc etc ni de taxe sur les heures supplémentaires et refaire le calcul pour le changement des tranches d'impositions

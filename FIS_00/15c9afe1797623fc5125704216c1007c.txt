@@ -1,1 +1,0 @@
-Centraliser toutes les dépenses de l'état. Faire un service permettant de visualiser, sur ses impots payés, dans quel service est allé chaque centimes

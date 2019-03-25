@@ -1,1 +1,0 @@
-Centraliser toutes les aides dans un fichier central (Commune, département, région, état ...) car personne n'est capable de dire combien touche un bénéficiaire Fixer un plafond.

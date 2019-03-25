@@ -1,1 +1,0 @@
-Possibilité de capitaliser les budgets des services d’une année sur l’autre (sans risque pour le service de voir son budget à la baisse) ou de le déplacer sur le budget d’autres services en cours d’année afin d’éviter les dépenses inutiles (et le gâchis) ; possibilité de décloisonner les budgets (par exemple, passer de l’investissement en fonctionnement si besoin).

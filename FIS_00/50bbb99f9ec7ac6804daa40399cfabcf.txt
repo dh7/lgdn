@@ -1,1 +1,0 @@
-- Informer les citoyens sur le montant de leurs dépenses individuels couvertes par les Impôts (ex. pharmacie / séjour hospitalier).

@@ -1,1 +1,0 @@
-Il faut diviser par 3 le nombre de personne qui ne paient pas d'IRPP.

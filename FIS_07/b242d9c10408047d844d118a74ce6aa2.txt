@@ -1,1 +1,0 @@
-simplifier le mille feuilles administratifs en supprimant les communautés d'agglomérations qui ont générés des doublons de postes en masse.

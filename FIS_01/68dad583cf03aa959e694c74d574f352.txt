@@ -1,1 +1,0 @@
-rattraper la valeur du point indiciaire et le faire évoluer comme le coût de la vie avec 2 revalorisations annuelles (janvier et juillet)

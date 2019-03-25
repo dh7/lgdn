@@ -1,1 +1,0 @@
-Simplifier l’IR : 2 taux seulement Et arreter de les bouger.

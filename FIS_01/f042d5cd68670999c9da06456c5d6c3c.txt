@@ -1,1 +1,0 @@
-Prendre en compte les charges comme le loyer ou le taux d’endettement dans le calcul de l’impôt sur le revenu.

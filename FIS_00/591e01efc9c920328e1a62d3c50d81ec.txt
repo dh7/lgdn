@@ -1,1 +1,0 @@
-le site impots.gouv devrait présenter de manière synthétique les résultats de l'année écoulée: recettes par type d’impôts et les dépenses par catégories et présenter le montant du déficit (ou l'excédent, sait-on jamais) de l'année ainsi que le déficit cumulé.

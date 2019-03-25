@@ -1,1 +1,0 @@
-Simplifier les différentes aides pour éviter les doublons et limiter les coûts de gestion

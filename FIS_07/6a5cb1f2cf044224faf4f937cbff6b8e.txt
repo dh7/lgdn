@@ -1,1 +1,0 @@
-Calculé les pensions de retraite en fonction de la durée d'activité seule (absentéismes décomptés) et plus en fonction des montants de cotisations..  retraite = inactivité= égalité dans la rémunération selon le temps passé en activité

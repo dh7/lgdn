@@ -1,1 +1,0 @@
-Supprimer les zones blanches sans medecin, sans administration, sans transport public

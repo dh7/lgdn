@@ -1,1 +1,0 @@
-Supprimer les impôts, taxes, ... ayant les ROI les plus faibles (coûts de gestion et de collecte élevés par rapport aux contributions)

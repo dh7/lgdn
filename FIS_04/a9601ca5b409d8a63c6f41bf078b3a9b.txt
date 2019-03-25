@@ -1,1 +1,0 @@
-limiter les allocations à 2 enfants lorsque l on fait 3 enfants ou plus c est que l on a les moyens de les élever  Supprimer les allocations familiales au delà d un revenu mensuel de 6000 euros

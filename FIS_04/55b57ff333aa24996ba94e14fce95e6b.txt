@@ -1,1 +1,0 @@
-fixer un plafond à l'allocation chômage et non plus en fonction du dernier salaire. Ce doit être une aide temporaire

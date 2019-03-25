@@ -1,1 +1,0 @@
-Refonte de l'impôt sur le revenu. En dessous d'un seuil pour tous, il n'y a pas d'impôt (exemple exonération pour tout le monde 500 euros). Ensuite si vous gagnez 1000 euros et que vous avez 100 euros d'IR celui qui gagne 3000 euros devra payer 3 fois plus. (Flat tax)

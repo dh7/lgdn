@@ -1,1 +1,0 @@
-logement pas forcement dans les allocations mais dans l’accès. Aujourd'hui un français qui gagne le double du SMIC a l'année ne peut se loger s'il est en CDD (même s'il a 50000 en banque)

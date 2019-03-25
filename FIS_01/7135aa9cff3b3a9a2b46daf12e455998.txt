@@ -1,1 +1,0 @@
-Pour l'IR, supprimer la tranche à 0% et la remplacer par un impôt forfaitaire de 500 €, créer une tranche au delà de 156 144 € et l'imposer à 45%

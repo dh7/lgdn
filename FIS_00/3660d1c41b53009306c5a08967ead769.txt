@@ -1,1 +1,0 @@
-Simplifier les informations sur l'usage des impôts par un résumé des grands axes. Aujourd'hui, les informations sont disponibles mais difficilement compréhensibles et exploitable pour tout un chacun.

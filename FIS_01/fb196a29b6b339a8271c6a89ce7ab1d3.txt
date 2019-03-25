@@ -1,1 +1,0 @@
-- Création de 10 tranches avec prélèvement de 0% à 45% par tranche de 15 00€ du RFR. - Une seule CSG (suppression de la CRDS) avec prélèvement de 1% à 10% calculé sur les 10 tranches fiscales. -Recouvrement de l’impôt sur tous les bénéfices, commerciaux, industriels, boursiers, etc…, réalisés sur le sol Français.

@@ -1,1 +1,0 @@
-Afficher par exemple le coût réel d'une consultation de médecin et le prix payé par le patient

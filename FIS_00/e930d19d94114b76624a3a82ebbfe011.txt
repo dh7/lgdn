@@ -1,1 +1,0 @@
-simplifier les types d'impots / taxes et limiter à 3 types : - impot sur le revenu  - impot sur le patrimoine - impot sur la consommation en diversifiant encore plus les taux de TVA (bien de première nécessité, bien indispensable à notre vie actuelle (ex : forfait internet) , bien de consommation courante , bien de luxe ...)

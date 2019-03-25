@@ -1,1 +1,0 @@
-- Allocations familiale, montant égal pour chaque enfant pour maximum 3 enfants et dégressives en fonction des revenus.

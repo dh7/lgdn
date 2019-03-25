@@ -1,1 +1,0 @@
-fusionner la CSG et l'IR afin de rendre la CSG plus progressive . Établir 14 tranches d'impôt avec une dernière tranche à 50 % . Elargir la base avec un premier taux très peu élevé pour faire participer un maximum de contribuables

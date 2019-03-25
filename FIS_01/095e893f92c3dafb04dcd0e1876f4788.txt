@@ -1,1 +1,0 @@
-Taxer les plus values des gains concernant les actions à 50% à partir d'un certain seuil.

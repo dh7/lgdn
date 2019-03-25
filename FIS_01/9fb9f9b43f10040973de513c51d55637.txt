@@ -1,1 +1,0 @@
-Taux d'imposition continu (lineaire?) Et pas par tanche.

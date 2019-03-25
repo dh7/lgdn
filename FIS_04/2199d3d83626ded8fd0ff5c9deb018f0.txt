@@ -1,1 +1,0 @@
-Les aides devraient être regroupé dans un package unique, plutôt que d'être versé individuellement. Aujourd'hui, certains bénéficiaires aux revenues faibles possèdent davantage de pouvoir d'achat que d'autres aux revenues légèrement inférieurs.

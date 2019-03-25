@@ -1,1 +1,0 @@
-Globaliser les aides/allocations en une seule allocation globale. Cela serait source d'économie et une meilleure lisibilité. Simplifier les impots au maximum : un taux global et unique de charge social, un taux d'impôt sur le revenu.

@@ -1,1 +1,0 @@
-revoir peut être les allocations distribuées à tous sans prise en compte des ressources et limiter les aides aux personnes ayant plusieurs entités (géographiques ou identités différentes)

@@ -1,1 +1,0 @@
-Envoi par mail ou courrier à toutes les personnes payant un impôt.

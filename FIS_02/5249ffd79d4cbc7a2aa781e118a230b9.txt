@@ -1,1 +1,0 @@
-Ne plus calculer TVA sur des taxes ou contributions. Ne plus calculer de CSG sur parts patronales de cotisations.

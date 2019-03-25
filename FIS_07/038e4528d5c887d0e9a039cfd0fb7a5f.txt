@@ -1,1 +1,0 @@
-Relever le plancher de déclanchement de l’IFI pour prendre en compte l’augmentation de l’immobilier. Nouveau plancher à 2M€. Puis indexé le plancher à un indice de la construction.

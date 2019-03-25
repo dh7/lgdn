@@ -1,1 +1,0 @@
-Diviser le nombre de deputés et sénateurs par deux. Salaire des politiques indexés sur le smic.

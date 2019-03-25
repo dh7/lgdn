@@ -1,1 +1,0 @@
-Pouvoir connaître précisément les dépenses publiques en accédant au détail de ces dépenses, grâce à une itération en cascade. Par exemple, groupe de dépenses par ministère puis détail par familles de dépenses et ainsi de suite, jusqu'à un degré de finesse important

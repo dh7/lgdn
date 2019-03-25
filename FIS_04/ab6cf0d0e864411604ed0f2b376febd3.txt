@@ -1,1 +1,0 @@
-Simplifier en fusionnant toutes les aides pour éviter les effets de cumuls et les effets de seuils : considérer que les aides sociales de toutes sortes, cumulées au revenu (par exemple petite retraite) ne peuvent dépasser le SMIC, ou 1,2 fois les SMIC... (à définir annuellement lors du vote du budget).

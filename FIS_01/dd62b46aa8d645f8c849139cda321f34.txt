@@ -1,1 +1,0 @@
-Calcul de l'Impôt en prenant en compte toutes les prestations reçues (CAF, AL, …)  . Impôts au 1er euro perçu . Plus (+) de contrôles sur les prestations  versées

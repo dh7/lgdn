@@ -1,1 +1,0 @@
-Définir un seuil de rentabilité de chaque impôt puis passer chaque impôt à ce critère, ensuite regarder comment baisser le coût du prélèvement (informatisation, regroupement). Supprimer tous les impôts insuffisamment rentables. Comparer l'efficacité de la collecte d'impôt avec les autres pays européens. Revoir toutes les niches fiscales: efficacité, justice sociale

@@ -1,1 +1,0 @@
-Pour chaque poste, une présentation sous forme de tableau (de type "budget d'une association" par exemple) mettant en regard pour chaque ligne les recettes et les dépenses. De façon claire et relativement concise, mais exacte.

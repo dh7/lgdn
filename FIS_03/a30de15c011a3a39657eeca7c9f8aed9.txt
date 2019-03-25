@@ -1,1 +1,0 @@
-Calculer les retraites en fonction du montant des sommes cotisées et du temps de cotisation: système de points. Et laisser libre le moment du départ à la retraite, sachant que celui qui a cotisé peu de temps touchera une faible montant.

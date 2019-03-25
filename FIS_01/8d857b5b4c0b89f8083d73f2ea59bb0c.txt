@@ -1,1 +1,0 @@
-prendre le modèle de la carte verte qui donnerai le taux de TVA en fonction des revenus avec une borne de mise à jour  ainsi un taux de TVA de 5 % passerai à 10 % pour un même achat

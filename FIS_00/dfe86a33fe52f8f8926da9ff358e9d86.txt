@@ -1,1 +1,0 @@
-bien distinguer les budgets Etat, Collectivites, secu,CAF, les recettes et les dépenses de chaque budget et voir comment ils sont utilisés

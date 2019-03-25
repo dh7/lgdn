@@ -1,1 +1,0 @@
-SIMPLIFIER : déjà en fusionnant les allocs, on fusionnera les organismes et on pourra réduire la masse salariale et les frais de gestion correspondants.

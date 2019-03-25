@@ -1,1 +1,0 @@
-Vérifier en temps réel que les conditions d'attributions sont maintenues (exemple d'employés du gouvernement profitant de conditions liées à leur situation antérieure).

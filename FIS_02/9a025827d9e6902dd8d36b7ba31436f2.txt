@@ -1,1 +1,0 @@
--Augmenter le nombre de produits de base imposés à la TVA de 5%, et élargir la liste des produits de luxe et  des alcools  imposés à une TVA supérieure. -Supprimer, réduire la CSG  à un plus grand nombre de retraités.

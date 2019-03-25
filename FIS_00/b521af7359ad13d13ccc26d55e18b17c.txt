@@ -1,1 +1,0 @@
-Un site web avec le détail de toutes les dépenses et affectations avec les différents devis obtenus et celui choisi ainsi que la différence de coût au final entre la commande et la réception de la mission.

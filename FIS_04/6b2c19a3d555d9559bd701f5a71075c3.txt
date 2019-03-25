@@ -1,1 +1,0 @@
-Limiter le RSA dans le temps et le conditionner à un minimum de temps de travail / an pour encourager les emplois saisonniers non qualifiés

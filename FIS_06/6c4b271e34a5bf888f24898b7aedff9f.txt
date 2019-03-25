@@ -1,1 +1,0 @@
-Remplacer la taxe d'habitation par une taxe énergie. Le principe recenser la consommation d'énergie des logements qui était divisé par le nombre d'occupants mais aussi au nombre de jours par an. Toutes les résidences secondaires mais aussi les logements occupés partiellement et energivores paieraient cet impôt.

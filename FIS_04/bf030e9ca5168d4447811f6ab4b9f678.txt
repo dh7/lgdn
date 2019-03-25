@@ -1,1 +1,0 @@
-Limiter les allocations familiales pour les foyers qui ont revenu supérieur à 6000 euros

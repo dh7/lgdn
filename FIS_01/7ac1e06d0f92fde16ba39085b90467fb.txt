@@ -1,1 +1,0 @@
-Moduler le taux de la TVA en fonction des revenus imposables.  L'Etat a su mettre en place le prélèvement automatique des impôts sur les revenus, donc cette proposition n'a rien d'irréaliste.

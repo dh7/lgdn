@@ -1,1 +1,0 @@
-Indexer les amendes routières selon un barème fiscale  . L'amende de référence devrait concerner un revenu médian. L’amende serait donc calculée par une réglés de trois  (  Base de l'amende x revenu ) : revenu média

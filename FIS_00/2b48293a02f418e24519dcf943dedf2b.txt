@@ -1,1 +1,0 @@
-Faire apparaître le coût de la prestation avant prise en charge  (coût d'une année scolaire, coût d'un séjour hôpital, coût d'une route, cout du nettoyage des tags...)

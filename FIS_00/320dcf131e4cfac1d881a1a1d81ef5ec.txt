@@ -1,1 +1,0 @@
-Outil de datavisualisation en ligne de type QlikSense de navigation dynamique

@@ -1,1 +1,0 @@
-diminuer le nombre d'organismes préleveurs, avoir un n° identifiant unique pour chaque personne physique. Cet identifiant servira pour  tous les prélèvements, mais également pour tous les versements d'aides.

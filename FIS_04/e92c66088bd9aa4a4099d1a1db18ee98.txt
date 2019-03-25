@@ -1,1 +1,0 @@
-Faire une étude plus stricte des allocations de parents isolés. Beaucoup de ceux qui en profitent ne sont pas isolés en réalité.

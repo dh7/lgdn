@@ -1,1 +1,0 @@
-un site internet très simple d'accès proposant une sorte de tableau de bord illustrant l'utilisation des impôts (de tous les impôts) de manière simple et pédagogique avec différentes rubriques consultables, depuis l’investissement dans les grands chantiers jusqu'au salaire et autres avantages en nature du président de la république et des élus.

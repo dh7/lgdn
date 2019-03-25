@@ -1,1 +1,0 @@
-Il serait intéressant de prendre en compte le revenu post aides/impots, car bien souvent les effets de seuil en tout genre font que le niveau de revenu net (salaire-impots+aides) ne respecte pas la hiérarchie des salaires ce qui génère énormément de frustration et de difficultés de consentement à l'impot.

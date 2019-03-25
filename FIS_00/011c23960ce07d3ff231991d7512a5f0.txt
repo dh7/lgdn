@@ -1,1 +1,0 @@
-Créer un classement de toutes les entreprises : 1er critère : l'emploi avec son salaire moyen, 2me critère : salaire du patron , 3me critère : dividendes versés aux actionnaires , 4me critère : impôts et taxes payés en France, 5me critère : bilan carbone. permettre ainsi aux consommateurs acheteurs de faire un choix éclairé.

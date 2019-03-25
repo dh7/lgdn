@@ -1,1 +1,0 @@
-Suppression des petites taxes qui  rapportent peu et coûtent cher en traitement, les remplacer si besoin par 0,3% de TVA. Cela permettra d'alléger les effectifs du ministère et de simplifier la vie des comptables.

@@ -1,1 +1,0 @@
-Définir une proportion des impôts dont la distribution serait gérée par l'état et une proportion attribuée par le contribuable par liste déroulante lors de la déclaration.

@@ -1,1 +1,0 @@
-Trouver un statut pour les saisonniers, intérimaires etc... qui alterne chômage et CDD.

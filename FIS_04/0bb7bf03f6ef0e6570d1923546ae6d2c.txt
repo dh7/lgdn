@@ -1,1 +1,0 @@
-Supprimer le coefficient familial, le remplacer par un montant fixe par enfant et dependant.

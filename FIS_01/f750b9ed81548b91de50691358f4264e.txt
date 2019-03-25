@@ -1,1 +1,0 @@
-plus de proportionnalité dans le calcul des impôts, en supprimant les effets de seuil. En effet, si l'on dépasse de 1 euros le seuil on se voit supprimer dans l'intégralité l'aide que l'état a décidé, et l"on se retrouve avec un manque à gagner non négligeable, par rapport à une personne qui lui aurai un euro de mins que le seuil qui lui bénéficiera d la totalité de l'aide.

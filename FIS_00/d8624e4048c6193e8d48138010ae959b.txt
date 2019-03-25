@@ -1,1 +1,0 @@
-Une feuille de Statistique représentant l'argent dépensé dans les différents domaine. consultable librement sur internet avec plusieurs catégorie, (un premier step "général" comprenant, santé, défense, sociale, ) puis la possibilité de Zoomer sur l'une des dépenses.

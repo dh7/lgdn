@@ -1,1 +1,0 @@
-Moduler la TVA en fonction des revenus grâce à la carte vitale ou bancaire. Un ménage à hauts revenus doit payer plus chère sa baguette de pain. Un ménage à bas revenus doit la payer moins chère. Il faut se baser sur les revenus.

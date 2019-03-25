@@ -1,1 +1,0 @@
-C'est déjà fait en local (publications de la Mairie et de la communauté de commune). En ce qui concerne l'Etat, on trouve les infos sur le Net. Pour faire simple et accessible à tous  : centralisation sur un site web dédié (développé en Open Source bien sûr !)

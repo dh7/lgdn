@@ -1,1 +1,0 @@
-simplifier le calcul des taxes et impôts afin qu'ils soient compréhensible par l'ensemble

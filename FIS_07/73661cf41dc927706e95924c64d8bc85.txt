@@ -1,1 +1,0 @@
-Création d’un bouclier d’imposition globale qui prendrait en compte toutes les taxes (notamment TVA)  et impôts payés par ce citoyen. Laissez le choix aux citoyens de payer leur impôts en consommant.

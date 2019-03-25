@@ -1,1 +1,0 @@
-Prise en compte du cinquième risque : la dépendance.

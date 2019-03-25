@@ -1,1 +1,0 @@
-- Simplifier, réduire le nombre des impôts, les fusionner autant que faire se peu (IR, CSG, plus-values, TVA, transmission...) - Chercher à élargir l'assiette à l'ensemble des revenus: capital, travail, plus-values. Y intégrer la transmission avec un mécanisme de lissage sur plusieurs années. - Appliquer un barème PROGRESSIF permettant d'assurer une

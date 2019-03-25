@@ -1,1 +1,0 @@
-Recevoir la répartition des sommes par leur affectation.

@@ -1,1 +1,0 @@
-J'aimerais voir un graphe avec toutes les cellules qui dépensent ou collectent de l'argent. En passant la souris sur une cellule, on voit combien rentre, d'où, et combien sort vers où. C'est trop confus aujourd'hui pour les citoyens.

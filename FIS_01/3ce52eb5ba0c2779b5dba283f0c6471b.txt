@@ -1,1 +1,0 @@
-Simplifier notre CGI. Supprimer de nombreuses niches fiscales et ne garder que celles bénéficiant à un minimum de contribuables (en nombre ou pourcentage par exemple). Ne pas supprimer la taxe d'habitation mais la garder pour les locataires uniquement. La taxe foncière restant à la charge des propriétaires (ainsi un logement loué serait concerné par les 2 taxes).

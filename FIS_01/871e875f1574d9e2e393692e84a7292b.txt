@@ -1,1 +1,0 @@
-Taxer sur l’émission de CO2 en fonction de la consommation de chacun. Chaque personne devrait avoir une carte annuelle d’emission Maximum de CO2 regroupant l’ensemble de ses émissions carbone, et taxer les dépassements de façon exponentielle.  Qui pollue, paie.

@@ -1,1 +1,0 @@
-Publier la liste des recettes et des dépenses, mise à jour régulièrement et consultable sur internet par tris et filtres multiples. Idem pour le budget prévisionnel

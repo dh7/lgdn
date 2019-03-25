@@ -1,1 +1,0 @@
-Supprimer le  code des impôts et sa complexité qui est source d'erreurs, de situations conflictuelles et de dépenses de personnels administratifs pour le mettre en application.

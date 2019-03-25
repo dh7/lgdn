@@ -1,1 +1,0 @@
-Simplifier le système, actuellement il est si complexe qu'il est opaque et illisible

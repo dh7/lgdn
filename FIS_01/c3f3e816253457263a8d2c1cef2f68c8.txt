@@ -1,1 +1,0 @@
-Il faut ajouter des tranches pour un peu soulager les classes moyennes. Et surtout revoir la base de la CSG, elle ne doit pas être calculée sur des montants non perçus (bulletins de salaire)

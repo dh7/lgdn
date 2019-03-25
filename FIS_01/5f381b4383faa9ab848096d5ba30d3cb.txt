@@ -1,1 +1,0 @@
-- supprimer les effets de seuils pour les aides, mais au contraire les rendre progressives. - comptabiliser et imposer toutes les aides, allocations, indemnités... au même titre que le revenu du travail.

@@ -1,1 +1,0 @@
-la CAF devrait allouer une allocation dès le premier enfant quitte à les réduire pour le troisième et au delà. 1 enfant= X€; 2 enfants= 2X €; 3 enfants= 3 X €

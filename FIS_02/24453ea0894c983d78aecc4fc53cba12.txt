@@ -1,1 +1,0 @@
-Supprimer la TVA  sur certaines taxes (ça ne devrait pas exister). Une TVA à 2 % pour les produits de première nécessité et une TVA à 33 % pour les (vrais) produits de luxe.

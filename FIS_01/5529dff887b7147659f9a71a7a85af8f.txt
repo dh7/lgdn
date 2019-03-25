@@ -1,1 +1,0 @@
-la TVA doivent être assujetties aux ressources de la personne qui consomme. Pas d'impôts lorsque le salaire est inférieur à 2000 euros Paiement d'un seul impôt une fois pour toute qui regroupe tous les impôts existants puis dispatching vers chaque entité publique.

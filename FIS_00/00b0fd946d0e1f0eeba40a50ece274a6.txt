@@ -1,1 +1,0 @@
-Un leaflet simple et pédagogique qui montre par quelques schémas et tableaux  la répartition des recettes ( de tous les prélèvements obligatoires ) et des dépenses  ( budget de l'état , dépenses sociales et collectivités locales )

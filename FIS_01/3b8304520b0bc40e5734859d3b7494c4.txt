@@ -1,1 +1,0 @@
-Comptabiliser dans les revenus toutes les aides reçues de l'état par foyer afin que les bénéficiaires se rendent compte du montant obtenu. Que le calcul de  l’impôt tiennent compte de celles-ci.

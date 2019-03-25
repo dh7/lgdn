@@ -1,1 +1,0 @@
-Fusionner CSG et IR, créer un impôt négatif et introduire plus de progressivité

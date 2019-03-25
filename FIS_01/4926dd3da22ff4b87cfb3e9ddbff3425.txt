@@ -1,1 +1,0 @@
-Supprimer la TVA et les taxes complexes qui se sont surajoutées (ex taxes locales sur l'électricité + TVA sur taxes locales...)

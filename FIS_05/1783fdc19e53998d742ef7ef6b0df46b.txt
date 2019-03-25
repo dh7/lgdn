@@ -1,1 +1,0 @@
-nous avons un beau système de PS mais qui souffre d'une grande complexité et d'un manque de coordination ( par exemple la dépendance tout devrait être géré par la Sécu)

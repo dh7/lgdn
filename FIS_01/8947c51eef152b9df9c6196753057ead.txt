@@ -1,1 +1,0 @@
-supprimer l'effet de curseur ou de seuil qui fait que à quelque € près on bénéficie ou non des aides. Il faudrait une dégressivité pour TOUS

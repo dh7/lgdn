@@ -1,1 +1,0 @@
-Remplacer les charges sociales et IR par une TVA progressive allant de 0% pour des produits de base (0.01% pour les stat) et augmentant par tranches jusqu'à des taux importants. Recouvrement de l'impot simplifié, contrôle facile et produits importés supportant les charges sociales nationales. Imposition sur l'épargne au dessus d'une franchise

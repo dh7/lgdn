@@ -1,1 +1,0 @@
-Moduler les amendes selon les revenus (en utilisant le taux d'IR utilisé pour l'impôt à la source ?) - avec un plancher (20€ ?) et un plafond (100€ ?). Mais bien sûr le même nombre de points retirés en cas d'infraction  !

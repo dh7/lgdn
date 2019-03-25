@@ -1,1 +1,0 @@
-introduire des scoring pour mettre des pondérations selon le niveau de luxe des produits et le score environnement => produit cher et polluant (ex iphone X) : beaucoup taxé => oignons (facile à produire, écologique) : peu taxé

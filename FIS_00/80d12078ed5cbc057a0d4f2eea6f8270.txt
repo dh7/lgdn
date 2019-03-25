@@ -1,1 +1,0 @@
-Avoir une simulation de la répartition de l’impôt entre ministères à partir du montant personnalisé calculé lors de la déclaration. Exemple: on paye 1524€ cela donne 20€ pour la recherche, 100€ pour La Défense etc... et qu’ainsi tout le monde comprenne, pour son montant propre, comment il contribue au fonctionnement de l’état et à ce qu’il peut recevoir en aides.

@@ -1,1 +1,0 @@
-Publier un indicateur simple et didactique de type "camembert" présentant la répartition des recettes et dépenses  de l'état.

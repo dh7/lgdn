@@ -1,1 +1,0 @@
-Simplifier et la rendre plus transparente

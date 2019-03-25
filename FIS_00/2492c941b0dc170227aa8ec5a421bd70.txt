@@ -1,1 +1,0 @@
-Une présentation simple du Budget de l'état sous forme de tableau (Recettes-Dépenses) accessible en ligne.

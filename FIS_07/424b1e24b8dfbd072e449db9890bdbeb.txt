@@ -1,1 +1,0 @@
-Suppression des échelons administratifs doublons, régions, départements, intercommunalites, municipalités. Réduction du nombre des circonscriptions et de la représentation innérrante.

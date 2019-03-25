@@ -1,1 +1,0 @@
-Par exemple : mettre une tranche supplémentaire (60000 €) entre 27086 € et 72617 €, avec un taux à 29% de 27086 € à 60000 € ; et un taux de 31% de 60000 € à 72617 € ; puis une tranche supplémentaire (96000 €) entre 72617 € et 153783 €, avec un taux à 40% entre 72617 € et 96000 €, et  un taux à 42% entre 96000 € et 153783 €.

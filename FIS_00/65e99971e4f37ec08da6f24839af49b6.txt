@@ -1,1 +1,0 @@
-Créer un site qui propose un rapport trimestriel ou mensuel de la répartition des impôts. Permettre aux citoyens de choisir dans quels domaines ils veulent attribuer leurs Impôts.

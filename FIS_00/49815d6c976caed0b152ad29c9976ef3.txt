@@ -1,1 +1,0 @@
-Créer des sites au niveau de chaque échelle (commune, department, region, état ) qui explicitent ce qui est fait avec nos impots.

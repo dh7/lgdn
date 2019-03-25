@@ -1,1 +1,0 @@
-envoyer des statistiques sur l'évolution du budget de l'état. Par décade par exemple depuis 1900.

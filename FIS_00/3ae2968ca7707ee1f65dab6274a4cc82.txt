@@ -1,1 +1,0 @@
-Donner un facture symbolique quand un citoyen a recours a un service public (exemple : une hospitalisation prise en charge), envoyer a chaque citoyen un récapitulatif annuel des services publics utilisé (enseignement, ...)

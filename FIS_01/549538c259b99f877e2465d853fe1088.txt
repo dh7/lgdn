@@ -1,1 +1,0 @@
-Ajuster celle des entreprises en fonction du nombre d'employes (ou de la masse salariale) vs leurs profits

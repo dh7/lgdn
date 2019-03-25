@@ -1,1 +1,0 @@
-Une application qui indique un détail des actions faites par rapport aux impôts collectes. Une information soit émise dans le bulletin communale.

@@ -1,1 +1,0 @@
-intégrer une synthèse lors de l'envoi de l'impôt sur les revenus en indiquant l'ensemble des dépenses par impôts. pop up lors de connexion sur site des impôts

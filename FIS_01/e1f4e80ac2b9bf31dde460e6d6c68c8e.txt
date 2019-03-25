@@ -1,1 +1,0 @@
-Supprimer les "Taxes sur Taxes/Impôts sur Impôts" c'est à dire les taxes et impôts sur "ce qu'il reste" après que des impôts et taxes ont déjà été prélevés. Typiquement certaines taxes sur les factures EDF, les impôts et taxes sur le patrimoine, etc.

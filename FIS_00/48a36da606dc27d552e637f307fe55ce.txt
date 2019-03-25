@@ -1,1 +1,0 @@
-Un site internet qui regrouperait toutes les dépenses et recettes aux centimes près de l'argent public. Une sorte de base de données, que les citoyens pourraient interroger pour vérifier si leur argent n'est pas utilisée pour des dépenses personnelles ou complaisantes. Il pourrait servir également à la Cour des Comptes

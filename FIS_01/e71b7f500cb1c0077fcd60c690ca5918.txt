@@ -1,1 +1,0 @@
-Augmenter le nombre de tranche en la rendant réellement progressive. Supprimer les problèmes de seuil qui parfois, pour quelques euros gagnés de trop vous vous trouvez à devoir payer des centaines d'euros d'impôt en plus.

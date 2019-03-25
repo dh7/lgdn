@@ -1,1 +1,0 @@
-De façon personnalisée pour chaque foyer : à partir des impôts réellement payés (sur le revenu, IFI, CSG, taxes habitation, taxe foncière...) , de son profil de consommation (estimation TVA), indiquer comment l'Etat redistribue ces montants. De la même manière, pour chaque prestation ou déduction fiscale reçue, en indiquer la provenance.

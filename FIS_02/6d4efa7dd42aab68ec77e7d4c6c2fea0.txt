@@ -1,1 +1,0 @@
-Moduler la TVA en fonction des produits, baisser sur les produits de première nécessité et augmenter sur les produits de luxe. Contrôler de façon concomitante l'évolution des prix (loyers, restaurants, loisirs par exemple..)

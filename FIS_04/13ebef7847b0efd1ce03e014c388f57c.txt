@@ -1,1 +1,0 @@
-Supprimer la CMU, fin des allocs pour les familles dont les enfants ne vont pas en cours.

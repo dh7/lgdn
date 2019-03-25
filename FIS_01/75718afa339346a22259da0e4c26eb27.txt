@@ -1,1 +1,0 @@
-Imposer les entreprises uniquement sur les bénéfices et non pas sur la masse salariale Supprimer les tranches d'impôt et calculer l'impôt sur le revenu avec une formule simple du type y=Ax+B (avec x=revenu)

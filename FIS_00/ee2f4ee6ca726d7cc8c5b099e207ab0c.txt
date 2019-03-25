@@ -1,1 +1,0 @@
-Faire un bilan comptable simple (type tableur) avec Crédits et Débits sur les grandes thématiques (défense, éducation, aides sociales...). Puis donner accès à d'autres bilans graduellement complexes et complets.

@@ -1,1 +1,0 @@
-Calculer l'IR non sur le salaire net imposable mais sur le salaire net "réel". Sur un salaire brut, on perd 33% de charges en moyenne (taxes), on déclare + que ce qu'on perçoit sur nos comptes bancaires (charges) et enfin on paye un impôt dessus ! Ca fait 3 taxes uniquement sur notre seule source de revenus !

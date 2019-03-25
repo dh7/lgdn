@@ -1,1 +1,0 @@
-Idéalement chacun devrait recevoir un bilan personnalisé de ce qu'il a paye versus ce qu'il a reçu ainsi qu'un acces a une synthèse simple du budget de l'état (drill-down)

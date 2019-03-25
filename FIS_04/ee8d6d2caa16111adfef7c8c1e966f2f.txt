@@ -1,1 +1,0 @@
-Globalement, les dossiers devraient être mieux vérifiés et mieux analysés. il y a trop d'abus et trop de complexité

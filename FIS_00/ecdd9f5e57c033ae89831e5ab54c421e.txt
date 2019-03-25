@@ -1,1 +1,0 @@
-Detailler les depenses de l etat, en separant les fonctionnaires d etats ( armé, hopitaux, enseignement ) avec ceux des ministères ( et leurs avantages) pour avoir une meilleures lisibilité des depenses de l etat.

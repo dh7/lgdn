@@ -1,1 +1,0 @@
-- diminuer le taux de tva sur les produits de 1ère nécessité et l'augmenter sur les produits de luxe - créer une nouvelle tranche d'imposition MAIS augmenter l'assiette des différentes tranches existantes  - imposer les prestations sociales - la csg doit être totalement déductible des impôts

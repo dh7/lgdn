@@ -1,1 +1,0 @@
-Mettre en place un site internet permettant d'illustrer et quantifier l'utilisation des impôts simplement et macroscopiquement par graphiques (type camembert, ...) mais aussi fournir l'accès aux données brutes permettant de faire des tableaux croisées et extractions précises en fonction du niveau de recherche que veut faire l'utilisateur

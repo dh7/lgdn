@@ -1,1 +1,0 @@
-rendre automatique le versement des aides sociales en fonction des ressources, ou de l'état de santé, afin d'éviter qu'un tiers des ayants-droits ne perçoivent pas ces allocations et mettre en place un contrôle a postériori (moins onéreux)

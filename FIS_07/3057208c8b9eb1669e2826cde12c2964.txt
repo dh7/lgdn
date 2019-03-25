@@ -1,1 +1,0 @@
-Limiter les dépenses qui ne sont pas justifiées rationnellement, par exemples parkings dans les petites villes qui sont déjà saturées de voiture. Contraindre une correction quand la cours des comptes montre une anomalie. Par exemple les PV de stationnement sont sous utilisés par les petits villes.

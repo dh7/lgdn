@@ -1,1 +1,0 @@
-Supprimer la TVA sur les taxes et contributions sur les factures d'energie en particulier. Taux TVA plus faible pour les aliments et produits de base

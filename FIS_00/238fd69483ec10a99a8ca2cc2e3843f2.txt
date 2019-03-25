@@ -1,1 +1,0 @@
-Un site gouvernemental unique et simple d'utilisation pour accéder aux différents postes de dépenses + les dépenses de fonctionnement des élus + les aides sociales perçues par chaque citoyen selon sa situation (CAF, APL, RSA, CMU, ASSEDIC, minimum vieillesse...)

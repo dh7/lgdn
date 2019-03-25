@@ -1,1 +1,0 @@
-Donner les prix des soins hospitaliers, de la pharmacie par exemple. Demander une contribution - remboursable - lorsqu'on est hospitalisé.  Supprimer la notion de "rien à payer"

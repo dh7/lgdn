@@ -1,1 +1,0 @@
-Un site internet avec le détail des impôts prélever et le détail de l'argent dépenser, avec une mise en page userfriendly

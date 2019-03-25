@@ -1,1 +1,0 @@
-Simplifier les choses et s'appuyer sur quelques principes basiques. Avoir un IR réduit à 3 tranches et payé par tous les Français.  - Une 1° tranche à un niveau symbolique (1% par exemple)   pour un impôt payé dès le 1° €.  - Une tranche standard (20% par exemple) - Une tranche pour les hauts Revenus (40% par exemple). Réduire drastiquement le nombre de niches fiscales.

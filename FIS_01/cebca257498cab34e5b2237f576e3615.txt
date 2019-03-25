@@ -1,1 +1,0 @@
-Moduler la TVA suivant les familles de produits, et en fonction du coût à l'intérieur d'une famille

@@ -1,1 +1,0 @@
-revoir les barêmes et tranches d'imposition, en ramenant dans l'IR la tranche 0-9.964€, avec un taux de 10%

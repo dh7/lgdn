@@ -1,1 +1,0 @@
-Regrouper les communes, supprimer les cantons, les départements, et garder les régions.

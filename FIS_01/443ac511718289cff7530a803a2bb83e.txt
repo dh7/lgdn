@@ -1,1 +1,0 @@
-Recréer deux tranches d'impôts supérieures avec taux d'imposition 60% et 70%.

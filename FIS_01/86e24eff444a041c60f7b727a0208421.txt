@@ -1,1 +1,0 @@
-Verifier les fraudes notamment avec des outils big data, en croisant les informations sur les allocations percues, la verification de la presence reelle sur le sol francais.

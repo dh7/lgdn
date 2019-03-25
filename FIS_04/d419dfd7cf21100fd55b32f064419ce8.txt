@@ -1,1 +1,0 @@
-les allocations chômage doivent être dégressives. le versement du RSA doit être limité dans le temps.

@@ -1,1 +1,0 @@
-Simplifier le nombre de taxes et d’impôts, tant au niveau de l'état que des collectivités. Tous les revenus doivent être pris en compte dans le calcul du revenu, ce qui implique une modification des tranches d'imposition.

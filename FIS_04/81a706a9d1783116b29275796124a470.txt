@@ -1,1 +1,0 @@
-D'une façon générale, les aides sous conditions de ressources sont trop nombreuses. Les conditions diffèrent énormément d'une aide à l'autre. Il y a des effets de seuil : on devrait les rendre "progressives" par exemple linéairement entre 2 limites.

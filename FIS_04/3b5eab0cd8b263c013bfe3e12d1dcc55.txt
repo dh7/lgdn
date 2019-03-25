@@ -1,1 +1,0 @@
-simplifier le système en réduisant le nombre d'aides qui ont des conditions d'attribution différentes

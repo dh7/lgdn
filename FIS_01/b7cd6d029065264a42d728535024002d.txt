@@ -1,1 +1,0 @@
-- Calcul sur la base de la somme de toutes les richesses sans exception d'un individu. Ensuite, l'état prélève un certain taux de forme ax+b sur un axe des abscisses basés sur le percentile des richesses calculées du min au max. On peut imaginer un taux variable de 0 à 40% dont la croissance est un facteur proportionnel à l'indice de richesse. - Pas d'exemption.

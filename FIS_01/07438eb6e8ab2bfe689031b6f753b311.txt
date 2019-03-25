@@ -1,1 +1,0 @@
-Poursuivre et simplifier le prélèvement à la source pour que le taux d’imposition fluctue selon les mois pour la partie salaire.  Si la personne ne travaille pas un mois et nous touche pas de revenu, il faudrait que le prélèvement soit nul.  Le taux doit être en rapport au salaire touché et non une moyenne annuelle.

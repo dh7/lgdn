@@ -1,1 +1,0 @@
-Plus de transparence et de détails dans les infos transmises sur la provenance des recettes et l'utilisation des dépenses.

@@ -1,1 +1,0 @@
-Ajout de l'e-mail lors des inscriptions sur les listes électorales afin de recevoir des informations sur les dépenses à faire et qui ont été faites.

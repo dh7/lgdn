@@ -1,1 +1,0 @@
-Fixer un montant maximum pour les allocations de chômage qui ne devraient pas dépasser 5  à 6000 euros. Les supprimer après deux ou trois offres emplois   et une formation refusées.

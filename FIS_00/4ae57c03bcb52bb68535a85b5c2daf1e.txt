@@ -1,1 +1,0 @@
-Affichage des dépenses via des bulletins d'information (mail ou papier).

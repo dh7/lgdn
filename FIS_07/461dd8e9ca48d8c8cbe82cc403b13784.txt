@@ -1,1 +1,0 @@
-PPA. Revoir le calcul de la prime d'activité pour une prise en compte des enfants en garde alternée pour chaque parent. Comme c'est fait pour les impôts sur le revenu.

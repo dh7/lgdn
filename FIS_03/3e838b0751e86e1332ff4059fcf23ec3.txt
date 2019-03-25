@@ -1,1 +1,0 @@
-uniformiser le principe de calcul pour TOUS les régimes avec une seule différenciation pour les conditions d'âge

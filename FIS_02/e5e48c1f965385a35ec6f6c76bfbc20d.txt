@@ -1,1 +1,0 @@
-IR : plus de lisibilité dans la répartition des tranches, mieux expliquer et veiller aux effets de changement de tranche.

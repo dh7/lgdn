@@ -1,1 +1,0 @@
-Supprimer la TVA, indexer toutes les contributions (taxes, impôts, amendes) en proportion avec les revenus

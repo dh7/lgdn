@@ -1,1 +1,0 @@
-Présenter les dépenses par fonction ( education, secu, depense etc...) en les rapportant à chaque citoyen ou commune ( ex: xx€ depensé par citoyen en medecine etc..)

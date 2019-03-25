@@ -1,1 +1,0 @@
-publier un bilan simplifié des recettes et dépenses en % du budget et rapporté sur une base de 1000 € de dépenses ou recette.

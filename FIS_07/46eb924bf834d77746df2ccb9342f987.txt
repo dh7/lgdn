@@ -1,1 +1,0 @@
-couts de structure de l'état sont à revoir, réduire le nombre de fonctionnaires, parlementaires et sénateurs et les dépenses autour du palais d'elysées etc, réduire le nombre de couches (département, commune etc)

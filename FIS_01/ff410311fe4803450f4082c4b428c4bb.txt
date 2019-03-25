@@ -1,1 +1,0 @@
-réduire la complexité pour la rendre plus compréhensible

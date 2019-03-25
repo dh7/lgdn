@@ -1,1 +1,0 @@
-simplifier pour n'avoir que 5 prestations identifiées et lisibles, avec barèmes ( ex: 1 aide au revenu, 1 aide à la santé, 1 aide au logement, 1 aide à l'éducation, 1 aide à la transition écologique

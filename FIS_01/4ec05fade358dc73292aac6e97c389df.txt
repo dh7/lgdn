@@ -1,1 +1,0 @@
-Supprimer les tranches d'imposition et calculer l'impôt de manière réellement proportionnelle aux revenus.

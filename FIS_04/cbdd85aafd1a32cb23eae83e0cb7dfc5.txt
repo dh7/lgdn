@@ -1,1 +1,0 @@
-- rsa pour les moins de  25 ans même s'ils n ont jamais travaille - calcul des pensions d'invalidité prise ne compte sur la période de ''meilleur salaire'' et non sur l année qui précède

@@ -1,1 +1,0 @@
-suppressions:  - chaînes tv et radio publique - aide à la presse - aide aux corps intermédiaires - fusion de la CSG et de l’impôt sur le revenu

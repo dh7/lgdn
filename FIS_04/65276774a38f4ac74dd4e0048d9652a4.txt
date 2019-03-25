@@ -1,1 +1,0 @@
-allocation chômage : revoir la dégressivité en cas d'absence de recherche d'emploi.

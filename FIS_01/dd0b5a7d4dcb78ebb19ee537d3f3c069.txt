@@ -1,1 +1,0 @@
-Taxer tous les héritages de manière progressive (plus il est élevé plus il est taxé) Rajouter une tranche supplémentaire à l'impôt sur le revenu

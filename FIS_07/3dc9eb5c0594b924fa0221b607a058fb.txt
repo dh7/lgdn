@@ -1,1 +1,0 @@
-- Clarifier et séparer strictement la gestion de ce qui relève des Assurances Sociales d'une part, des impôts (nationaux ou locaux) d'autre part. - Assigner clairement à chaque entité (Etat, Collectivités Locales, Partenaires Sociaux) la responsabilité des recettes et des dépenses relevant de leur domaine de compétences.

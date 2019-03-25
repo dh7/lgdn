@@ -1,1 +1,0 @@
-payer l'impôt à partir d'un euro et pour tout le monde. Définir un nombre plus important de tranches et redéfinir leur taux. Prendre soin de respecter une cohérence admissible par tous entre le taux le plus bas et le taux le plus haut. Revoir le système des niches fiscales. Peut-être les supprimer et les remplacer par l'attribution de primes ex: la prime voiture

@@ -1,1 +1,0 @@
-Supprimer toute taxe sur les taxes : exemple sur les factures EDF on paye de la TVA sur la taxe TCFE et sur les contributions CSPE et CTA. .

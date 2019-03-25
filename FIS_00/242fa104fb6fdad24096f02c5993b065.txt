@@ -1,1 +1,0 @@
-simplifier le maquis des taxes (cgs, crds, etc) . Donner l'affectation de tous ces prélèvements

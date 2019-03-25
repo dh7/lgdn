@@ -1,1 +1,0 @@
-Il faut donner les allocs plus facilement, et il faut augmenter les montants des allocations aussi.

@@ -1,1 +1,0 @@
-Adapter la TVA en fonction des achats: Moins élevée sur les produits alimentaires, plus élevée sur les produits très polluant, comme les très grosses voitures (> 130 ch)

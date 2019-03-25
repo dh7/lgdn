@@ -1,1 +1,0 @@
-Un site web dédié qui permette de consulter la synthèse et les détails, avec comparaison sur les 50 dernières années. Fournir les détails sous la forme OpenData pour permettre l'analyse par les Citoyens et Associations.

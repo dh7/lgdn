@@ -1,1 +1,0 @@
-RSA: malheureusement certains abusent du système et travaillle au noir en parallèle. Il faut plutot renforcer les controles .

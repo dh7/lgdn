@@ -1,1 +1,0 @@
-revoir l'IR, l'augmenter dans les tranches supérieures et inclure tous les prélèvements autres: CSG RDS RDS etc

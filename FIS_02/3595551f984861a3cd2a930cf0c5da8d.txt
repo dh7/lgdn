@@ -1,1 +1,0 @@
-supprimer la CSG et le RDS au profit d'un impot unique ; la fiche de paie ne devrait comporter que les déductions sécurité sociale et retraite;

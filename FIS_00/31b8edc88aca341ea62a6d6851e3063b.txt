@@ -1,1 +1,0 @@
-Utiliser internet pour publier l'état des recettes et des dépenses. Faire un état annuel, en comparant aux années précédentes, et en proposant des projections (court, moyen, long terme).

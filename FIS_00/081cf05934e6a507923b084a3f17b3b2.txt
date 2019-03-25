@@ -1,1 +1,0 @@
-- Un site internet neutre informant de toutes les recettes et l'utilisation de ces recettes ainsi que des gaspillages qui auraient pu être évités.

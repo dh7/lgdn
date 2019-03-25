@@ -1,1 +1,0 @@
-Simplifier le nombre d'aides et s'assurer par des fichiers partagés que les cumuls des aides et des salaires ne dépassent pas un plafond  annuel  pour tous.

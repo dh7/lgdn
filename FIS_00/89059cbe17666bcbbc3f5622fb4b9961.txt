@@ -1,1 +1,0 @@
-- Diffuser, grâce aux médias, le vote du budget de l'Etat et ses composantes. - transmettre à certaines période un récapitulatif du budget de l'Etat et des collectivités.

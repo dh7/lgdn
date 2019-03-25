@@ -1,1 +1,0 @@
-Informer chaque foyer imposable ou non de toutes les impôts collectés, indiquer qu'elle est la répartition par secteur (santé, éducation, ...) et combien est revenu à chaque foyer fiscal. Il faut que les gens sachent combien ils paient et aussi combien ils reçoivent.

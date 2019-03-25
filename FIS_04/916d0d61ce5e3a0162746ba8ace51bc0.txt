@@ -1,1 +1,0 @@
-Supprimer l'allocation pour chaque enfant au delà d'un certain revenu; certains n'en ont franchement pas besoin.

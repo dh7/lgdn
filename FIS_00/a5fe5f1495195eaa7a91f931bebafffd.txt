@@ -1,1 +1,0 @@
-Créer sur le site "impôts.gouv" une rubrique "utilisation des impôts", avec d'un côté le détail par grands postes de toutes les dépenses publiques réalisées dans l'année avec leur pourcentage du total, et d'un autre côté le montant de toutes les ressources collectées en détaillant chaque catégories d'impôts, taxes et autres revenus. Faire apparaître l'insuffisance ou l'excédent

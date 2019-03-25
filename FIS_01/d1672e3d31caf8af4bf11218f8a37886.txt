@@ -1,1 +1,0 @@
-Calcul d'une aide mensuelle (se substituant à l'ensemble des aides actuelles) puis la déduire de l’impôt sur le revenu

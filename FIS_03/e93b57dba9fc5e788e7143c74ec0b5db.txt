@@ -1,1 +1,0 @@
-Mettre à plat le calcul de l'ensemble des prestations, peut être créer une prestation unique dont le montant varierait en fonction de l'ensemble des revenus du foyer.

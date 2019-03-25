@@ -1,1 +1,0 @@
-Simplifier le dispositif en instaurant une aide unique globalisant toutes les aides.

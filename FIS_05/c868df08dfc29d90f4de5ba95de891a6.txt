@@ -1,1 +1,0 @@
-La dépendance. Certains EPHD sont très bien gérés avec des coûts raisonnables donc ce doit être possible de généraliser cela.

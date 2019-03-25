@@ -1,1 +1,0 @@
-augmenter le nombre de tranches pour rendre l'impôt plus progressif. le taux d'imposition ne doit pas être le même pour quelqu'un qui a un salaire de 2500.€ et quelqu'un qui a un salaire de 6000€.

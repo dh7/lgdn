@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches pour calculer l'impôt sur le revenu : au minimum 10 tranches

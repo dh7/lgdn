@@ -1,1 +1,0 @@
-toutes les aides doivent être calculées en fonction des revenus et pour chaque individu, même s'il est en couple. Tous les couples ne partagent pas leur argent.

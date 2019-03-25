@@ -1,1 +1,0 @@
-Peut-être faire plusieurs taux de TVA en fonction des produits (impacts sur la santé, sur l'environnement ou produits vertueux).

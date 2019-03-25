@@ -1,1 +1,0 @@
-Renommer les cotisations sociales sur les fiches de paie afin que le vocabulaire utilisé soit plus lisible par les personnes non adeptes des termes en cours (ex : CSG, FNAL etc)

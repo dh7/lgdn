@@ -1,1 +1,0 @@
-Arrêter de supprimer pesion reversion au delà certain revenus. Quand 2 conjoints ont travaillé (par choix ou obligation), il est anormal de perdre totalité revenus lorsque l'un décède.

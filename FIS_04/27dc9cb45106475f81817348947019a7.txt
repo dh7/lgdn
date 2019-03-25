@@ -1,1 +1,0 @@
-Supprimer tout effet de seuil. Rendre les conditions dégressives pour éviter les comportements pervers. Exemple je ne reprend pas le travail sinon je vais dépasser tel seuil et perdre des aides.

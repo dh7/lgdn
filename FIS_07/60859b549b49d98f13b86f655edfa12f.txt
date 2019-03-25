@@ -1,1 +1,0 @@
-Revoir les systèmes qui font que l'on perd immédiatement une aide lorsqu'on atteint un plafond et faire en sorte que ce soit plus progressif

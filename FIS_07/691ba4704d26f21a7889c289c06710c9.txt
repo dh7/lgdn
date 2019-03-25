@@ -1,1 +1,0 @@
-simplifier le calcul des pensions de retraites : il y a trop de paramètres et trop de régimes et ce n'est plus lisible pour les citoyens le rendre égal pour tous : égalité de droits et de devoirs

@@ -1,1 +1,0 @@
--	Définition des produits de première nécessité qui devraient avoir une TVA minorée. Pb des carburants Revoir les produits qui sont de première nécessité pour leur appliquer un taux de TVA réduit et s’assurer que cette réduction de TVA  s’applique à la vente. Limiter les paiements en espèces au strict minimum.

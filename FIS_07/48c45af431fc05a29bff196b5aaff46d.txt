@@ -1,1 +1,0 @@
-fusionner l'ir et la csh      exonérer  les successions   inf  à  2  millions E   et majorer progressivement les autres

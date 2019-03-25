@@ -1,1 +1,0 @@
-Vérifier que toutes les aides sont bien attribuées et qu'il n'y est pas de doublon ou de faux numéros (cf Nathalie Goulet qui aurait remonté ce problème)

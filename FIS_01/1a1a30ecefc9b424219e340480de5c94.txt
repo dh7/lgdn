@@ -1,1 +1,0 @@
-Regrouper le nombre de taxes en 10 categories . Nous paierons en fonction des resources et du patrimoine calculé.

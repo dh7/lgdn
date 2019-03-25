@@ -1,1 +1,0 @@
-indexer les taxes et les impôts, sur le salair perçu. Quelqu'un percevant le salair minimum ne devrait pas être imposé au-delà d'un certain seuil, sans quoi, il risque d'avoir des soucis financiers.

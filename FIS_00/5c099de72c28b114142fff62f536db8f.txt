@@ -1,1 +1,0 @@
-Editer annuellement un tableau de toutes les dépenses à l'euro près, sans colonne "divers", consultable par tous sans restriction.

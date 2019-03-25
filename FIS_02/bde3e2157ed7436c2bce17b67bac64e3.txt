@@ -1,1 +1,0 @@
-supprimé la taxe d'habitation. Moduler la taxe foncière en fonction du revenu des propriétaires et des bénéfices qu'ils tirent de leur bien.?

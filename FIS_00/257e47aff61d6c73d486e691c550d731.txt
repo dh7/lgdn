@@ -1,1 +1,0 @@
-Créer un site qui donne le montant de chaque impôt récolté et la destination prévue par la loi. De cette façon, l'argent qui est censé aller à la sécurité sociale n'ira pas renflouer les caisse de Renault par exemple.

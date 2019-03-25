@@ -1,1 +1,0 @@
-instaurer une allocation unique dont le montant serait fonction de la situation du bénéficiaire

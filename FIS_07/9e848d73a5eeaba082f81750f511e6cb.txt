@@ -1,1 +1,0 @@
-indexation des taux de rendement des livrets d'épargne (livret A en priorité) sur le taux annuel d'inflation.

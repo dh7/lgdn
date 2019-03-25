@@ -1,1 +1,0 @@
-Tout service public a un coût. Quand l'usager en profite, il devrait avoir une facture avec le coût réel ramené à zéro si c'est un service gratuit. Sans notion de coût, les services perdent de leur valeur

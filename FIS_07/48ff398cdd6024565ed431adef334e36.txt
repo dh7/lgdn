@@ -1,1 +1,0 @@
-Meilleur contrôle dans les urgences et filtrage à l'arrivée des patients en situation d' urgence ou non.

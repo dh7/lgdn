@@ -1,1 +1,0 @@
-Calculer l’impôt de façon proportionnelle et non plus par tranche

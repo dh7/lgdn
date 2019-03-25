@@ -1,1 +1,0 @@
-- Allocation chômage : elle doit être calculée sur le salaire mensuel et non sur un salaire journalier pour éviter les effets pervers => gagner plus au chômage qu'en travaillant - Allocations familiales : rétablir à 100% quel que soit le salaire

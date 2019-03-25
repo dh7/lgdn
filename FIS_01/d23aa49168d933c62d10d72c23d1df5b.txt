@@ -1,1 +1,0 @@
-avoir un taux de tva personnalisé en fonction de ses revenus transmis à son banquier afin que ce taux soit attaché à la carte bancaire et que donc les achats portent le taux de tva ajusté au porteur de la carte (couplé à la CNI pour éviter la fraude)

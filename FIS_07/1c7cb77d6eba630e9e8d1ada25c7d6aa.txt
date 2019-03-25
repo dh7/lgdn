@@ -1,1 +1,0 @@
-afficher tous les prix hors tva, afin que chacun mesure ce qu'il paie en impot.

@@ -1,1 +1,0 @@
-Il faut poursuivre le projet d'attribuer les aides sociales en fonction des revenus de l'année "n", c'est à dire faire coincider leur attribution avec les besoins immédiats des personnes. Cela s'applique à l'APL en particulier. Il faut donner une allocation familiale dès le premier enfant, par contre les plafonner à 3 enfants (ou 4 max).

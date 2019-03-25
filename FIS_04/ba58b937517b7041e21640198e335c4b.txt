@@ -1,1 +1,0 @@
-Il faut revoir le système entier en un guichet unique de manière à ce qu'on ne vive pas mieux qu'avec un travail. Limiter les allocs à 3 enfants.

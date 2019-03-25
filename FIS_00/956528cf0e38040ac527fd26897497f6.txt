@@ -1,1 +1,0 @@
-Présentez un budget (recettes-dépenses) simplifié des impôts et, plus généralement, des prélèvements obligatoires.  La présentation doit permettre une comparaison avec les pays (Allemagne, Royaume-Uni, Danemark, etc.) qui n'ont pas les mêmes systèmes de santé, d'éducation, de retraite et d'organisation territoriale.

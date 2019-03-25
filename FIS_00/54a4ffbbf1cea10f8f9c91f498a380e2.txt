@@ -1,1 +1,0 @@
-Avoir chaque trimestre un graphique montrant les recettes et dépenses de l'état et un autre montrant les catégories des depenses

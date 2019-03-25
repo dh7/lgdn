@@ -1,1 +1,0 @@
-un simple site web incluant les grandes recettes et les grandes dépense permettrait un minimum d'information. Aujourd'hui c'est totalement opaque pour les non initiés.

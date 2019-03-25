@@ -1,1 +1,0 @@
-Pour controler le cumul des aides possibles, il faudrait que pour tous les organismes (CAF, Pole emploi.... + les impots) chaque individu dispose d'un identifiant unique. Le numéro insee serait le code pivot unique pour tous les organismes

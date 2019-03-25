@@ -1,1 +1,0 @@
-Il faudrait communiquer avec les avis d'imposition (ou de non-imposition) sur la répartition du budget de l'état : - par origine d'impôt, taxes, cotisations - par origine de contribuable (entreprises, ménages et, pour les ménages, une répartition par tranche de revenus) - par utilisation

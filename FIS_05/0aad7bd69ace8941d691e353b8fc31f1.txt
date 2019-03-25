@@ -1,1 +1,0 @@
-Clarifier les postes de dépense. Contrôle du bien fondé de la dépense donc des bénéficiaires.

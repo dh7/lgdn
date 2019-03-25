@@ -1,1 +1,0 @@
-- Donner un récapitulatif ou facture des frais réel lors d'un passage à l'hôpital. - Publier sur un site dédié aux dépenses publiques, le détails des dépenses en temps réel.  - Donner le coût réel d'un accès à la piscine ou autres équipements publics (école, bibliothèque, ...)

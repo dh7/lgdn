@@ -1,1 +1,0 @@
-Interdire les algorithmes qui permettent à certains d'avoir l'information sur les ordres de bourse et leur donne la possibilité de passer leurs ordres avant. C'est de l'enrichissement scandaleux

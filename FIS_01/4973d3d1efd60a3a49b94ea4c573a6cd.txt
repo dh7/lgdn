@@ -1,1 +1,0 @@
-Imposer une entreprise en fonction de l’ecart Du plus haut salaires au plus bas salaire. Ex: un patron qui touche 2000€ et paie ses salariés 1200€ ne devrait pas être imposable. Au dessus de cet écart, il devrait être imposé proportionnellement avec l’ecart de son salaire et le salaire le plus bas.

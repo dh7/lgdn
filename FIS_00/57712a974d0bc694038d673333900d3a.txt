@@ -1,1 +1,0 @@
-presenter le budget et le reel sous forme permettant de zoomer du plus synthetique au détail, avoir une liste de questions posées par tout un chacun, mais des réponses sous forme de faq dont la comprehension a été verifiée

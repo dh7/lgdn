@@ -1,1 +1,0 @@
-Detailler le montant preleve en listant leur utilisation(hopitaux,sapeur pompier,police,ecole ....)

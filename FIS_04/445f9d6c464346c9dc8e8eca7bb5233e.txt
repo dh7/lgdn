@@ -1,1 +1,0 @@
-Faire en sorte que les aides dépendent de la situation à l’instant t et non des revenus des années précédentes (on le fait bien pour le prélèvement à la source)

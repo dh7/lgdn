@@ -1,1 +1,0 @@
-Il faut impérativement garder l'universalité, sinon on casse le contrat social

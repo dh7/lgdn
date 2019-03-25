@@ -1,1 +1,0 @@
--verser les diverses allocations en fonction des revenus du foyer -limiter les allocations chômage pour les cadres ayant des hauts revenus -ne pas indemniser les  chômeurs ayant quitté volontairement leur travail

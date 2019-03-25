@@ -1,1 +1,0 @@
-Mise en place d'un ISR pour tous, plus progressif en % pour éviter les effets de seuils et avec plus de tranches

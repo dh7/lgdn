@@ -1,1 +1,0 @@
-Un site internet dédié, ouvert à tous, et fonctionnant par strates: la première équivaudrait à ce qui se fait déjà: une vision vague de l'ensemble des dépenses par domaines et ministères. Un second niveau présenterait ministère par ministère, tous les grands postes de dépense. Et un dernier niveau consultable par les spécialistes décortiquant point par point chacun de ces postes.

@@ -1,1 +1,0 @@
-Envoyer un email annuel à tout les citoyen présentant les recettes et les dépenses de l'Etat, avec une synthèse explicative.

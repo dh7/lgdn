@@ -1,1 +1,0 @@
-Il serait urgent de faire table rase du CGI actuel qui n'est qu'une litanie de principes assortis d'une non moins extraordinaire litanie d'exceptions aux principes posés. Il faut simplifier tout celà.

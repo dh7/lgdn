@@ -1,1 +1,0 @@
-Définir un reste a vivre.  Peut être tenir compte du reste a vivre ou a survivre pour certains, et faire un réajustement en fonction du total des  prélèvements.

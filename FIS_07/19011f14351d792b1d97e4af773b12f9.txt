@@ -1,1 +1,0 @@
-Mettre en place une taxe sur les transactions financières. Par exemple 0,001% soit 0,1 pb sur les transactions interbancaires (à définir) y compris sur les transferts interbancaires.

@@ -1,1 +1,0 @@
-- Transparence des finances de tous les niveaux d'administration. Recettes et dépenses disponibles en ligne pour consultation par les citoyens.  - Consultation des citoyens lors de la mise en place des budgets pour avoir leur avis sur l'utilisation de leurs impôts et du budget en général.

@@ -1,1 +1,0 @@
-Simplifier les procédures. Par exemple regrouper des allocations nécessaires pour la vie normale d'une famille. (logement, aide alimentaire, les énergies).

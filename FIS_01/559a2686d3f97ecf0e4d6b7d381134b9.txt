@@ -1,1 +1,0 @@
-Corriger les effets de seuils, ajouter des tranches de progressivité

@@ -1,1 +1,0 @@
-Simplifier les impôts avec la suppression de la CSG pour un prélèvement forfaitaire unique pour gagner en lisibilité.

@@ -1,1 +1,0 @@
-Prise en charge de la dependance et tout ce qui a trait a la fin de vie.

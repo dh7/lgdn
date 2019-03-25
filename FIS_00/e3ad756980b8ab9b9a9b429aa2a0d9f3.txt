@@ -1,1 +1,0 @@
-Par exemple tous les ans en début d'année N + 1 envoyer aux gens un récapitulatif de ce qu'ils ont couté et qui a été financé grâce à l'impôt.

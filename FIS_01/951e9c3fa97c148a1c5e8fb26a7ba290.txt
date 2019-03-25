@@ -1,1 +1,0 @@
-il faut généraliser la proportionnalité à tous les niveaux. Mais une proportionnalité non linéaire (i.e; selon une courbe de faible pente pour les petits revenus, et de forte pente pour les revenus très important).

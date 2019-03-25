@@ -1,1 +1,0 @@
-Il s'agit pas de suppression d'aides mais plutôt de contrôle  de l'application des règles existantes.

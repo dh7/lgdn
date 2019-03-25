@@ -1,1 +1,0 @@
-Obtenir pour chaque contribution à un impôt le chemin et la finalité de la somme donné par le citoyen. (exemple réalisé pour chaque impôts individuellement une infographie , type "camembert" ou un tableau détaillant l'usage de sa contribution.)

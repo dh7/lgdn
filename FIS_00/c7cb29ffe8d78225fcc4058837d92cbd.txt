@@ -1,1 +1,0 @@
-A chaque nouvelle taxe, une information sur l'utilisation de celle-ci. Exemple : les taxes réhaussées sur l'essence serviront à rendre les péages gratuits aux possesseurs de voitures électriques.

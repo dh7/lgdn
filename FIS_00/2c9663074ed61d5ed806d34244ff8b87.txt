@@ -1,1 +1,0 @@
-Un quizz permettant de tester si les informations déjà à disposition sont connues. Rechercher sur quels segments l'information est insuffisante.

@@ -1,1 +1,0 @@
-augmenter le délai de carence à 15 jours.  Pour les maladies de longue durée un délai de 1 semaine.

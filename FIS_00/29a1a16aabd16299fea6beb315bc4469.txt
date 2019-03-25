@@ -1,1 +1,0 @@
-Il faudrait que soient disponible en ligne au moins trois données sur les grosses sociétés (seuil à définir suivant lez CA) : le Chiffre d'Affaire en France, le bénéfice déclaré en France et le taux d'imposition globale.

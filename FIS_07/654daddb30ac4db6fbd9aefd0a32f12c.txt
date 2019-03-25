@@ -1,1 +1,0 @@
-Livret A: appliquer un taux variable: taux = à l'inflation jusqu'à 1000€ puis taux dégressif jusqu'au plafond. Idem pour la revalorisation des retraites: appliquer un taux dégressif avec au minimum la valeur de l'inflation pour les petites retraites jusqu'à un taux à déterminer pour un seuil à évaluer

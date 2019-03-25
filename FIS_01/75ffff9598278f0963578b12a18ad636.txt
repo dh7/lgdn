@@ -1,1 +1,0 @@
-Supprimer les tranches d'impôts qui sont injustes si on se trouve à la limite et les remplacer par un pourcentage d'imposition. Que tout le monde paie des impôts même les petits salaires. 5% du salaire pour tous par exemple.

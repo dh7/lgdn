@@ -1,1 +1,0 @@
-supprimer toutes les taxes pour la transmission d'un patrimoine inferieur a 150000€ lors d'un décés

@@ -1,1 +1,0 @@
-Une appli qui permette à chacun de calculer comment sont utilisés leurs impôts avec les taux à appliquer en face des sommes payées.

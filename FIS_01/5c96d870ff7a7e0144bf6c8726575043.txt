@@ -1,1 +1,0 @@
-Taxer via une fonction exponentielle le revenu. Supprimer TOUTES les niches fiscales et TOUS les abattements.

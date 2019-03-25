@@ -1,1 +1,0 @@
-Rendre public le cout d'une année en école, une consultation à l'hopital et le cout d'une route.

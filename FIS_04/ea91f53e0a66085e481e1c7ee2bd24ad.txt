@@ -1,1 +1,0 @@
-aides = "travail" en retour en fct des possibles et pas une rente à vie

@@ -1,1 +1,0 @@
-Supprimer tous les impôts et taxes sauf l'impôt sur le revenu avec comme assiette de calcul le revenu mensuel et le patrimoine annuel stocké.

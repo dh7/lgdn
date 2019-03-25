@@ -1,1 +1,0 @@
-Il faut une vision globale. Ne pas accumuler de multiples aides éparse, mais évaluer l'aide unique sur de multiples critères. Ne pas faire  * Aide 1 = x€ * Aide 2 = y€  Mais faire  * Critère Aide 1 + critère Aide 2 = k€  Ce qui permettra de maitriser les abus, x + y (+z +t...) étant moins facilement maitrisable que k

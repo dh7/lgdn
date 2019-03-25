@@ -1,1 +1,0 @@
-simplifier le nombre d'impôts et de taxes pour chaque service public, donner une facture aux gens, facture qui indique le coût réel et détaillé de la prestation et la contribution finale payée par les gens déduction faite des fonds publics ayant servi à la mettre en oeuvre (à faire même et surtout si le service rendu est "gratuit")

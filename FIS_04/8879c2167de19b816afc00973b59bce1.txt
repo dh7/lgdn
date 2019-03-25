@@ -1,1 +1,0 @@
-- allocation chômage devrait être plafonnée (en brut) au plafond de la sécurité sociale,

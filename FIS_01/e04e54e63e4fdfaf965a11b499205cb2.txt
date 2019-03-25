@@ -1,1 +1,0 @@
-Eviter les effets de seuil : un revenu ou capital augmenté de 1 euro peut coûter très cher quand un seuil est dépassé (ex: taxe d'habitation non diminuée, IFI) .

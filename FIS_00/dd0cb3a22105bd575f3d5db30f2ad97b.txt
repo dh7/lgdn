@@ -1,1 +1,0 @@
-Envoyer chaque année un décompte de la répartition de l'utilisation de l'impôt payé : exemple j'ai payé 1000 euros d'impots' ils ont été utilisé de la manière suivante : x euros pour l'éducation nationale,  x euros pour la sécu, x euros pour l'armée,  etc. Donner le calcul pour l'individu et le montant pour l'ensemble des contribuables.

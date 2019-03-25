@@ -1,1 +1,0 @@
-Aide chômage : - dégressive au bout de 6 mois (basée sur le salaire annuel de référence) puis seuil minimal au bout d'un an (non calculé sur la base du salaire précédent mais identique pour tous, et basé sur l'inflation pour éviter les conditions précaires).

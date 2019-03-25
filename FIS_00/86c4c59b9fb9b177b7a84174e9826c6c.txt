@@ -1,1 +1,0 @@
-Maintenir l'amende générée par un dépassement de vitesse, mais, lorsque ce dépassement reste dans une limite (admettons 10% de la vitesse autorisée) plutôt due à une légère négligence, abolir le retrait qui lui est jusqu'à présent concomittant.

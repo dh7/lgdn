@@ -1,1 +1,0 @@
-Simplifier le système en limitant le nombre de taxes et les changements régulier de façon à avoir une vision claire sur le long terme. Supprimer les taxes aléatoires et inégales (véritable flou sur les impôts locaux, pour des surfaces équivalentes, montants de taxes variables...)

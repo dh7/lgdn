@@ -1,1 +1,0 @@
-Augmenter le nombre de médecins généralistes. Ne pas accepter aux urgences des cas qui ne sont pas dans cette catégorie. Créer proche des urgences des maisons médicales avec des généralistes assignés.

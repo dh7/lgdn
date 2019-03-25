@@ -1,1 +1,0 @@
-supprimer la TVA sur certaines taxes, ne payer l'impôt que sur les sommes réellement perçues. (csg non déductible)

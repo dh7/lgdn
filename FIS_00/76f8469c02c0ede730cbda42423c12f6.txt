@@ -1,1 +1,0 @@
-Presenter de facon trimestriel et claire un organigramme sous forme de camenbert des depenses de l etat.

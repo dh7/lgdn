@@ -1,1 +1,0 @@
-Avant tout réduire le périmètre d'action de l'état au strict nécessaire.

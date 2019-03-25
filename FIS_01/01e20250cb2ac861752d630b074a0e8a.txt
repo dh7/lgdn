@@ -1,1 +1,0 @@
-calculer auto des droits caf et autres : chaque salarié cotise pour des droits. On sait calculer automatiquement pour lui prélever ses devoirs, il devrait en être de même pour ses droits.

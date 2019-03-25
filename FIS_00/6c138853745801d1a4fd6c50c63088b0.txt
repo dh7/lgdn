@@ -1,1 +1,0 @@
-Simplifier les questionnaires, avoir des dossiers "type" uniques qui soient valables pour toutes les administrations.

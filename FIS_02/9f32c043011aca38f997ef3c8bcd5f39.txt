@@ -1,1 +1,0 @@
-Revoir le calcul de la taxe foncière qui est obsolete. Ne pas supprimer la taxe d'habitation mais la transformer en une contribution communale minime mais payée par tous qui servirait à la transition ecologique

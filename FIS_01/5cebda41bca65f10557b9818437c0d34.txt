@@ -1,1 +1,0 @@
-Les effets de seuils sont une base aux sentiments d'inégalité. Exemple: Revenu fiscal pour un couple 46600€ pas d'exonération de la taxe d habitation. 46500€ exonération.

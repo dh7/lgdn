@@ -1,1 +1,0 @@
-- supprimer la TVA sur les produits de première nécessité  ; rétablir la TVA à 33% sur les produits de "luxe"

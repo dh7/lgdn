@@ -1,1 +1,0 @@
-OUI : Simplifier la fiche de paye : Ecrire ce que paye l'employeur et ce que l'employé reçoit et supprimer toutes les lignes de détail que l'état récupère... et qu'il gère comme il veut ensuite. Noter simplement le pourcentage que l'état prélève.

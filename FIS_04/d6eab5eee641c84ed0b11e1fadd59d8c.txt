@@ -1,1 +1,0 @@
-allocations chômage : les allocations devraient être calculées, non sur les salaires passés, mais sur ce qui est nécessaire pour vivre, donc réduire les allocations les plus fortes et les écarts entre les + et les -

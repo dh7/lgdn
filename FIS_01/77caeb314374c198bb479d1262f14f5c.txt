@@ -1,1 +1,0 @@
-Calculer pour chaque français le total des aides financières perçues,  et le total des impôts et taxes payés. Ceci pour éviter que certaines personnes qui perçoivent des aides multiples gagnent plus que ceux qui travaillent et payent lourdement les impôts !!! Il est injuste d'avoir un taux d'imposition de 80%, voire 90% et même 100%

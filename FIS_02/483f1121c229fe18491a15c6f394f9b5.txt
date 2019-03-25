@@ -1,1 +1,0 @@
-Suppression de la TVA appliquée sur la taxe sur carburants, je ne comprends pas comment il est possible d'appliquer de la TVA, qui est une taxe, sur une autre taxe, celle sur les carburants. celui revient à une double taxation..

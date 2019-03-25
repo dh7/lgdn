@@ -1,1 +1,0 @@
-Supprimer la TVA sur des taxes (TCFE, CSPE, CTA pour la facture d'électricité par exemple) Supprimer les taxes diverses, non TVA, par exemple la taxe d'aménagement Supprimer les droits de mutation

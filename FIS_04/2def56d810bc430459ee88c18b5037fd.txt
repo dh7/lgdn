@@ -1,1 +1,0 @@
-éviter les effets de seuils qui conduisent à la suppression d'aides pour certains (réduction des aides par palier)

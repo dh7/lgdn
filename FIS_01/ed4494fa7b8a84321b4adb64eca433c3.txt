@@ -1,1 +1,0 @@
-NE pas supprimer les allocations familiales et complément familial si l'étudiant demande une allocation logement. Une famille aux faibles revenus à une bourse, une famille aux revenus aisés ne perçoit pas le complément familial ... les familles aux revenus moyens se trouvent face à une dépense soudaine de 600€/ mois, difficile à supporter (logement + trajets + études)

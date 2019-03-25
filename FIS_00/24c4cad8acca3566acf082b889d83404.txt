@@ -1,1 +1,0 @@
-Pour chaque contribuable, un graphique permettant de voir vers quelles grandes catégories sa contribution est dirigée.

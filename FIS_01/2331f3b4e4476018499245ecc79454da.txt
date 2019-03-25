@@ -1,1 +1,0 @@
-Restaurer l'ISF avec plus de tranches, jusqu'a 50% pour le maximum sur le salaire net en organisant une échelle unitaire. Une unité serait 1 SMIC. si un salaire fait 200 SMIC ou plus il sera taxé à 50%, 100 SMIC 40%, 50 SMIC 35%, 40 SMIC 30%, 30 SMIC 25%, 20 SMIC 20%, 15 SMIC 17,5%, 10 SMIC 15%, 5 SMIC 10% et non imposable entre 0 et 5 SMIC.

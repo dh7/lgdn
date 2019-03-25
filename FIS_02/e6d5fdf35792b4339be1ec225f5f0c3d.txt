@@ -1,1 +1,0 @@
-Il faut supprimer CSG et CRDS et les intégrer à l'IR, ce qui les rendrait progressifs et permettrait de baisser le taux pour les modestes et le ferait grimper pour les aisés.

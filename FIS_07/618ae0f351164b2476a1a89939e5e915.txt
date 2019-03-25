@@ -1,1 +1,0 @@
-Supprimer les effets de seuil en imposant tous les citoyens même si les contributions sont minimes, donner un seuil maximum cumulable pour les réductions d'impôts (1 % du revenu par exemple)

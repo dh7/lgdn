@@ -1,1 +1,0 @@
-Création d'un site donnant par décile des chiffres clairs les impôts et taxes, leur destination/utilisation. De même pour la redistribution.

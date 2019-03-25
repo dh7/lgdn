@@ -1,1 +1,0 @@
-Revoir le calcul des prestations sociales tel que l'AAH afin de le faire comme les autres prestations en temps réel et non J-2 comme celà ce fait actuellement

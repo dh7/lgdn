@@ -1,1 +1,0 @@
-Plafonner la somme des abattements pour ne pas dépasser un seuil minima d'omposition

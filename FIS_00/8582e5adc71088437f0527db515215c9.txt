@@ -1,1 +1,0 @@
-Mettre en ligne une comptabilité analytique en langage claire . Exemple : Impôts sur le revenu, les recettes avec leur répartition, le coût du recouvrement.

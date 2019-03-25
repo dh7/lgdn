@@ -1,1 +1,0 @@
-regrouper toutes les allocations diverses, à gérer par une seule caisse de gestion, (Alloc familiales, RSA, PA, APL, etc, etc.….). Trop d'argent dépensé dans les différents organismes de gestion, et cumul parfois litigieux de plusieurs allocations

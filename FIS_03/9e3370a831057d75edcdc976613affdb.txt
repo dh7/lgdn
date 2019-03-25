@@ -1,1 +1,0 @@
-Moduler la TVA selon la distance parcourue par les produits entre le lieu de fabrication et le lieu de consommation.

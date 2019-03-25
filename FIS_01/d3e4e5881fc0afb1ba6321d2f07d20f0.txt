@@ -1,1 +1,0 @@
-Prendre en compte le revenu pour attribuer les APL, ALLOC FAMILIALE etc.

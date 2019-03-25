@@ -1,1 +1,0 @@
-rien  a voir avec le sujet, mais un truc m'intrigue : actuellement plus de 32 000 propositions dans ce chapitre et dans la presentation dite "avec tri aléatoire" quelques unes reviennent régulièrement dans les 10 premieres affichées.  Normalement 10/32000, probabilité quasiment nulle de revoir les mêmes, il y a un truc mais lequel ?

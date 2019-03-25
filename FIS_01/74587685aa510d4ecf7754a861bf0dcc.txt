@@ -1,1 +1,0 @@
-Suppression de toutes les niches fiscales. Redéfinir l'assiette fiscale en incluant toutes les perceptions (y compris les prestations sociales) Recalculer la participation. Participation depuis le premier € et proportionnellement à la totalité des € effectivement perçus. Tout le monde paye à hauteur de ses moyens.

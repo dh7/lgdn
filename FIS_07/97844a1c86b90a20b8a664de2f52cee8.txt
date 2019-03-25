@@ -1,1 +1,0 @@
-simplifier le calcul des exonerations de charges patronales qui sont illisibles. IL y a des exonerations sur 1,6 fois le SMIC, d'autre sur 2,5 fois le SMIC, d'autre sur 3,5 fois le SMIC

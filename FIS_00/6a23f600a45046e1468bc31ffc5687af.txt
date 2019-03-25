@@ -1,1 +1,0 @@
-Que chaque fois qu'une dépense est prise en charge par l'état, elle soit notifiée à la personne qui en est bénéficiaire (coût d'une hospitalisation, d'une intervention des pompiers...)

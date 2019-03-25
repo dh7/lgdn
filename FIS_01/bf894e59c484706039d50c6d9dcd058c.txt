@@ -1,1 +1,0 @@
-Rétrécir le périmètre d'action de l'état. Un état ça s'occupe de l'armée, de l'école, des frontières, de la santé et c'est tout.

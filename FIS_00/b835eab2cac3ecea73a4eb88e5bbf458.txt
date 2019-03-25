@@ -1,1 +1,0 @@
-Mettre en place un site d'information regroupant les types et montants des dépenses de l'état.

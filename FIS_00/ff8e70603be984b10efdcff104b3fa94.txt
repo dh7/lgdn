@@ -1,1 +1,0 @@
-- Créer un espace dédié et actualisé de visualisation par chapitres des dépenses et des prélèvements obligatoires - Créer un espace de simulation permettant de visualiser les incidences budgétaires de choix politiques

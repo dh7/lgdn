@@ -1,1 +1,0 @@
-Prendre en compte l'état d'endettement des redevables pour ceux qui sont déjà insolvables.

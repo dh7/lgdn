@@ -1,1 +1,0 @@
-un site détaillant à quoi servent les impôts (mais précis et simple, qui permettrait en rentrant son montant d'imposition de savoir combien d'euros vont à l'éducation, à la santé, à l'armée, à la justice, aux aides sociales, etc... en affinant par domaine (combien pour payer des rsa (combien le touchent), etc...))

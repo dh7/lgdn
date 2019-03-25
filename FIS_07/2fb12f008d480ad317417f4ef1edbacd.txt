@@ -1,1 +1,0 @@
-Ne taxer qu'une seule fois une même base.  Par exemple, pour les salaires la CSG fait partie de la base imposable. qui sert aussi pour l'impôt sur le revenu. C'est comme taxer une ressource qui n'est en fait déjà plus disponible.

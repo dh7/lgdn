@@ -1,1 +1,0 @@
-Que chaque entité prélevant l'impôt mette en ligne les montants prélevés, et l'affectation qui en est faite, par nature de dépense et par destination, selon un format prédéfini pour chaque entité.

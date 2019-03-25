@@ -1,1 +1,0 @@
-- Contrôler le profil des ménages bénéficiaires des aides sociales afin de s'assurer de leurs droits

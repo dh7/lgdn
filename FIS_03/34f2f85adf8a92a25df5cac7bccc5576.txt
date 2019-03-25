@@ -1,1 +1,0 @@
-mise en place d'une nouvelle TVA sur les produits de luxe avec un taux de 25 % et nouvelle tranche d'imposition pour les plus riches

@@ -1,1 +1,0 @@
-Envoyer un récatitulatif de la part des dépenses en pourcentage des impots perçus (Revenu, TVA, ISF,...)

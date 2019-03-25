@@ -1,1 +1,0 @@
-Il faudrait vérifier que les allocations soient bien utilisées dans le domaine pour lesquel elles sont versées, par exemple une preuve d'achat pour l allocation de rentrée scolaire

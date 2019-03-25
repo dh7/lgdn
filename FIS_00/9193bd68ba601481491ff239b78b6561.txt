@@ -1,1 +1,0 @@
-Une information annuelle sous forme de tableaux avec les recettes et les affectations en dépenses.

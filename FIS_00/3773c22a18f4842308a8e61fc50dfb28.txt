@@ -1,1 +1,0 @@
-Créer un site internet avec les dépenses de la France dans le détail avec les factures et le nom de ceux qui ont engagé la dépense et sa justification (photos, etc...) ainsi que de la délibération qui a été faite avant cette dépense et les différentes alternatives proposées.

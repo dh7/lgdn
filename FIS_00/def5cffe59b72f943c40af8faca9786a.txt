@@ -1,1 +1,0 @@
-Un Tableau de bord donnant les recettes et les dépenses classées analytiquement, et l’évolution annuelle. Bilans comptables, dépenses de personnel, … Décomposition analytique des services de l’Etat et des services déconcentrés et locaux à chaque niveau, région, département, canton, communauté de communes, commune, avec le rôle, les services rendus, et le coût.

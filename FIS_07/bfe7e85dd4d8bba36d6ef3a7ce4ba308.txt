@@ -1,1 +1,0 @@
-rajouter une tranche d'imposition entre [14% et 30%] et [30% et 40%] pour encourager le travail exemple : [27519€ ; 50000€] --> 25% [50000 ; 73779] --> 30% [73779 ; 110000] --> 35%

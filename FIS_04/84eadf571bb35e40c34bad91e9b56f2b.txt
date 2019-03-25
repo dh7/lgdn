@@ -1,1 +1,0 @@
-La CMU. Limiter le niveau d’allocation familiale au-delà du troisième enfant, avec dégressivité.

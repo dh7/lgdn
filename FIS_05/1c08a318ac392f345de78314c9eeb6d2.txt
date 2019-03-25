@@ -1,1 +1,0 @@
-Croisement des données pour détecter automatiquement les personnes dans le besoin d'une part et éviter la fraude d'autre part.

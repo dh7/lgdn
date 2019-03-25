@@ -1,1 +1,0 @@
-simplifier et chaque prélèvement devrait avoir une affectation claire et respectée

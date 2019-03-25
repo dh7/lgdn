@@ -1,1 +1,0 @@
-le nombre d'enfant : si on a cinq enfants, c'est qu'on peut les assumer donc pas d'aide. De l'aide pour le premier enfant et éventuellement le deuxième.

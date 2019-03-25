@@ -1,1 +1,0 @@
-une simulation remise à chaque citoyen sur l'utilisation de son impôt (local, national, etc...) + une simulation du coût de certains services publics dans l'hypothèse où les impôts baisseraient ou seraient nuls (exemple : hospitalisation, entretien de la voirie, etc...) afin que les contribuables se rendent compte concrètement à quoi servent leurs impôts.

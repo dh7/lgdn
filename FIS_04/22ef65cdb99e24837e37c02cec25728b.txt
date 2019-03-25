@@ -1,1 +1,0 @@
-Pas de modifications à priori des conditions, mais intégration des aides dans les revenus pour le calcul de l'impôt.

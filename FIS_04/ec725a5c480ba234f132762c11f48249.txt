@@ -1,1 +1,0 @@
-Il faut revoir l’attribution du RSA qui est donnée automatiquement sans aucune vérification.  Alors que le congé parental est moindre que le RSA et soumis à de nombreuses vérifications.

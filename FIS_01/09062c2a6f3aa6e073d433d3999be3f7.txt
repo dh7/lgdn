@@ -1,1 +1,0 @@
-Taxer les entreprises cotées en bourse en créant un barème tel que les tranches pour l'impôt sur le revenu avec comme "indicateur de réalité" le montant du SMIC

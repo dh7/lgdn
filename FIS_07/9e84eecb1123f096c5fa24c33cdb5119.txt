@@ -1,1 +1,0 @@
-Mettre en place un tableau de bord des dépenses public par entité avec des critères d’evaluations Pour son évolution et mettre en regard d’ou proviennent les recettes

@@ -1,1 +1,0 @@
-Sur chaque déclaration IRPP, avoir synthèse utilisation des IRPP A-1 . A chaque déclaration pouvoir s'exprimer sur les priorités d'utilisation souhaitées, et en tenir compte.

@@ -1,1 +1,0 @@
-Faire simple et regrouper les impôts en un seul avec des pourcentages pour tous, qui augmentant suivant le salaire touché (1% si -1000€/mois, 10% si -2000€/mois, ..., 50% si plus de 10000€/mois)

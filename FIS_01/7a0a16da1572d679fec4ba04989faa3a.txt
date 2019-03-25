@@ -1,1 +1,0 @@
-Simplifier l'impôt et en réduire le nombre de différents prélèvements. Il y a trop de formes d'imposition (TVA, CSG, CRDS, impôt sur le revenu, impôts locaux, ...). Il faut garder uniquement le principe du paiement d'un pourcentage sur les revenus comme celui de la CSG. Cela permettrait de réduire le coût du traitement de l'impôt et le rendrait plus efficace !

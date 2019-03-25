@@ -1,1 +1,0 @@
-Lutte réelle contre l’évasion fiscale au niveau national et européen  Suppression des effets de seuil suite à la fixation de plafonds (exonérations diverses, prime de rentrée, impôts locaux, tarifs municipaux) : lissage par la mise en place d’une fonction continue de calcul.  Ajout d’une tranche supplémentaire pour les impôts sur le revenu.

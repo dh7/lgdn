@@ -1,1 +1,0 @@
-- Informer quel quantile de chaque dixième de la population française a versé quelle proportion d'impôt (et de taxe) chaque année. - Mentionner chaque année dans la feuille d'impôt le montant d'impôt des 5 dernières années, et l'évolution des recettes et dépenses de l'Etat ces mêmes 5 dernières années.

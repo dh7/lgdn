@@ -1,1 +1,0 @@
-il faut plutot limiter le nombre de taxes existantes  4 grandes Taxes par exemple.ce qui permettra de voir rapidement de combien nous pouvons baisser les taxes. sinon baisser la TVA en priorité sera une bonne chose ou même la supprimer sans en créer une autre de compensation.

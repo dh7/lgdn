@@ -1,1 +1,0 @@
-Déduire le montant de la pension alimentaire versée du revenu de référence du débiteur. Exemple: la CSG est prélevée ou pas.

@@ -1,1 +1,0 @@
-Créer un document explicatif qui permettrait de facilement ( Par exemple à l'aide de formule à trou) de calculer son impôt sur le revenu.

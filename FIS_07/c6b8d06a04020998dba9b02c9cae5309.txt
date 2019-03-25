@@ -1,1 +1,0 @@
-Créer un algorithme spécial destiné à réguler les différences de revenus, en réduisant les plus hauts (en instaurant un maximum par la même occasion), en augmentant les plus bas, tout cela en respectant le principe d'égalité devant la loi. Peut-être faudrait-il parler d'équité plus que d'égalité.

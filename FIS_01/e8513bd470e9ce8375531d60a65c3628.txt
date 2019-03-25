@@ -1,1 +1,0 @@
-Appliquer la TVA ou la CSG en fonction du taux de prélèvement des impôts par individu. Exemple : Le taux de TVA sur 1Kg de farine ne devrait pas être le même pour un millionnaire, que pour un retraité au bas de l'échelle.

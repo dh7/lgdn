@@ -1,1 +1,0 @@
-Instaurer des formules d'imposition progressive et abolir la notion de palier. Par exemple pour l'IR, avec x le revenu : impôt(x) = ax + x^b avec a et b des coefficients à déterminer par simulation sur l'ensemble des budgets concernés.

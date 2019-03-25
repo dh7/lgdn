@@ -1,1 +1,0 @@
-Pour les multinationales cotées en bourse, calculer le bénéfice dans chaque pays de l'UE de la manière suivante : bénéfice holding*(CA France/CA total). Ou toute formule permettant de ne pas remonter les bénéfices sans rien laisser aux filiales

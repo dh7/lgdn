@@ -1,1 +1,0 @@
-- Allocations familiales : plafonnées au delà de 4 enfants ==> choix de vie à assumer - Calcul des conditions d'attribution sur l'année n, suivant le contexte présent et non sur n-1 ou n-2

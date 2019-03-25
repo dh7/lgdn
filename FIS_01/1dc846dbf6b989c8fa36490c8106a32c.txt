@@ -1,1 +1,0 @@
-supprimer certaines taxes dont le produit est moindre que les couts de perception . regrouper les personnels budget et tresor .

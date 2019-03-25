@@ -1,1 +1,0 @@
-Mettre en place une animation interactive sur le site des impôts, à base des "camemberts" illustrant les notices d'impôts chaque année. Chaque portion du camembert (recettes comme dépenses) serait cliquable, affichant le détail de niveau inférieur pour cette portion, et ainsi de suite jusqu'à arriver à un niveau compréhensible par chacun.

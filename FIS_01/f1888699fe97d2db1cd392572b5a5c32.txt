@@ -1,1 +1,0 @@
-Modification des taux de TVA existant, ou de leur base. Application du taux de TVA réduit sur "TOUT" les produits alimentaires. Taux de Tva plus élevé sur les produits de Luxe, polluant, ou dont l'impact de production ne peut être évalué.

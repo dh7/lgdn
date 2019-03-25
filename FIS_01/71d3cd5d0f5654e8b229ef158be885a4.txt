@@ -1,1 +1,0 @@
-créer une tva différenciée pour les achats par exemple >à 500€ et affecter  un taux de tva en fonction du revenu fiscal

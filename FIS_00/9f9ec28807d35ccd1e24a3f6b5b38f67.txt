@@ -1,1 +1,0 @@
-Suite au PAS, on pourrait avoir avec le bulletin de paie un état chiffré des montants utilisés de notre impôt.

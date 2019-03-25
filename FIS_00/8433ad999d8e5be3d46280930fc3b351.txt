@@ -1,1 +1,0 @@
-Pour chaque impôt, donner une liste des dépenses concrètes. Afficher de manière CLAIRE et SIMPLE les dépenses de l'Etat.

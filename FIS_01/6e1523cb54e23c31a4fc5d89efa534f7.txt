@@ -1,1 +1,0 @@
-indexer les pénalités et amendes en fonction du revenu  ! pour une même faute la punition n'est pas identique pour un chaumeur que pour un revenu supérieur . Un pv de 90 euros = 10% d'un smig , mais que 2% d'un salaire de 4500 euros .

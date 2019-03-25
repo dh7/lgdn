@@ -1,1 +1,0 @@
-- Simplifier le nombre de taxes et impôts pour diminuer la complexité, les frais de gestion et améliorer la lisibilité - Supprimer les seuils pour les remplacer par des variations plus continues - Mieux répartir les taux de fiscalité pour éviter l'effet de "cloche" pénalisant les classes moyennes et les entreprises de taille intermédiaire

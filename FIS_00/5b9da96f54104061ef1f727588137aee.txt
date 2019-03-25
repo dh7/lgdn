@@ -1,1 +1,0 @@
-Répartition par catégorie de dépense, et au sein d’une catégorie, par famille (ex : éducation, et au sein de l’éducation , différencier le coût des professeurs de celui de l’immobilier, de l’académie etc...) et montrer évolution dans le temps

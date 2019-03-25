@@ -1,1 +1,0 @@
-Allocation chômage :  - le montant de l'allocation chômage est égale au montant du salaire minimum pour tous. Evidemment on cotise sur ce seul montant - la part entre l'allocation et le RSA est remboursée par celui qui l'a touchée sur ses revenus futurs

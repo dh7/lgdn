@@ -1,1 +1,0 @@
-Fournir un rapport annuel simple qui présente : - les rentrées fiscales par catégorie (revenu, fortune, immobilier, TVA, ...) - les dépenses et allocations de budgets qui découlent des rentrées

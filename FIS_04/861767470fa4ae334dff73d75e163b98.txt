@@ -1,1 +1,0 @@
-Simplifier les aides surtout. On devrait remplir un dossier pour un type d'aide (par exemple logement), et ensuite l'administration gère elle-même à quel cas cela correspond exactement. Idem pour les pensions de réversion, un seul dossier global. Les différents organismes peuvent s'envoyer des mails !

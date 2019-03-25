@@ -1,1 +1,0 @@
-Remplacer le système à tranches par une courbe  du genre parabolique , de façon à éviter les effets très négatifs induits par le saut de taxation.  Les ordinateurs permettent de réaliser cela sans coup férir

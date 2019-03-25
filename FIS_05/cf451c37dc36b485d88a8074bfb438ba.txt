@@ -1,1 +1,0 @@
-Le RSA est un bon outil s'il est surveillé (pas de travail au noir en parallèle) et surtout la prime d'activité est une excellente protection, surtout pour les indépendants qui débutent.

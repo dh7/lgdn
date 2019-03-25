@@ -1,1 +1,0 @@
-moduler les tranches en démarrant plus bas et en s'arrêtant à 35%, augmenter le nombre de tranches

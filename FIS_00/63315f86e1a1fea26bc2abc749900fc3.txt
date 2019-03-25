@@ -1,1 +1,0 @@
-Faire une page sur la répartition des dépenses sur la page de garde de www.impots.gouv.fr, et mettre des liens pour avoir les mêmes informations sur les dépenses de sa région, de son département, de sa commune et des grands services publics de la commune (par exemple pour l'école du coin de la rue : masse salariale, budget investissement, budget fonctionnement, etc.).

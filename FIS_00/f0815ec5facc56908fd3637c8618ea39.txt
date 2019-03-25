@@ -1,1 +1,0 @@
-Un graphique "camembert" avec des commentaires présentant toutes les dépenses envoyé à tous les contribuables au moment de la déclaration des revenus pour le calcul de ses impôts.

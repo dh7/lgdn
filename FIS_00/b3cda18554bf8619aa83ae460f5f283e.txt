@@ -1,1 +1,0 @@
-Mise à disposition d'un tableau de bord en temps réel de l'affectation des dépenses pour chaque ministère ou organisme de l'état. Informations dans le JT de l'état des répartition des dépenses et/ou mise en place d'une émission hebdo ou mensuelle dédiée.

@@ -1,1 +1,0 @@
-Rendre la CSG et le RDS entièrement déductible des revenus

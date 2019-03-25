@@ -1,1 +1,0 @@
-RSA,   ASS,  AP,L  Allocation de parent isolé, Allocation chômage, CMU Dans l'ensemble trop peu de contrôle

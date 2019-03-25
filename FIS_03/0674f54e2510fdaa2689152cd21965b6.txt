@@ -1,1 +1,0 @@
-Supprimer un ou deux jours fériés (11 novembre et lundi de Pâques par exemple)

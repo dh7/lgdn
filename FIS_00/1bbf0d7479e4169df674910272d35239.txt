@@ -1,1 +1,0 @@
-Quand une taxe est créée, donner tous les details de son utilisation.

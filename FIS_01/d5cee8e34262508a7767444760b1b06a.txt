@@ -1,1 +1,0 @@
-Supprimer la TVA sur les taxes, Supprimer l'impôt sur la CSG et CRDS sur la partie imposable ( le net à payer doit être identique au revenu imposable)

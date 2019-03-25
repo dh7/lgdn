@@ -1,1 +1,0 @@
-La CAF arreter l'allocation "bragette". Cela ne valorise pas ceux qui vont bosser.

@@ -1,1 +1,0 @@
-- Supprimer la TVA sur toutes les taxes(ex factures EDF...), carburant compris  (aucune valeur ajoutée sur des taxes !!) ==> sensation de double peine : taxe sur taxe - Supprimer l'imposition sur le revenu sur certaines retenues sociales (net fiscal supérieur au net perçu avant retenue impôt sur le revenu) ==>sensation de double peine ==> impot sur revenu non touché

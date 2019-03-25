@@ -1,1 +1,0 @@
-suppression de toutes les aides a partir d'un salaire par couple de 6000 euros net

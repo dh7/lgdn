@@ -1,1 +1,0 @@
-Calculer l'impôt sur le revenu par personne individuelle ou par foyer fiscal. Il ne doit pas avoir de différence  d'imposition entre un couple un concubinnage avec des enfants et un couple pacsé ou marie avec des enfants.

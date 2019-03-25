@@ -1,1 +1,0 @@
-Parent isolé (amélioration des contrôles pour limiter les abus)

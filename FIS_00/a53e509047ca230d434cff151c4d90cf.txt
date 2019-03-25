@@ -1,1 +1,0 @@
-Calculer la contribution fiscale de tout citoyen (totalité des ses impôts, TVA, contributions, nette de ses allocations)

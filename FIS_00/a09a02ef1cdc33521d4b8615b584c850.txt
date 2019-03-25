@@ -1,1 +1,0 @@
-Une transparence sur l'utilisation des impôts - Ex : Pour 1000 euros d’impôts , répartition par pourcentage en fonction des ministères, puis possibilité de descendre dans le détail par ministère. Avoir un accès simple qui permet de visualiser le bon usage de l’impôt.

@@ -1,1 +1,0 @@
-Contrôle d'attribution des droits, mais ça s'améliore il me semble. Afficher clairement le montant total des dépenses, même celles remboursé pour la prestation, voir un bilan mensuel ou annuel affiché dans le DMP.

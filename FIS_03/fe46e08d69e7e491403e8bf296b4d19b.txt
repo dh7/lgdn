@@ -1,1 +1,0 @@
-Optimiser les dépenses de l'état en faisant la chasse aux doublons , au gaspis et a l'inefficacité. 

@@ -1,1 +1,0 @@
-Donner une facture pour chaque service public: ce que coute un passage aux urgences, un passage chez le dentiste, l’ecole des enfants, meme si l’utilisateur ne paye pas il doit se rendre compte de ce que ca coute a la collectivité. A la fin de l’annee envoyer une synthese des depenses par foyer

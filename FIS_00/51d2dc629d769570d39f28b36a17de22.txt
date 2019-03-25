@@ -1,1 +1,0 @@
-Envoyer (par mail/courrier) tous les mois aux citoyens un reporting affichant pour différents grand thème (ex: Transport, santé, éducation, urbanisme, sécurité, sociale, etc) le pourcentage de son impôt utilisé, aussi bien au niveau commune, région et État. Un report très synthétique sur une à deux pages avec différents indicateurs.

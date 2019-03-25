@@ -1,1 +1,0 @@
-Une plate forme intranet avec le budget en début d'année, ce qui est alloué à quels services pour quelle période, et pouvoir observer au jour le jour les évolutions.

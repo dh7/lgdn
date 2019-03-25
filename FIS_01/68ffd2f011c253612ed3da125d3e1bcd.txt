@@ -1,1 +1,0 @@
-calculer le montant des "parts " par soustraction et pas par division par ex. 1 enfant coute par exemple 2000€ par an, quelque soit la richesse de ses parents. On déduit donc 2000 € des revenus des parents pour chaque enfant , le reste est à payer par les parents .c'est plus juste , un enfant doit couter la même chose du point de vue fiscal , qu'il soit fils de riche ou pauvre

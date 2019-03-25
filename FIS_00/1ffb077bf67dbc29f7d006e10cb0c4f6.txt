@@ -1,1 +1,0 @@
-Accès à un tableau de bord simplifié mettant en parallèle le budget et les dépenses (en direct) - afin que chacun puisse se rendre compte où l'on en est

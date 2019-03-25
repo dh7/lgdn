@@ -1,1 +1,0 @@
-et bien tout simplement un graphique et/ou camembert avec en % les grandes parties des dépenses puis les sous parties exemple : fonctionnement de l'état/aides sociales/dettes/Education/santé

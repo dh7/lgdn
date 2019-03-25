@@ -1,1 +1,0 @@
-créer un site où les grandes lignes du budget soient indiquées et chaque poste de dépense ou de crédit soit développée dans un sous dossier

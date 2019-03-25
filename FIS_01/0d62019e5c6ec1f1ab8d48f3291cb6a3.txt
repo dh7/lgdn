@@ -1,1 +1,0 @@
-Indexer partiellement la TVA sur la deficit et la dette(par exemple, pour une TVA à 20%, la decomposer en une base de 16%, une part de deficit à 3% (si le deficit est à 3%), une part endettement à 1% (à 0,1%, tous les 10% de dette).

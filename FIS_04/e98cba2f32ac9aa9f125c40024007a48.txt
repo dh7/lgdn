@@ -1,1 +1,0 @@
-limiter les allocations chômage pour les plus grosses allocations

@@ -1,1 +1,0 @@
-Envoi d'une information annuelle sur les recettes et dépenses réalisées par l'état dans chaque domaine. L'information pourrait être envoyée avec les impôts ou en ligne au moment de déclarer ses impôts.

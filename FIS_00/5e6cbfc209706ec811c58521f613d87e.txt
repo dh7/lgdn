@@ -1,1 +1,0 @@
-Affecter chaque type de recette à un type de dépense. Etre transparent sur l'usage des recettes.

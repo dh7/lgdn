@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches pour s'adapter au mieux aux revenus de chacun. Prendre en compte le coût de la vie par localités (exemple : coût des loyers à Paris).

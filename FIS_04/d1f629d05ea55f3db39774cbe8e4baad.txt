@@ -1,1 +1,0 @@
-- Diminution de l'allocation chômage en cas de refus d'emplois. - Remplacer les aides comme la prime de rentrée scolaire par des bons exclusivement utilisables pour des produits en lien. -

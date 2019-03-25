@@ -1,1 +1,0 @@
-Publier chaque année un tableau de la répartition des impôts perçus (IR, IFI, TVA, CSG, taxes, ...) et des dépenses engagés (en répartissant de manière suffisamment précise chaque poste de dépense). Un 2nd tableau précisera qui paie les impôts (montant payé pour chaque tranche de RFR donné par pas de 10k€ par exemple).

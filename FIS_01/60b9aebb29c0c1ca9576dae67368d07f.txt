@@ -1,1 +1,0 @@
-simplifier pour être tous en mesure de comprendre et s'assurer de l'égalité de traitement

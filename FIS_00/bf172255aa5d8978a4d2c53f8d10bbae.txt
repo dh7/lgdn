@@ -1,1 +1,0 @@
-Afficher les intérets des emprunts de l'état et les durées de ces emprunts. Utilisation Nationale (Ministères) et Régionale. Liste et montants des dépenses utiles et inutiles (pertes).

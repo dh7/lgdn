@@ -1,1 +1,0 @@
-- les allocations logement pour étudiant doivent être supprimées sauf pour ceux dont les parents ne payent pas d’impôt         - les allocations familiales doivent être supprimées pour les parents qui payent l’impôt sur le revenu, car ils ont déjà une niche fiscale pour le biais des ½ part

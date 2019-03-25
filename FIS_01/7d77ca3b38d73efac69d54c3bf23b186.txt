@@ -1,1 +1,0 @@
-Prendre en compte la valeur des tableaux et objets d'art ainsi que bateaux et autres voitures de luxe dès un certain seuil à définir de tels patrimoines.

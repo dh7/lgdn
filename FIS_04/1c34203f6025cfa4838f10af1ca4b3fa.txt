@@ -1,1 +1,0 @@
-Suppression de la prise en compte des revenus N-1 ou N-2 pour le calcul des aides

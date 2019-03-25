@@ -1,1 +1,0 @@
-1) Toutes les aides attribuées aux citoyens non français sont supprimées 2) le cumul de toutes les aides (RSA, alloc fam, APL...) ne doit pas dépasser le montant net du SMIC 3) aides degressives jusque zéro si aucun travail pendant 10  ans 4) allocations familiales jusque 3 enfants maximum

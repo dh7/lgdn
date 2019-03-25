@@ -1,1 +1,0 @@
-Disposer de plus de transparence sur les données étatiques disponibles tout en conservant l'anonymat des particuliers. Certaines informations issus d'un fichier disponible sur le site des impôts relatif au particuliers contient des cellules "n.c." c'est à dire "cellule couverte par le secret statistique", cela est surprenant.

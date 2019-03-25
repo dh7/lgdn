@@ -1,1 +1,0 @@
-Afficher la part de frais de fonctionnement (frais de déplacement , frais de repas , ...) pour chaque domaine . ou par exemple le  rapport entre le nombre d'enseignants (devant des élèves) et les effectifs de l'éducation nationale. Création d'objectifs chiffrés en utilisant le benchmarking avec les pays les plus performants.

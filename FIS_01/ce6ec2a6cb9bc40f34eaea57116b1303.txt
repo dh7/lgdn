@@ -1,1 +1,0 @@
-Redéfinition des tranches d'imposition par création d'un pourcentage moyen des 3 premières tranches actuelles (7%, 22%, 35%) Forfaitisation de 10% des revenus au dessous de la première tranche de 7% pour les bas salaires

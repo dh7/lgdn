@@ -1,1 +1,0 @@
-supprimer les contraintes liees a l attribution du RSA

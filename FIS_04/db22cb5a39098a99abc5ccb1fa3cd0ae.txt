@@ -1,1 +1,0 @@
-Revoir le calcul des allocations familiales; si une famille avec enfant touche 100€, celle avec 2 touchera 200€ et celle avec 3 = 300€ et ainsi de suite. Pourquoi on peut partir à la retraite dans des conditions différentes quand on a plus d'enfants ? Pour les aides en générales, doter les services de l’État de moyens suffisants (ex: humains) pour effectuer les contrôles.

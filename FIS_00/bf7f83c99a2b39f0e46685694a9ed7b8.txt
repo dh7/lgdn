@@ -1,1 +1,0 @@
-rendre plus lisible les dépenses faites à partir des impôts. Non seulement en donnant les répartitions par "thème " (ex "éducation") mais également en  les rendant visible par taux d'imposition.

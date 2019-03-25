@@ -1,1 +1,0 @@
-Adapter le taux TVA en fonction des besoins vitaux

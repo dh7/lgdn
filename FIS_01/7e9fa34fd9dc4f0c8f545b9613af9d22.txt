@@ -1,1 +1,0 @@
-<p>Les abattements appliqués aux bénéficiaires de dons, et les seuils d'impositions de la part d'héritage taxable, seront exprimées en multiples <strong>entiers</strong> de la valeur du SMIC net annuel. La valeur du SMIC utilisée est celle en vigueur à la date de l'opération taxable.</p>  <p>Les valeurs actuelles seront arrondies au multiple entier supérieur.</p>

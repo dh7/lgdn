@@ -1,1 +1,0 @@
-L’etat ne doit rester qu’un contrôleur mais plus un gestionnaire (sauf pour les plus vulnérables et le régalien)

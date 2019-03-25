@@ -1,1 +1,0 @@
-Imposer les valeurs decoulant d’une transaction, comme les plus-values, et non d’une estimation, comme les cours de bourse. La plus-value n’est imposable que lorsqu’une transaction vient la constater.tous les impôts non basés sur des

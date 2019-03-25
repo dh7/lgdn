@@ -1,1 +1,0 @@
-Adapter les systèmes informatiques de l'état (impôts, état civil) pour que ceux-ci soient vraiment ergonomiques et exploitables par toutes les personnes (il y a aujourd'hui suffisamment d'expérience en informatique pour que l'on puisse utiliser ces outils sans risque de piratage et sans se prendre la tête !)

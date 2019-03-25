@@ -1,1 +1,0 @@
-Adapter l’impot en fonction de la classe sociale. Pas de non imposable.

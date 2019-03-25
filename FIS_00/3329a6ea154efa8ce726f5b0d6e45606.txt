@@ -1,1 +1,0 @@
-Proposer un portail simple sur lequel chaque citoyen trouverait l'ensemble des travaux réalisés par 1) l'État,        puis par 2) chaque région, puis par 3) chaque département. Exprimer de manière simple ce qui a été fait, ce qui est en cours, ce qui va être fait, les projets. Indiquer dans chaque cas le coût prévu et enfin le coût réel de la réalisation.

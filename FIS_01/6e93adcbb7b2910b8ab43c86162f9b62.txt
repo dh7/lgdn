@@ -1,1 +1,0 @@
-Eviter les effets de seuil. Exemple : la taxe foncière est totalement exonérée si le contribuable âgé de plus de 75 ans occupant ce logement a des revenus de l'année précédente n'excédant pas une certaine limite. Si ses revenus dépassent la limite ne serait-ce que d’1€, il paie la totalité de la taxe. Je propose que le montant de l’exonération soit progressif .

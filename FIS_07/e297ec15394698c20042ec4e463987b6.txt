@@ -1,1 +1,0 @@
-Il faut modifier les durées d'allocations chômage, elle doivent être réduites. Par exemple,  1 jours travaillé = 0.5 j de chômage avec des plafonds :  1 an d'allocation chômage pour une durée de travail < 5 ans 2 an d'allocation chômage pour une durée de travail > 5 ans Ces plafonds pourraient également être adaptés à l'ages des travailleurs.

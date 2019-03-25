@@ -1,1 +1,0 @@
-Il est anormal de ne pas prendre en compte toutes les aides dans le revenus, A cause des seuils, le travail des personnes ne touchant pas d'aide se trouve pénalisé. Revenu(non imposable)+ aides > Revenu (imposable) sans aucune aide.

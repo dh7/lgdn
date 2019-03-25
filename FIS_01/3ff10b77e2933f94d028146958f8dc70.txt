@@ -1,1 +1,0 @@
-supprimer les plages d'impôts et calculer à l'impôt suivant une courbe la plus efficiente possible...courbe révisée chaque année en fonction du budget de l'état; Budget accepté par la majorité des français.

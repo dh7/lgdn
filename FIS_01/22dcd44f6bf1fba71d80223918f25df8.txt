@@ -1,1 +1,0 @@
-- Ajout d'un nouveau paramètre dans le calcul de l'impôt sur le revenu: LE TEMPS DE TRAVAIL. Car gagner 1500€ en travaillant 20h par semaine ou 39h par semaine, c'est différent ! - Pas de TVA sur les produits de première nécessité.

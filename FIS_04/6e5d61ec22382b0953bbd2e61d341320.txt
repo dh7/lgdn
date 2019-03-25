@@ -1,1 +1,0 @@
-- supprimer toutes les aides sociales au-delà d'un seuil de revenus à définir - établir un plafond d'indemnités chômage

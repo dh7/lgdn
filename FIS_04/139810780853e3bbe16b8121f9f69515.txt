@@ -1,1 +1,0 @@
-Les cartes Vitale ou autres cartes AME et CMU sont trop facilement falsifiables ce qui conduit à des utilisations frauduleuses. Toutes ces cartes devraient être sécurisées par des dispositifs biométriques  : empreinte digitale et/ou reconaissance faciale,  qui ne requièrent pas de fichiers puisque le dispositif est porté sur la carte elle-même.

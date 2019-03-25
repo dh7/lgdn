@@ -1,1 +1,0 @@
-TVA = 0% sur les biens de première nécessité (aliments bruts non transformés ) et une TVA indexée selon si le produit est : mauvais pour la santé (aliments transformés, voire ultra transformés, trop salé, trop sucré, trop gras cf nutriscore), cout écologique important (matières premières rares, transport, obsolescence programmée, matières non recyclables...)

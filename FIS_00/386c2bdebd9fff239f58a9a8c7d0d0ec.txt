@@ -1,1 +1,0 @@
-La création d'un tableau de bord des affectations et des dépenses qui sera envoyé par courrier et par mail.

@@ -1,1 +1,0 @@
-La courbe de l'imposition est actuellement de la forme d'une cloche. Il faudrait qu'elle soit une droite. C'est à dire qu'il faudrait calculer l'impôt par la formule y=Ax+B.. X étant le pour un particulier ou les bénéfices annuels pour une entreprise.

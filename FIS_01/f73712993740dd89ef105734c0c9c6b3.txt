@@ -1,1 +1,0 @@
-Calculer les impôts en fonction des revenus, à l'image du fonctionnement de la SUÈDE sur les infractions de la route. (+ tu gagnes + tu payes), tout le monde paye mais avec un % différent

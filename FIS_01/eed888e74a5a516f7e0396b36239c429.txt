@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches pour l'impôt sur le revenu + ne pas considérer qu'un logement étudiant soit une résidence secondaire pour la taxe d'habitation

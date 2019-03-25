@@ -1,1 +1,0 @@
-Limiter les doublons au niveau des organisations des collectivités territoriales( communes, communauté de commune, département, régions, etc.)

@@ -1,1 +1,0 @@
-- nous donner le montant des impôts investis par postes de dépenses de l'état (avec une ligne spécifique pour les dépenses somptuaires: grands repas assemblée/ séants, etc)

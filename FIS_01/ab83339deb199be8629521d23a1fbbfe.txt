@@ -1,1 +1,0 @@
-Augmenter le nombre de tranche avec des taux progressifs. Aujourd'hui, passer de 41% à 45% entre les tranches 4 et 5 ce n'est pas très progressif. Par exemple il faudrait doubler les tranches avec une augmentation linéaire des taux de 5% à 65%.

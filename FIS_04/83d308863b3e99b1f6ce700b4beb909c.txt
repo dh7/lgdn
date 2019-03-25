@@ -1,1 +1,0 @@
-suppressions du rsa apres 5 ans d inactivite

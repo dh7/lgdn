@@ -1,1 +1,0 @@
-1 -Créer un site internet présentant simplement d'une part le budget de l'Etat et d'autre part les dépenses par ministères, actions et territoires avec des liens d'accès à des données détaillées. 2- Faire obligation aux élus d'organiser des réunions régulières de présentations du budget aux citoyens.

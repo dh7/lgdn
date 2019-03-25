@@ -1,1 +1,0 @@
-Afficher à l'entree de chaque établissement qui utilise l'impôt quelques chiffres clés (budget, budget moyen par élève, par patient ..) par exemple,

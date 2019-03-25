@@ -1,1 +1,0 @@
-Je pense d'abord à un e attribution plus fine, qui prendrait en compte les aberrations générées par les effets de seuil.

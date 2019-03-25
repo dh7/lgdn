@@ -1,1 +1,0 @@
-Lister le montant de toutes les aides sociales, le nombre de personnes qui en profite.

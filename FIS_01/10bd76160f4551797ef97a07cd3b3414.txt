@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches pour les contributions type CSG pour lisser les paliers qui peuvent être difficilement supportables

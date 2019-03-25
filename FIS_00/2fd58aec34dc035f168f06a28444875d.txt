@@ -1,1 +1,0 @@
-Un tableau de bord sur internet montrant la répartition  des dépenses (subventions aux particuliers et aux entreprises, par secteur et par région).

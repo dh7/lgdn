@@ -1,1 +1,0 @@
-Fixer un salaire maximum en plus du salaire minimum

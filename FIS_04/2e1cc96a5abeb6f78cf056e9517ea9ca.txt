@@ -1,1 +1,0 @@
-Il faut peut être revoir les conditions d'attribution, mais il faut commencer par un contrôle beaucoup plus efficace de la sincérité des demandes.

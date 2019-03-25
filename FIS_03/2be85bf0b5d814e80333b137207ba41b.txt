@@ -1,1 +1,0 @@
-Mise en place d'une TVA sur la vente des DATA. Taxation des robots, en fonction de leur attribution.

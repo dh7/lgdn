@@ -1,1 +1,0 @@
-Malgré la réforme du RSI le mode de calcul des cotisations sociales des travailleurs indépendants (artisans, EURL...) reste un casse-tête (provisionnel, estimation en N-1, régularisation en N+1...). Adoptons un calcul AU REEL comme les auto-entrepreneurs. De nombreuses faillites pourraient être évitées et la bonne gestion des impôts serait grandement facilité.

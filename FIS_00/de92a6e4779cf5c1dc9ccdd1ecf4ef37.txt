@@ -1,1 +1,0 @@
-Portail web simple avec mode de recherche basé sur mots clés - une cellule localisation - une cellule de saisie du mots clés/catégories -  une cellule Année , exemple santé - 93 - 2018  - une base sql et 2 moi de dev expert c'est bouclé avec un bon serveur , la région renseigne la data base

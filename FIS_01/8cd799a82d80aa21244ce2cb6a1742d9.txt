@@ -1,1 +1,0 @@
-que les réductions d'impôt ou crédits d'impôt soient dégressifs en fonction de la tranche d'imposition (par exemple 50% pour les tranches les plus basses, 25% pour les tranches les plus hautes, 0 si soumis à ISF)

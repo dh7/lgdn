@@ -1,1 +1,0 @@
-Lors de la déclaration d'impôt, afficher la répartition individualisé en Euro de l'impôt payé par chaque foyer  tout en utilisant des indicateurs parlant

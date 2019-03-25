@@ -1,1 +1,0 @@
-- Affichage public, en Mairie, des projets proposés en fin d'année (détails des votants en % de la population, Mairie, région...) - Affichage public, en Mairie, des projets retenus en début d'année

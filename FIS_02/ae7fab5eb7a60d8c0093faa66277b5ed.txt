@@ -1,1 +1,0 @@
-TVA = 0 pour tous les produits de base de la ménagère (nourriture, entretiens courants)

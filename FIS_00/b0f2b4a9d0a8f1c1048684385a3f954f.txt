@@ -1,1 +1,0 @@
-Mettre en place une liste de toutes les dépenses effectuées (en détaillant précisément chacune d'entre elles) en indiquant l'impôt d'où provient cette dépense et l'utilité de cette dépense. Cette liste pourrait être contrôlée par un organisme indépendant à créer.

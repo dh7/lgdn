@@ -1,1 +1,0 @@
-Suppression de toutes les petites taxes dont le coût du recouvrement est supérieur à ce qu'elles rapportent.

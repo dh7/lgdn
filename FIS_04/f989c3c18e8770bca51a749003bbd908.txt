@@ -1,1 +1,0 @@
-- RSA: limiter son attribution dans le temps (3 ans maxi) et conditionner son maintien à la réalisation de travaux d'intérêt général dans des associations caritatives ou de collectivités locales;  - CMU et aide médicale

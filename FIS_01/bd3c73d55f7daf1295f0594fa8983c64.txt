@@ -1,1 +1,0 @@
-augmenter le nombre de tranches .prelever l impots par tranche de revenus ex: taux pour 200 euros jusque 1000 puis un autre taux jusque 2000 et ainsi de suite sans tenir compte de la situation perso qui ferai objet declaration a part

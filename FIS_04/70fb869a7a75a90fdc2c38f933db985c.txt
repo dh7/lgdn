@@ -1,1 +1,0 @@
-Toutes les allocations dont l'utilisation peut-être détournée de sa fonction première.

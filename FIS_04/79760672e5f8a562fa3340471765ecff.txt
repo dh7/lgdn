@@ -1,1 +1,0 @@
-C'est tous les dispositifs qu'il faut revoir... pour qu'il n'y ai pas de doublon possible

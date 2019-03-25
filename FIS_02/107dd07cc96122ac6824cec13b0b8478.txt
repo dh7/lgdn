@@ -1,1 +1,0 @@
-La CSG, quitte à la fusionner avec l'IR et à redistribuer le tout sur tous.

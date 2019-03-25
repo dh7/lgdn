@@ -1,1 +1,0 @@
-Remplacer le nom " IFI" par le nom "ISF" sans en changer la base de calcul, il est essentiel de continuer à sortir les entreprises de la base de l'impôt sur la fortune. Limiter les impôts locaux sur les entreprises.

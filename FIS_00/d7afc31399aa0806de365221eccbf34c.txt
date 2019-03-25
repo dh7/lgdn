@@ -1,1 +1,0 @@
-Pouvoir trouver FACILEMENT les règles de calcul des différents impôts, ainsi que les exonérations/abattements/etc possibles. Exemple : A la question "Ai-je droit à la prime d"activité ?",  le site répond par oui ou non, mais impossible de trouver les règles de calcul.

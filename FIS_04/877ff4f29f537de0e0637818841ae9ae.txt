@@ -1,1 +1,0 @@
-Fixer une somme cumulative de l'ensemble des aides (RSA, Allocations familiales, APL …) qui ne serait pas dépassée afin que les personnes qui travaillent au SMIC ne soient pas plus "pauvres" que des personnes "assistées" Arrêter le versement des allocations rentrée aux familles et plutôt financer directement auprès des établissements scolaires l'achat de fournitures

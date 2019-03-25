@@ -1,1 +1,0 @@
-Suppression des abattements supplémentaires (ex VRP, Journalistes, Tailleur de pipe de St Claude etc...) puisqu'il existe une possibilité d'option des frais réels

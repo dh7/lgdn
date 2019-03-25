@@ -1,1 +1,0 @@
-Étant donné la diffusion et l'acceptation sans cesse croissante des outils informatiques, il est tout à fait possible de mettre à la disposition des citoyens une "Base de données interactive" permettant de parcourir et visualiser les lignes de recettes et dépenses budgétaires.

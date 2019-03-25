@@ -1,1 +1,0 @@
-Rendre plus simple la compréhension de comment est fait le calcul, fournir une courbe mettant en évidence la progressivité, les tranches avec un focus en bas de la courbe et en haute de celle-ci

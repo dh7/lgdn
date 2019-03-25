@@ -1,1 +1,0 @@
-donner le cout pour chaque citoyen des différents services de l'état, sans cacher les sujets difficiles

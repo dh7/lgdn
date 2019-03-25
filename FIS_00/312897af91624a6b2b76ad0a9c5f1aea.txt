@@ -1,1 +1,0 @@
-Un résumé des recettes par impôt/taxe, en face d’un résumé des dépenses par bénéficiaire. Et ligne par ligne un tableau des bénéficiaires avec les montants alloués.

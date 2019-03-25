@@ -1,1 +1,0 @@
-Mettre un tableau avec l'ensemble des recettes et des dépenses sur le site impots.gouv.fr, en permettant à chaque citoyen de cliquer pour zoomer sur un impôt ou une dépense pour entrer dans le détail.

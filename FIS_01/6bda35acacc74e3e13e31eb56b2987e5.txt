@@ -1,1 +1,0 @@
-Suppression de la TVA sur les produits de première nécessité et TVA majorée pour les produits à partir d'un certain prix. Exemples :  - Smartphones jusqu'à 250€ HT taxés à 20% et au delà de 250€ HT taxés à 30%. - Automobiles  jusqu'à 35 K€ HT taxées à 20%, au delà de 35 K€ HT taxées à 30% et au delà de 80 K€ HT taxées à 40%.

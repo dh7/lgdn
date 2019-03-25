@@ -1,1 +1,0 @@
-Si au lieu de supprimer nous cherchions à transformer, nous pourrions fournir le même service avec moins d'agents et d'infrastructures, donc moins de coût (on peut le faire en conservant la même qualité d'accès au service si on conduit le changement).

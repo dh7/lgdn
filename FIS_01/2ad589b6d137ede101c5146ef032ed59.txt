@@ -1,1 +1,0 @@
-Appliquer une TVA différente selon la valeur d'un même produit (exemple: une TVA de base pour les petites voitures et plus élevées pour les grosses berlines et les gros 4X4.

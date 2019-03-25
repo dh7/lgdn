@@ -1,1 +1,0 @@
-allocations familliales, logement, RSA, parent isolé (pb de la non vérification au niveau de la cellule réelle)

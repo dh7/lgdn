@@ -1,1 +1,0 @@
-Simplification et plus grande flexibilite dans l'attribution des aides sociales ( a la hausse ou a la baisse) en fonction de l'évolution du revenu des ménages.

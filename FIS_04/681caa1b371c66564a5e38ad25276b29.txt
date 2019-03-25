@@ -1,1 +1,0 @@
-Mettre des planchers en fonction  des revenus. Exemple : pour un couple qui gagne plus de 6000 €/mois une aide de 50€ n'est pas significative. Ne pas changer les montants mais dire "au-dessus de X €/mois toute aide inférieure à Y €/mois sera distribuée aux revenus plus faibles".

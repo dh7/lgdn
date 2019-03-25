@@ -1,1 +1,0 @@
-Suppression des effets de seuils. Ces seuils déclenchent des aides ou des impôts supplémentaires. Une fiscalité progressive, des le premiers euro de revenu, et des aides dégressives la aussi en fonction des revenus.

@@ -1,1 +1,0 @@
-Toutes : prendre en compte la situation fiscale en cours et non à N-1 ou N-2 et la contrôler bien sur

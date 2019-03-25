@@ -1,1 +1,0 @@
-Tout mettre en données variables selon les revenus. Et définir qu'un revenu est taxable à partir d'un montant. Prendre 10% d'impot à quelqu'un qui gagne 30000€ n'a pas le même effet que sur celui qui gagne 3000€

@@ -1,1 +1,0 @@
-afficher le budget des services publics à l'entrée des établissements. Donner des factures individuelles des services publics utilisés (santé, éducation, etc.)

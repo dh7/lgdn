@@ -1,1 +1,0 @@
-Ex: sur impôts.gouv.fr trouver les recettes par nature et dépenses par nature de l'Etat et de chacune des collectivités territoriales (régions, départements, communautés, communes). Ensuite dans chaque rubrique de dépenses pouvoir trouver des sous-rubriques avec des chiffres et commentaires explicatifs.

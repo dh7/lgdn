@@ -1,1 +1,0 @@
-Varier le taux de TVA en fonction des produits de nécessité (+bas) et les produits de luxe (+haut)

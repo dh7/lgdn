@@ -1,1 +1,0 @@
-Sur le site des impôts, avoir un récapitulatif de tous les impots payés par l'utilisateur chaque année avec un découpage fin de l'utilisation de cet impot: => 3000€ payés (taxe habitation xx + revenus xx + ....) 10% pour l'éducation, 5% pour la défense, 5% pour les régions, x% pour les collectivités, X pour la santé, ...  Avec un découpage fin pour avoir une transparence TOTALE

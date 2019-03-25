@@ -1,1 +1,0 @@
-La CAF qui calcule certaines aides en fonction du type de revenus et pas du montant. Et de fait, quand il y a une reprise du travail avec diminution des revenus issus du salaire par rapport aux revenus du chômage, la Caf baisse les APL puisqu'on n'est plus au chômage.

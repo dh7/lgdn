@@ -1,1 +1,0 @@
-Récupérer les aides versées à une entreprise qui licencie alors qu'elle fait des bénéfices. Mettre fin aux PPP

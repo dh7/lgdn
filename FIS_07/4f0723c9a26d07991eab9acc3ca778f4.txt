@@ -1,1 +1,0 @@
-On devrait prendre en compte toutes les recettes pour calculer les revenus. Par exemple une famille paye moins à la cantine de l'école. En fait c'est un revenu caché.

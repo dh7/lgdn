@@ -1,1 +1,0 @@
-Que le pourcentage total prélevé à un ménage pour les impôts (revenue, locaux, habitation...) soit lié à son revenu. Il n'est pas logique qu'un ménage smicard paient, en pourcentage de son revenu,  plus d’impôts qu'un ménage plus riche.

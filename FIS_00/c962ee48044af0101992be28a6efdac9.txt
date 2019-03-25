@@ -1,1 +1,0 @@
-Faire le détail de chaque impôt impôt perçu, le total collecté, le total dû par les contribuables en retard,  et la ventilation du total par utilisation, exemple : la taxe foncière, le total perçu/le total en cours de recouvrement, à quoi a servi le total perçu.

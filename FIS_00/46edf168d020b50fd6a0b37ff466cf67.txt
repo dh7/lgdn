@@ -1,1 +1,0 @@
-Envoyer annuellement un graphique à chaque foyer correspondant aux % détaillés des recettes/dépenses de l'état

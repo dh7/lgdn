@@ -1,1 +1,0 @@
-Adapter la TVA en fonction des catégories de produits.  Très Faible TVA sur la nourriture issu de l'agriculture francaise, sur les produits de première necessité Faible sur les produits made in france TVA classique sur le reste

@@ -1,1 +1,0 @@
-Tout d abord il faut revoir le nombre d aides, leur complexité et réduire ainsi les coûts de gestion qui est exorbitant.

@@ -1,1 +1,0 @@
-Certaines couches de la population n'ont pas besoins d'allocation (allocation logement pour étudiants issus de famille "riche" / prestations sociales pour les enfants dans les familles riches /...)

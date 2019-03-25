@@ -1,1 +1,0 @@
-il faudrait sortir un état pour chaque ministère en indiquant à quel poste sont affectés les sommes

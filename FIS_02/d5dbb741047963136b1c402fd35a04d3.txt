@@ -1,1 +1,0 @@
-- Baisser la CSG qui au départ devait être temporaire et au final est devenue définitive.

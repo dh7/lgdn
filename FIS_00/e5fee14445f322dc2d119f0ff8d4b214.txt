@@ -1,1 +1,0 @@
-Un mail avec les dépenses publiques et les ressources en face. On doit pouvoir voir comment est financer chaque dépense.

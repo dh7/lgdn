@@ -1,1 +1,0 @@
-mettre en place une TVA à taux variable en fonction du revenu de chacun comme pour l'impôt sur le revenu. avec un minima pour les non imposables et un maximum pour les plus aisés

@@ -1,1 +1,0 @@
-Contrôle du train de vie des citoyens.

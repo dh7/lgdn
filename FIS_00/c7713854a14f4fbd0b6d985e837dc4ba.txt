@@ -1,1 +1,0 @@
-Organiser des campagnes d'information par les médias (presse écrite,radio et télé) sur les déclarations d'impôts papier. Créer un simulateur  de répartition de son propre IR à la suite duquel  le contribuable  pourrait indiquer  ses préférences  de répartition sur les différentes rubriques des impôts que le ministère pourrait prendre en compte.

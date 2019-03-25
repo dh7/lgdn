@@ -1,1 +1,0 @@
-afficher clairement les sommes dépensées par poste, style compte de résultat.

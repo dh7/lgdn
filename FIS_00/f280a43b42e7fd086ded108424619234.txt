@@ -1,1 +1,0 @@
-promouvoir un site internet affichant les dépenses de l'état par ministère, ainsi que les rentrées d'argent de l'année précédente.

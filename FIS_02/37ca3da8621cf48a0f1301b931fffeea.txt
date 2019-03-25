@@ -1,1 +1,0 @@
--Taux de TVA fixé en fonction de l'utilité sociale des produits. -Progressivité de la CSG

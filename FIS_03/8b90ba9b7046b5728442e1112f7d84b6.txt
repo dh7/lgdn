@@ -1,1 +1,0 @@
-augmenter et récupérer les impôts de toutes les grandes entreprises réalisant des bénéfices en France, françaises et étrangères.

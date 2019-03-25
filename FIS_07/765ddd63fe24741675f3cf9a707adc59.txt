@@ -1,1 +1,0 @@
-- La vertu de l'exemple -  indexer le nombre de députés sur la moyenne des présences effectives de ces mêmes députés à l'assemblée.

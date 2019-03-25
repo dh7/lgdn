@@ -1,1 +1,0 @@
-Transparence et contrôle (avec possibilité d'éviction) des comptes publics.

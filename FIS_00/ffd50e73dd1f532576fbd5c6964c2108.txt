@@ -1,1 +1,0 @@
-Nous devrions pouvoir accéder en ligne à un état des lieux précis des dépenses de l'état.

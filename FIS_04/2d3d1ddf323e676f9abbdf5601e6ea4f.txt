@@ -1,1 +1,0 @@
-Plafonnement des allocations familiales en fonction des revenus et dégressivité des allocations à partir de 3 enfants.

@@ -1,1 +1,0 @@
-Je propose une "TVA" en fonction du nombre de km que font depuis leurs lieu fabrication ou leur lieu de production de tous les produits jusqu’à leurs  lieux de vente. Avec un pourcentage moindre pour les produits non produit sur lieux de distribution.

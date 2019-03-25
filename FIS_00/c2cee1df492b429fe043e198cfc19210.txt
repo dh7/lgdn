@@ -1,1 +1,0 @@
-Un site web accessible en permanence avec les dépenses et les recettes du budget de l'année et sur 3 ans comme en copropriété. Afficher le lien entre l'impôt et son utilisation.

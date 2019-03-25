@@ -1,1 +1,0 @@
-Mettre en place un site internet sur lequel les données seraient répertoriées par ville, organisme ou service public.

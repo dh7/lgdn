@@ -1,1 +1,0 @@
-Simplifier les 360 taxes payées par les entreprises et particuliers. Il faut 360 formulaires et 360 lectures et controle de ces formulaires

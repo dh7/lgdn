@@ -1,1 +1,0 @@
-CSG et RDS avec dans un premier temps, la suppression immédiate de la double imposition (CSG réintégrée dans le calcul de l'IR) qui est inique

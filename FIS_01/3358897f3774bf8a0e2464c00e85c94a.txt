@@ -1,1 +1,0 @@
-Renforcer les contrôles des surfaces déclarées et coupler le fichier du géomètre du cadastre avec celui des impôts fonciers

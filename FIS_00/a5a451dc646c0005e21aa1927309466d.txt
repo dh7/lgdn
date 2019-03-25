@@ -1,1 +1,0 @@
-Publication d'une grille/graphique adressée aux citoyens imposables, permettant de visualiser la contribution proportionnelle de leurs impôts, par grands thèmes. Mention de la part financée par les impôts sur chaque élément de services publics.

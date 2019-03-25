@@ -1,1 +1,0 @@
-Rendre visibles et lisibles les recettes et les dépenses de l'état. EX: Quelles sont les recettes de l'état des taxes sur l'essence? sont-elles complètement ou en partie utilisées pour le développement des énergies renouvelables? Dans le deuxième cas, à quel pourcentage et pour quelle dépense?

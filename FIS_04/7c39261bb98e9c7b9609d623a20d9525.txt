@@ -1,1 +1,0 @@
-Simplification des aides , clarifier, simplifier.  Suppression allocations familiales (crée pour dynamiser le tx de natalité, maintenant inutile)

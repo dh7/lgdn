@@ -1,1 +1,0 @@
-Afficher le détail des cotisations sociales mois par mois et non un récapitulatif séparé par an

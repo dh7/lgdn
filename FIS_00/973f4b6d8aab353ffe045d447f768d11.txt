@@ -1,1 +1,0 @@
-- Affichage sur chaque produit ou projet d'un logo si celui ci a recu des subventions  publiques

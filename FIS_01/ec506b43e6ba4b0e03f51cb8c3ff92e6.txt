@@ -1,1 +1,0 @@
-A part certaines taxes et impôts "forfaitaires" (Impôts locaux, foncier, habitation), les impôts devraient être calculé sur un flux (revenu, dépenses).

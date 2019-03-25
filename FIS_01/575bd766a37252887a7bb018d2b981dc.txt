@@ -1,1 +1,0 @@
-Simplifier. Il y a trop d'impôts différents (TVA, cotisations sur les salaires, impôts sur le revenu, impôts locaux....) c'est trop diffus et flou. Même si le montant total est justifié, cela n'est pas compréhensible pour les français non initiés.

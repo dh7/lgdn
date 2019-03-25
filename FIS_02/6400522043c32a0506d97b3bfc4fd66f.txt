@@ -1,1 +1,0 @@
-Ne pas prendre en compte les primes dans le calcul initial du taux d'imposition. Car elles peuvent faire "changer de tranche" un foyer fiscal mais être supprimées du jour au lendemain. Le foyer fiscal se voit donc amputé sur un salaire de base avec un taux d'imposition bien supérieur à ses revenus.

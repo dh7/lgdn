@@ -1,1 +1,0 @@
-Il faut mieux répartir l'import pour le rendre plus progressif et éviter les effets de seuils

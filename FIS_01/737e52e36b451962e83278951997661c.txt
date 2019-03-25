@@ -1,1 +1,0 @@
-Refonte complete du système. Simplification et meilleure répartition de la charge de l'impôt. Suppression des impôts de niche, et des niches fiscales. Augmenter lie nombre de tranches et faire payer tout le monde.

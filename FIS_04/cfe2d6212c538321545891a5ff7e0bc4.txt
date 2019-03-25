@@ -1,1 +1,0 @@
-Limiter dans la durée les allocations chômage (sauf pour les plus de 50 ans)

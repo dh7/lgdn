@@ -1,1 +1,0 @@
-Simplifier le CGI. Augmenter le nombre d'agents du fisc : ils rapportent plus qu'ils ne coûtent !.

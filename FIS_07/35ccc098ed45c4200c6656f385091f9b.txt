@@ -1,1 +1,0 @@
-Mettre en place un lissage qui supprime les effets de seuil pour les différentes aides. A l'heure des super ordinateurs et autres exploits technologiques, on ne serait pas capable de faire en sorte que les aides diminuent de concert avec l'augmentation des ressources.

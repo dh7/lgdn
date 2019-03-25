@@ -1,1 +1,0 @@
-Limiter le nombre de fonctionnaires pour les fonctions non régaliennes de l'état.

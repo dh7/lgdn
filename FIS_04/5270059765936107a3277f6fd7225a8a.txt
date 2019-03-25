@@ -1,1 +1,0 @@
-Indexer les allocations familiales sur l'assiduité scolaire et sur les avis émis par les conseils de classes. Lier les prestations pour parent isolé au paiement effectif des pensions alimentaires par le parent qui n'a pas la garde de l'enfant en contaignant ce paiement.

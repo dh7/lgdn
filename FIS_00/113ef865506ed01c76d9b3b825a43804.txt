@@ -1,1 +1,0 @@
-Diffuser l'affectation de chaque impôt afin de savoir si les recettes sont bien affectées à des dépenses en rapport.

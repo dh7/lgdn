@@ -1,1 +1,0 @@
-- Plus juste : chiffrer le MONTANT total des prélèvements obligatoires payés par tranches de revenus annuels d'un foyer type : 10, 30, 50, 70, 90, 110, 130, 150, 200, 300, 500k€. - Plus efficace : permettre à chaque contribuable de "flécher" impérativement une partie significative de sa contribution ( 20 à 30%)

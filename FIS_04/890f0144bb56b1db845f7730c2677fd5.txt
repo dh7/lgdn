@@ -1,1 +1,0 @@
-- Supprimer complètement la CAF pour les familles ayant des revenus suffisants (ramenés au nombre d'enfants) - Diminuer les remboursements de certains médicaments et actes médicaux (de confort). Peut-être moduler ces remboursements en fonction des revenus.

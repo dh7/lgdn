@@ -1,1 +1,0 @@
-simplifier le système et le rendre plus clair: faire en sorte que les aides sociales soient comptabilisées comme un impôt négatif, les associer au montant de l'impôt sur le revenu. Cela permettrait aux personnes ne payant pas d'impôt mais touchant des aides de mieux se rendre compte de la redistribution venant de ceux qui payent des impôts.

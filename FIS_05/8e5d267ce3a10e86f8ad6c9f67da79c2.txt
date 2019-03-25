@@ -1,1 +1,0 @@
-Aide au logement dégressive en fonction des revenus (supprimer l'effet de seuil).

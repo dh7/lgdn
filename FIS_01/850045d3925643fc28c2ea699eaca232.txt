@@ -1,1 +1,0 @@
-Afficher régulièrement les vrais prix et identifier où va chaque € de l'impôt (yc TVA CSG)

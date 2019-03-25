@@ -1,1 +1,0 @@
-Allocation chômage dégressive au fil du temps et plafonnée à x % du salaire antérieur. Supprimer toute aide aux personnes en situation irrégulière, qui devraient être reconduites dans leur pays.

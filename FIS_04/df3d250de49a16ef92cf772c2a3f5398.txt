@@ -1,1 +1,0 @@
-Faire une allocation d'aide unique . Avec la déclaration de revenus pour l'année en cours il devrait être possible de calibrer l'aide à la situation de la personne concernée en temps réel.

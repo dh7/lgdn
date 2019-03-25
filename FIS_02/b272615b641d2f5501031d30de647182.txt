@@ -1,1 +1,0 @@
-- Supprimer la niche fiscale d'indemnité kilométrique ou l'aligner avec les émissions des véhicules (maximum de remboursement pour les véhicules peu polluants, minimum pour le plus polluants (En gCO2/km) - Revoir (enfin) la base de calcul de la taxe foncière qui désavantage les HLM et rendrait enfin cette taxe juste

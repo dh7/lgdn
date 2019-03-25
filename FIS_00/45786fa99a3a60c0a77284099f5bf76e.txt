@@ -1,1 +1,0 @@
-Simplement, une représentation graphique( camembert) avec les sommes, les pourcentages d'attribution par type d'impôt.

@@ -1,1 +1,0 @@
-Augmenter le nombre de tranches de revenus de manière à éviter les effets de seuil du type : moins de 2000 euros = vous avez droit, plus de 2000 euros = n'avez pas droit ! Faire en sorte que tous soient redevables dans la limite des leurs possibilités

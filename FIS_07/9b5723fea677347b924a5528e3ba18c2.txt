@@ -1,1 +1,0 @@
-Supprimer l'IRPP sur les sommes non perçues que sont les cotisations CASA, CRDS et CSG. Ces cotisations ne font pas partie de nos revenus.

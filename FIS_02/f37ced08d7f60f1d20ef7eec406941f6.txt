@@ -1,1 +1,0 @@
-Regrouper tous les impôts sur les 3 taux de TVA applicables à toute transaction.

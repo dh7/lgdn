@@ -1,1 +1,0 @@
-chômage: il faudrait établir un taux dégressif par rapport au niveau de salaire (ex: pour un salaire à 1 500 €,  l'allocation chômage pourrait être de 80 % soit 1 200 € alors que pour un salaire à 3 000 €, elle pourrait être de 70 % soit 2 100 €)

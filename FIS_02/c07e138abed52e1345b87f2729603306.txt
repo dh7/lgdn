@@ -1,1 +1,0 @@
-- Supprimer la redevance télé - Racket des péages - Taxe sur les carburants - Un seul taux de TVA

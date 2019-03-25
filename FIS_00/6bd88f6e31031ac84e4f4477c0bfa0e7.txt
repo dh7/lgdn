@@ -1,1 +1,0 @@
-envoi semestriel d'un bulletin d'information sur les recettes et dépenses effectuées à partir des différents impôts.

@@ -1,1 +1,0 @@
-chomage = tu reçois une aide, mais plafonnée et tu fais des travaux d'intérêt pour  compenser ces aides dans la commune ou tu les perçois + pas d'allocations a ceux qui n'habite pas en france

@@ -1,1 +1,0 @@
-resoudre les problèmes liés à l'effet de seuil (si le revenu augmente de très peu mais fait franchir un seuil on perd des droits, ou des exonérations )

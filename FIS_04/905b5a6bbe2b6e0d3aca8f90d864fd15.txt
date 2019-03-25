@@ -1,1 +1,0 @@
-vérifier déjà si les demandes ne sont pas des tentatives de fraude (plusieurs milliards d'€ perdus du fait de fraudes à la carte vitale, la carte d'identité,etc..) .

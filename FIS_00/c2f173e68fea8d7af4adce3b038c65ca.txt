@@ -1,1 +1,0 @@
-Simplifier la lecture du budget de l'état et le mettre à disposition en ligne.

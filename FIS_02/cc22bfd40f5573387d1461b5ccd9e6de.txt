@@ -1,1 +1,0 @@
-Rendre plus difficile l'optimisation de l'Irpp. Supprimer nombre de niches fiscales mais pas les parts supplémentaires. Faire la liste des taxes existantes et supprimer tous les doublons qui se surajoutent à la Tva (l'élargissement de l'assiette pourrait compenser cela?)

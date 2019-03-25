@@ -1,1 +1,0 @@
-Donner aux regroupements de communes le nom postal de la principale commune, et garder comme nom d'arrondissement le nom de l'ancienne commune, comme c'est le cas à Londres, exemple:  Chelsea, LONDON, ce qui pourrait faire à Paris : Boulogne, PARIS

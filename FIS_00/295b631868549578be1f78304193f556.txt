@@ -1,1 +1,0 @@
-Améliorer le site «a-quoi-servent-mes-impots », en ne le limitant pas à l'impôt sur le revenu, mais en incluant les impôts locaux et les taxes. En particulier nous devons pouvoir nous assurer que toutes les recettes générées par une taxe spécifique, telle que la taxe carbone, sont affectées exclusivement à l'objet de cette taxe.

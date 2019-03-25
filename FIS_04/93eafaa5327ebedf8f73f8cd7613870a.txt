@@ -1,1 +1,0 @@
-Simplifier les conditions d'attribution (le coût de la fraude est inférieur au coût caché de la complexité des allocations).

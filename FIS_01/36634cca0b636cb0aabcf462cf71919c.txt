@@ -1,1 +1,0 @@
-Supprimer (définitivement à terme) tous les barèmes définis selon des seuils. Nous avons aujourd'hui les moyens de calcul qui nous dispensent des bouliers, abaques et autres règles à calcul pour pouvoir mettre en œuvre des fonctions continues, éventuellement à paramètres multiples. Qu'en pense Mr Villani ?

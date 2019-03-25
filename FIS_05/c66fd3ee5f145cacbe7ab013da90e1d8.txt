@@ -1,1 +1,0 @@
-Davantage de contrôles dans l'attribution du RSA et de la CMU par l'utilisation du numéro d'adhérent et du numéro de sécurité sociale (sans la clé) pour limiter la fraude.

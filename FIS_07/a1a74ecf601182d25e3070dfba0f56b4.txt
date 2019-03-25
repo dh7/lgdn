@@ -1,1 +1,0 @@
-- fusion de petites communes (-300habitants) - suppression d'échelons administratifs qui font doublons (région département)

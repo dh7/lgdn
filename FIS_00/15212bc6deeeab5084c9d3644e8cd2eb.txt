@@ -1,1 +1,0 @@
-Appliquer  l'inflation à tous les français, en appliquant un barème dégressif suivant les revenus. Quelqu'un qui gagne 10000€ et l'autre 1000€ Si vous appliquez 1% d'augmentation. Chaque personne ne pourra pas s'acheter la même quantité de pain. Trouver l'erreur

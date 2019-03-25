@@ -1,1 +1,0 @@
-simplement créer un site accessible à Tous dans lequel serait récapitulé les sommes dépensées par Ministères , par postes ,  par divisions,  par catégorie, etc,  avec un comparatif sur le budget prévisionnel voté en Assemblée

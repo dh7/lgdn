@@ -1,1 +1,0 @@
-intégrer tous les revenus (allocations incluses). ne pas faire des tranches  d'imposition mais une fonction continu pour supprimer l'effet de seuil

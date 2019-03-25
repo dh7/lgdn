@@ -1,1 +1,0 @@
-Supprimer toutes les taxes qui coûtent plus cher à collecter qu'elles ne rapportent, supprimer les taxes sur taxes, regrouper certains impôts pour en limiter le nombre global

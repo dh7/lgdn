@@ -1,1 +1,0 @@
-Envoyer annuellement un récapitulatif du budget et des dépenses à chaque citoyen. Donner le montant de l’impôt collecté, le nombre de ménage ayant payé l’impôt et le nombre de personnes ayant bénéficié des prestations locales.

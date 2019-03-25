@@ -1,1 +1,0 @@
-Refonte de tout le système pour aboutir à une aide globale en fonction des revenus, il y en a beaucoup trop.

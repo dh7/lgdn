@@ -1,1 +1,0 @@
-serait-il possible d'avoir un identifiant fiscal unique intégrant ressources et Qfamilial qui permettrait une dégressivité des taxes et impôts en fonction des moyens de chacun (une TVA nulle ou infime pour les plus pauvres et augmentée en fonction de ressources et situation familiale?

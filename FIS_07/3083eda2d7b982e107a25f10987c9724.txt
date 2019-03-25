@@ -1,1 +1,0 @@
-fixer des taux de TVA plus élevés pour les produits importés s'ils proviennent de pays qui n'appliquent pas les mêmes standards de productions que nous afin de les rendre plus cher

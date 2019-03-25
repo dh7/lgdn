@@ -1,1 +1,0 @@
-Plus de contrôle sur la gestion des comptes des hôpitaux. Tracabilité des différents financements dédiés aux services qui ne sont pas actuellement vérifiables.

@@ -1,1 +1,0 @@
-- Publier chaque année sur le site impot.gouv.fr un diagramme circulaire illustrant la ventilation par thèmes des dépenses publiques. Ex: pour 100 euros de dépenses publiques, 5% sont attribués à l'éducation, 10% au désendettement etc. Montrer l'évolution chaque année afin de souligner les priorités gouvernementales

@@ -1,1 +1,0 @@
-Moduler la tva en fonction des classes de produits, nécessité, normal, superflu luxe et grand luxe.

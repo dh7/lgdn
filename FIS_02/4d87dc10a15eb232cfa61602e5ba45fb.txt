@@ -1,1 +1,0 @@
-figer le prix des carburants pendant 6 mois en se basant sur la moyenne de la hausse/baisse du prix du petrole de l'année précédent, puis les 6 mois suivants sur la moyenne de la hausse/baisse du prix du pétrole. ne pas figer le taux de tipce qui a remplacé la tipp

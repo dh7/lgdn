@@ -1,1 +1,0 @@
-Un flyer avec un graphique type camembert en indiquant les recettes et les dépenses.  Envoyé à tous.

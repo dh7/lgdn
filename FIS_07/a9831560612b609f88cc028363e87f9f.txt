@@ -1,1 +1,0 @@
-Afin de permettre une simplification du système impôts/aides sociales pour les ménages, l'impôts sur le revenus doit intégrer ces aides. Afin que l'état ne prenne pas d'un côté pour donner de l'autre. Les aides doivent être diminuées de l'impôts sur le revenu. Si ces aides sont supérieures à l'impôt, dans ce cas il peut y avoir un versement de ces dernières.

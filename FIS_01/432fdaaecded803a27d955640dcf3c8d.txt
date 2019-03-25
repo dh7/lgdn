@@ -1,1 +1,0 @@
-Diminuer les allocations qui n'encouragent pas travailler.

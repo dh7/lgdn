@@ -1,1 +1,0 @@
-- revoir le calcul de la CSG et du RDS - supprimer l'impôt foncier : non incitatif à l'acquisition

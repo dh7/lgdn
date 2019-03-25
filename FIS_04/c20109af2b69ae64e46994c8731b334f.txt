@@ -1,1 +1,0 @@
-Allocations familiales : les allocations familiales sont aujourd'hui conditionnées par les ressources de l'année N-2. Comme il peut exister de fortes variations selon les années (et même les mois), il n'est plus pertinent de se baser sur ce système. Il faudrait à minima se baser sur les ressources à N-1, voir les ressources actuelles pour plus de pertinences.

@@ -1,1 +1,0 @@
-Supprimer toutes les niches fiscales et exemptions diverses en fonction des catégories sociales (journalistes, élus etc...)

@@ -1,1 +1,0 @@
-Faire une information détaillée des ressources fiscales par catégorie d’impôt (impôt sur le revenu, CSG, TVA, etc ) et par type de dépenses publiques ( éducation, défense, social, dotations aux collectivités, etc)  et la diffuser avec le formulaire de déclaration de revenu, en lieu et place de la lettre du Ministre du budget.

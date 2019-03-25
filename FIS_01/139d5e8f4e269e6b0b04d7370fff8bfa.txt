@@ -1,1 +1,0 @@
-Supprimer l'héritage, laisser un montant maximum aux descendants, par exemple jusque 200 000 euros.

@@ -1,1 +1,0 @@
-Simplifier le nombre d’aide sociale et regrouper toutes ces aides selon la situation personnalisée du demandeur (situation familiale, revenus, personne seule, handicap, maladie, ...)

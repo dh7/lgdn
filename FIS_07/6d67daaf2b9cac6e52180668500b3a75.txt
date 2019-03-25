@@ -1,1 +1,0 @@
-Recalculer les tranches en haut et en bas. Pas de rétablissement de l'ISF puisque c'est du capital déjà taxé. Simplifier les niches fiscales.

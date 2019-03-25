@@ -1,1 +1,0 @@
-Supprimer tva sur des produits de base (aliments, santé, combustibles) augmenter celles des produits de luxe. TVA proportionnel au prix du produit. Plus chère un produit implique plus de luxe donc il doit avoir TVA plus grand

@@ -1,1 +1,0 @@
-Taxer les reventes d’action en fonction inverse de la durée de détention (taxe très forte pour le trading HF et nulle au bout d’un an ou deux) 

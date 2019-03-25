@@ -1,1 +1,0 @@
-Un site internet du type tableau de bord, avec des indicateurs pluriannuels de suivi des dépenses publiques et de leur financement, en intégrant tous les revenus de l'état (charges sociales, impôts directs / indirects, revenus des sociétés publiques..). Arrêter de saucissonner l'information

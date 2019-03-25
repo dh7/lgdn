@@ -1,1 +1,0 @@
-Tenir compte du contexte et du niveau global de ressources: - supprimer APL pour étudiants de parents fortunés - allocations familiales dégressives selon ressources du foyer - allocations chômage plafonnées (5000 - 6000 € ex) et dégressives jusqu'à un seuil minimal (1000 € ex ou 50% allocation initiale)

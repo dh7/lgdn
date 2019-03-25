@@ -1,1 +1,0 @@
-Créer 11 tranches avec des taux allant de 10 à 45 % avec une progressivité de 5 % par tranche de 0 à 350.000   € sauf la tranche de 250 à 350 000 € étant taxée à 44  % et le taux de 46 % s'appliquant au dessus.

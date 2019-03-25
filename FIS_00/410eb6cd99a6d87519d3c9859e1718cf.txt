@@ -1,1 +1,0 @@
-Afficher le tarif réel de ce que coûte chaque prestation des services publique.

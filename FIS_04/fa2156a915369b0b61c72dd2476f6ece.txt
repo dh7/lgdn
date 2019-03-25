@@ -1,1 +1,0 @@
-il y a une anomalie dans les aides complémentaires liées à l'AAH :  Celles qui sont liées au revenu imposable créent des différences notables dans le montant des aides accordées alors que le revenu touché par les allocataires est le même (l'AAH pour tous mais APL ou ACS différentes par exemple)

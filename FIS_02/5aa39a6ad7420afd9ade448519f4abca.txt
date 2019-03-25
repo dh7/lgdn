@@ -1,1 +1,0 @@
-- CSG    /    - Au niveau local : rendre plus juste l'application des taux pour le calcul de la taxe d'aménagement selon les spécificités du territoire (infrastructures ou non, etc.).

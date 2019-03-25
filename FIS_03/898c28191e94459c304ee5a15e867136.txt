@@ -1,1 +1,0 @@
-Réformer les APL pour permettre l’accession à la propriété plutôt que l’enrichissement des bailleurs.

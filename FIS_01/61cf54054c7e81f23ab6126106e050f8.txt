@@ -1,1 +1,0 @@
-Refonte complete du calcul de l'imposition afin que les revenus les plus élevés soient taxés à leur juste mesure ( création d'une ou de plusieurs tranches d'impot à cet effet.

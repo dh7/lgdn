@@ -1,1 +1,0 @@
-Supprimer les instruments complexes (warrants, certificats, vente à découvert,...) N’autoriser que les transactions sur les places boursières (NYSE, Nasdacq, Bourse de Paris, …) Interdire le trading à haute fréquence

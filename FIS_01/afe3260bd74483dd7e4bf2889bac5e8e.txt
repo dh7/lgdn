@@ -1,1 +1,0 @@
-fusionner IR et CSG et remplacer par une CSG progressive mais pour tout le monde

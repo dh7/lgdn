@@ -1,1 +1,0 @@
-Envoyer comme en suisse un document sur les taux mouen et le montant des impôts en fonction des tranches de revenus. Envoyer à chacun une facture fictive des prestations auxquelles il a eu droit grâce à ses impôts (notamment quand il va à la pharmacie et qu'il ne paye rien, mais j'intègre aussi au raisonnement les dépenses fiscales)

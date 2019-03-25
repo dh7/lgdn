@@ -1,1 +1,0 @@
-pour toutes les contributions (CSG par ex.) supprimer les effets de seuil comme pour le calcul des IR

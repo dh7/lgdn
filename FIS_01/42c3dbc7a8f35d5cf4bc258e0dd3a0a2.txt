@@ -1,1 +1,0 @@
-Revoir le montant des tranches en resserrant au plus juste les montants, moins d'écarts serait judicieux.

@@ -1,1 +1,0 @@
-Le calcul des bourses pour les étudiants qui sont déclarés fiscalement seul, ne devrait pas tenir compte des revenus des parents pour le calcul des bourses du CROUS. Ne plus prendre en compte le revenu du conjoint pour le calcul de la pension d invalidité et de l'AAH.

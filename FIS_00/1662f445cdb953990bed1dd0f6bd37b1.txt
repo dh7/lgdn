@@ -1,1 +1,0 @@
-fournir les budgets des ministères et afficher de façon transparente les dépenses.

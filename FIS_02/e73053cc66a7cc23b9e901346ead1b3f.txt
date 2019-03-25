@@ -1,1 +1,0 @@
-Revoir les modes de calcul de l'IR et revoir le prélèvement de la TVA sur les appartement mis en location quand il y a encore un prêt. L'état prélève de l'argent sur un bien qui n'appartient pas au contribuable mais à la banque.

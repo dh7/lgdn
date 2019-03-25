@@ -1,1 +1,0 @@
-Donner le poids en pourcentage de tout ce qui est redistribué d'une part par grand secteur (défense, justice, sécurité, infrastructure) et d'autre part les aides directes ou indirectes aux citoyens ( aides divers : APA, Allocation, indemnités, bourse études, etc)

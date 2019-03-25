@@ -1,1 +1,0 @@
-Supprimer la part minimale d'héritage à laquelle ont droit les héritiers réservataires. On devrait pouvoir donner son héritage à qui l'on souhaite. C'est beaucoup le cas dans de nombreux pays.

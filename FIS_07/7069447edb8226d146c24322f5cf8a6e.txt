@@ -1,1 +1,0 @@
-Revoir en profondeur l'organisation. Les agglomérations font doublon avec les mairies, les cantons ne servent à rien Il y a doublon entre les départements et les régions Une seule assemblée est nécessaire. Certaines instances européennes sont en doublon avec les nationales

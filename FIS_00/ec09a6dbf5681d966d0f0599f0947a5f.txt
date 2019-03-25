@@ -1,1 +1,0 @@
-Création d'un site sur lequel les français pourraient voir la répartition par poste des impôts ; exemple : l'impôt sur le revenu de l'année N a fiancé à hauteur de X% les hôpitaux

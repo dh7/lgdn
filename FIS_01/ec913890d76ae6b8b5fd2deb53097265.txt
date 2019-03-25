@@ -1,1 +1,0 @@
-Simplifier. Notre système est trop complexe, difficile à comprendre et donc peut faire l’objet de toutes les suspicions possibles

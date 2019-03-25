@@ -1,1 +1,0 @@
-Envoyer des mails ou des sms invitant à consulter un site internet faisant régulièrement état des dépenses et des recettes de l'état.   Faire prendre conscience au citoyen de son propre coût pour l'état, par exemple en adressant chaque année aux assurés sociaux le montant de ses dépenses de santé.

@@ -1,1 +1,0 @@
-Taxer les dividendes au-dessus d'un seuil à déterminer.  Taxer tout bénéfice  hors dividende non réinvesti. 

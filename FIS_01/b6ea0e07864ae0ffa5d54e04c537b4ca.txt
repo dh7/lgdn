@@ -1,1 +1,0 @@
-Revoir le calcul de l’impot Foncier pour rééquilibrer les taxes foncières entre logements anciens, logements anciens rénovés et logements neufs ou après 1978.  La taxe foncière des logements après 1978 est très supérieur aux logements anciens pour une même surface. Le mode de calcul est un héritage ancien qui doit être révisé pour une équité fiscale.

@@ -1,1 +1,0 @@
-Donner le montant en € pour la collectivité de toutes les prestations même si elles ne sont pas payantes pour les usagers (hopital, université, transport...)

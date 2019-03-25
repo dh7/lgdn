@@ -1,1 +1,0 @@
-Simplifier les prélèvements et les affecter plus clairement, par exemple créer une tranche d’IRPP au delà de. 500000€ avec déduction pour cette tranche de 100% des investissements PME

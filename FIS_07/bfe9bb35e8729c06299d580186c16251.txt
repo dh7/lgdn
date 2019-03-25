@@ -1,1 +1,0 @@
-Limiter le versement du RSA en fonction du nombre de propositions d'emploi reçues, limiter le versement de cette prestation aux français.

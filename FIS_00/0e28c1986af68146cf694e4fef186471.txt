@@ -1,1 +1,0 @@
-envoyer infos lors de la déclaration sous forme de camenbert afin que l'on voit les postes des différentes attributions

@@ -1,1 +1,0 @@
-Harmoniser les conditions de ressources et lisser les effets de seuil

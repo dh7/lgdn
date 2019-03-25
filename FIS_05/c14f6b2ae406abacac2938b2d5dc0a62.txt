@@ -1,1 +1,0 @@
-SANTE LOYERS: Evaluation par un organisme d'état par l'état d'un prix de loyer théorique pour chaque logement en location et imposition du propriétaire ( bonus / malus ) en fonction du prix loué.

@@ -1,1 +1,0 @@
-utiliser des fonctions continues plutôt que des paliers dans les calculs comptables

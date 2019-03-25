@@ -1,1 +1,0 @@
-Augmenter le nombre de tranche , à partir de la première . Les écart entre deux  RI  sur une même tranche est trop important , ceux qui gagnent plus s'en sortent mieux!

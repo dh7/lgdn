@@ -1,1 +1,0 @@
-On pourrait imaginer d'avoir un "fléchage" des impôts lorsque l'on paie : chaque contributeur pourrait "choisir" à quoi attribuer son montant d'impôt, parmi un menu déroulant. Par exemple "payer un mois de salaire d'un enseignant", "rénover une route", "contribuer à l'assurance maladie". Cela serait évidemment fictif, mais rendrait concret le paiement de l'impôt

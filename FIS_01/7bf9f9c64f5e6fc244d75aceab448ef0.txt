@@ -1,1 +1,0 @@
-Mettre en place un questionnaire sous forme QCM que nous remplissions et qui détermine automatiquement les papiers que nous devons remplir et les pièces justificatives à apporter. Par exemple, je travaille en Suisse et je ne savais pas du tout comment remplir correctement ma déclaration de revenus en France, heureusement, une dame des impôts nous a aidé.

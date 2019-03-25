@@ -1,1 +1,0 @@
-Un tableau de bord sur une page donnant les principaux indicateurs d'efficacité de l'impôt: par exemple sur 100€ collectés, combien arrivent à leur destination?

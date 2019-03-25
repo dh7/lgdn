@@ -1,1 +1,0 @@
-éviter le cumul des allocations

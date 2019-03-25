@@ -1,1 +1,0 @@
-Augmenter le nombre d'agents disponibles afin de pouvoir répondre au nombre de demandes soit d'information soit de réclamation concernant les impôts. Faire parvenir à chaque foyer une documentation simple sur le mode de ponctionnement et d'utilisation de ses impôts, selon les tranches de revenus.

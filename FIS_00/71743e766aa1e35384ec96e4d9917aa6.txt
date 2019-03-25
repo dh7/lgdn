@@ -1,1 +1,0 @@
-lorsque l'on est pris en charge par un service de l'état on doit connaître le coût associé. Exemple 1: opération dans un hôpital: on doit avoir la facture de  l'ensemble des coût même si celui ci est finalement ramené à 0 Exemple 2: scolarité des enfants, les parents devrait connaître le coût annuel de combien a coûté l'année scolaire

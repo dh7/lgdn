@@ -1,1 +1,0 @@
-Afficher sur la feuille d'impôts le pouvoir d'achat du contribuable = ses revenus  propres+ toutes les aides reçues (Allocations diverses, subventions etc...)

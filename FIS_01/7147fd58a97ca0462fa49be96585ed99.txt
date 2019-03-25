@@ -1,1 +1,0 @@
-Fixer les taxes chômage des contrats de travail en fonction de la durée des contrats : plus ils sont courts, plus les taxes seront élevées.

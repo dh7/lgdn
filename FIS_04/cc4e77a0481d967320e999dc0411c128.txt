@@ -1,1 +1,0 @@
-APL ; Supprimer les soins aux personnes qui ne résident pas en France ;

@@ -1,1 +1,0 @@
-Calculer les impôts sur le reste à vivre en définissant un montant pour chaque grand thème de dépenses obligatoires  : Habitat (habitation , dépenses énergétiques ) , Nourriture Enfants à charge , Transport et pourquoi pas Vacances pondérés par le nombre de personnes au foyer .  Que tous les français paient cet impôt même si ce n'est que quelques euros

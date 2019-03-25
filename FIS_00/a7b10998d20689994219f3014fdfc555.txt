@@ -1,1 +1,0 @@
-- Améliorer la lisibilité du calcul des impôts (ex. TF/TH qui utilisent des bases indiciaires qui ne sont pas affichés et surannées (nombre de radiateurs, nombre de vide-ordure...)) - Réduire le nombre de niches accessibles - Présenter des cas d'usage classiques pour les déclarations d'impôts afin de guider le déclarant

@@ -1,1 +1,0 @@
-Revoir la CSG et son imposition. Calcul de l'impôt selon un paramêtre supplémentaire à savoir le patrimoine de chaque foyer fiscal

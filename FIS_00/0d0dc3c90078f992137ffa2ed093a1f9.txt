@@ -1,1 +1,0 @@
-Sous la forme d'un A4 un tableau qui fait apparaître les recettes total de l'état et des regions. Sous la forme d'un A4 un tableau qui fait apparaître les dépenses

@@ -1,1 +1,0 @@
-Actuellement, il y a 6 couches administratives : communes, intercomunautés, cantons, départements, régions, état. Passer à 4 couches administratives ( communes, départements, régions, état). Diminuer le trains de vie de l'état, arrèter de payer des logements et autos aux anciens président

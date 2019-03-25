@@ -1,1 +1,0 @@
-plus de transparence sur le montant des impôts collectés (différencier les types d'impôts et les contributeurs) et la destination des montants collectés,

@@ -1,1 +1,0 @@
-Contrôler que les logements sociaux ne sont pas attribués à des personnes qui n'en ont pas besoin (élus, par exemple...). Pour les conditions d'attribution : ne pas verser d'allocations familiales à des familles aisées.

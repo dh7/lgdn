@@ -1,1 +1,0 @@
-Simplifier les règles. Certes, la fiscalité s'appliquent à beaucoup de domaine, d'où une complexité inévitable.. Mais aujourd'hui, notre code des impôts est un monument ! Qui ne se visite pas tellement il est peu attractif. Et sa complexité permet pour les plus avisés, les mieux conseillés de se soustraire à l'impôt.

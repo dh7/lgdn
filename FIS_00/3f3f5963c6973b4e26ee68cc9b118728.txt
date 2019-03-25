@@ -1,1 +1,0 @@
-sur l'avis d'imposition, afficher un tableau (style camembert) avec la répartition ventilée des sommes utilisées par destination

@@ -1,1 +1,0 @@
-Mettre en place des publications à granularité multiple permettant de voir au niveau macro et micro où et comment l'argent est dépensé.

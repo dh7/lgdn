@@ -1,1 +1,0 @@
-Chiffres clairs publiés, avec une information claire aux citoyens pour que n'importe qui puissent y avoir facilement accès.  - information sur la somme totale d'impôt prélevé avec indication de l'origine (TVA, IS, impôt sur les revenus, taxe, etc...) - comment est redistribué l'impôt par catégorie - combien de personnes paient l'impôt

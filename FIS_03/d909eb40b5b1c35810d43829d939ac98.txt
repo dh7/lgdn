@@ -1,1 +1,0 @@
-Surtout améliorer les contrôles d'attributions (payé un vrai demandeur d'emploi OUI, payer un feignant NON) Payer un malade OUI, Payer pour un profiteur NON. Payer une retraité Français qui a cotisé OUI, payer pour un retraité qui n'a jamais travaillé en France NON des fonds. Contrôle de usage de l'argent ( Chèque à utiliser dans certaines Enseigne par exemple)

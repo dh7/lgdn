@@ -1,1 +1,0 @@
-Il faut revoir absolument le mode de calcul du SLS qui est complétement obsolète

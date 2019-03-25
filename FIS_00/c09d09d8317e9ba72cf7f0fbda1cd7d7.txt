@@ -1,1 +1,0 @@
-Baser les transactions sur le principe de la blockchain, afin de garantir une totale transparence et immuabilité des recettes/dépenses et leur répartition.

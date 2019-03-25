@@ -1,1 +1,0 @@
-Plus de tranches pour simplifier les impots à la source en faisant des tranches de revenus par 10000 euros chaque tranche représentant un pourcentage à payer. Ajouter une ou plusieures tranches pour les hauts revenus.

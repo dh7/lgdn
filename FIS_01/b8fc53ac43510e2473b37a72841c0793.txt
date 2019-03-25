@@ -1,1 +1,0 @@
-supprimer les impots dont les frais de recouvrement sont élevés par rapport à l'impôt collecté.

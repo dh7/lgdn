@@ -1,1 +1,0 @@
-La fiscalité sous-entend un nombre gigantesque de données. Il semble judicieux de faire appel à des spécialistes comme des data scientist + analystes et de comparer par CSP, par ville, par région et par rapport aux autres pays de l'OCDE pour faire remonter les informations pertinentes.

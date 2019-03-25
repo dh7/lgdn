@@ -1,1 +1,0 @@
-Simplifier la lecture du budget de l état et indiquer en pourcentage la répartition  de l’impôt collecté par rapport aux grands postes de dépenses publiques

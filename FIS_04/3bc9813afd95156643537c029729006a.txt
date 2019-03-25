@@ -1,1 +1,0 @@
-Il ne faut plus de plafond , mais un mode de calcul progressif avec des tranches bien définies.

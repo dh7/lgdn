@@ -1,1 +1,0 @@
-supprimer la tva en creant une micro txe sur toutes les transactions electroniques (0.2% du montant de chaque transaction )

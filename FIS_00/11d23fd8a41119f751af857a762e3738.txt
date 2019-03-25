@@ -1,1 +1,0 @@
-Sur le site impôt.gouv, créer une page sur laquelle est inséré un tableau synthétique des répartitions de l'impôt par thème.  Expliquer clairement à quoi sert l'impôt.

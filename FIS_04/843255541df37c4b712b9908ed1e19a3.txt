@@ -1,1 +1,0 @@
-Oui, prendre en compte tous les revenus même ceux exonérés d'IR par le biais du revenu fiscal de référence car ce sont des revenus. 1.500 euros d'allocations familiales en N-1 donnent un RFR de 0 alors que 1.500 euros de salaires donne 1.350 euros de RFR pour l'attribution des aide de l'année N

@@ -1,1 +1,0 @@
-Il y a un écart sur la fiche de paye sur le montant reçu et le montant imposable du à la CSG. Faire en sorte que le montant imposable soit le montant reçu, cela permettrait une meilleur lisibilité et une plus grande équité

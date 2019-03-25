@@ -1,1 +1,0 @@
-- Avoir des taux de TVA différenciés selon les produits : Suppression ou forte diminution pour les produits de première nécessité et augmentation pour les produits de luxe - Baisse des taxes sur les carburants, le gpl de chauffage impactant beaucoup trop les habitants des zones rurales

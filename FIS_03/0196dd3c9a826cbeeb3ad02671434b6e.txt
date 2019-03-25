@@ -1,1 +1,0 @@
-revoir le système pour tenir compte de la pénibilité et l'espérance de vie  pour fixer la date de départ (les gens du bâtiment ont une espérance de vie de 10 ans inférieure à bien d'autres catégories) 

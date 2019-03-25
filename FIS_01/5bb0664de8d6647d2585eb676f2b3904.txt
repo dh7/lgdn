@@ -1,1 +1,0 @@
-Un accès, à tous (égalité oblige), à une interface web capable de recenser un maximum de document sur les dépenses publiques.

@@ -1,1 +1,0 @@
-Simplifier un système dont la complexité permet trop aux plus malins, donc souvent aux plus aisés de le contourner.

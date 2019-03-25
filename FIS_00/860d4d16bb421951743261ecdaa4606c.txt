@@ -1,1 +1,0 @@
-Faire voter le budget communal par l'assemblée des citoyens. Afficher le coût des services en faisant éventuellement payer une partie. Rendre les données systématiquement consultables.

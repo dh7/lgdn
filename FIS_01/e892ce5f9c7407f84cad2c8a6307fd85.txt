@@ -1,1 +1,0 @@
-Supprimer un très grand nombre d'exceptions.

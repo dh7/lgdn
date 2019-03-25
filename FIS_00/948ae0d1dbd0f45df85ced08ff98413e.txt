@@ -1,1 +1,0 @@
-creer un site web qui centralise les informations sur la fiscalité par commune / département / régions et qui rappelle les dépenses de l'état, l'état de la dette et autres informations utiles pour comprendre d'où vient l'argent de l'état et comment il est investi. Site web ergonomique et didactique pour qu'il utilisable par tous

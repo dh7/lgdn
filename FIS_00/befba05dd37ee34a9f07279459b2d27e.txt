@@ -1,1 +1,0 @@
-Un information  aux journaux locaux  dès qu' un changement intervient mais aussi des alertes sms.

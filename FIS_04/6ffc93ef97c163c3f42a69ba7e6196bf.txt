@@ -1,1 +1,0 @@
-pourquoi certaines aides sont elles calculées N-2?? certains n'y ont pas accès quand ils en ont besoin, d'autres les perçoivent alors qu'ils n'en auraient plus besoin

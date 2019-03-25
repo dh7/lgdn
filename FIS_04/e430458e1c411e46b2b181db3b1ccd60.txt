@@ -1,1 +1,0 @@
-Simplifier le système d'aide en mettant fin aux strates actuelles et créant une aide globale

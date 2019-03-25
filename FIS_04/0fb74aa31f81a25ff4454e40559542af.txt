@@ -1,1 +1,0 @@
-il faut redéfinir les aides qui doivent être redistribuées. Il faut aussi éviter les possibilités de recoupement.

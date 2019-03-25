@@ -1,1 +1,0 @@
-Moduler la CSG pour le revenus faibles mais ne pas la fusionner avec IR IR supprimer les niches peu utiles

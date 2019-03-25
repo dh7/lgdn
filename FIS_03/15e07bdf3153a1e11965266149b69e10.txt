@@ -1,1 +1,0 @@
-Simplifier et réorganiser pour mieux gérer l'administration, temps de travail et jours de congés égaux dans le public comme dans le privé.

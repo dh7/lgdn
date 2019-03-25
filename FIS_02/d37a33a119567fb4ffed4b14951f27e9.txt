@@ -1,1 +1,0 @@
-Modifier le calcul l’imposition sur le revenu en supprimant la somme deja payée en csg du montant « revenu imposable »

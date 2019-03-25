@@ -1,1 +1,0 @@
-Une refonte est nécessaire: il faudrait aller vers un système d'allocation unique, beaucoup plus compréhensible et facile à gérer.

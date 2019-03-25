@@ -1,1 +1,0 @@
-Revoir le caractère universel de certaines allocations/prestations (par ex: allocation familiale)

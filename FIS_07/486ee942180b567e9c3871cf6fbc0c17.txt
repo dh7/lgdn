@@ -1,1 +1,0 @@
-Je propose que la TIPP soit modulée par rapport a la puissance moteur de chaque véhicule. Il existe des systèmes de reconnaissance automatique du véhicule. (RADV). Chaque véhicule peut être muni d'une puce électronique avec en mémoire le numéro de châssis du véhicule. Celui ci est détecté a la pompe et détermine le prix du carburant

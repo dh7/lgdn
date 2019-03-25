@@ -1,1 +1,0 @@
-Limité le niveau de salaire de 1 à 20 dans les entreprises, aucun salaire ne devrait dépassé 2000€/mois/ C'est largement suffisant quelques soit la fonction.

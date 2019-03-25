@@ -1,1 +1,0 @@
-Diminuer les allocations chomâge pour les gros salaires

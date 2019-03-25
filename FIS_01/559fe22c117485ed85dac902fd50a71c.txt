@@ -1,1 +1,0 @@
-TVA 0% sur les produits de bases, et échelonnement du taux en fonction du prix d'achat pour un même produit: exemple, une voiture "low cost", tva basse, voiture de luxe, tva haute

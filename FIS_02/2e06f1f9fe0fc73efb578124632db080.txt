@@ -1,1 +1,0 @@
-Supprimer la TVA sur les taxes. Une taxe ne crée pas une valeur ajoutée mais, au contraire, crée une diminution de valeur pour le citoyen qui la subit.

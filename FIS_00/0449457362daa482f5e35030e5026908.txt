@@ -1,1 +1,0 @@
-Rendre les budgets ( état, région, département, commune... ) consultables facilement, en mode résumé Actualiser en permanence le suivi ( genre contrôle de gestion anglo-saxon ):  budget prévu, budget engagé, montant dépensé

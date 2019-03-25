@@ -1,1 +1,0 @@
-Simplifier les charges sociales : il devrait y avoir 5 lignes sur les bulletins de salaires : salaire, cotisation retraite, cotisation maladie, cotisation chômage, impôt sur le revenu. Et non quasiment deux pages!!! Suppression de la CSG / CRDS et affectation aux autres cotisations dédiées.

@@ -1,1 +1,0 @@
-Recevoir avec son avis d'imposition un récapitulatif des dépenses de l'état sous forme de graphique, en pourcentage, forme "camembert" ou autre mais lisible par tous.

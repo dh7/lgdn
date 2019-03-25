@@ -1,1 +1,0 @@
-* Augmentation du nombre d'échelons d'impôts.  * Meilleur contrôle de l'évasion fiscale.  * Cotisation pour tous (même minimale).

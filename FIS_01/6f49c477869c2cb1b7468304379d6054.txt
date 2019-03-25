@@ -1,1 +1,0 @@
-Suppression de tous les impôts directs et indirects. Garder uniquement la TVA avec 3 taux : faible pour les produits de 1ère nécessité, moyen pour les produits intermédiaires et fort pour les produits autres.

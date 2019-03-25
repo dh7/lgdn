@@ -1,1 +1,0 @@
-- Augmenter la TVA sur les produits de luxe et la diminuer sur l'alimentation biologique - Augmenter les prélèvements sur les héritages au delà d'un certain montant par héritier (300000 Eur par exemple) - Taxer les transactions financières - Considérer que les allocations familiales sont un revenu comme un autre pour le calcul des impôts sur le revenu.

@@ -1,1 +1,0 @@
-Réforme totale du train de vie de l'état.

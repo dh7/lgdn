@@ -1,1 +1,0 @@
-un simple pourcentage basé sur les revenus car si on additionne toutes les taxes et impôts la somme est énorme.

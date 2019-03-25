@@ -1,1 +1,0 @@
-Diffusé périodiquement une synthèse SIMPLE des dépenses de l'état.

@@ -1,1 +1,0 @@
-Presenter à la population les budgets alloués à chaque chose en termes de pourcentages - ( combien rentre , combien sort..) Rendre compte des actions faites ou prévues de manière plus concrète, plus claire.

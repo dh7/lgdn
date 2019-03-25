@@ -1,1 +1,0 @@
-Un tableau de grandes lignes avec les entrées d'un coté et les sorties correspondantes de l'autre avec possibilité d'entrer dans le détail en cliquant sur la ligne.

@@ -1,1 +1,0 @@
-Supprimer les effets de seuil par mise en place d'une dégressivité

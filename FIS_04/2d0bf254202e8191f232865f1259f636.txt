@@ -1,1 +1,0 @@
-Augmenter les contrôles en cas d'arret de travail d'un salarié : si le salarié est arrété sans raison valable : sanctionner le salarie (non paiement des indemnités maladie depuis le début de l'arret et sanction du médecin complaisant)

@@ -1,1 +1,0 @@
-Mettre en regard la source de l'impôt et son utilisation. Quand je paye un impôt pour participer à un effort sur une action, je veux que le budget alloué à cette action AUGMENTE du montant de l'impôt.

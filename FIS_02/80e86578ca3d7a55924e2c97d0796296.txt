@@ -1,1 +1,0 @@
-Revoir le calcul de l'impots foncier qui est complétement obsoléte.

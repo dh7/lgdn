@@ -1,1 +1,0 @@
-ajouter des tranches intermédiaires pour que les calculs soit plus juste

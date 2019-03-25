@@ -1,1 +1,0 @@
-une plateforme (tableau de bord) sur laquelle apparaitrait de façon simple, pour un citoyen lambda,  la liste de tous les impôts (impôt sur le revenu,  taxe d'habitation, TVA, ...) qu'il paye et l'utilisation qui en est faite (x% pour l'éducation nationale, y% pour l'assurance chômage, ...)

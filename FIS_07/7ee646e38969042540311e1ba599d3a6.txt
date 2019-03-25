@@ -1,1 +1,0 @@
-Il faut absolument trouver une solution pour corriger les effets de seuil: à 1€ près on peut perdre une allocation alors qu'on n'est pas plus riche / pauvre. Il faudrait une solution plus progressive.

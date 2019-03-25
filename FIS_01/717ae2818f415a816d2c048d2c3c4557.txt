@@ -1,1 +1,0 @@
-instaurer pour l'impot sur le revenu une tranche unique à 20%. grande simplification suppression des niches fiscales et diminution du nombre de controleurs. suppression de l'ISI impot injuste qui se cumule avec l'impot foncier Les aides et allocations devraient être imposables. suppression des seuils qui incitent à limiter son revenu donc son travail

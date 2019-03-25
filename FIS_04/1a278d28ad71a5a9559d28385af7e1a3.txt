@@ -1,1 +1,0 @@
-Il faut mieux faire un paquet global que d'émietter des sous dans tous les sens : ce serait plus efficace, plus juste et permettrait d'avoir un guichet unique au lieu de multiples administrations

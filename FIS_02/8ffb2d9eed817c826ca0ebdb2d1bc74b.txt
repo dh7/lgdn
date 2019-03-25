@@ -1,1 +1,0 @@
-TVA des produits de première nécessité. Idée: rendre la TVA générale flottante. Comment ? Les prix indiqués hors taxe. En caisse une carte avec QRcode qui calcule la TVA en fonction des revenus.

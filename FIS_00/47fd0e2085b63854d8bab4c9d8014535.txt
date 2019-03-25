@@ -1,1 +1,0 @@
-Informer les citoyens sur le coût réel de certains actes pris en charge : - coût d'une formation prise en charge par une collectivités locales ou par l'état - coût des médicaments (information donnée par la pharmacie à chaque visite) - coût global d'une hospitalisation (information sur le coût pris en charge par la sécurité sociale).

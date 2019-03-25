@@ -1,1 +1,0 @@
-Afficher, sur gouv.fr, de manière simple, le Budget de l’Etat pour l'année en cours, ainsi que les quatre années précédentes :  ⦁	Recettes et dépenses de l'Etat en milliards d'euros (sous forme de tableau) ⦁	Répartition des recettes de l'Etat (pourcentages par poste sous forme de camembert) ⦁	Répartition des dépenses de l'Etat (pourcentages par poste sous forme de camembert)

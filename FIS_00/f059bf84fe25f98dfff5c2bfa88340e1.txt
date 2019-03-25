@@ -1,1 +1,0 @@
-Créer un tableau de bord universel sur le web, qui permette de visualiser en temps réel avec des schémas très visuels les rentrées et les dépenses de l'état. Pour comprendre d'où vient et où va l'argent.

@@ -1,1 +1,0 @@
-Créer un site internet avec toutes les dépenses de l'état et des collectivités permettant au citoyen de visualiser les dépenses engagées par chacune des décisions.

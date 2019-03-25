@@ -1,1 +1,0 @@
-INDIVIDUALISER le calcul de l'impôt sur le revenu en fonction du revenu de chacun.  La formule actuelle pénalise notamment les femmes.

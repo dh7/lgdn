@@ -1,1 +1,0 @@
-Lisser les tranches d'IR et surtout plafonner la tranche d'IR maxi à 30% . Car l'IR est payé par trop peu de personnes et donc trop lourd individuellement

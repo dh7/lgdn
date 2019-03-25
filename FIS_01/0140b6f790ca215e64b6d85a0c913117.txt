@@ -1,1 +1,0 @@
-Afficher aux bénéficiaires de réduction d'impôt sur les revenus et d'exonération le montant standard d'impôt dont il devrait s'acquitter s'il y avait un taux d'imposition uniforme.  Ceux qui se plaignent le plus se rendraient compte qu'ils sont les plus grands bénéficiaires du système.

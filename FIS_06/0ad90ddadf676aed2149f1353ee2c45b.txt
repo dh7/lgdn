@@ -1,1 +1,0 @@
-aucun: le seuil de tolérance est atteint.

@@ -1,1 +1,0 @@
-sante: sortir une facture pour les actes hospitaliers pour que la personne visualise bien la partie redistribution de ses contributions, retraites: montrer clairement les rapports actifs/retraites avec evolution dans le temps et comparatif avec autres pays

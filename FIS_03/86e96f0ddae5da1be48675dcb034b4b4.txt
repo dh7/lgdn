@@ -1,1 +1,0 @@
-Augmenter le temps de travail|supprimer les services qui font doublon et ceux qui ne servent à rien

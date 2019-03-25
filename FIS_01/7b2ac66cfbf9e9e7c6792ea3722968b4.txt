@@ -1,1 +1,0 @@
-refondre totalement le code des impôts (simplification, efficacité, suppression totale des niches)  peut-être se diriger vers une flat-tax très facile à gérer et libérer des agents de contrôle ou fusion IR et CSG (à cout constant)

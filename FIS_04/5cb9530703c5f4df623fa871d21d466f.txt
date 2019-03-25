@@ -1,1 +1,0 @@
-Éviter les allocations automatiques non liées aux revenus et le saupoudrage. Fournir des aides à l’autonomie

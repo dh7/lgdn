@@ -1,1 +1,0 @@
-Visualisation graphique de la distribution de l'impôts par service (défense, éducation etc...) puis par utilisation dans le service.

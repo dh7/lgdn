@@ -1,1 +1,0 @@
-Impôts  0€ pour tout revenu inférieurs à 5000 € par mois. Forte imposition logarithmique : plus on gagne plus on paie de impôts.

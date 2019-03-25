@@ -1,1 +1,0 @@
-Réaliser un site permettant à chaque citoyen de réaliser pour combien il a contribué dans chaque service public, ce qui permettrait à chacun de tirer ses propres conclusions sur le niveau adapté des dépenses de chaque service.

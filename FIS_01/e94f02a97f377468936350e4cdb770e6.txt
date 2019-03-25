@@ -1,1 +1,0 @@
-Simplifier les prélèvement et les versements pour plus de lisibilité : fusionner autant que possible les différents prélévements et régimes de cotisation, suppression des niches fiscales,

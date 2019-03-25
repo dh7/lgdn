@@ -1,1 +1,0 @@
-Une "facture" détaillée comme indiquée dans le titre, avec delta +/- par rapport à 5 années glissantes.

@@ -1,1 +1,0 @@
-Toutes .vérification que la somme totale des revenus correspond bien au nombre de personnes salariées  par foyer,dans le cas où les personnes ne sont pas déclarées mariées ou pacsées(habitant a la même adresse

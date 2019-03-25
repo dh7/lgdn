@@ -1,1 +1,0 @@
-Prendre les revenus contemporains d'un ménage pour attribuer une aide (et non pas les revenus de l'année N-2). Fusionner le plus possible les outils de distribution des aides afin de s'assurer de façon automatisée que leur cumul n'est pas excessif.

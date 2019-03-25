@@ -1,1 +1,0 @@
-Création d'untaux de tva nul pour les produits de première nécessité fabriqué en France. Et un taux de tva reduit pour les produits fabriqués et France.

@@ -1,1 +1,0 @@
-Augmenter à partir de deux enfants, limiter au de là de 5.

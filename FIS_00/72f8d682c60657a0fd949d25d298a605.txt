@@ -1,1 +1,0 @@
-Lors de la déclaration d'impôts, informer du pourcentage et de la somme attribués à chaque rubrique du budget, en mentionnant également le nombre de fonctionnaires pour chaque rubrique.  Par ex. : armée 15% , somme ??? Euro, 300K fonctionnaires.

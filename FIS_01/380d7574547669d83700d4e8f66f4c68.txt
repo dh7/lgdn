@@ -1,1 +1,0 @@
-simplification avant tout ; fusionner IR et CSG

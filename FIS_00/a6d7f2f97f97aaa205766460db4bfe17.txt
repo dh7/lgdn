@@ -1,1 +1,0 @@
-Produire un bulletin annuel (consultable sur Internet, par voie électronique et ou courrier pour ceux qui n'ont pas internet) qui recense les impôts perçus, leur nature et les dépenses associées.

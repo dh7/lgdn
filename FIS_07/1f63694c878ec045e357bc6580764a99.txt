@@ -1,1 +1,0 @@
-Revalorisé la somme du pret à taux zéro quand nous avons un changement de situation comme la naissance d'un enfant. Ceci reduiré le loyer mensuel et donnerai du pouvoir d'achat à la classe moyenne qui ont un prêt immobilier.

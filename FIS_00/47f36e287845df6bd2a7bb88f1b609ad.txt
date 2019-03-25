@@ -1,1 +1,0 @@
-Remplacer les noms des impôts/taxes/charges salariales par leurs finalités pour ceux dont le libellé est technique. Exemple : TICPE par "Taxe transition écologique".

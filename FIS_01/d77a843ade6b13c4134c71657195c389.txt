@@ -1,1 +1,0 @@
-simplifier le système à partir de 3 paramètres : le revenu minimum imposable, le taux maximum d'imposition  et la progressivité de l'impôt

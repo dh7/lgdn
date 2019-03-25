@@ -1,1 +1,0 @@
-RSA, APL, Allocations familiales doivent être controlés plus sérieusement. Il faudrait un organisme pour informer automatiquement les citoyens des aides qu'ils ont droit suivant leur situation même s'ils ne le demandent pas car ils ne le savent pas.

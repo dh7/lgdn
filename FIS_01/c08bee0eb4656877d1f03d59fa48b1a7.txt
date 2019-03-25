@@ -1,1 +1,0 @@
-supprimer l'IFI et l'ISF en créant une tranche supplémentaire

@@ -1,1 +1,0 @@
-il faut revoir tout le système, l'accès aux droits n'est pas suffisamment simple pour tous, un seul point d'accès pourrait centrer toutes les informations de chacun et ainsi  minimiser les possibilités de tricher.

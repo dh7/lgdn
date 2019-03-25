@@ -1,1 +1,0 @@
-Dépendance, mais systématiser les récupérations sur successions.

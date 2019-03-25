@@ -1,1 +1,0 @@
-L'attribution des aides sociales doit prendre en compte les ressources de ceux qui peuvent en bénéficier. Il faut donc que les services qui attribuent ces aides aient accès à la totalité des informations sur l' allocataire (bancaires, fiscales, employeur, impôts locaux, etc) via le croisement de tous les  fichiers informatiques.

@@ -1,1 +1,0 @@
-- réviser tous les ans tous les seuils de tous les impôts (IRPP, IFI, Succession, etc) pour tenir compte de l'inflation; - calcul de l'IFI à partir du seuil 1,3 M € et suppression tranche 0.8-1.3 - CSG à taux réduit sur retraite de base (CNAV) pour tout le monde

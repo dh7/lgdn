@@ -1,1 +1,0 @@
-RSA limité à 1 mois lorsque les personnes sont propriétaires (sans loyer)

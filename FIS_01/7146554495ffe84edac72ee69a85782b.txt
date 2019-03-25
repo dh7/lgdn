@@ -1,1 +1,0 @@
-Plus de transparence sur son utilisation et plus de simplicité. Le PAS est un bon début mais cela n’enleve pas la complexité de la déclaration  dès lors que l’on sort du cas simple de déclarer son salaire.

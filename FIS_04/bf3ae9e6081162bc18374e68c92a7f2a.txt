@@ -1,1 +1,0 @@
-AAH : pas prise en compte revenus du conjoint AL : calcul sur revenus de l année et non année-2.

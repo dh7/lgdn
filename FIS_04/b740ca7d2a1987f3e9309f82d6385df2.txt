@@ -1,1 +1,0 @@
-Par exemple pour donner l’exemple baisse des salaires de tous les fonctionnaires, agents territoriaux et élus, au prorata  dégressif de 10% des salaires supérieures à 10000 € et de 1% à hauteur du salaire médian.

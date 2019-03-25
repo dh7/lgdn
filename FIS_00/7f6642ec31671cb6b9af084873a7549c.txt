@@ -1,1 +1,0 @@
-Affichage d'une information succincte à l'ouverture du site impots.gouv.fr : un camembert avec les sources (TVA, impot sur le revenu,...) et un camembert avec les emplois (Education, Armée, Assurance maladie, Remboursement de la dette,...).

@@ -1,1 +1,0 @@
-appliquer un nouveau mode de calcul plus juste pour une taxe d'habitation qui serait calculée en fonction des services offerts par la ville (services publics, de santé, d'éducation, de transports, ...)

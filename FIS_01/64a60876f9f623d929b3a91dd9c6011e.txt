@@ -1,1 +1,0 @@
-Lisser les effets de seuils (d'escalier) par une formule de calcul adéquate.

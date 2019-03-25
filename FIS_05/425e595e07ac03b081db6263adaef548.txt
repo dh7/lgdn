@@ -1,1 +1,0 @@
-Retraite avec prise en compte de la penibilité et de toutes les primes dans le calcul de l'age et du montant de la pension. Age maximum de départ 62 ans

@@ -1,1 +1,0 @@
-Simplifier le processus et ne pas en changer tout le temps.

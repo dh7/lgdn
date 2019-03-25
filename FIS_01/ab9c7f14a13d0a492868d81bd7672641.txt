@@ -1,1 +1,0 @@
-Supprimer les taxes sur les revenus qui sont proportionnelles à chaque revenu et modifier en conséquence le nombre et la valeur des tranches de l'impôt sur le revenu qui devrait être calculé sur l'ensemble des revenus, y compris revenus sociaux ( APL, allocations familiales, etc...)

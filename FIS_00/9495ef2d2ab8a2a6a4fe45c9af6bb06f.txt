@@ -1,1 +1,0 @@
-Simplifier la déclaration d'impots , et la rendre lisible .

@@ -1,1 +1,0 @@
-- que tout le monde paye l'impôt, même de façon symbolique pour les faibles revenus - supprimer les tranches à cause des effets de seuil, mais imaginer peut être une formule mathématique progressive (type exponentielle ?)

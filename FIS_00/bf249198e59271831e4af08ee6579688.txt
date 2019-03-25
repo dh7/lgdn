@@ -1,1 +1,0 @@
-Qu'il soit possible d'accéder via internet aux différentes dépenses par ministère. Ex: nombre de professeurs (primaire, secondaire, supérieurs) , salaire moyen, temps de travail / semaine, nbre de semaine travaillées par an. Cout de la prise en charge d'un enfant en système de soin (CMPP, CAMPS...). Dépenses / recettes pour les routes.

@@ -1,1 +1,0 @@
-simplifier les structures administratives  (   département , régions , états ) pour faire des gains et  limiter la complexité administrative

@@ -1,1 +1,0 @@
-suppression de l'augmentation de le CSG pour tous les retaités. Maintien de l'indexation des pensions

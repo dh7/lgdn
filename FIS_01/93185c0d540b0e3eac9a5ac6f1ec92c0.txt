@@ -1,1 +1,0 @@
-Eviter que ce soient toujours les mêmes catégories qui soient sollicitées : la classe moyenne par exemple

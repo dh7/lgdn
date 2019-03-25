@@ -1,1 +1,0 @@
-Rendre obligatoire la transcription sur les relevés bancaires du débité pour les opérations par chèques de la date d'émission et du nom du bénéficiaire, et, à l'inverse pour le relevé du crédité le nom du tiré. ces informations existent pour les CB et virements, elles permettraient de lutter contre la fraude des cols blancs efficacement.

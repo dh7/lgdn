@@ -1,1 +1,0 @@
-Fixer un revenu maximum au-delà duquel le prélèvement est de 100 %. Par ex. 10 fois le SMIC après impôts.

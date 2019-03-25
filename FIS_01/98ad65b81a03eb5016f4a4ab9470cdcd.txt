@@ -1,1 +1,0 @@
-Il serait intéressant d'avoir une TVA locale: plus le produit acheté est local (ex: Grande région, région, département...) moins la TVA est grande (variation de 0% à 15%) cela pourrait développer l'emploi et améliorer le quotidien des producteurs locaux

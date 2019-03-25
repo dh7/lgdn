@@ -1,1 +1,0 @@
-Tva : créer des magasins avec des prix HT et payer la TVA à la caisse proportionnellement au taux d'imposition à la source.

@@ -1,1 +1,0 @@
-supprimez la TVA sur les taxes locales; Celle-ci doit être appliquée comme les taxes locales, sur le produit brut.

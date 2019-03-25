@@ -1,1 +1,0 @@
-Simplifier les procedures. Mesurer l'efficacité globale y compris financière.

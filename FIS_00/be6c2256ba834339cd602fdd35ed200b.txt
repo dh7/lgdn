@@ -1,1 +1,0 @@
-Sur la déclaration d'impots imprimer un grafique en secteur des budgets de chaque ministre.

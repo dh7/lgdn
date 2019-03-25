@@ -1,1 +1,0 @@
-augmentation du nombre de tranches avec un intervalle de somme identique par tranche et également avec la même progression du pourcentage d'imposition  par tranche.(ex: Intervalles des tranches : 17 000€ et une progression de 5% par tranche)

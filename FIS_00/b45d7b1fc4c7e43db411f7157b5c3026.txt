@@ -1,1 +1,0 @@
-Les informer chaque fois que l'état subventionne une prestation. Ex à la pharmacie donner une note avec le montant total et la part état/citoyen.

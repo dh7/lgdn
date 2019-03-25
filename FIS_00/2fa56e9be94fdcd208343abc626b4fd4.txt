@@ -1,1 +1,0 @@
-Envoi annuel d'un email sur l'adresse personnelle de chaque citoyen avec dans le corps de l'email la synthèse des grandes lignes du budget de l'état et des liens dirigeant vers le détail de chaque domaine de dépenses. Mettre ses mêmes informations à disposition de chacun localement, par exemple dans les mairies, les bibliothèques municipales, etc. Illustrer par des exemples.

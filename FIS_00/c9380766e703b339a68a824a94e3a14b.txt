@@ -1,1 +1,0 @@
-Bien relier les impôts avec leur utilisation pour comprendre mieux où vont nos impôts. A quoi servent les taxes locales, l'impôt sur le revenu. Il serait même bon de pouvoir modéliser sur l'IR comment est affecté chaque euro à quel type d'utilisation. Il serait ainsi pertinent de poursuivre le travail effectué sur ce sujet de transparence sur la plateforme impot.gouv.fr

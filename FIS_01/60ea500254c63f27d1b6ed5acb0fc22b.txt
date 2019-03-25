@@ -1,1 +1,0 @@
-simplifier = réduire fortement le nombre de taxes et d'impôts, ne pas permettre les fortunes inconsidérées

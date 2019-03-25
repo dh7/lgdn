@@ -1,1 +1,0 @@
-- Allocations logement - plus généralement, remplacer toutes les conditions de situation (âge, domicile, chômage, etc) par des conditions de revenus

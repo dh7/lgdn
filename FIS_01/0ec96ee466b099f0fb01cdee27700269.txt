@@ -1,1 +1,0 @@
-Supprimer toutes les niches fiscales (abattements, exonérations, etc.) qui concernent moins de 100.000 personnes (seuil à définir). et en finir avec toutes les exonérations ou abattements de certains professions.

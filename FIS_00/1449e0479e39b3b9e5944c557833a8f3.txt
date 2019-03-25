@@ -1,1 +1,0 @@
-Un site internet du budget national par ministère avec un graphique exprimant la part et le montant par ministère, en cliquant sur chaque part du camembert on aurait les détails des dépenses de chaque ministère.

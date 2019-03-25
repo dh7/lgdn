@@ -1,1 +1,0 @@
-revoir l'APL en prenant en référence l'année N et non N-2 et revoir le calcul du quotient familiale pour qu'il soit adapté à la structure familiale

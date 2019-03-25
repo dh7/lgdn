@@ -1,1 +1,0 @@
-Une aide unique plutôt que de multiples allocations cumulables pour : 1- faciliter la gestion pour l'état 2- faciliter la demande pour le citoyen 3- Permettre un meilleur suivi et une aide plus efficace 4- Eviter les cumuls frauduleux 5- Eviter les dossiers long et ténébreux

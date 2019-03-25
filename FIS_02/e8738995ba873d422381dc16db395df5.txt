@@ -1,1 +1,0 @@
-La CSG et arrêter d'inclure une partie de la CSG dans la base de l'IR. Cela donne une mauvaise image de l'IR

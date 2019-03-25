@@ -1,1 +1,0 @@
-Calculer la cotisation retraite et les autres cotisations plafonnees sur la totalité des salaires et non sur le salaire plafonné de SS.  

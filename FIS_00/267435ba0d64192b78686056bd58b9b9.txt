@@ -1,1 +1,0 @@
-La mise à disposition d'une application avec des éléments graphiques visuels permettant de suivre en quasi temps réel l'utilisation des sommes collectées.

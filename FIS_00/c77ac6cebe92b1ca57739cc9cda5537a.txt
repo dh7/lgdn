@@ -1,1 +1,0 @@
-créer une plateforme qui montre clairement et simplement sous forme de camembert, la destination de l'impôt sous forme de pourcentage  (ex : la santé), .....  Puis pour chaque domaine le détail (ex : les hôpitaux privés, publics, les salaires

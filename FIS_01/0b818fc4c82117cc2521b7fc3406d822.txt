@@ -1,1 +1,0 @@
-S'assurer que personne ne fraude. Simplifier le système en réduisant le nombre d'exceptions et règles particulières. Limiter les héritages au-delà d'un seuil "raisonnable".

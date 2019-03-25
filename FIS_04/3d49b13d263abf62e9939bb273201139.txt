@@ -1,1 +1,0 @@
-regrouper les aides pour que le bénéficiaire ne court pas de service en service (guichet unique).  Attention au imbrication ville/région/nation qui font que des départements "riche" aident plus.

@@ -1,1 +1,0 @@
-Remplacement de la TVA par une "Taxe sur l'Empreinte Énergétique / Environnementale", dont le principe de transitivité serait le même, mais avec un transfert sur trois valeurs au lieu d'une : Euros, Joules et TEqCO2. Le solde serait payé en fin de chaîne de distribution, calculé selon des abaques sectoriels en fonction des optimisations possibles de chaque filière.

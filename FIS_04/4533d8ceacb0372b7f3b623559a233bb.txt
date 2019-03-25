@@ -1,1 +1,0 @@
-Toutes les aides social doivent être dégressive progressivement  : exemple pour un revenu de 0  à XXX on a 100% de l'aide ; de XXX€ à YYY€ on a 80% de l'aide ; de ZZZ à WWW on 60% de l'aide etc... Ceci permettra d'avoir une diminution progressive de l'aide. Ce qui permette de ne pas perdre la totalité de l'aide sociale suite a une augmentation de qu'elle que euros de revenu,

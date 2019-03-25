@@ -1,1 +1,0 @@
-Donner les chiffres des cotisations des impôts et les chiffres de leur utilisation par secteur.

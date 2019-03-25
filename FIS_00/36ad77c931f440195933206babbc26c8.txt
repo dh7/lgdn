@@ -1,1 +1,0 @@
-un bilan annuel lisible par tous des recettes et des dépenses de de l'année N-1 à l'occasion du budget de l'année N

@@ -1,1 +1,0 @@
-La TVA: deux niveaux de TVA peuvent être créés : un taux de TVA réduit sur les produits de première nécessité (alimentation par exemple) et une TVA majorée pour les produits de luxe.

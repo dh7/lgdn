@@ -1,1 +1,0 @@
-Vue notre montant de dépenses Publiques comparé aux autres pays, il y a forcément un problème d'efficacité. C'est ce qu'il faut regarder en priorité

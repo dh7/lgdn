@@ -1,1 +1,0 @@
-Site web avec accès à des graphiques croisés (cube décisionnel) ou il serait possible de faire des interrogations (requêtes au sens informatique) comme cette ressource ou cet ensemble de ressources sont allouées à quelles dépenses, idem en partant de la dépense pour voir quelles ressources ont servi.

@@ -1,1 +1,0 @@
-Supprimer les allocations des enfants placer. Ne donner qu'un moment au prorata du nombre de jours où l'enfant revient dans sa "famille"

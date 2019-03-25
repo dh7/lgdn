@@ -1,1 +1,0 @@
-Afficher la valeur de tous les services. Ex: le coût d'un mois de scolarité en maternelle, à l'université, le coût des médicaments et d'un passage aux urgences.

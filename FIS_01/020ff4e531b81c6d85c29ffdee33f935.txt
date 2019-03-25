@@ -1,1 +1,0 @@
-Agir sur l'IR en fonctionnant par tranches avec plusieurs sections d'IR cumulables, chacune avec un plancher minimum et un taux maximum pour toucher les plus hautes tranches de revenus. Exemple : J'ai un petit salaire, je paie l'IR. Mais si j'ai des revenus très importants, le taux de mon IR sera majoré jusqu'à 100% (= doublement du taux d'imposition maximum des petits salaires).

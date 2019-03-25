@@ -1,1 +1,0 @@
-Montrer un diagramme de la répartition des dépenses issues de l'impôt à chaque avis d'imposition et laisser symboliquement choisir sa propre répartition pour chaque contribuable. Sous la forme du volontariat.
