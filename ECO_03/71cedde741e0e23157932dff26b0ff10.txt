@@ -1,1 +1,0 @@
-Augmentation de la température la nuit, la longueur des périodes de sécheresse.

@@ -1,1 +1,0 @@
-Prise en compte de la résistance des structures des bâtiments.

@@ -1,1 +1,0 @@
-Augmentation du nombre de jours de pollution dans les grandes agglomérations. Diminution du nombre de jours d'enneigement dans nos régions de basses montages (inférieure à 1000m),  depuis un demi siècle.

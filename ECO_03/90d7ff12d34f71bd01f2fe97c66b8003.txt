@@ -1,1 +1,0 @@
-Pollution de l'air ambiante, visualisation des gaz lors des piques de pollutions, qui dégrade la santé.

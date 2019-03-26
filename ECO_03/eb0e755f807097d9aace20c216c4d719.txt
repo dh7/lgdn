@@ -1,1 +1,0 @@
-Augmentation des journées de  températures chaudes (30°) en été et en automne.

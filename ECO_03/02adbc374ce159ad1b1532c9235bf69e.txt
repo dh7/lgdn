@@ -1,1 +1,0 @@
-Choix du lieu de vie en fonction des prévisions de changements. Prix des assurences intègrent les aleas liés.

@@ -1,1 +1,0 @@
-Augmentation du nombre de jours avec phénomènes exceptionnels (températures, pluviométrie, vent).

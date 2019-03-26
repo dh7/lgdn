@@ -1,1 +1,0 @@
-Taxer les produits en fonction du lieu de production.  La taxe serait d’autant plus élevée que le lieu de production est éloigné (ex. : 1% par 1000 km).      Ceci pourrait permettre de réduire l’écart entre pays à bas coût de production et France.      Risque : Utilisation d’intermédiaire dans un pays limitrophe, de façon à réduire la taxation.
