@@ -4,8 +4,9 @@
     <style>
       body {
         font-family: "Lato", sans-serif;
+        margin: 0px
       }
-      
+
       .sidenav {
         height: 100%;
         width: 0;
@@ -54,26 +55,22 @@
         height: 100%;
         width: 100%
       }
-      
+
       h1 {
-        cursor:pointer
-        margin-block-start: 0px;
-        margin-block-end: 0px;
-        margin-inline-start: 0px;
-        margin-inline-end: 0px;
-        #padding: 50px;
+        cursor:pointer;
+        margin-top: 0px;
+        margin-bottom: 0px;
         margin-left: 20px;
         color: #111;
         font-size: 35px;
-      }      
+      }
 
       h2 {
-        #margin-left: 50px;
-        #padding: 50px;
+        margin-left: 20px;
         color: #222;
         font-size: 25px;
-      }      
-      
+      }
+
       @media screen and (max-height: 450px) {
         .sidenav {padding-top: 15px;}
         .sidenav a {font-size: 18px;}
@@ -104,22 +101,22 @@
 
 
       <a href="#" onclick="closeNav()">About</a>
-      
+
     </div>
 
     <div onclick="openNav()" class="main">
       <h1>&#9776; Toutes les questions et r&eacute;ponses du grand d&eacute;bat national</h1>
       <iframe name="dataviz"
-	frameborder="0"
-	style="overflow:hidden;height:100%;width:100%"
-	height="100%" width="100%"
-	src="https://storage.googleapis.com/lgdn/dataviz.html?prefix=FIS_05">
+        frameborder="0"
+        style="overflow:hidden;height:100%;width:100%"
+        height="100%" width="100%"
+        src="./dataviz.html?prefix=ECO_01">
       </iframe>
       <script>
         function openNav() {
           document.getElementById("mySidenav").style.width = "100%";
         }
-      
+
         function closeNav() {
           document.getElementById("mySidenav").style.width = "0";
         }

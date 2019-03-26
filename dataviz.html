@@ -52,7 +52,7 @@ limitations under the License.
     url_str = window.location.href
     var url = new URL(url_str);
     var prefix = url.searchParams.get("prefix")
-    
+
     // Get the question list
     var questions = []
     fetch(prefix + '/' + 'questions.json')
@@ -60,7 +60,7 @@ limitations under the License.
       .then(function(data) {
         questions = data
       });
-    
+
     // Create the deck object
     const {DeckGL, ScatterplotLayer} = deck;
 
@@ -69,27 +69,36 @@ limitations under the License.
         return [x, 0, 255-x]
     }
 
+    showTooltip = false
+
     function setTooltip(object, x, y) {
       const el = document.getElementById('tooltip');
       if (object) {
-        el.style.display = 'block';
-        el.style.visibility = 'visible';
-
-        el.innerHTML = ''
+        showTooltip = true
+        console.log(x +' ' + y)
         el.style.left = x+10;
         el.style.top = y-10;
-        fetch('./'+ prefix + '/' + object.h+'.txt')
+        fetch('https://storage.googleapis.com/lgdn/'+ prefix + '/' + object.h+'.txt')
+        //fetch('./'+ prefix + '/' + object.h+'.txt')
           .then(function(response) {
-                return response.text()
+            return response.text()
           })
           .then(text => {
-            el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+            if (showTooltip) {
+              el.style.visibility = 'visible';
+              el.style.display = 'block';
+              el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+              console.log(text.substring(0,20))
+            }
           })
           .catch(err => {
             console.log(err)
           })
-      } else {
-        el.style.display = 'none';
+        } else {
+          console.log('none',x +' ' + y)
+          el.style.display = 'none';
+          showTooltip = false
+          el.innerHTML = ''
       }
     }
 
