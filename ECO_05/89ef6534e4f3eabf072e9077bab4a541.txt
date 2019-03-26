@@ -1,1 +1,0 @@
-tri sélectif poussé et limitation de l'utilisation des transports à combustible (dont les achats ont pris en compte une faible puissance pour une cohérence de l'outil avec son usage)

@@ -1,1 +1,0 @@
-tri selectif( co-voiturage), limitation des déplacements en voitures. Eviter le remplacement des objets et favoriser leur réparation.

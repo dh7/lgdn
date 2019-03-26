@@ -1,1 +1,0 @@
-Usage d'un véhicule hybride, limitation de l'usage du véhicule, limitation de la vitesse en cas d'usage du véhicule (115 km/h sur autoroute, 80 km/h sur route)

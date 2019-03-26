@@ -1,1 +1,0 @@
-C'est a la source qu'il faut aller, pas au consommateur finale.

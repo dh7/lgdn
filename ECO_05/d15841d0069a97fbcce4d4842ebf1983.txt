@@ -1,1 +1,0 @@
--A mon petit niveau, j'effectue un tri des déchets (qui pourrait sans doute être amélioré) et j'utilise la déchèterie.  -J'essaie de limiter les déplacements en solo en véhicule (mais ce n'est pas si simple).

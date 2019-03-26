@@ -1,1 +1,0 @@
-Supprimer les périodes de soldes qui conduisent à la surconsommation (et empêchent d'acheter un T shirt au mois d'août, la collection d'hiver étant arrivée).

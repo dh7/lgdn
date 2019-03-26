@@ -1,1 +1,0 @@
-service de location de vélo-cargo(comme pour les Vélib) pour pouvoir transporter des enfants ou des courses  trouver plus d'endroits où rendre le verre consigné

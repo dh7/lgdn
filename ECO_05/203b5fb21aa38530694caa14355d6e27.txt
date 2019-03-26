@@ -1,1 +1,0 @@
-En faisant un maximum de trie et ne consommer que ce que l'on a réellement besoin. Arrêtons la surconsommation.

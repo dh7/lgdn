@@ -1,1 +1,0 @@
-Augmenter les taxes sur l'énergie, en fonction de leurs émissions de CO2 par kWh.  Me rationner : la France consomme 2000 TWh toutes énergies par an, soit 30 MWh/français. Me rationner à 10 MWh/an.

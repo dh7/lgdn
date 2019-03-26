@@ -1,1 +1,0 @@
-- chauffage : je vis dans un immeuble collectif et ne peut régler mon chauffage - manière de conduire : modèle économique à essence qui mesure la consommation instantanée, affiche une lumière rouge en cas de surconsommation, etc.. - utilisation de mon véhicule : pour les trajets non desservis par les transports en commun

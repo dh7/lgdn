@@ -1,1 +1,0 @@
-disposer de compteur électrique qui analyse la consommation et alerte. Le composteur devrait être obligatoire en campagne et avec une minoration sur la taxe d’enlèvement des ordures ménagères

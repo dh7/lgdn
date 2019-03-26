@@ -1,1 +1,0 @@
-Mise en place de structures et de communications efficaces. Exemple pour les trajets maison-travail un peu long : avoir une plateforme en ligne pour développer le co-voiturage. Transports en commun mieux optimisés.

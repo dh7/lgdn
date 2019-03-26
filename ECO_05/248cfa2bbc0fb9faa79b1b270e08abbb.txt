@@ -1,1 +1,0 @@
-Je fais: limitation des déplacements, tri des déchets, achats de productions locales. Je pourrais améliorer encore ces points et surtout la production de déchets et les achats locaux plutôt que de produits industriels, recycler plutôt que de jeter.

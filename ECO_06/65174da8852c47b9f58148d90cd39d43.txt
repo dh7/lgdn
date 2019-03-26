@@ -1,1 +1,0 @@
-Thermostat de chauffage plafonné dans tous les logements collectifs. Interdiction du chauffage collectif.

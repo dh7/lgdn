@@ -1,1 +1,0 @@
-CHAUFFAGE = S'habiller à la maison/au bureau de façon à pouvoir baisser la température Mon chauffage étant collectif, ma seule possibilité est que mon bailleur baisse de lui-même le degré de chauffage ou de ne pas l'allumer moi-même POLLUTION = Pas de voiture = tous mes déplacements sont donc la marche ou le transport en commun sous toutes ses formes

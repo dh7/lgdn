@@ -1,1 +1,0 @@
-Déjà conscientisé à cette problématique, j'utilise la programmation de notre système de chauffage selon les heures d'occupation de la maison. Réglage à 19°c

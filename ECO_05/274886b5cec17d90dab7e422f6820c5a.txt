@@ -1,1 +1,0 @@
-Création d'une application et d'un site web de formation au covoiturage à destination des élèves et des citoyens en besoin de mobilité dans les zones isolées.

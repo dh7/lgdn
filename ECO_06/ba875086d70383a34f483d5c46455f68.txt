@@ -1,1 +1,0 @@
-Couper la fourniture électrique quand un client (particulier, privé ou public) dépasse un seuil annuel, initialement fixé à 450 kWh/m2.an, seuil dégressif d'année en année jusqu'à atteindre 50 kWh/m2.an avant 2030.

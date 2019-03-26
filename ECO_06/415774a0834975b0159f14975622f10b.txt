@@ -1,1 +1,0 @@
-un référentiel simple montrant l'écart entre ma consommation et la consommation souhaitable en kw/m2/an ( bilan annuel) ou un au quotidien une programmation de chauffage basée sur des températures conseillées par pièce. je n'ai pas de voiture et prend le tram mais faciliter l'usage des vélos

@@ -1,1 +1,0 @@
-isolation, tri, loca-consommation, compostage recherche de la moins consommation energétique (chaudiere à condensation)

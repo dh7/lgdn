@@ -1,1 +1,0 @@
-Une appli mesurant la consommation de chacun et offrant un compte-rendu quotidien sur la signification de cette consommation en unités de pollution (pas évident ...). Des campagnes d'information, plus simplement, sur tous les aspects du problème.

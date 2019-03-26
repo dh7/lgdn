@@ -1,1 +1,0 @@
-Brider la vitesse des véhicules à la sortie d'usine. (On doit rouler au maximmun à 130 Km/h !!!)

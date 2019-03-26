@@ -1,1 +1,0 @@
-Un thermostat pour le chauffage réglé à 19, et variation en baisse de la température lors d'absence et la nuit. Je débranche les adaptateurs, et les appareils électriques annexes lors d'absence (TV, box, réveils...)

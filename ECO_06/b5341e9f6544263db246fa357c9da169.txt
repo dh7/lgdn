@@ -1,1 +1,0 @@
-limiter le chauffage dans les pieces qui ne sont pas ou peu utilisées.Programmer le chauffage.

@@ -1,1 +1,0 @@
-Développer le moteur à hydrogène. Le moteur électrique ne semble pas la solution (pollutions amont et aval, autonomie faible...)

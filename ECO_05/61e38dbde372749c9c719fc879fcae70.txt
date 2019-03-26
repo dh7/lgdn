@@ -1,1 +1,0 @@
-marche à pied pour les trajets courts, au lieu d'avoir recours à la voiture. Pour les autres trajets, utilisation d'une voiture à essence, et non diesel.

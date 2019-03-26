@@ -1,1 +1,0 @@
-La valeur d'exemple des états pour amplifier ce que personnellement j'essaye de mettre en oeuvre.

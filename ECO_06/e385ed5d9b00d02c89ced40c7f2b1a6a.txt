@@ -1,1 +1,0 @@
-Une information métrique sur la consommation en énergie des appareils autour de moi (ex:un compteur qui s'adapterai à chaque appareil et mesurait sa consommation réelle et que l'on pourrai comparer "j'utilise le fer à repasser ou le sèche linge") me permettrai d'adapter encore mes comportements

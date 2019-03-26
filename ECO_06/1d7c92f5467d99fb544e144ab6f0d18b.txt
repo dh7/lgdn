@@ -1,1 +1,0 @@
-Taxer les consommations au dessus d'un seuil .

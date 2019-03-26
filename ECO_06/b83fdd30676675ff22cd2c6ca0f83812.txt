@@ -1,1 +1,0 @@
-Une obligation de thermostat, relié à un contrôle, qui génère un impôt quand il fait trop chaud.

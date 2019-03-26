@@ -1,1 +1,0 @@
-tri, limiter mes déplacemnts en vehicule quand inferieur ou égal à 2 kms

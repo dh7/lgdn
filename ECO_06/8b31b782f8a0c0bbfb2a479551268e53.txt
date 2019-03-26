@@ -1,1 +1,0 @@
-Mon chauffage est toujours réglé à 19 quand nous sommes dans l'appartement et 17 la nuit.

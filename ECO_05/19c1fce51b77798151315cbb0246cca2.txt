@@ -1,1 +1,0 @@
-Mettre en place une " facturation " en fonction des volumes de dechets (volume d'ordures menageres pour les particuliers /niveau de pollution industriellepour les entreprises, agricole.....,ect )

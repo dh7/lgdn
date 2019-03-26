@@ -1,1 +1,0 @@
-OK := OUI pour les 3 exemples cités ci-dessus

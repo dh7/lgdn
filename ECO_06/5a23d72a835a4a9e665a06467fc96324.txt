@@ -1,1 +1,0 @@
-il faudrait avoir un appareil qui donne le prix de la consommation électrique en temps réel, par exemple un petit écran à poser sur un buffet ou fixé au mur. J'allume une ampoule le prix change et je le vois de suite, je suis immédiatement responsabilisé dans ce que ça me coute.

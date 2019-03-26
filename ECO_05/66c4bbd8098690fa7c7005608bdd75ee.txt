@@ -1,1 +1,0 @@
-Tri intelligent, déplacement utilisant des moyens alternatifs lorsqu’ils existent et que c’est possible

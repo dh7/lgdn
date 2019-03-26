@@ -1,1 +1,0 @@
-J'optimise les emballages et conditionnements afin de densifier le nb de produits par camion. Réalise le suivi du taux de remplissage des  40T (Le moins possible de camion sur les routes)

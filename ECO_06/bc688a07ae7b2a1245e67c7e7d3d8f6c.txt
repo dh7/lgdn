@@ -1,1 +1,0 @@
-Supprimer ma dépendance à un distributeur d'électricité en ayant recourt à un moyen de stockage de l'électricité permettant ainsi l'utilisation de panneaux  photovoltaïques.

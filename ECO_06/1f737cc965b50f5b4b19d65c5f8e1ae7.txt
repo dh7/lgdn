@@ -1,1 +1,0 @@
-Concernant la voiture des transports en commun efficaces bien que le calcul de la pollution soit biaisé. On considère la voiture avec un occupant et les transports en communs pleins lors des comparaisons de pollution. C'est faux.

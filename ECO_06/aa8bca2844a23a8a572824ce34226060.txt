@@ -1,1 +1,0 @@
-Une application simple me permettant de me déplacer à très bon tarif et simplement avec l’assurance d’avoir à toute heure un transport. Une grille permettant de m’indiquer vers quel choix de chauffage je dois aller, en prenant compte tous mes paramètres. Une communication permettant de traiter point par point et ainsi me faire prendre conscience de toutes les conséquences

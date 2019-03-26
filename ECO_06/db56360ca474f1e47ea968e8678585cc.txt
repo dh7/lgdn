@@ -1,1 +1,0 @@
-Avoir des factures détaillées par semaine comparativement à semaine -1 et année -1  plus suivi possible par appareil ou par pièce. Idem pour l’eau.

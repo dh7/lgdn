@@ -1,1 +1,0 @@
-Des outils de simulations personnelles de consommation de carburants ou d'électricité en fonction de changements de comportements (exemple chauffage à 19 degrés au lieu de 20, ou rouler à 80 KM/H au lieu de 90).

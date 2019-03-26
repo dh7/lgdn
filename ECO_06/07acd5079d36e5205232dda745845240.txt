@@ -1,1 +1,0 @@
-- l'inflation du coût est le seul paramètre qui changera radicalement les comportements

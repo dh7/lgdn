@@ -1,1 +1,0 @@
-Avertir le consommateur sur la distance parcourue par le produit. Taxer les produits selon la distance parcourue avant l'achat final. Le lointain doit devenir un luxe, et le prix de ce luxe doit être récupéré par l'état.

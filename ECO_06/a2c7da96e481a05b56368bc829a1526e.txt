@@ -1,1 +1,0 @@
-developper des services de mini-bus parcourant les villes ou villages à heures fixes et en nombre tout au long de la journée. campagne promotionnelle pour rappeler l'avantage de la marche pour la santé par exemple.

@@ -1,1 +1,0 @@
-Developper les transports en commun gratuits ( c’est possible et c’est fait à Dunkerque). Organiser le covoiturage quand le transport en commun n’est pas possible: développement d’applications pour localiser des personnes qui souhaitent covoiturer.

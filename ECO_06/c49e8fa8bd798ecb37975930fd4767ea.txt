@@ -1,1 +1,0 @@
-Moduler le prix des péages routiers en fonction de la vitesse moyenne calculée entre 2 péages, moduler le prix de la taxe foncière/habitation en fonction de la performance énergétique du logement

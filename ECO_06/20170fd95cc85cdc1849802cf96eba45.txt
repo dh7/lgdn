@@ -1,1 +1,0 @@
-- Communiquer sur la consommation d'essence en fonction du comportement routier (à telle vitesse telle consommation, ou information sur les modes de conduite pour baisser la consommation) - fluidifier les routes - installer des radars supplémentaires pour que les limitations de vitesses soient respectées, mais avec une exemption pour la première effraction.

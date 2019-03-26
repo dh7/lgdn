@@ -1,1 +1,0 @@
-un service mis en place par un regroupement de communes pour les déplacements courts (inférieur à 5Km)

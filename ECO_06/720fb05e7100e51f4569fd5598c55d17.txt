@@ -1,1 +1,0 @@
-Instaurer des primes bonus/malus en fonction de la consommation moyenne annuelle d'un foyer (adaptée au nombre de personne et habitat)

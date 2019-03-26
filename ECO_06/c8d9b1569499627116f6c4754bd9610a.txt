@@ -1,1 +1,0 @@
-Chauffage => liste de réparateur agréé avec prix fixe. Une carotte... comme une aide financière si pas de voiture.

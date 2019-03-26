@@ -1,1 +1,0 @@
-Mise en place d'indicateurs en temps réel et facilement accessibles, qui permettraient de suivre le résultat des efforts faits un peu comme les indices boursiers (ex : baisse consommation énergétique des ménages, poids des déchets recyclés, litres de carburant économisés....)

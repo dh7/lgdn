@@ -1,1 +1,0 @@
-- Développer la domotique afin d'améliorer les réglages des appreillages consommateur d'énergie. - Développer un réseau de transport urbain (collectif ou non) à énergie uniquement renouvelable (par contre adapté en terme de fréquence et de destination, c'est à dire bien largement supérieur à celui d'aujourd'hui hors Paris et banlieue) qui supplante le véhicule personnel.

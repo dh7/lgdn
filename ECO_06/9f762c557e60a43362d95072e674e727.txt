@@ -1,1 +1,0 @@
-Un système de bonus-malus sur les factures d'électricité, de gaz, d'eau en fonction des quantités consommées par personne. Une assurance automobile au kilomètre.

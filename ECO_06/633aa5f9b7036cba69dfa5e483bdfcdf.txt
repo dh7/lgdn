@@ -1,1 +1,0 @@
-Adapter les villes et le code de la route aux autres véhicules que la voiture. Elles ont été pensées pour les voitures, réduisons un peu la place de ce type de transport. On stationne 10 vélos sans problème sur une seule place de stationnement voiture.

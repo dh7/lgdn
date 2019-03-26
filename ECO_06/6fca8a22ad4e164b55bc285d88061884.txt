@@ -1,1 +1,0 @@
-- Des bonus à l'utilisation du covoiturage (cartes carburant, trajets autoroutes moins chers si le conducteur prend des covoitureurs xx fois, et pour les passagers, un covoiturage gratuit au bout de xx covoiturages) - Des bonus liés aux non dépassement de plafond de consommation électrique par foyer

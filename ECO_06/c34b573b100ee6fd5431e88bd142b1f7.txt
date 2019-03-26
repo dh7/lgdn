@@ -1,1 +1,0 @@
-Je dispose déjà d'un tableau de bord quotidien de mon chauffage (consommation, rendement chaudière, indice de comportement, courbe de tendance pour alerter sur les dérives).

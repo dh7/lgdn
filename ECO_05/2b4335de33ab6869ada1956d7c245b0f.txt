@@ -1,1 +1,0 @@
-consommation raisonnée + tri selectif + limitation des déplacements inutiles

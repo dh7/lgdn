@@ -1,1 +1,0 @@
-Pour changer de comportement il faudrait avoir un état beaucoup plus impliqué pour ne pas ce croire seul face à ces problème.

@@ -1,1 +1,0 @@
-Le tri sélectif, le remplacement de tous les éclairages par des éclairages à LED.

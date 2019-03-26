@@ -1,1 +1,0 @@
-Concernant la limitation des vitesses:Obliger les constructeurs de voitures à intégrer des systèmes communicant avec des balises en bords de routes afin de déclencher des alarmes sonores à chaque dépassements de vitesse autorisée

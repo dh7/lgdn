@@ -1,1 +1,0 @@
-Exemple : Augmenter les taxes sur le pétrole, mais diminuer en même proportion celle sur l'électricité, afin de passer aux véhicules électriques. Mais pas tout augmenter en même temps.

@@ -1,1 +1,0 @@
-- le prix de l'énergie utilisée pour le chauffage / le prix de l'essence - jeu/classement en temps réel des consommations des habitants d'un quartier/immeuble ou d'un groupe d'automobilistes -> par exemple sous la forme d'une appli mobile partenaire du bailleur immobilier / constructeur automobile / employeur de salariés se rendant au travail en voiture

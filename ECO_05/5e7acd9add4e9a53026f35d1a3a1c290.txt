@@ -1,1 +1,0 @@
-1) Trie des déchets quotidien 2) Tout déplacement jusqu’à 10 km de fait à vélo ou en pied si on y arrive en5 minute

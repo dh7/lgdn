@@ -1,1 +1,0 @@
-La régulation automatique de la vitesse maximale des véhicules en fonction de la signalisation en place.

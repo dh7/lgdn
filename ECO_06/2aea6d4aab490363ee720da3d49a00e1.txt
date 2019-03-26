@@ -1,1 +1,0 @@
-Remise en place des trains et voies ferrées pour pouvoir se déplacer de manière collective. Le prix du transport ne devrait pas dépasser le prix d'un voyage en voiture pour 2 personnes afin que cela incite à prendre les transports en commun

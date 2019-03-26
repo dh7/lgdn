@@ -1,1 +1,0 @@
-Une application qui comptent mes pas parcourus, pour les transformer en avoirs pour ma mutuelle. Bouger plus, cotiser moins.

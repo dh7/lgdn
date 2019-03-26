@@ -1,1 +1,0 @@
-Développer un système de jeux intégré aux automobiles pour gratifier le conducteur de points en fonction de sa conduite, (idem pour le chauffage...)

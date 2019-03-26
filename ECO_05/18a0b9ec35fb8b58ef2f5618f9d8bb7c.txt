@@ -1,1 +1,0 @@
-Tri sélectif autant que possible même si cela pourrait certainement être amélioré.

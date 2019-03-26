@@ -1,1 +1,0 @@
-Marcher au lieu de prendre la voiture pour tous les déplacements inférieurs à 2 kms.

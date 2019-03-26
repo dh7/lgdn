@@ -1,1 +1,0 @@
-Baisser le prix du kWh lorsqu'il est constaté que notre conso est en baisse par rapport à l'année précédente

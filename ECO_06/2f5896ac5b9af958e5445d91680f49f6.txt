@@ -1,1 +1,0 @@
-Pour le chauffage, on pourrait imaginer un prix non linéaire du kWh diminuant le prix des premiers kWh consommés et augmentant le prix pour les "gros consommateurs" d'électricité

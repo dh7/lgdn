@@ -1,1 +1,0 @@
-Des modes alternatifs simples mis à ma disposition (par exemple un outil simple expliquant en quoi tel changement de comportement peut avoir un impact - et lequel- et comment changer facilement ce comportement).

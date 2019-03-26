@@ -1,1 +1,0 @@
-Amélioration des transports en commun (prix, fréquence, saturation, jonction avec d'autres modes de transport comme le tram); collecte des déchets (plutôt que de tous aller en déchetterie);

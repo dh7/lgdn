@@ -1,1 +1,0 @@
-Hiérarchiser les modes de transport : 1) la marche 2) le velo 3) les transports en commun 4) les transports individuels

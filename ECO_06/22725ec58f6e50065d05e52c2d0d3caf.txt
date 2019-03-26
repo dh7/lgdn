@@ -1,1 +1,0 @@
-Il faut mettre des contraintes sur les comportements que l'on souhaite faire évoluer (par exemple réduire le nombre de parking) ET proposer des ressources pour que chacun puisse trouver une solution. (Par exemple des parkings relais, des locations de vélos...) Il faut penser le ratio contraintes/ressources pour chaque domaine.

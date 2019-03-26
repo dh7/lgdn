@@ -1,1 +1,0 @@
-Tarif dégressif du prix des KWH ( gratuit pour tous les 100 premiers KWh , puis un tarif qui monte par tranche de 100 KWh

@@ -1,1 +1,0 @@
-Autoriser seulement la construction de maisons autonomes maintenant , connaissant les paramètres , les matériaux plus performants actuels.

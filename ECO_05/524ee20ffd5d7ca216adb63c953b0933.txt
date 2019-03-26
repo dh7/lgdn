@@ -1,1 +1,0 @@
-Trie des déchets avec mise en place d'un composteur pour récupérer les déchets alimentaires.

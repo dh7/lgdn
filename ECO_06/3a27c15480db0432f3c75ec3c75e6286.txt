@@ -1,1 +1,0 @@
-Déjà mis en place pour la voiture, mais impossible de s'en passer en zone rurale. Modération de la température des pièces.

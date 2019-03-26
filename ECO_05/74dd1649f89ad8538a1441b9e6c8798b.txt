@@ -1,1 +1,0 @@
-- changement de véhicules anciens et diesel pour un seul récent essence - chauffage maîtrisé: chaudière fioul coupée lorsque les températures sont positives et relayée par un poêle à pellets

@@ -1,1 +1,0 @@
-Amélioration de la gestion des déchets, du tri et du recyclage. Aucun rejet dans l'environnement des plastiques par exemple.  Ne plus autoriser la fabrication d'objet qui intrinsèquement par leur qualité de fabrication ne permet pas de les garder en état de fonctionnement pendant plus d'une saison (supprimer le consommable, le jetable)

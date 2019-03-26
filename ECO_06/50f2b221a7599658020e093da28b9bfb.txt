@@ -1,1 +1,0 @@
-Développement des transports collectifs et des applications pour mettre en relation les individus cherchant à se déplacer, aide à l'automatisation des réglages de température des locaux d'habitation et de travail.

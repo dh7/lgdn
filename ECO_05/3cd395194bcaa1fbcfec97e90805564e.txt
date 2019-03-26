@@ -1,1 +1,0 @@
--	Auto-limitation des voyages lointains pour éviter les émissions de polluant -	Attention aux provenances des achats en magasins -	Déplacements en vélo ou à pied -	Limitation de l’achat de nouveau matériaux/objets

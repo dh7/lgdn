@@ -1,1 +1,0 @@
--	Moduler la TVA en fonction de l’origine du produit : taux faible pour une origine régionale / taux moyens moins pour origine nationale / taux médian pour origine européenne / taux fort pour origine hors UE

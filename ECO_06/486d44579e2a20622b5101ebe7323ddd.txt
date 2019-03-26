@@ -1,1 +1,0 @@
-Proposer des solutions alternatives simples et expliquer comment les mettre en oeuvre

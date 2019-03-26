@@ -1,1 +1,0 @@
-Tous les tris possibles, limitation des déplacements en voiture, respect des limitations de vitesse, limitation de la consommation énergétique, consommation de produits locaux et de saison, circuit court dans tous les domaines possibles, etc

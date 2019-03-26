@@ -1,1 +1,0 @@
-Concernant le chauffage la solution de Q-rad me parait très intéressante. Les data center consomme énormément d'énergie pour leur refroidissement. La solution Q-rad est un serveur de données décentralisé et individuel qui valorise cette chaleur émise. Malheureusement je n'ai pas accès au THD (fibre par exemple) nécessaire à sa mise en œuvre dans ma commune rurale.

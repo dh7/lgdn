@@ -1,1 +1,0 @@
-payer les vignettes cri-air et adapter la circulation en fonction de cette vignette.  par exemple, interdiction des vignette cri-air 4 et plus au centre ville.

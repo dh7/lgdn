@@ -1,1 +1,0 @@
-Faire limiter les gros consommateurs avec un prix proportionnel à la consommation.

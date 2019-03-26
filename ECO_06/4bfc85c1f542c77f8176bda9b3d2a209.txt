@@ -1,1 +1,0 @@
-arrêter le voiture n'est possible que si l'état propose une alternative avec un vrai maillage territorial (trains, bus etc) avec des horaires adaptés aux modes de vie

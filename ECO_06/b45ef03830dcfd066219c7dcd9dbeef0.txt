@@ -1,1 +1,0 @@
-Globalement le chauffage s'arrête la nuit et fonctionne avec détection de présence pour la partie électrique.

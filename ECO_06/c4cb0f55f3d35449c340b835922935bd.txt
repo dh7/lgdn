@@ -1,1 +1,0 @@
-Pensez à développer les transports en commun ( bus et train ). Par exemple, je suis obligé d'utiliser mon véhicule à Saint-Malo car j'attendrais trop longtemps en un car et un autre et perdrais des revenus.

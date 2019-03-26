@@ -1,1 +1,0 @@
-Trier les déchets; tendre vers le moins de déchets possible.

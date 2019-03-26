@@ -1,1 +1,0 @@
-regrouper mes sorties en véhicule, éviter les heures d'affluence (entrées/sorties "bureaux", écoles), changement de mode de chauffage

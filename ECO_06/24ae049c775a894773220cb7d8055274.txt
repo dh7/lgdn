@@ -1,1 +1,0 @@
-mise à disposition de réseaux de moyens de transport inter-connectés avec temps d'attente < 5mn et durée totale du trajet ne dépassant pas 25% de durée supplémentaire par rapport à la voiture

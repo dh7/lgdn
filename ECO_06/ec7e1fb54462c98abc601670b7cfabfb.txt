@@ -1,1 +1,0 @@
-Valicité le développement d'infrastructure de type vélib, trotinette electrique dans les villes. Crée un crédit d'impot pour la mise en place d'aide a la gestion de chauffage (Thermostat connecté).

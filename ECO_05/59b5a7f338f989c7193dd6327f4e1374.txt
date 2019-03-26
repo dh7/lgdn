@@ -1,1 +1,0 @@
-Deux voitures, l'une au GPL, l'autre hybride. Tout l'éclairage au LED, géré par un automate détectant la présence dont le scénario change en fonction des plages horaires de présence (minuterie, télérupteur). Aucun chauffage depuis 2012, nous sommes au-dessus d'un hammam.

@@ -1,1 +1,0 @@
-un système loi pinel pour changer de chauffage pour les "classes moyennes", un système sur les véhicules alertant d'une consommation dépassant la moyenne et qui engendre de la pollution (bip sonore et visuel facultatif)

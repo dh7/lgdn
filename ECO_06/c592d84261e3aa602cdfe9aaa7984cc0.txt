@@ -1,1 +1,0 @@
-Organiser un système de covoiturage simple et efficace pour les trajets courts (domicile-travail) à la façon de blabla-car.

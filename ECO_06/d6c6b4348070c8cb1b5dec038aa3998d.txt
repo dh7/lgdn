@@ -1,1 +1,0 @@
-Un meilleur maillage de transports en commun - Des services d'auto-partage electrique dans les villes (type Autolib, CityScoot, Coup) - Géneralisation des thermostats/compteur intelligents programmable (e.g. Nest)

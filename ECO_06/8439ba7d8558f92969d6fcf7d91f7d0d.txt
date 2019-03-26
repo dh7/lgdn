@@ -1,1 +1,0 @@
-Un système de vignette automobile prenant en compte à la fois les revenus du ménage et l'impact du véhicule. Couplé à un dispositif incitatif pour changer de véhicule, cette taxation aurait l'avantage de proposer une alternative aux ménages en capacité d'investir vers des véhicules plus propres sans prendre en otage les ménages (ou travailleurs) aux revenus plus limités.

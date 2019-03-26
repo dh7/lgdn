@@ -1,1 +1,0 @@
-J'utilise déjà un mix de transports en fonction du trajet : vélo pour les petits déplacements, moto pour les déplacements plus importants, auto pour les déplacements à plusieurs.

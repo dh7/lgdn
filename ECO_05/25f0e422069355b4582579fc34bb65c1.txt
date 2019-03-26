@@ -1,1 +1,0 @@
-- Chauffage électrique programmable pour ne chauffer que lorsque je suis présent. - Utilisation d’une voiture hybride ou à hydrogène. - Utilisation d’un vélo quand la météo le permet.

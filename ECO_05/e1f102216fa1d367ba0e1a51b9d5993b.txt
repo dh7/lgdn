@@ -1,1 +1,0 @@
-Réduction de l'utilisation du véhicule dès que c'est possible (groupage du besoin de déplacement vers la ville). Réduction de l'utilisation de l'eau quand c'est possible (duche et non bain, arrosage du jardin par réserve d'eau de pluie). Respect de la récolte différenciée des déchets (y compris compost) Contrôle de la température du chauffage et de l'eau chaude. Pas de clim.

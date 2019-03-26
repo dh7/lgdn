@@ -1,1 +1,0 @@
-Renoncer à la voiture pour les distance < à 4 kms  (le premier km  coûte 1€ au démarrage)

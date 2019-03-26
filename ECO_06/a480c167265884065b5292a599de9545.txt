@@ -1,1 +1,0 @@
-Un télérelevé avec une application smartphone (avec un scan à faire quand vous empruntez les transports) qui permet de déclarer à l'état le nombre de kilomètre réalisé / mois en transport en commun. Si vous dépassez le seuil des kms, l'état finance une partie de votre abonnement aux transports en communs avec un chèque transport.

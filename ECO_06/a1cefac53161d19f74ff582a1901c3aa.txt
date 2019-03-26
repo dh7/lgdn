@@ -1,1 +1,0 @@
-Affichage tous les ans et de manière détaillée du taux de pollution de chaque entreprise ou entité avec évolution.

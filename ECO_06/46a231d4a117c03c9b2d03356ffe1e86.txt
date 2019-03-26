@@ -1,1 +1,0 @@
-Coupler toutes les véhicules à moteurs à un limitateur de vitesse coupler au GPS afin de faire respecter les limitations dans les villes

@@ -1,1 +1,0 @@
-Limiter la consommation d'énergie liée au chauffage (je coupe le chauffage quand la température ambiante atteint les 18°). Développer des services de taxi dans le cas où les transports en commun ne sont pas rentables.

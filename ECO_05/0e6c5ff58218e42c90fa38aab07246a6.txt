@@ -1,1 +1,0 @@
-Sobriété numérique en veillant à ne pas stocker inutilement des données importantes en volume - Encouragement à l'usage de solutions alternatives dans les pratiques quotidiennes -

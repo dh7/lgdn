@@ -1,1 +1,0 @@
-Rigueur dans le tri sélectif. Réduction des déplacements.

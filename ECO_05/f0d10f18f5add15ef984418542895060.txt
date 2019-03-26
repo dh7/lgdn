@@ -1,1 +1,0 @@
-Je trie les déchets, achats dans des commerces de proximité, attention aux produits alimentaires achetés. J'aimerais intégrer une logique zéro déchet, mais en ville c'est difficile.

@@ -1,1 +1,0 @@
-Développer le nombre de petites lignes de trains et diminuer le cout des billets plutôt que prendre le bus dont l'impact carbone est significativement plus important que celui du train.

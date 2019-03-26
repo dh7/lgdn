@@ -1,1 +1,0 @@
-Créer pour les bâtiments (maisons, immeubles, bâtiments industriels, sports, spectacles, etc...) un contrôle de bon fonctionnement comme pour les véhicules. Cela validera la suppression totale de la taxe d'habitation.

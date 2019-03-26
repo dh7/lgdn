@@ -1,1 +1,0 @@
-Actuellement je fais du tri sélectif. On pourrait rendre les étiquettes des différents produits plus lisibles (A,B,C... une lettre pour l'emballage et une lettre pour le contenu: présence de pesticides, d'ingrédients potentiellement nocifs...)

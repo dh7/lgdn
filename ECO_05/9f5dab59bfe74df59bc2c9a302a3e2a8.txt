@@ -1,1 +1,0 @@
-Le tri sélectif est en place mais pourrait être amélioré. Il faudrait rendre obligatoire  les compteurs d'eau individuels et rendre plus lisibles les aides pour les travaux d'isolation.

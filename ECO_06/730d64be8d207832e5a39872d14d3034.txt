@@ -1,1 +1,0 @@
-Mettre à dispositions des outils de suivi clairs et en temps réel de la consommation (pour la consommation d'électricité, de gaz, d'eau) avec une conversion visuelle en argent. Il existe des données fournies par EDF ou autre mais cela manque de simplicité pour avoir un impact.

@@ -1,1 +1,0 @@
-controler les prix de vente des composants économisant l'énergie (ex::le même chauffe-eau solaire du même fabricant est deux fois plus cher en France qu'en Italie)

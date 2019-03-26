@@ -1,1 +1,0 @@
-Pou la voiture, moduler la vitesse en fonction du profil de la route (70, 80, 90, 100km/h) et ne plus imposer des changements de vitesse incessant quitte à fixer un tronçon à 70km/h par exemple alors qu'actuellement on passe de 70km/h à 80 puis de nouveau à 70km/h Pour le vélo, supprimer une voie de circulation en ville pour faire une piste cyclable dans chaque sens

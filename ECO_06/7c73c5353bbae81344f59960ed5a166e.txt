@@ -1,1 +1,0 @@
-Un moteur de voiture est dimensionné pour une vitesse nominale de 90 km/h. Rouler à 80 km/h le fait travailler en sous-régime et donc il pollue. C'est d'ailleurs pour cela que la voiture pollue en ville, parce qu'elle est en sous-régime.  Pour moins polluer et moins consommer sur le log terme, une voiture doit rouler à 90km/h.

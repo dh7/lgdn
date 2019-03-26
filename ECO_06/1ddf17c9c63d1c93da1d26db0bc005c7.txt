@@ -1,1 +1,0 @@
-Généraliser le comptage individuel de chauffage dans les appartements. Calculer une consommation type au m2 en fonction de la région et de l'emplacement et taxer le dépassement.  Interdire le chauffage électrique.

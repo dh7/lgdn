@@ -1,1 +1,0 @@
-La consommation de chauffage est optimisée le plus possible avec des coupures en cas d'absence. Cela peut toutefois être amélioré (température plus faible en cas d'absence).

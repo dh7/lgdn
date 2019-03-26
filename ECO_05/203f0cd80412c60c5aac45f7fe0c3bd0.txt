@@ -1,1 +1,0 @@
-1. Tri des déchets. 2. Contrôle des consommation électriques (led, etc...) 3. Isolation pour permettre la diminution des consommations électriques. 4. Profiter des en-rayonnements

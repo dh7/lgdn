@@ -1,1 +1,0 @@
-optimiser le tri sélectif, favoriser les productions locales

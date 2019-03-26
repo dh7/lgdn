@@ -1,1 +1,0 @@
-Recyclage de tous les déchets et achats sélectionnés en fonction des emballages. Mais il y en a beaucoup trop que l'on ne peut pas éviter : sur-emballages cartouches encre par exemple.

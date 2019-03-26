@@ -1,1 +1,0 @@
-Marche à pied et vélo pour les courts trajets si le temps le permet. Respect des limitations de vitesse surtout en cas de pic de pollution

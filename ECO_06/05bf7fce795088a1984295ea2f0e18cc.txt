@@ -1,1 +1,0 @@
-Instituer un système de Bonus-Malus qui récompense les comportements qui vont dans le sens de l'économie et dissuade ceux qui vont vers la consommation.
