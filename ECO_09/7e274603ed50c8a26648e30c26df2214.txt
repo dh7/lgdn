@@ -1,1 +1,0 @@
-Aides pour : - ___ajout panneaux photovoltaiques + batteries pour faire fonctionner de la PAC  (economie de puissance pour EDF) - ___ajout systeme de double flux -___ ajout arrivée d'air rechauffé a l'entrée de la PAC  ( via puits canadien

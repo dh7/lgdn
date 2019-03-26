@@ -1,1 +1,0 @@
-Compteurs individuels dans chaque appartement de l'immeuble pour responsabiliser les propriétaires et locataires.

@@ -1,1 +1,0 @@
-Mettre des seuils de consommation (électricité, eau) au delà duquel les tarifs augmentent.

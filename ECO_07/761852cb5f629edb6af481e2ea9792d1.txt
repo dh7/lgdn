@@ -1,1 +1,0 @@
-un déplacement en train devrait toujours être compétitif avec un déplacement en voiture  (même si la voiture est remplie!) ou en bus faciliter l'utilisation train/voiture électrique

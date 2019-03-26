@@ -1,1 +1,0 @@
-Les systèmes de bonus/malus semblent bien fonctionner. Attention, l'ensemble des malus récoltes doivent être redistribués sous forme de bonus et ne doivent pas servir à un autre budget de l'état.

@@ -1,1 +1,0 @@
-Je ne vois pas bien, mais je pense que cela aurait à voir avec une sorte de mutualisation au niveau local.

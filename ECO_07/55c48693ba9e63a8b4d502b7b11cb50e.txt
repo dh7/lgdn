@@ -1,1 +1,0 @@
-Faire un tarif qui évolue à l'inverse de la consommation, y compris l'abonnement. Celui qui chauffe moins paye moins , abonnement compris.

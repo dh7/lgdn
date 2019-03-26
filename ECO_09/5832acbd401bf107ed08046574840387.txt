@@ -1,1 +1,0 @@
-Habitant dans une grande ville, il serait intéressant de récupérer la chaleur générée par les métros, les centre data, les incinérateurs etc... Et s'en servir pour chauffer même partiellement les immeubles urbains... Ca existe déjà mais à développer d'urgence !!!

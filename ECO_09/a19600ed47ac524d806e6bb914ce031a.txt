@@ -1,1 +1,0 @@
-Un pull et des fenêtres mieux isolées.

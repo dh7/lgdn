@@ -1,1 +1,0 @@
-impossible, le mode de construction ancien ne permettant pas un changement sauf à détruire et reconstruire.

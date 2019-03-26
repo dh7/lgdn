@@ -1,1 +1,0 @@
-Un contrôle en fin de travaux avec non paiement du professionnel si le résultat annoncé n'est pas atteint.

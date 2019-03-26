@@ -1,1 +1,0 @@
-Le chauffage collectivement réglé devrait ne pas fonctionner en continue mais seulement à certains créneaux horaires où le réseau d'électricité est moins utilisé pour répartir la consommation globale dans la journée, au lieu qu'il y ait des créneau où on utilise énormément d'électricité et d'autre où on en gâche car elle n'est pas utilisée.

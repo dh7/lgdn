@@ -1,1 +1,0 @@
-Généraliser le système du bonus malus en cherchant l’équilibre entre les malus qui payent les bonus.

@@ -1,1 +1,0 @@
-Gestion intelligente des chauffages au moment des pics de consommation pour retarder les appareils électriques de chauffe (radiateurs, chauffe-eau, bouilloire, période chauffe dans cycles des machines à laver, fer à repasser, et.)

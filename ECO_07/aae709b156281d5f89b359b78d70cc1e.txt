@@ -1,1 +1,0 @@
-Bonus malus sur les prix en fonction de la distance entre lieu de production et lieu de consommation

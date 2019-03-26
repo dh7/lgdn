@@ -1,1 +1,0 @@
-augmentation des coût du KWh au delà d'un seuil minimum par habitant qui correspondrait aux besoins de base.

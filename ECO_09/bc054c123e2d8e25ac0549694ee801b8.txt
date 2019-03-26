@@ -1,1 +1,0 @@
-j'ai un chauffage au gaz avec récupération des vapeurs... il faudrait pouvoir changer facilement en amont la source d’énergie exemple : bois, Electricité, gaz, fioul, panneaux.

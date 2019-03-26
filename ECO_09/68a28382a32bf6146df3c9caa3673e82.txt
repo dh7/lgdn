@@ -1,1 +1,0 @@
-Prendre en compte le cas des biens loués.

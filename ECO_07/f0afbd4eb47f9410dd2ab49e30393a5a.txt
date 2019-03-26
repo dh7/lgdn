@@ -1,1 +1,0 @@
-CONTRAINDRE = Diminuer la largeur des routes en milieu urbain et péri-urbain, et réduire les vitesses de circulation automobile.

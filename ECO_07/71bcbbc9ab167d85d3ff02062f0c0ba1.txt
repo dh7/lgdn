@@ -1,1 +1,0 @@
-Baisses ou augmentations des factures en cas de sous consommation ou sur consommations par rapport à la moyenne (par foyer calculer sur le nombre d’habitant et la superficie du logement vs la Conso moyenne des français)

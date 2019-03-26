@@ -1,1 +1,0 @@
-Mises en place d'un système bonus/malus (exemple avec la pesée des déchets dans certaines communes).

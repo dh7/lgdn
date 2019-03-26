@@ -1,1 +1,0 @@
-Augmentation du coût le l'énergie, mais en tenant compte des transports contraints par des aides ad-hoc (professionnels, médicals, ...)

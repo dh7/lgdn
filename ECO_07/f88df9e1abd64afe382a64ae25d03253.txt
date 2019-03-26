@@ -1,1 +1,0 @@
-développer les services type velib et autolib dans les viles de taille moyenne, les tarifs devant être compétitifs par rapport à la voiture utilisée par une seule personne.

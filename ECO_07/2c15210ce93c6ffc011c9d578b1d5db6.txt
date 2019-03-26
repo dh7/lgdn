@@ -1,1 +1,0 @@
-Instaurer une TVA modulable en fonction de l'impact environnemental du produit. Toute augmentation de TVA doit financer la baisse de TVA sur un autre produit (Bonus/malus étendu).

@@ -1,1 +1,0 @@
-Suppression TA sur dépenses d'amélioration, suppression droits de mutation sur ventes de logements classés A ou B en DPE.

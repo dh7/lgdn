@@ -1,1 +1,0 @@
-l'état devrait être acteur et non pas seulement un gentil producteur de recommandations qui n'ont pas d'impact sur l'économie

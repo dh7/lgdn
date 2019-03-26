@@ -1,1 +1,0 @@
-Une simplification de l'administration et de la commande des travaux d'isolation thermique.

@@ -1,1 +1,0 @@
-Réduire le prix des prestations Chaque commune affiche les prix des prestataire de la commune et sur le site web de la commune.

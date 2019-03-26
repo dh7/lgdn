@@ -1,1 +1,0 @@
-Imposer un poids minimum d'emballage par rapport au poids net du produit.

@@ -1,1 +1,0 @@
-revoir le cout du relèvement des déchets en fonction du poids et de la qualité du tri. Taxe sur les emballages non recyclables + imposer aux industriels de s'assurer de l'existence de solution de recyclage avant de lancer de nouveau emabllages

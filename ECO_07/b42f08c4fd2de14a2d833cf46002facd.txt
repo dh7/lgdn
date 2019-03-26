@@ -1,1 +1,0 @@
-Obliger les constructeurs de voiture à développer des voitures économiques (objectif 1 litre/100km) ou à pile à combustible.

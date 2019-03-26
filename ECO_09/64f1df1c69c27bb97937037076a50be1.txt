@@ -1,1 +1,0 @@
-simplifier grandement les aides, les rendre vraiment accessibles au lieu de créer des exceptions partout

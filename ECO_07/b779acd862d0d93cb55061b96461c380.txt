@@ -1,1 +1,0 @@
-- Vignette pour indiquer le nombre de places disponibles, ouvertes au partage de trajet, sur les véhicules

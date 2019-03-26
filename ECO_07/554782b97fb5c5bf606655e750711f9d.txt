@@ -1,1 +1,0 @@
-avec le principe de pollueur/payeur, la régulation se fait d'elle-même :  - les produits nocifs augmentent ( prise en compte de la pollution et de son traitement ),  - les produits plus sains n'augmentent pas, voire diminuent puisque l'assiette augmente

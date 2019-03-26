@@ -1,1 +1,0 @@
-Obliger les constructeurs à garantir des équipements avec une longue durée de vie.

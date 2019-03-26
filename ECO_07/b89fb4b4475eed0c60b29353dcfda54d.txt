@@ -1,1 +1,0 @@
-Payer en fonction de la consommation pour électricité par exemple. Actuellment la partie fixe est trop importante par rapport consommation.

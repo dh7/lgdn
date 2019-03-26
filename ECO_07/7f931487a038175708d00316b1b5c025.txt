@@ -1,1 +1,0 @@
-Primes exceptionnelles (à limiter dans le temps pour créer l'effet) et taxes pour les comportements pollueurs.

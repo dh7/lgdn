@@ -1,1 +1,0 @@
-Je vis dans un appartement où le chauffage se régule tout seul en fonction de la température ambiante. Si je programme une certaine température, le chauffage s'y tient, et il n'y a donc pas de surplus de consommation d'énergie (et donc de surprise sur la facture).

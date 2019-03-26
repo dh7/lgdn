@@ -1,1 +1,0 @@
-mettre les capteurs thermo dans d'autres pieces que la piece principale . Isoler les murs et permettre le deploiement de "cheminées canadiennes"

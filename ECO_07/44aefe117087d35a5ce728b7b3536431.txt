@@ -1,1 +1,0 @@
-Obtenir une aide lorsqu'un quota de déplacement n'est pas réalisé.

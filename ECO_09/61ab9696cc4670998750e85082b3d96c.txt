@@ -1,1 +1,0 @@
-Installation avec multi-capteurs au lieu d'un seul

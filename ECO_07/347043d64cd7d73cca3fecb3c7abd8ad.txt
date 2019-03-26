@@ -1,1 +1,0 @@
-Avoir un coût proportionnel à la consommation. Exemple carburant : pour une distance de 10 km parcourue, 10 euros par litre pour quelqu'un qui consomme 10 litres, 15 euros par litre pour quelqu'un qui consomme 15 litres.

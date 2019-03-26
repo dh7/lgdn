@@ -1,1 +1,0 @@
-Fruits et légumes Origine France : afficher prix d’achat au producteur en plus du prix de vente. Ainsi les consommateurs se feront une idée très claire de la marge totale à répartir entre les divers intermédiaires.

@@ -1,1 +1,0 @@
-Dans mon cas, il ne s'agit pas de changer le mode de chauffage (la chaudière de l'immeuble a été changée récemment) mais de pouvoir tenir compte des consommations réelles par appartements. Idem pour l'eau froide et l'eau chaude.

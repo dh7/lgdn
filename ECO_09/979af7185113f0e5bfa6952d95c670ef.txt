@@ -1,1 +1,0 @@
-Pour l'instant je ne l'envisage pas car nous adaptons la température de notre logement à notre présence ou pas et limitons la température maximale à 19 °.

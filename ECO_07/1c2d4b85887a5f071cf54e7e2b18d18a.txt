@@ -1,1 +1,0 @@
-Comme expliquer précédemment, ne pas simplement faire un système d'amendes en cas de dépassement des seuils de consommation, mais y ajouter un système de bonus (avec réduction sur le prix actuel) en cas de consommation inférieur aux seuils ou de trie supérieur aux seuils

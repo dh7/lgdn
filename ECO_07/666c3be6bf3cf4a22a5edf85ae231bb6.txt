@@ -1,1 +1,0 @@
-réduire le cout du train pour les trajets non répétitifs ( un abonnement par exemple).

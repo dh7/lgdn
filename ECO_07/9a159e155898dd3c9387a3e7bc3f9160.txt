@@ -1,1 +1,0 @@
-Moduler les péages en fonction du nombre de personnes dans la voiture. Augmenter les parkings relais pour le covoiturage près des barrières de péage des autoroutes.

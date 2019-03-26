@@ -1,1 +1,0 @@
-Mise en place d'un thermostat automatisé en fonction de l'heure et de chaleur mais sans a avoir à changé la chaudière actuellement (cela serrait absurde)

@@ -1,1 +1,0 @@
-Un tri plus simple selon les villes (pas évident partout, pas identique partout)

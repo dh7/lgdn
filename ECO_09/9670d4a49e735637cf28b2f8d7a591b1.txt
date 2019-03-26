@@ -1,1 +1,0 @@
-Déduire du loyer le coût du changement de radiateur pour le locataire (à la charge du locataire).

@@ -1,1 +1,0 @@
-une application téléphonique permettant de calculer la distance parcourue en vélo et à pied au quotidien qui permettrait d'obtenir une prime d'état au déplacement alternatifs puisque j'utilise les routes, je reste en meilleur santé et je ne pollue pas

@@ -1,1 +1,0 @@
-Multiplier les fréquences de bus et des trains. Les trains sont souvent complets.

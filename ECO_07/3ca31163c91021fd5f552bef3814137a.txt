@@ -1,1 +1,0 @@
-Beaucoup de solutions n'ont pas de coût (ex. tri sélectif) les promouvoir

@@ -1,1 +1,0 @@
-Etant donné le temps passé par un véhicule au garage : supprimer ma voiture.  Favoriser le partage de véhicules ou les véhicules autonomes

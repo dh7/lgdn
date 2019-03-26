@@ -1,1 +1,0 @@
-Obliger les nouvelles contructions a utiliser des puits thermiques sauf en cas d'impossibilités. La preuve de l'impossibilité devra être prouvé.

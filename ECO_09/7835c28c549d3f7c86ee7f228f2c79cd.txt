@@ -1,1 +1,0 @@
-Chauffage collectif CPCU dans mon cas: il faudrait optimiser la répartition de la chaleur et le contrôle de la température, et s'en tenir aux 19°C recommandés.

@@ -1,1 +1,0 @@
-Mon mode de chauffage utilise l'aerothermie et le chauffe-eau est thermodynamique même s'il existe sûrement encore plus performant, pour l'instant je reste ainsi.

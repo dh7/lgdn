@@ -1,1 +1,0 @@
-Que les offices HLM isolent correctement les logements déjà existants et les futurs logements.

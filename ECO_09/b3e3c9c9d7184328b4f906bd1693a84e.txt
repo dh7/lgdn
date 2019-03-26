@@ -1,1 +1,0 @@
-Chauffage électrique dépendant du mode de production de l'électricité.

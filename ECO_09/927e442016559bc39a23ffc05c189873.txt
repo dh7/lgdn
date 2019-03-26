@@ -1,1 +1,0 @@
-Déduction du prix total de la facture sur les impôts sur le revenu ou pas d’imposition durant 4 ans.

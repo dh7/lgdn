@@ -1,1 +1,0 @@
-Baisser les tarifs du train grande ligne (calculer en fonction des kilomètres parcourus et non de la fréquentation)

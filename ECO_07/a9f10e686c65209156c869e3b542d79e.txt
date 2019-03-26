@@ -1,1 +1,0 @@
-revoir le système de prime qui est trop aléatoire et fluctuant dans le temps  une aide devrait être allouée en pourcentage, proportionnellement aux revenus et non une aide globale

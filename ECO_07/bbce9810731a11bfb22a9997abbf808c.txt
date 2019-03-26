@@ -1,1 +1,0 @@
-TVA modulée: réduite sous un certain seuil de dépense d'énergie, augmentée progressivement au delà

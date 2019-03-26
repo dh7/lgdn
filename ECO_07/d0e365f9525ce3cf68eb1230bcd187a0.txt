@@ -1,1 +1,0 @@
-facturer les fluides à la consommation en supprimant le coût des abonnements : ceux qui consomment peu payeront peu, et pas un abonnement qui représente plus que le coût de la consommation.

@@ -1,1 +1,0 @@
-Payer son abonnement de train en fonction de son quotient familial et de sa proximité géographique du réseau SNCF.

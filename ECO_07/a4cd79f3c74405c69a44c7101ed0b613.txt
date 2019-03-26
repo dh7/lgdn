@@ -1,1 +1,0 @@
-Faire une TVA dégressive pour les produits vertueux et une TVA augmentée d'un malus pour tous les produits nocifs à l'environnement

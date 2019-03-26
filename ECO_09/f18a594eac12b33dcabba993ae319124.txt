@@ -1,1 +1,0 @@
-Payer ses charges en fonction de sa consommation propre en eau chaude et chauffage. Rendre obligatoire les mesures par appartement.

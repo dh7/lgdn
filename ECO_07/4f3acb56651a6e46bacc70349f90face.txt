@@ -1,1 +1,0 @@
-- attribuer une  prime même si on est imposable et que cette prime soit le même montant pour ceux qui paye des impôts (occasion ou neuf) et acceder au credit plus facilement car actuellement ce n'est pas le cas

@@ -1,1 +1,0 @@
-Une application sur laquelle je pourrais trouver les horaires et les destinations de tous les transports en communs de France (en déplacement on ne pas télécharger une application par ville et par mode de transport) avec une carte contact unique pour accéder à tous les transports avec une note de frais mensuelle unique)

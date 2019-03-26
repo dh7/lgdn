@@ -1,1 +1,0 @@
-Un plan vélo pour les villes, la mise en place de navettes autonomes. Une application pour mettre en relation les gens qui se rendent au travail par le même trajet, afin de faciliter le covoiturage.

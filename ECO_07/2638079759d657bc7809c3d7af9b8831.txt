@@ -1,1 +1,0 @@
-Mettre en place un système de « caution » : si je dépenses peu d’energie ou juste ce qui est prévu , je récupère ma caution (que je remets en jeu) si je dépasse mon quotas... ma caution m’est rendu avec une moins-value

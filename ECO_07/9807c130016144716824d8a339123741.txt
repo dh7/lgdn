@@ -1,1 +1,0 @@
-Augmentation de la taxe carbone avec une compensation pour les foyers les plus modestes Interdiction des véhicules dans les centre_villes Obliger les co-propriétés à voter en priorité les travaux de rénovation thermique Dans les immeubles de co_propriété, obliger l'installation de compteurs individuels pour le chauffage et l'eau chaude

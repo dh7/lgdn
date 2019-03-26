@@ -1,1 +1,0 @@
-simplifier les aides, les faire gérer directement par les fournisseurs

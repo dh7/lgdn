@@ -1,1 +1,0 @@
-Les fournisseurs alerte le client par rapport à la consommation moyenne par puissance contractuelle.

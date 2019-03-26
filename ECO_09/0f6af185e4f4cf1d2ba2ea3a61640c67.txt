@@ -1,1 +1,0 @@
-Fixer le niveau de chauffage max pour les immeubles collectifs à 18°C puis chacun module

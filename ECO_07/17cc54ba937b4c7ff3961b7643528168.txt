@@ -1,1 +1,0 @@
-Conduite : limiteurs de vitesse sur toutes les voitures et activés par défaut (même s'ils doivent rester déconnectables) - Indicateurs d'éco-conduite pertinents sur le tableau de bord, en permanence

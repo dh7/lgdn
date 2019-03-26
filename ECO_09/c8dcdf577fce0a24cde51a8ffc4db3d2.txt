@@ -1,1 +1,0 @@
-Il n'est pas utile de tout changer quand cela fonctionne, ni de faire une analyse de cycle de vie par foyer pour voir quelle est la meilleure solution... gardons du bon sens et proposons la "meilleure solution" à ceux qui doivent changer.

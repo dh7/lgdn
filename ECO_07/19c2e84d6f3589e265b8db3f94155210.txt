@@ -1,1 +1,0 @@
-Mise en œuvre de quotas énergétique, en deçà du quota énergie moins cher au dessus énergie plus cher. Mise en œuvre d une TVA évolutive en fonction de l énergie grise.

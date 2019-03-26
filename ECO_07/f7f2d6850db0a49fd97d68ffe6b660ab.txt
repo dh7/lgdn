@@ -1,1 +1,0 @@
-Mise en place d'un système de bonus malus sur la consommation d'électricité par exemple par rapport à la consommation moyenne d'un foyer similaire au mien.

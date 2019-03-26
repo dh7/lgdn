@@ -1,1 +1,0 @@
-simplifier les solutions de thermostat connecté pour que ce soit accessible au commun des mortels.

@@ -1,1 +1,0 @@
-Créer une voiture basique sans option coûtant 6000 € et consommant moins de 3l/100km.

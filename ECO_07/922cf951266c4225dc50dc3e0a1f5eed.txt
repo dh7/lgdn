@@ -1,1 +1,0 @@
-- alimentation : faire payer plus chers les aliments ne respectant pas certains critères de production ou d'acheminement écologiques - transport : faire payer plus cher les modes de transport les plus polluants (voitures, avion) - tri des déchets : taxer le défaut de tri sélectif

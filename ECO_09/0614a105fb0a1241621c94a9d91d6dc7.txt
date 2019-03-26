@@ -1,1 +1,0 @@
-Baisser la température. On pourrait en fonction de la situation géographique, du système de chauffage et de la note du bâtiment proposer un tarif variable qui assure un tarif faible pour une consommation "normal" et un tarif qui évoluerait fortement en fonction des excès.

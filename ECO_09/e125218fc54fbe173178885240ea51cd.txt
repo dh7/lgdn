@@ -1,1 +1,0 @@
-implémentation d'une pompe à chaleur avec la chaudière à condensation à gaz en coupure.

@@ -1,1 +1,0 @@
-Tarifer nos consommations énergétiques avec une grille de type exponentielle. Plus je consomme, plus mon KWatt moyen est cher.

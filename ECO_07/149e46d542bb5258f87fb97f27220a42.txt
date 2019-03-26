@@ -1,1 +1,0 @@
-Mettre en place une sorte de bonus malus pour moduler le prix de l'immobilier dans l'existant en fonction du DPE. Aujourd'hui cela ne fait pas baisser le prix de l'immobilier, alors qu'une baisse permettrait avec les économies réalisées de faire des travaux de rénovation.

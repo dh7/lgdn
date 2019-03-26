@@ -1,1 +1,0 @@
-Question très basique, il est impératif de dépasser l'aspect cout...nous n'avons plus le choix

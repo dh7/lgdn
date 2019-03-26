@@ -1,1 +1,0 @@
-Factorisation des circuits courts en alimentation et développement des réseaux de transport.

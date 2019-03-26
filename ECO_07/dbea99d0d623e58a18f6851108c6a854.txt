@@ -1,1 +1,0 @@
-Adapter/limiter les déplacements en voiture lorsque cela est possible

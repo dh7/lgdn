@@ -1,1 +1,0 @@
-Moduler le prix des énergies ou du ramassage poubelle en fonction de mon utilisation. Si j'ai un quota de dépense en eau annuel qui dépend du nombre de personne dans mon logement et que je le dépasse, alors je paie le double.

@@ -1,1 +1,0 @@
-Un taux de TVA variable en fonction des l'empreinte carbone. Exemple, plus de taxes sur le fioul que le gaz. Une TVA (ou autre taxe mais avec une variation nulle moyennée sur tous les produits) dépendant du lieu de production.

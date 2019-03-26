@@ -1,1 +1,0 @@
-- défiscalisation plus lisible : sur le prix TTC posé (et pas sur le prix des équipements uniquement)

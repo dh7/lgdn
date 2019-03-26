@@ -1,1 +1,0 @@
-Mettre en place un système de bonus / malus, pour encourager les bonnes pratiques, et pénaliser les mauvaises.

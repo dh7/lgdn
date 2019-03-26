@@ -1,1 +1,0 @@
-Etant en chauffage de collectivité, il serait judicieux de pouvoir modifier la consommation de chauffage en fonction de nos présences ou absences.

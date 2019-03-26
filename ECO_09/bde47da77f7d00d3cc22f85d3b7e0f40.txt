@@ -1,1 +1,0 @@
-chauffage collectif en immeuble assez puissant peu optimisé vu qu'il fait très chaud même en hiver

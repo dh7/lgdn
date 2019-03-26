@@ -1,1 +1,0 @@
-- Interdire les voitures en centre ville ! - Faire des tests "radicaux" dans certaines villes  : exemple : interdiction des voitures 1 dimanche par mois + 1 lundi par mois; - De la même façon qu'on honore les arts en remettant des Césars ou des Molières on pourrait remettre des "Hulot" aux meilleures initiatives locales

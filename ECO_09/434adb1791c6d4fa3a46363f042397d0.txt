@@ -1,1 +1,0 @@
-Simulation numérique en rentrant nos données personnelles, en choisissant notre plan de rénovation et en voyant au bout de combien d'années cette solution est rentable (ce n'est pas très compliqué et facilement compréhensible).

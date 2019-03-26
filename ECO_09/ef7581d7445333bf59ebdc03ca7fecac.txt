@@ -1,1 +1,0 @@
-Donner un plafond de consommation énergétique en kWh par mètres carrés et par an.

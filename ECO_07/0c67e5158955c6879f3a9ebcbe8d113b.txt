@@ -1,1 +1,0 @@
-Un suivi temps réel de la consommation de notre foyer en eau, électricité, gaz + la définition de seuils de consommation raisonables et la surtaxation en cas de déssement de ces seuils

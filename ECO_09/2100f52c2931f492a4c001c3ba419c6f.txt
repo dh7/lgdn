@@ -1,1 +1,0 @@
-...mais une installation peut toujours être améliorée (Petit rappel thermodynamique, mais à vérifier : une PAC eau/eau c'est en théorie un COP de 5, c'est à dire qu'avec une dépense d'un kWh électrique vous produisez quatre kWh thermiques)

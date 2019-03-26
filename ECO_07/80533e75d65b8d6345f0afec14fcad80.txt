@@ -1,1 +1,0 @@
-Réduction automatique des impots sous forme de bons d'achat. Par exemple, je déclare mes impots, je sais devoir en payer 2000, et là l'état me propose de convertir cette somme en véhicule électrique.

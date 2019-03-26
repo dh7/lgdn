@@ -1,1 +1,0 @@
-Rationner l'énergie sur la base du nombre de personnes par famille.

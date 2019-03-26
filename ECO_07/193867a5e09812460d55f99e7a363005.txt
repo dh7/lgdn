@@ -1,1 +1,0 @@
-- Créer un bonus malus pour les particulier, consistant à baisser les charges pour les foyers produisant moins de déchets ou triant les déchets. Pour ce faire, les poubelles doivent être nominatives et équipées de puces (poubelles intelligentes).

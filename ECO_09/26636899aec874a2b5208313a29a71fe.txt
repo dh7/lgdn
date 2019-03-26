@@ -1,1 +1,0 @@
-Appliquer un bonus - malus sur les modes de chauffage (en fonction de leur rendement et de leur source d'énergie) : - à la vente des équipements - à la vente et la location des logements

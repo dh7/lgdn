@@ -1,1 +1,0 @@
-Faire accepter une température de confort inférieure à 19°.

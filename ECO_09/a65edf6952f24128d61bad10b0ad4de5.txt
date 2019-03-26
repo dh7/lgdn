@@ -1,1 +1,0 @@
-Empecher les locations avec seulement un chauffage électrique.

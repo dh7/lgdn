@@ -1,1 +1,0 @@
-Faire en sorte que les aides ne soient pas accaparées par les installateurs

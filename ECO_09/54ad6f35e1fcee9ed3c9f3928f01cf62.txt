@@ -1,1 +1,0 @@
-Développer les capacités de stockage des panneaux solaires. Actuellement pas de stockage d'énergie et une taille encore trop grande pour un résultat convenable.

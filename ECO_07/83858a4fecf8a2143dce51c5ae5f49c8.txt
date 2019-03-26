@@ -1,1 +1,0 @@
-Tarifs exponentiels en fonction de la dépense énergétique. Moins je consomme plus je sous paye, plus je consomme plus je sur paye... etc.

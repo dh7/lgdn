@@ -1,1 +1,0 @@
-le chauffage ne doit pas etre controller pour tout un building. chaque apartement devrait controler son propre chauffage et limiter la consomation a 10 minutes pas jour dans les jours les plus froids.

@@ -1,1 +1,0 @@
-Retrait taxe et prime déductible immédiatement des montants lors de la commande.

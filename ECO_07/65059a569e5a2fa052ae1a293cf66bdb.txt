@@ -1,1 +1,0 @@
-établissement d'un bonus malus sur les factures de conso d'eau, d’électricité et de gaz en fonction de la composition du foyer -> mettre un tarif plancher, puis augmenter les tarifs si conso +++

@@ -1,1 +1,0 @@
-- respect des températures dans les différentes pièces de l'habitation => être plus rigoureux dans la gestion du chauffage

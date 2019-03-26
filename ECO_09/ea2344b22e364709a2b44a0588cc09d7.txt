@@ -1,1 +1,0 @@
-Généraliser les solutions de type "QARNOT" qui propose un chauffage gratuit en récupérant la chaleur de data centers. Egalement la géothermie.

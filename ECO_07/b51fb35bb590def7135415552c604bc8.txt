@@ -1,1 +1,0 @@
-Assurer les vélos tout en créant un système permettant de diminuer l'assurance voiture en contrepartie de l'utilisation du vélo. Augmenter l'autonomie des voitures électriques et créer des stations de " batterie électrique " (type station essence) afin de sécuriser les trajets les plus longs.

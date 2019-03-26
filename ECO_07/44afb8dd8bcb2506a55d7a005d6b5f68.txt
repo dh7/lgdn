@@ -1,1 +1,0 @@
-Imposer aux constructeurs de véhicules que les rapports de boîtes de vitesses soient adapté à nos limitations de vitesses. Généraliser une boîte 6 vitesses sur les véhicules pour réduire les régimes moteur, donc la pollution.

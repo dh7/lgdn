@@ -1,1 +1,0 @@
-- instaurer un système de prix dégressifs (ou de récompenses, cadeaux, avantages...) des transports en commun en fonction de la fréquence d'utilisation (comme une  carte de fidélité)

@@ -1,1 +1,0 @@
-Que les prix des tickets de bus soient proportionnels au trajet.

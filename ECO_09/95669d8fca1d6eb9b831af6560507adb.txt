@@ -1,1 +1,0 @@
-limiter le cout du matériel et de la pose  en encadrant les prix, au moins sur un type de matériaux éprouvé

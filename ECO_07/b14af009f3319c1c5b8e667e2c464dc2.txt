@@ -1,1 +1,0 @@
-instituer un système de bonus/malus en fonction de la quantité d'énergie consommée (système basée sur un suivi des consommations de chaque foyer)

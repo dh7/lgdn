@@ -1,1 +1,0 @@
-Une taxe sur les ordures ménagères individualisée. Avec un système de bonus malus. Exemple code barre par foyer. Même pour les déchèteries.

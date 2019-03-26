@@ -1,1 +1,0 @@
-Augmenter les taxes à l'importation et tenir compte de l'éloignement. Plus le produit arrive de loin, plus la taxe est élevée. Cela éviterait le dumping et permettrait de mettre des taxes sur les énergies égales pour tous les français, mêmes les productifs qui sont en concurrence avec les produits importés.

@@ -1,1 +1,0 @@
-Fonctionner à fiscalité constante, c'est à dire si on crée ou augmente une nouvelle taxe il faut en supprimer ou diminuer une ancienne en ayant le souci de ne pas transférer une taxe sur une population au détriment d'une autre.

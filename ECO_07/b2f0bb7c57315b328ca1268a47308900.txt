@@ -1,1 +1,0 @@
-Mise en place d'une taxe carbone en fonction du taux d'émission en g/kWh de CO2 du lieu de production du produit.

@@ -1,1 +1,0 @@
-Système bonus/malus sur l'énergie dépensée dans les maisons en fonction du nombre d'habitants. Pour les propriétaires en intégralité. Pour les locations partage du bonus/malus entre locataires et propriétaires.

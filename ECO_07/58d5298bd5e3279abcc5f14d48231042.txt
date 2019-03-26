@@ -1,1 +1,0 @@
-Il faudrait obliger les constructeurs à interdire l'obsolésence programmé du matériel

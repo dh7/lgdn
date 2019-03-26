@@ -1,1 +1,0 @@
-tout est question de cout, développer un système de primes et/ou de réduction d'impôts progressif

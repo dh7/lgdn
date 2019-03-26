@@ -1,1 +1,0 @@
-tarification de l'énergie en fonction des consommations.

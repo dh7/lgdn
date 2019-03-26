@@ -1,1 +1,0 @@
-Taxer de manière exponentielle les consommations excessives d'énergie (en fonction des moyennes), taxer les produits et consommations polluants "de luxe" (véhicule 4x4, piscine privée...)

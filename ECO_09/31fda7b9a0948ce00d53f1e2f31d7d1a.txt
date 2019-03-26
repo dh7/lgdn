@@ -1,1 +1,0 @@
-C’est décrit plus haut, et il serait même simple d’ajouter des moteur Stirling individuel, ainsi le chauffage produirait aussi l’éclairage durant son fonctionnement.

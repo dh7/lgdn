@@ -1,1 +1,0 @@
-Mettre en place une TVA variable en fonction de degré de consommation des équipements et des voitures

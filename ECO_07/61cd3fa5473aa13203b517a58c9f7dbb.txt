@@ -1,1 +1,0 @@
-Modifier les conditions d'obtention d'un vélo auprès de son employeur. On devrait pouvoir en bénéficier quelle que soit la distance.

@@ -1,1 +1,0 @@
-Locataire HLM. Dépend de la régie.

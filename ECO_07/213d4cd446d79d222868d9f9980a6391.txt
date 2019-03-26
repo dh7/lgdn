@@ -1,1 +1,0 @@
-Payer un Prix fixe pour un forfait de kwh dans son logement (100m² = 10000 kwh) et quand on le dépasse de 10 % on paye son Energie 10% plus cher ! et ainsi de suite

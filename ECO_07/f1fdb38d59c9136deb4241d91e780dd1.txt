@@ -1,1 +1,0 @@
-définir pour chaque immeuble avec une base de référence de 5 ans une consommation énergétique pour le chauffage et l'eau chaude sanitaire à partir de laquelle une augmentation sensible du coût sera déclenchée en cas de dépassement par rapport à la référence calculée en degrés jours

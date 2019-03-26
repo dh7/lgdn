@@ -1,1 +1,0 @@
-Payer le juste prix en fonction du vrai prix du transport dans tous les objets de consommations

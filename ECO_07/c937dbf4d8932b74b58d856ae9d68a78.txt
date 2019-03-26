@@ -1,1 +1,0 @@
-monnaie locale (pour des dépenses locales : nourriture, activité, transport ...), française (pour des dépenses française : nourriture, activité, énergie, transport ...) et européenne (pour des dépense européen : tourisme, nourriture, transport ...) pour hiérarchiser les dépenses

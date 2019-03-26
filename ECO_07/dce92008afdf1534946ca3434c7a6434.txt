@@ -1,1 +1,0 @@
-Afficher le cout carbon et energétique de tout produit

@@ -1,1 +1,0 @@
-Les solutions permettant non pas de substituer des modes de déplacements par d'autres, mais de supprimer les déplacements.

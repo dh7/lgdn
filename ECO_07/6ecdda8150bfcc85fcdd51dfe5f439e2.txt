@@ -1,1 +1,0 @@
-remplacer le véhicule diesel et le véhicule essence par un seul : un véhicule hybride par exemple

@@ -1,1 +1,0 @@
-Disposer d'une appli qui m'indiquerait, en fonction de mes déplacements, de ma consommation de gaz, d'électricité, mon empreinte CO2 et mes progrès par rapport aux objectifs COP 21.

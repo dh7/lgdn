@@ -1,1 +1,0 @@
-Un bonus/malus énergétique : déclaration de sa consommation énergique et eau annuelle puis imposition via un barème.

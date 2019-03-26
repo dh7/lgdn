@@ -1,1 +1,0 @@
-un "bonus" sur les factures d'énergie en fonction des résultats sur la baisse de consommation.

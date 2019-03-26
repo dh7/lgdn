@@ -1,1 +1,0 @@
-compteur intelligent comprenant l'entrée dans un moment de pic de consommation pour différer les appareils consommateur d'énergie (tout ce qui concerne la chauffe : radiateur électrique, chauffe-eau, bouilloire électrique, cycle de chauffe des machines à laver, fer à repasser, etc.) : par exemple deux maisons coordonnées et la chauffe se fait alternativement par tranche de temps

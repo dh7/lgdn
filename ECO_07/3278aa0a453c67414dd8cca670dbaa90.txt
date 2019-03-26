@@ -1,1 +1,0 @@
-Développer les mesure de diagnostic thermique (déperditions) par drone dans chaque commune et publier des comparatifs de consommation afin de convaincre de l'utilité d'isoler.

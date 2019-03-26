@@ -1,1 +1,0 @@
-- Supprimer les abonnements à un service d'énergie (plus d'abonnement EDF) et indexer le pris du KWatt/h sur la quantité consommée - Que mon employeur participe -comme à Paris- à 50% à mes dépenses de transport.

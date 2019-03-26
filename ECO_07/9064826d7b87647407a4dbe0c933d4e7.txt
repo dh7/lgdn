@@ -1,1 +1,0 @@
-Exemple : l'état propose aux contructeurs automobiles de cesser la fabrication de diesel dans un délai de 6, 8 ou 10 ans selon les possibilités techniques, sociales, etc.. Plutôt qu'une taxe sur le diesel, cela entrainera nécessairement un abandon des véhicules diesel.

@@ -1,1 +1,0 @@
-Équilibrage des prix par rapport à la quantité du bien polluant consommée. Plus la quantité achetée est importante, plus le tarif au kilo ou litre est élevé.

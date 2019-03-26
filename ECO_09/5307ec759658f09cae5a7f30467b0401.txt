@@ -1,1 +1,0 @@
-Un diagnostic chiffré systématique pour comparer les différentes solutions, avec estimation des coûts d’instal et des coûts de conso.

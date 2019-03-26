@@ -1,1 +1,0 @@
-Les constructeurs devraient mettre un dispositif sur tous les véhicules (camions, bus, train, voiture) pour que le moteur s’arrête lorsque le véhicule est arrêté.

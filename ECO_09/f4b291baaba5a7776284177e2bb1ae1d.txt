@@ -1,1 +1,0 @@
-Un questionnaire permettant aux foyers de facilement identifiers les moments pendant lesquels il faut chauffer et les moments ou ce n'est pas nécéssaire. Et intégrer un contrôle du chauffage dans beaucoup de foyer pour leur permettre de régler précisément le chauffage.

@@ -1,1 +1,0 @@
-Un prix de l’électricité progressif au-delà d'un seuil de consommation défini par le nombre d'habitants et la surface.

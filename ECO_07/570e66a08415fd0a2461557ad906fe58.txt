@@ -1,1 +1,0 @@
-Internaliser les externalités environnementales de chaque mode de transport dans les prix unitaires.

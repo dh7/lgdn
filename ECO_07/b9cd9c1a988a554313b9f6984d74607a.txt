@@ -1,1 +1,0 @@
-Avoir une application qui ''trace'' mes calories ou énergie consommée, avec un challenge de baisser le tout. Gagner un bonus  en dessous d'un seuil de consos

@@ -1,1 +1,0 @@
-Rendre la facture EDF plus simple d'analyse (permettre à ceux qui le veulent d'améliorer leur mode de consommation d'énergie). Mettre en place des quotas (dépendants du profile des habitants et du type de logement) au delà desquels le KWH coûte plus cher (pénaliser ceux qui gaspillent).

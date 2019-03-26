@@ -1,1 +1,0 @@
-- Une plateforme de simulation qui montre les gains d'économies réalisées para rapport à l'investissement (dans tous les domaines: voiture, chauffage, isolation...). - Prêt à taux 0 (et pas seulement pour le chauffage).

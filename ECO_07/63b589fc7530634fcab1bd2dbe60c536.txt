@@ -1,1 +1,0 @@
-Avoir un compteur carbone lié à notre consommation kilométrique, de chauffage et d’electrIcité. Cela serait une app sur smart phone qui pourrait calculer cela de manière quasiment automatique. Ensuite, ce nombre pourrait rentrer dans notre empreinte carbone. Il y aurait un incentif financier si ce nombre diminuait.

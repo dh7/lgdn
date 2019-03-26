@@ -1,1 +1,0 @@
-- exclure les entreprises et artisans qui ne sont pas de vrais professionnels avec des contrôles obligations et des fonds débloquer par l'état

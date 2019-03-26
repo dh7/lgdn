@@ -1,1 +1,0 @@
-Mettre en places des aides pour le chauffage en fonction des régions. ici on chauffe 8 mois de l'année alors que d'autres régions chauffent 3 ou 4 mois

@@ -1,1 +1,0 @@
-modifier le calcul des aides sans effet de seuil mais dégressives en fonction des revenus et l'appliquer aux résidences secondaires qui tôt ou tard doivent être revendues

@@ -1,1 +1,0 @@
-Action a développer en fonction de la situation géographique par la région, le département, la métropole, la commune et enfin l’état

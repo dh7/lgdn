@@ -1,1 +1,0 @@
-Prendre en compte la dépense déjà effectuée pour le système précédent si il a moins de 10 ans et la déduire du prix de la nouvelle installation

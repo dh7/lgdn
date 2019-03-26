@@ -1,1 +1,0 @@
-A ce jour notre comportement respecte l'environnement avec les règles en vigueur aujourd'hui. Si l'état modifie les règles il doit assumer les frais liés à ce changement.

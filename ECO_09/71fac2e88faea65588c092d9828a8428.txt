@@ -1,1 +1,0 @@
-il faudrait généraliser un réseau de fluide caloporteur ramifié comme le réseau d'assainissement, dans lequel on pourrait puiser de la chaleur pendant l'hiver et en rejeter l'été

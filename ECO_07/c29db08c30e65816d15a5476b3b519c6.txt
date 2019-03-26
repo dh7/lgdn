@@ -1,1 +1,0 @@
-Nous avons deja change nos comportement. Nos lumieres s'eteignent automatiquement lorsque nous quittons une piece. Elles s'allument automatiquement quand nous rentrons dans une piece. Nous utilisons des WC Japonais pour une meilleure hygiene et une utilisation minimale du papier hygienique. Nous utilisons des produits naturels pour nettoyer la vaisselle et le linge.

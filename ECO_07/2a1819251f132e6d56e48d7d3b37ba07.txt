@@ -1,1 +1,0 @@
-Obliger les constructeur automobile a changer leurs véhicule pour proposer automatiquement des véhicules au minimum hybride. Mettre en place des consigne sur toutes les types de bouteille et les boites de conserve (sous forme de bon d'achat du supermarché par ex)

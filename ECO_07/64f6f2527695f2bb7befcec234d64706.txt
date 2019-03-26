@@ -1,1 +1,0 @@
-Fixer un prix tres bas pour une consommation de base a definir dans les domaines essentiels (electricite, eau, ordures menageres, transports, etc...) et augmenter le prix de maniere exponentielle au-dela.

@@ -1,1 +1,0 @@
-tarif du train au kilomètre et non à la tête du client  exemple sur ma ligne tarif de 0.308€ du kilomètre sur une autre ligne 0.171€ du kilomètre .pourquoi?

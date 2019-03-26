@@ -1,1 +1,0 @@
-Contrôle Electronique de la température. Chauffe eau solaire/

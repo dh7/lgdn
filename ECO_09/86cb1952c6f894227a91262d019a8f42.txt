@@ -1,1 +1,0 @@
-- Mettre en place une gestion locale de petites centrales thermiques avec couplage électricité/ chaleur

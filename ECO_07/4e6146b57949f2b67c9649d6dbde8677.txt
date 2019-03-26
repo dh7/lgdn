@@ -1,1 +1,0 @@
-Supprimer les voyages en avion inutiles des élus (tout voyage de moins de 500 kms doit être fait par train)

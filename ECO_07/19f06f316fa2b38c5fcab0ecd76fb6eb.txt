@@ -1,1 +1,0 @@
-Interdiction de chauffer quand la température est supérieure à 18°C et interdiction d'utiliser la climatisation quand la température est inférieure à 25°C.

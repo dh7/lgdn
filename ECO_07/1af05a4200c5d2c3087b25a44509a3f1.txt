@@ -1,1 +1,0 @@
-Mise à disposition d'un tri sélectif plus performant, en prenant exemple sur ce qui existe par ex. en Allemagne.

@@ -1,1 +1,0 @@
-Un diagnostic qui me permettrait de voir en combien de temps je peux amortir les dépenses d'isolation.

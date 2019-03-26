@@ -1,1 +1,0 @@
-simple : taxes pour envoyer un signal prix supportable : tout le reste

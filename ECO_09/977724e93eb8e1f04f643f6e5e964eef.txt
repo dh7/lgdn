@@ -1,1 +1,0 @@
-mis en place de panneaux solaire avec accumulateur pour restituer l’énergie  la nuit de mémé pour la production d'ECS eau chaude sanitaire

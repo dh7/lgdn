@@ -1,1 +1,0 @@
-Indiquer le temps de marche entre les différents quartiers d'une ville de plus de 10000 habitants.

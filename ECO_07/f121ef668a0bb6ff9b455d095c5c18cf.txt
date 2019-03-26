@@ -1,1 +1,0 @@
--taxer tous déchets non recyclable.  -créer une taxe poubelle qui serait remboursée en partie lorsque l'on apporte des déchets bien triés en déchètterie. Pas de remboursement sans déchets apportés (des gens nettoieront les déchets des autres pour se faire rembourser.)

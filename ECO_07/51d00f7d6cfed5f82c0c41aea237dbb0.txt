@@ -1,1 +1,0 @@
-moins de charges incompressibles en calculant selon  la consommation le montant des abonnements gaz électricité et eau.

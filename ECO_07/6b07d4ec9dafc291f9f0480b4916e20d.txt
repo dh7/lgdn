@@ -1,1 +1,0 @@
-Faire payer une taxe sur les déchets sur la base du poids de déchets produit par chacun. Plus on en produit, plus il faut payer.

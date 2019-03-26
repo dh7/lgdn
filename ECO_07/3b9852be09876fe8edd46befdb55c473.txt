@@ -1,1 +1,0 @@
-Paiements des déchets poubelle en fonction du poids de nos déchets.

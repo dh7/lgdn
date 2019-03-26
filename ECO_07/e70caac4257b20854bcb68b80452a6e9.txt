@@ -1,1 +1,0 @@
-modification du montant du CITE qui est différent selon le nombre de personnes au foyer ! que l'on soit 1 personne ou 2 personnes, le coût des travaux est le même et il est plus difficile pour une personne seule d'assumer toutes les charges (chauffage, électricité ...)

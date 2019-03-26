@@ -1,1 +1,0 @@
-Mettre en place un site internet qui permette à chaque citoyen de connaître son bilan écologique et qui lui fasse des propositions personnalisées et financièrement estimées (en intégrant les aides existantes éventuellement) pour l'améliorer ( logement, transports, consommation, etc...)

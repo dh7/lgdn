@@ -1,1 +1,0 @@
-Me montrer un tableau d'amortissement et me traiter le problème globalement (par exemple, opter pour une solution de chauffage plus écologique et économe c'est bien mais s'il y a des zones de déperdition, cela limite le succès de l'opération).

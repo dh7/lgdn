@@ -1,1 +1,0 @@
-Forcer les opérateurs type EDF à fournir des détails sur nos consommations électriques, chauffage, etc... pour qu'on puisse savoir comment mieux faire

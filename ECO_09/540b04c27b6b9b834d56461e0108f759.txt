@@ -1,1 +1,0 @@
-Individualiser la température de chaque pièce en fonction de son utilisation. Cela nécessite l'installation de thermostats d'ambiance, programmables sur chaque radiateur.

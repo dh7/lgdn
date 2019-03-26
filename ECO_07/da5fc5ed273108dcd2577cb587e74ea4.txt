@@ -1,1 +1,0 @@
-Le chauffage géothermique consomme de l'électricité : il faudrait le coupler à du solaire photovoltaïque (ou du petit éolien). Dans ce cas il serait inutile de passer par la conversion courant continu > 220 v en utilisant directement des moteurs à courant continu pour les compresseurs.

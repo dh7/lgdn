@@ -1,1 +1,0 @@
-Sortir tous les brevets qui sont dans des coffres, il y a forcément des solutions existante a développer

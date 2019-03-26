@@ -1,1 +1,0 @@
-mise en place de compteur individuel et d' un chauffage modulable par radiateur en cas de chauffage collectif

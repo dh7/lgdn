@@ -1,1 +1,0 @@
-- Moduler les taxes en fonctions du mode de chauffage: augmenter celles sur le mazout et réduire celles sur l'électricité. - Fermer les centrales à charbon.

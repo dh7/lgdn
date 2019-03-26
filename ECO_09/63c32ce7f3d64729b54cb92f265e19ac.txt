@@ -1,1 +1,0 @@
-Simplifier et augmenter les aides : cela ne devrait pas induire une démarche supplémentaire de la part du client ( ex : chercher des aides, les réclamer à une administration.... ). Ces dernières devraient être déduites automatiquement de la facture payés à l'entreprise, avec en sus une TVA à 0%.

@@ -1,1 +1,0 @@
-Prendre en compte le statut des locataires qui ne peuvent imposer cela à leur propriétaire (c'est le cas).

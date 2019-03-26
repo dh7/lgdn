@@ -1,1 +1,0 @@
-revoir le calcul de la taxe sur les ordures ménagères , prendre en compte le nombre d'habitant par logement plutôt que la superficie du logement

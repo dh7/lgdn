@@ -1,1 +1,0 @@
-Il faut pouvoir se déplacer avec des véhicules propres au travers de l'hexagone en allant d'un relais véhicule propre à un autre, comme autrefois les relais de chevaux.

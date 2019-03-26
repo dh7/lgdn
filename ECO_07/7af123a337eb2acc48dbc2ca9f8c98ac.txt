@@ -1,1 +1,0 @@
-simplifier le tri et le ramassage des déchets en maintenant le porte à porte.

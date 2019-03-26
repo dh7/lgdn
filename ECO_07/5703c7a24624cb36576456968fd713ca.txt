@@ -1,1 +1,0 @@
-controler l'arrêt des voitures garées ou plutôt posées sur la voie de circulation.

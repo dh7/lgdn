@@ -1,1 +1,0 @@
-mise en place d'un interrupteur général qui permettrait d’éteindre tous les appareils en veille en un seul coup. mise en place de panneau solaire

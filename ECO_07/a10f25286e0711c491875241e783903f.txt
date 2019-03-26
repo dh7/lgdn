@@ -1,1 +1,0 @@
-Il faut afficher sur les factures ce que représente en CO2 l'objet ou la prestation que l'on achète: fabrication de l'objet et son transport

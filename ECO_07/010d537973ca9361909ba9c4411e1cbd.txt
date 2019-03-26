@@ -1,1 +1,0 @@
-- Augmenter les taxes sur les transports et les diminuer sur la production de manière à ce que la résultante de ces 2 mesures soit neutre pour le consommateur final qui pourrait donc favoriser l'offre locale sans se pénaliser lui-même financièrement.
