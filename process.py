@@ -30,6 +30,13 @@ print (prefix)
 
 import os
 try:
+    os.mkdir('./data')
+except OSError:
+    print ("Creation of the directory failed")
+else:
+    print ("Successfully created the directory")
+
+try:
     os.mkdir('./data/'+prefix)
 except OSError:
     print ("Creation of the directory failed")
@@ -130,9 +137,12 @@ for i, reply in enumerate(answers_limited):
             v = answers_dict[h]
             answers_list.append((h,q_id,a,v))
         else:
-            v = encode(a)
-            answers_dict[h] = v
-            answers_list.append((h,q_id,a,v))
+            try:
+                v = encode(a)
+                answers_dict[h] = v
+                answers_list.append((h,q_id,a,v))
+            except:
+                print ('error with line',i,a)
     if i%100 == 0:
         print(i, 'cache', len(cache_dict))        
 
@@ -184,7 +194,6 @@ import umap
 time_start = time.time()
 umap_ = umap.UMAP(
         n_neighbors=100,
-        min_dist=0.5,
         verbose=True)
 embedding = umap_.fit_transform(normalized)
 print('umap done! Time elapsed: {} seconds'.format(time.time()-time_start))
@@ -208,7 +217,7 @@ with open('./{}/data.json'.format(prefix),'w') as file:
     json.dump(new_list, file)
 
 
-with open('./{}/data.csv'.format(prefix),'w') as file:
+with open('./data/{}/data.csv'.format(prefix),'w') as file:
     file.write('md5,c,q_id,x,y\n')
     for i, md5 in enumerate(h_list):
         line = md5 + ','
