@@ -70,35 +70,43 @@ limitations under the License.
     }
 
     showTooltip = false
+    isFetching = false
 
     function setTooltip(object, x, y) {
       const el = document.getElementById('tooltip');
+      console.log('t',showTooltip,'f',isFetching)
       if (object) {
-        showTooltip = true
-        console.log(x +' ' + y)
-        el.style.left = x+10;
-        el.style.top = y-10;
-        fetch('https://storage.googleapis.com/lgdn/'+ prefix + '/' + object.h+'.txt')
-        //fetch('./'+ prefix + '/' + object.h+'.txt')
-          .then(function(response) {
-            return response.text()
-          })
-          .then(text => {
-            if (showTooltip) {
-              el.style.visibility = 'visible';
-              el.style.display = 'block';
-              el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
-              console.log(text.substring(0,20))
-            }
-          })
-          .catch(err => {
-            console.log(err)
-          })
+        if (isFetching == false) {
+          showTooltip = true
+          //console.log(x +' ' + y)
+          el.style.left = x+10;
+          el.style.top = y-10;
+          isFetching = true
+          fetch('https://storage.googleapis.com/lgdn-eu/'+ prefix + '/' + object.h+'.txt')
+          //fetch('./'+ prefix + '/' + object.h+'.txt')
+            .then(function(response) {
+              return response.text()
+            })
+            .then(text => {
+              if (showTooltip) {
+                el.style.visibility = 'visible';
+                el.style.display = 'block';
+                el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+                //console.log(text.substring(0,20))
+                isFetching = false
+              }
+            })
+            .catch(err => {
+              isFetching = false
+              console.log(err)
+            })
+          }
         } else {
-          console.log('none',x +' ' + y)
+          //console.log('none',x +' ' + y)
           el.style.display = 'none';
           showTooltip = false
           el.innerHTML = ''
+          isFetching = false
       }
     }
 
@@ -113,7 +121,7 @@ limitations under the License.
           data: prefix + '/' + 'data.json',
           opacity: 0.1,
           pickable: true,
-          radiusScale: 2000,
+          radiusScale: 1000,
           radiusMinPixels: 5,
           getPosition: d => [d.x*2, d.y*2, 0],
           getColor: d => color(d),
