@@ -23,11 +23,11 @@
       }
 
       .sidenav a {
-        cursor:pointer
+        cursor:pointer;
         padding: 8px 8px 8px 32px;
         text-decoration: none;
         font-size: 25px;
-        color: #111;
+        color: #222;
         display: block;
         transition: 0.5s;
       }
@@ -47,7 +47,7 @@
       .main {
         padding: 0px 0px 0px 0px;
         color: #111;
-        background-color: #EEE;
+        background-color: #FFF;
         top: 0;
         right: 0px;
         font-size: 20px;
@@ -55,6 +55,25 @@
         overflow: hidden;
         height: 100%;
         width: 100%
+      }
+
+      li {
+        font-size: 25px;
+      }
+
+      #container {
+        width: 100%;
+        height: 100%;
+        position: relative;
+      }
+      #question-title {
+        background-color: rgba(255,255,255,0.5);
+        width: 100%;
+        //height: 100px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 10;
       }
 
       h1 {
@@ -79,119 +98,410 @@
     </style>
   </head>
   <body>
-
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-     <h2>La transition &eacute;cologique</h2><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_00"target="dataviz" onclick="closeNav()">Quel est aujourd'hui pour vous le problème concret le plus important dans le domaine de l'environnement ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_01"target="dataviz" onclick="closeNav()">Que faudrait-il faire selon vous pour apporter des réponses à ce problème ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_02"target="dataviz" onclick="closeNav()">Diriez-vous que votre vie quotidienne est aujourd'hui touchée par le changement climatique ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_03"target="dataviz" onclick="closeNav()">Si oui, de quelle manière votre vie quotidienne est-elle touchée par le changement climatique ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_04"target="dataviz" onclick="closeNav()">À titre personnel, pensez-vous pouvoir contribuer à protéger l'environnement ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_05"target="dataviz" onclick="closeNav()">Si oui, que faites-vous aujourd'hui pour protéger l'environnement et/ou que pourriez-vous faire ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_06"target="dataviz" onclick="closeNav()">Qu'est-ce qui pourrait vous inciter à changer vos comportements comme par exemple mieux entretenir et régler votre chauffage, modifier votre manière de conduire ou renoncer à prendre votre véhicule pour de très petites distances ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_07"target="dataviz" onclick="closeNav()">Quelles seraient pour vous les solutions les plus simples et les plus supportables sur un plan financier pour vous inciter à changer vos comportements ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_08"target="dataviz" onclick="closeNav()">Par rapport à votre mode de chauffage actuel, pensez-vous qu'il existe des solutions alternatives plus écologiques ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_09"target="dataviz" onclick="closeNav()">Si oui, que faudrait-il faire pour vous convaincre ou vous aider à changer de mode de chauffage ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_10"target="dataviz" onclick="closeNav()">Avez-vous pour vos déplacements quotidiens la possibilité de recourir à des solutions de mobilité alternatives à la voiture individuelle comme les transports en commun, le covoiturage, l'auto-partage, le transport à la demande, le vélo, etc. ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_11"target="dataviz" onclick="closeNav()">Si oui, que faudrait-il faire pour vous convaincre ou vous aider à utiliser ces solutions alternatives ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_12"target="dataviz" onclick="closeNav()">Si non, quelles sont les solutions de mobilité alternatives que vous souhaiteriez pouvoir utiliser ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_13"target="dataviz" onclick="closeNav()">Et qui doit selon vous se charger de vous proposer ce type de solutions alternatives ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_14"target="dataviz" onclick="closeNav()">Que pourrait faire la France pour faire partager ses choix en matière d'environnement au niveau européen et international ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_15"target="dataviz" onclick="closeNav()">Y a-t-il d'autres points sur la transition écologique sur lesquels vous souhaiteriez vous exprimer ?</a>
-     <h2>La fiscalité et les dépenses publiques</h2><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_00"target="dataviz" onclick="closeNav()">Quelles sont toutes les choses qui pourraient être faites pour améliorer l'information des citoyens sur l'utilisation des impôts ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_01"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour rendre la fiscalité plus juste et plus efficace ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_02"target="dataviz" onclick="closeNav()">Quels sont selon vous les impôts qu'il faut baisser en priorité ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_03"target="dataviz" onclick="closeNav()">Afin de financer les dépenses sociales, faut-il selon vous...</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_04"target="dataviz" onclick="closeNav()">S'il faut selon vous revoir les conditions d'attribution de certaines aides sociales, lesquelles doivent être concernées ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_05"target="dataviz" onclick="closeNav()">Quels sont les domaines prioritaires où notre protection sociale doit être renforcée ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_06"target="dataviz" onclick="closeNav()">Pour quelle(s) politique(s) publique(s) ou pour quels domaines d'action publique, seriez-vous prêts à payer plus d'impôts ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_07"target="dataviz" onclick="closeNav()">Y a-t-il d'autres points sur les impôts et les dépenses sur lesquels vous souhaiteriez vous exprimer ?</a>
-     <h2>La démocratie et la citoyenneté</h2><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_00"target="dataviz" onclick="closeNav()">En qui faites-vous le plus confiance pour vous faire représenter dans la société et pourquoi ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_01"target="dataviz" onclick="closeNav()">En dehors des élus politiques, faut-il donner un rôle plus important aux associations et aux organisations syndicales et professionnelles ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_02"target="dataviz" onclick="closeNav()">Si oui, à quel type d'associations ou d'organisations ? Et avec quel rôle ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_03"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour renouer le lien entre les citoyens et les élus qui les représentent ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_04"target="dataviz" onclick="closeNav()">Le non-cumul des mandats instauré en 2017 pour les parlementaires (députés et sénateurs) est :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_05"target="dataviz" onclick="closeNav()">Pourquoi ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_06"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour mieux représenter les différentes sensibilités politiques ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_07"target="dataviz" onclick="closeNav()">Pensez-vous qu'il serait souhaitable de réduire le nombre d'élus (hors députés et sénateurs) ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_08"target="dataviz" onclick="closeNav()">Si oui, lesquels ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_09"target="dataviz" onclick="closeNav()">Que pensez-vous de la participation des citoyens aux élections et comment les inciter à y participer davantage ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_10"target="dataviz" onclick="closeNav()">Faut-il prendre en compte le vote blanc ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_11"target="dataviz" onclick="closeNav()">Si oui, de quelle manière ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_12"target="dataviz" onclick="closeNav()">Que faudrait-il faire aujourd'hui pour mieux associer les citoyens aux grandes orientations et à la décision publique ? Comment mettre en place une démocratie plus participative ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_13"target="dataviz" onclick="closeNav()">Faut-il faciliter le déclenchement du référendum d'initiative partagée (le RIP est organisé à l'initiative de membres du Parlement soutenu par une partie du corps électoral) qui est applicable depuis 2015 ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_14"target="dataviz" onclick="closeNav()">Si oui, comment ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_15"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour consulter plus directement les citoyens sur l'utilisation de l'argent public, par l'Etat et les collectivités ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_16"target="dataviz" onclick="closeNav()">Quel rôle nos assemblées, dont le Sénat et le Conseil économique, social et environnemental, doivent-elles jouer pour représenter nos territoires et la société civile ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_17"target="dataviz" onclick="closeNav()">Faut-il les transformer ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_18"target="dataviz" onclick="closeNav()">Si oui, comment ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_19"target="dataviz" onclick="closeNav()">Que proposez-vous pour renforcer les principes de la laïcité dans le rapport entre l'Etat et les religions de notre pays ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_20"target="dataviz" onclick="closeNav()">Comment garantir le respect par tous de la compréhension réciproque et des valeurs intangibles de la République ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_21"target="dataviz" onclick="closeNav()">Que faudrait-il faire aujourd'hui pour renforcer l'engagement citoyen dans la société ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_22"target="dataviz" onclick="closeNav()">Quels sont les comportements civiques qu'il faut promouvoir dans notre vie quotidienne ou collective ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_23"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour favoriser le développement de ces comportements civiques et par quels engagements concrets chacun peut-il y participer ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_24"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour valoriser l'engagement citoyen dans les parcours de vie, dans les relations avec l'administration et les pouvoirs publics ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_25"target="dataviz" onclick="closeNav()">Quelles sont les incivilités les plus pénibles dans la vie quotidienne et que faudrait-il faire pour lutter contre ces incivilités ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_26"target="dataviz" onclick="closeNav()">Que peuvent et doivent faire les pouvoirs publics pour répondre aux incivilités ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_27"target="dataviz" onclick="closeNav()">Quel pourrait être le rôle de chacun pour faire reculer les incivilités dans la société ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_28"target="dataviz" onclick="closeNav()">Quelles sont les discriminations les plus répandues dont vous êtes témoin ou victime ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_29"target="dataviz" onclick="closeNav()">Que faudrait-il faire pour lutter contre ces discriminations et construire une société plus solidaire et plus tolérante ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_30"target="dataviz" onclick="closeNav()">Pensez-vous qu'il faille instaurer des contreparties aux différentes allocations de solidarité ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_31"target="dataviz" onclick="closeNav()">Si oui, lesquelles ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_32"target="dataviz" onclick="closeNav()">Que pensez-vous de la situation de l'immigration en France aujourd'hui et de la politique migratoire ? Quelles sont, selon vous, les critères à mettre en place pour définir la politique migratoire ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_33"target="dataviz" onclick="closeNav()">En matière d'immigration, une fois nos obligations d'asile remplies, souhaitez-vous que nous puissions nous fixer des objectifs annuels définis par le Parlement ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_34"target="dataviz" onclick="closeNav()">Que proposez-vous afin de répondre à ce défi qui va durer ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_35"target="dataviz" onclick="closeNav()">Quelles sont, selon vous, les modalités d'intégration les plus efficaces et les plus justes à mettre en place aujourd'hui dans la société ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_36"target="dataviz" onclick="closeNav()">Y a-t-il d'autres points sur la démocratie et la citoyenneté sur lesquels vous souhaiteriez vous exprimer ?</a>
-     <h2>L'organisation de l'État et des services publics</h2><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_00"target="dataviz" onclick="closeNav()">Que pensez-vous de l'organisation de l'Etat et des administrations en France ? De quelle manière cette organisation devrait-elle évoluer ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_01"target="dataviz" onclick="closeNav()">Selon vous, l'Etat doit-il aujourd'hui transférer de nouvelles missions aux collectivités territoriales ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_02"target="dataviz" onclick="closeNav()">Si oui, lesquelles ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_03"target="dataviz" onclick="closeNav()">Estimez-vous avoir accès aux services publics dont vous avez besoin ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_04"target="dataviz" onclick="closeNav()">Si non, quels types de services publics vous manquent dans votre territoire et qu'il est nécessaire de renforcer ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_05"target="dataviz" onclick="closeNav()">Quels nouveaux services ou quelles démarches souhaitez-vous voir développées sur Internet en priorité ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_06"target="dataviz" onclick="closeNav()">Avez-vous déjà utilisé certaines de ces nouvelles formes de services publics ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_07"target="dataviz" onclick="closeNav()">Si oui, en avez-vous été satisfait ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_08"target="dataviz" onclick="closeNav()">Quelles améliorations préconiseriez-vous ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_09"target="dataviz" onclick="closeNav()">Quand vous pensez à l'évolution des services publics au cours des dernières années, quels sont ceux qui ont évolué de manière positive ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_10"target="dataviz" onclick="closeNav()">Quels sont les services publics qui doivent le plus évoluer selon vous ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_11"target="dataviz" onclick="closeNav()">Connaissez-vous le "droit à l'erreur", c'est-à-dire le droit d'affirmer votre bonne foi lorsque vous faites un erreur dans vos déclarations ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_12"target="dataviz" onclick="closeNav()">Si oui, avez-vous déjà utilisé ce droit à l'erreur ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_13"target="dataviz" onclick="closeNav()">Si oui, à quelle occasion en avez-vous fait usage ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_14"target="dataviz" onclick="closeNav()">Pouvez-vous identifier des règles que l'administration vous a déjà demandé d'appliquer et que vous avez jugées inutiles ou trop complexes ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_15"target="dataviz" onclick="closeNav()">Faut-il donner plus d'autonomie aux fonctionnaires de terrain ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_16"target="dataviz" onclick="closeNav()">Si oui, comment ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_17"target="dataviz" onclick="closeNav()">Faut-il revoir le fonctionnement et la formation de l'administration ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_18"target="dataviz" onclick="closeNav()">Si oui, comment ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_19"target="dataviz" onclick="closeNav()">Comment l'Etat et les collectivités territoriales peuvent-ils s'améliorer pour mieux répondre aux défis de nos territoires les plus en difficulté ?</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_20"target="dataviz" onclick="closeNav()">Si vous avez été amené à chercher une formation, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_21"target="dataviz" onclick="closeNav()">Si vous avez été amené à scolariser votre enfant, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_22"target="dataviz" onclick="closeNav()">Si vous avez été amené à chercher un emploi, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_23"target="dataviz" onclick="closeNav()">Si vous avez été amené à préparer votre retraite, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_24"target="dataviz" onclick="closeNav()">Si vous avez été amené à demander un remboursement de soins de santé, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_25"target="dataviz" onclick="closeNav()">Si vous avez été amené à faire une demande d'aide pour une situation de handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_26"target="dataviz" onclick="closeNav()">Si vous avez été amené à créer une entreprise, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_27"target="dataviz" onclick="closeNav()">Si vous avez été amené à recruter du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_28"target="dataviz" onclick="closeNav()">Si vous avez été amené à former du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_29"target="dataviz" onclick="closeNav()">Si vous avez été amené à rémunérer du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_30"target="dataviz" onclick="closeNav()">Si vous avez été amené à mettre fin à votre activité, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_31"target="dataviz" onclick="closeNav()">Si vous avez été amené à recruter une personne portant un handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :</a>
-     <a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_32"target="dataviz" onclick="closeNav()">Y a-t-il d'autres points sur l'organisation de l'Etat et des services publics sur lesquels vous souhaiteriez vous exprimer ?</a>
 
-</div>
-    <div onclick="openNav()" class="main">
-      <h1>&#9776; Toutes les questions et r&eacute;ponses du grand d&eacute;bat national</h1>
+<h2>La transition &eacute;cologique</h2><ul><li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_00"
+ target="dataviz" onclick="closeNav(this)")>
+Quel est aujourd'hui pour vous le problème concret le plus important dans le domaine de l'environnement ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_01"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire selon vous pour apporter des réponses à ce problème ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_02"
+ target="dataviz" onclick="closeNav(this)")>
+Diriez-vous que votre vie quotidienne est aujourd'hui touchée par le changement climatique ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_03"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, de quelle manière votre vie quotidienne est-elle touchée par le changement climatique ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_04"
+ target="dataviz" onclick="closeNav(this)")>
+À titre personnel, pensez-vous pouvoir contribuer à protéger l'environnement ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_05"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, que faites-vous aujourd'hui pour protéger l'environnement et/ou que pourriez-vous faire ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_06"
+ target="dataviz" onclick="closeNav(this)")>
+Qu'est-ce qui pourrait vous inciter à changer vos comportements comme par exemple mieux entretenir et régler votre chauffage, modifier votre manière de conduire ou renoncer à prendre votre véhicule pour de très petites distances ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_07"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles seraient pour vous les solutions les plus simples et les plus supportables sur un plan financier pour vous inciter à changer vos comportements ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_08"
+ target="dataviz" onclick="closeNav(this)")>
+Par rapport à votre mode de chauffage actuel, pensez-vous qu'il existe des solutions alternatives plus écologiques ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_09"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, que faudrait-il faire pour vous convaincre ou vous aider à changer de mode de chauffage ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_10"
+ target="dataviz" onclick="closeNav(this)")>
+Avez-vous pour vos déplacements quotidiens la possibilité de recourir à des solutions de mobilité alternatives à la voiture individuelle comme les transports en commun, le covoiturage, l'auto-partage, le transport à la demande, le vélo, etc. ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_11"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, que faudrait-il faire pour vous convaincre ou vous aider à utiliser ces solutions alternatives ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_12"
+ target="dataviz" onclick="closeNav(this)")>
+Si non, quelles sont les solutions de mobilité alternatives que vous souhaiteriez pouvoir utiliser ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_13"
+ target="dataviz" onclick="closeNav(this)")>
+Et qui doit selon vous se charger de vous proposer ce type de solutions alternatives ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_14"
+ target="dataviz" onclick="closeNav(this)")>
+Que pourrait faire la France pour faire partager ses choix en matière d'environnement au niveau européen et international ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ECO_15"
+ target="dataviz" onclick="closeNav(this)")>
+Y a-t-il d'autres points sur la transition écologique sur lesquels vous souhaiteriez vous exprimer ?
+</a></li>
+</ul><h2>La fiscalité et les dépenses publiques</h2><li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_00"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles sont toutes les choses qui pourraient être faites pour améliorer l'information des citoyens sur l'utilisation des impôts ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_01"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour rendre la fiscalité plus juste et plus efficace ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_02"
+ target="dataviz" onclick="closeNav(this)")>
+Quels sont selon vous les impôts qu'il faut baisser en priorité ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_03"
+ target="dataviz" onclick="closeNav(this)")>
+Afin de financer les dépenses sociales, faut-il selon vous...
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_04"
+ target="dataviz" onclick="closeNav(this)")>
+S'il faut selon vous revoir les conditions d'attribution de certaines aides sociales, lesquelles doivent être concernées ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_05"
+ target="dataviz" onclick="closeNav(this)")>
+Quels sont les domaines prioritaires où notre protection sociale doit être renforcée ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_06"
+ target="dataviz" onclick="closeNav(this)")>
+Pour quelle(s) politique(s) publique(s) ou pour quels domaines d'action publique, seriez-vous prêts à payer plus d'impôts ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=FIS_07"
+ target="dataviz" onclick="closeNav(this)")>
+Y a-t-il d'autres points sur les impôts et les dépenses sur lesquels vous souhaiteriez vous exprimer ?
+</a></li>
+</ul><h2>La démocratie et la citoyenneté</h2><li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_00"
+ target="dataviz" onclick="closeNav(this)")>
+En qui faites-vous le plus confiance pour vous faire représenter dans la société et pourquoi ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_01"
+ target="dataviz" onclick="closeNav(this)")>
+En dehors des élus politiques, faut-il donner un rôle plus important aux associations et aux organisations syndicales et professionnelles ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_02"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, à quel type d'associations ou d'organisations ? Et avec quel rôle ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_03"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour renouer le lien entre les citoyens et les élus qui les représentent ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_04"
+ target="dataviz" onclick="closeNav(this)")>
+Le non-cumul des mandats instauré en 2017 pour les parlementaires (députés et sénateurs) est :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_05"
+ target="dataviz" onclick="closeNav(this)")>
+Pourquoi ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_06"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour mieux représenter les différentes sensibilités politiques ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_07"
+ target="dataviz" onclick="closeNav(this)")>
+Pensez-vous qu'il serait souhaitable de réduire le nombre d'élus (hors députés et sénateurs) ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_08"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, lesquels ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_09"
+ target="dataviz" onclick="closeNav(this)")>
+Que pensez-vous de la participation des citoyens aux élections et comment les inciter à y participer davantage ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_10"
+ target="dataviz" onclick="closeNav(this)")>
+Faut-il prendre en compte le vote blanc ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_11"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, de quelle manière ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_12"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire aujourd'hui pour mieux associer les citoyens aux grandes orientations et à la décision publique ? Comment mettre en place une démocratie plus participative ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_13"
+ target="dataviz" onclick="closeNav(this)")>
+Faut-il faciliter le déclenchement du référendum d'initiative partagée (le RIP est organisé à l'initiative de membres du Parlement soutenu par une partie du corps électoral) qui est applicable depuis 2015 ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_14"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, comment ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_15"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour consulter plus directement les citoyens sur l'utilisation de l'argent public, par l'Etat et les collectivités ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_16"
+ target="dataviz" onclick="closeNav(this)")>
+Quel rôle nos assemblées, dont le Sénat et le Conseil économique, social et environnemental, doivent-elles jouer pour représenter nos territoires et la société civile ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_17"
+ target="dataviz" onclick="closeNav(this)")>
+Faut-il les transformer ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_18"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, comment ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_19"
+ target="dataviz" onclick="closeNav(this)")>
+Que proposez-vous pour renforcer les principes de la laïcité dans le rapport entre l'Etat et les religions de notre pays ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_20"
+ target="dataviz" onclick="closeNav(this)")>
+Comment garantir le respect par tous de la compréhension réciproque et des valeurs intangibles de la République ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_21"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire aujourd'hui pour renforcer l'engagement citoyen dans la société ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_22"
+ target="dataviz" onclick="closeNav(this)")>
+Quels sont les comportements civiques qu'il faut promouvoir dans notre vie quotidienne ou collective ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_23"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour favoriser le développement de ces comportements civiques et par quels engagements concrets chacun peut-il y participer ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_24"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour valoriser l'engagement citoyen dans les parcours de vie, dans les relations avec l'administration et les pouvoirs publics ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_25"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles sont les incivilités les plus pénibles dans la vie quotidienne et que faudrait-il faire pour lutter contre ces incivilités ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_26"
+ target="dataviz" onclick="closeNav(this)")>
+Que peuvent et doivent faire les pouvoirs publics pour répondre aux incivilités ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_27"
+ target="dataviz" onclick="closeNav(this)")>
+Quel pourrait être le rôle de chacun pour faire reculer les incivilités dans la société ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_28"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles sont les discriminations les plus répandues dont vous êtes témoin ou victime ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_29"
+ target="dataviz" onclick="closeNav(this)")>
+Que faudrait-il faire pour lutter contre ces discriminations et construire une société plus solidaire et plus tolérante ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_30"
+ target="dataviz" onclick="closeNav(this)")>
+Pensez-vous qu'il faille instaurer des contreparties aux différentes allocations de solidarité ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_31"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, lesquelles ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_32"
+ target="dataviz" onclick="closeNav(this)")>
+Que pensez-vous de la situation de l'immigration en France aujourd'hui et de la politique migratoire ? Quelles sont, selon vous, les critères à mettre en place pour définir la politique migratoire ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_33"
+ target="dataviz" onclick="closeNav(this)")>
+En matière d'immigration, une fois nos obligations d'asile remplies, souhaitez-vous que nous puissions nous fixer des objectifs annuels définis par le Parlement ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_34"
+ target="dataviz" onclick="closeNav(this)")>
+Que proposez-vous afin de répondre à ce défi qui va durer ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_35"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles sont, selon vous, les modalités d'intégration les plus efficaces et les plus justes à mettre en place aujourd'hui dans la société ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=DEM_36"
+ target="dataviz" onclick="closeNav(this)")>
+Y a-t-il d'autres points sur la démocratie et la citoyenneté sur lesquels vous souhaiteriez vous exprimer ?
+</a></li>
+</ul><h2>L'organisation de l'État et des services publics</h2><li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_00"
+ target="dataviz" onclick="closeNav(this)")>
+Que pensez-vous de l'organisation de l'Etat et des administrations en France ? De quelle manière cette organisation devrait-elle évoluer ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_01"
+ target="dataviz" onclick="closeNav(this)")>
+Selon vous, l'Etat doit-il aujourd'hui transférer de nouvelles missions aux collectivités territoriales ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_02"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, lesquelles ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_03"
+ target="dataviz" onclick="closeNav(this)")>
+Estimez-vous avoir accès aux services publics dont vous avez besoin ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_04"
+ target="dataviz" onclick="closeNav(this)")>
+Si non, quels types de services publics vous manquent dans votre territoire et qu'il est nécessaire de renforcer ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_05"
+ target="dataviz" onclick="closeNav(this)")>
+Quels nouveaux services ou quelles démarches souhaitez-vous voir développées sur Internet en priorité ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_06"
+ target="dataviz" onclick="closeNav(this)")>
+Avez-vous déjà utilisé certaines de ces nouvelles formes de services publics ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_07"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, en avez-vous été satisfait ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_08"
+ target="dataviz" onclick="closeNav(this)")>
+Quelles améliorations préconiseriez-vous ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_09"
+ target="dataviz" onclick="closeNav(this)")>
+Quand vous pensez à l'évolution des services publics au cours des dernières années, quels sont ceux qui ont évolué de manière positive ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_10"
+ target="dataviz" onclick="closeNav(this)")>
+Quels sont les services publics qui doivent le plus évoluer selon vous ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_11"
+ target="dataviz" onclick="closeNav(this)")>
+Connaissez-vous le "droit à l'erreur", c'est-à-dire le droit d'affirmer votre bonne foi lorsque vous faites un erreur dans vos déclarations ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_12"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, avez-vous déjà utilisé ce droit à l'erreur ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_13"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, à quelle occasion en avez-vous fait usage ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_14"
+ target="dataviz" onclick="closeNav(this)")>
+Pouvez-vous identifier des règles que l'administration vous a déjà demandé d'appliquer et que vous avez jugées inutiles ou trop complexes ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_15"
+ target="dataviz" onclick="closeNav(this)")>
+Faut-il donner plus d'autonomie aux fonctionnaires de terrain ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_16"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, comment ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_17"
+ target="dataviz" onclick="closeNav(this)")>
+Faut-il revoir le fonctionnement et la formation de l'administration ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_18"
+ target="dataviz" onclick="closeNav(this)")>
+Si oui, comment ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_19"
+ target="dataviz" onclick="closeNav(this)")>
+Comment l'Etat et les collectivités territoriales peuvent-ils s'améliorer pour mieux répondre aux défis de nos territoires les plus en difficulté ?
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_20"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à chercher une formation, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_21"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à scolariser votre enfant, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_22"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à chercher un emploi, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_23"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à préparer votre retraite, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_24"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à demander un remboursement de soins de santé, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_25"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à faire une demande d'aide pour une situation de handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_26"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à créer une entreprise, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_27"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à recruter du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_28"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à former du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_29"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à rémunérer du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_30"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à mettre fin à votre activité, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_31"
+ target="dataviz" onclick="closeNav(this)")>
+Si vous avez été amené à recruter une personne portant un handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+</a></li>
+<li><a href="https://storage.googleapis.com/lgdn-eu/dataviz.html?prefix=ORG_32"
+ target="dataviz" onclick="closeNav(this)")>
+Y a-t-il d'autres points sur l'organisation de l'Etat et des services publics sur lesquels vous souhaiteriez vous exprimer ?
+</a></li>
+</ul>
+    </div>
+<div class="main">
+  <div id="question-title" onclick="openNav()">
+      <h1><span>&#9776;</span>
+        <span id="question" >
+          Toutes les questions et r&eacute;ponses du grand d&eacute;bat national
+      </span></h1>
+  </div>
+  <div id="container">
       <iframe name="dataviz"
         frameborder="0"
         style="overflow:hidden;height:100%;width:100%"
         height="100%" width="100%"
         src="./dataviz.html?prefix=ECO_01">
       </iframe>
+</div>
       <script>
         function openNav() {
           document.getElementById("mySidenav").style.width = "100%";
+          document.getElementById("question").textContent = "Choisissez une question:";
         }
-        function closeNav() {
+        function closeNav(object) {
           document.getElementById("mySidenav").style.width = "0";
+          document.getElementById("question").textContent = object.textContent;
         }
       </script>
     </div>
