@@ -124,7 +124,7 @@ limitations under the License.
           pickable: true,
           radiusScale: 1000,
           radiusMinPixels: 5,
-          getPosition: d => [d.x*2, d.y*2, 0],
+          getPosition: d => [d.x, d.y, 0],
           getColor: d => color(d),
           onHover: d => setTooltip(d.object, d.x, d.y)
         })
