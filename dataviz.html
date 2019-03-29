@@ -22,7 +22,7 @@ limitations under the License.
         width: 100vw;
         height: 100vh;
         margin: 0;
-        background: #EEE;
+        background: #FFF;
         position: fixed;
         overflow-y:scroll;
         overflow: hidden;
@@ -74,7 +74,7 @@ limitations under the License.
 
     function setTooltip(object, x, y) {
       const el = document.getElementById('tooltip');
-      console.log('t',showTooltip,'f',isFetching)
+      //console.log('t',showTooltip,'f',isFetching)
       if (object) {
         if (isFetching == false) {
           showTooltip = true
@@ -91,7 +91,8 @@ limitations under the License.
               if (showTooltip) {
                 el.style.visibility = 'visible';
                 el.style.display = 'block';
-                el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+                //el.innerHTML = '<b>' + questions[object.q] +'</b><br>'+ text
+                el.innerHTML = text
                 //console.log(text.substring(0,20))
                 isFetching = false
               }
