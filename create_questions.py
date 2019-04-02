@@ -29,5 +29,5 @@ html += u"<h2>L'organisation de l'État et des services publics</h2><ul>"
 create_question('ORG')
 html += '</ul>'
 
-with codecs.open('questions.html','w','utf8') as file:
+with codecs.open('questions.html','w',encoding='utf-8') as file:
     file.write(html)
