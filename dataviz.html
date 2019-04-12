@@ -19,6 +19,7 @@ limitations under the License.
     <script src="https://unpkg.com/deck.gl@^6.0.0/deckgl.min.js"></script>
     <style type="text/css">
       body {
+        font-family: "Palatino", serif;
         width: 100vw;
         height: 100vh;
         margin: 0;
@@ -30,7 +31,6 @@ limitations under the License.
       .tip {
         line-height: 1;
         font-size: small;
-        font-family: 'arial';
         padding: 12px;
         visibility: hidden;
         background-color: rgba(255, 255, 255, 0.6);
@@ -39,11 +39,22 @@ limitations under the License.
         position: absolute; z-index: 1;
         pointer-events: none;
       }
+      .loader {
+        width: 100vw;
+        height: 100vh;
+        line-height: 100vh;
+        font-size: 30;
+        color: #F00;
+        pointer-events: none;
+        vertical-align: middle;
+      }
+
     </style>
   </head>
 
   <body>
     <div id="tooltip" class="tip"></div>
+    <div id="loading" class="loader">Chargement des données en cours, soyez patient.</div>
     <canvas id="deck-canvas"></canvas>
   </body>
 
@@ -111,25 +122,38 @@ limitations under the License.
       }
     }
 
-    new DeckGL({
-      longitude: 0,
-      latitude: 0,
-      zoom: 3,
-      maxZoom: 5,
-      layers: [
-        new ScatterplotLayer({
-          id: 'scatter-plot',
-          data: prefix + '/' + 'data.json',
-          opacity: 0.1,
-          pickable: true,
-          radiusScale: 500,
-          radiusMinPixels: 5,
-          getPosition: d => [d.x, d.y, 0],
-          getColor: d => color(d),
-          onHover: d => setTooltip(d.object, d.x, d.y)
-        })
-      ]
-    });
+
+    fetch(prefix + '/' + 'data.json')
+      .then(function(response) {
+        return response.json()
+      })
+      .then(json => {
+        const ell = document.getElementById('loading');
+        ell.style.display = 'none';
+        new DeckGL({
+          longitude: 0,
+          latitude: 0,
+          zoom: 3,
+          maxZoom: 5,
+          layers: [
+            new ScatterplotLayer({
+              id: 'scatter-plot',
+              data: json,
+              opacity: 0.1,
+              pickable: true,
+              radiusScale: 500,
+              radiusMinPixels: 5,
+              getPosition: d => [d.x, d.y, 0],
+              getColor: d => color(d),
+              onHover: d => setTooltip(d.object, d.x, d.y)
+            })
+          ]
+        });
+      })
+      .catch(err => {
+        isFetching = false
+        console.log(err)
+      })
 
   </script>
 </html>
